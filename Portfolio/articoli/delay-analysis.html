@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Umano vs AI nella Root Cause Analysis — Gabriele Albanese</title>
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <style>
+    .analysis-finding {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 44px;
+      align-items: start;
+      margin: 48px 0;
+    }
+    .analysis-finding-label {
+      font-size: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #0E7490;
+      margin-bottom: 10px;
+    }
+    .analysis-finding-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 14px;
+      line-height: 1.35;
+    }
+    .analysis-finding-body {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.78;
+    }
+    .analysis-finding-body p { margin-bottom: 10px; }
+    .analysis-finding-body ul { padding-left: 18px; margin: 4px 0 10px; }
+    .analysis-finding-body li { margin-bottom: 5px; }
+    .analysis-finding-img img {
+      width: 100%;
+      border-radius: 12px;
+      border: 1px solid rgba(0,0,0,0.09);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.08);
+    }
+    .img-caption {
+      font-size: 0.71rem;
+      color: var(--text-muted);
+      text-align: center;
+      margin-top: 9px;
+      font-style: italic;
+    }
+    .comparison-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 22px;
+      margin: 32px 0 36px;
+    }
+    .comparison-card {
+      border-radius: 14px;
+      padding: 26px 22px 24px;
+    }
+    .comparison-card.human {
+      background: rgba(239,68,68,0.04);
+      border: 1px solid rgba(239,68,68,0.18);
+      border-top: 3px solid rgba(239,68,68,0.45);
+    }
+    .comparison-card.ai {
+      background: rgba(14,116,144,0.04);
+      border: 1px solid rgba(14,116,144,0.18);
+      border-top: 3px solid #0E7490;
+    }
+    .comparison-card-label {
+      font-size: 0.59rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      margin-bottom: 7px;
+    }
+    .comparison-card.human .comparison-card-label { color: rgba(220,38,38,0.75); }
+    .comparison-card.ai .comparison-card-label { color: #0E7490; }
+    .comparison-card-title {
+      font-size: 0.97rem;
+      font-weight: 700;
+      margin-bottom: 14px;
+      line-height: 1.3;
+      color: var(--text-main);
+    }
+    .comparison-card p {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.78;
+      margin: 0;
+    }
+    @media (max-width: 768px) {
+      .analysis-finding { grid-template-columns: 1fr; gap: 22px; }
+      .comparison-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#about">Chi Sono</a></li>
+      <li><a href="../index.html#skills">Competenze</a></li>
+      <li><a href="../index.html#works">Progetti</a></li>
+      <li><a href="../index.html#articles" class="active">Articoli</a></li>
+      <li><a href="../index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<div class="page-hero" style="position:relative;background:linear-gradient(160deg, rgba(6,37,51,0.97) 0%, rgba(6,37,51,0.88) 28%, rgba(14,116,144,0.62) 58%, rgba(9,80,100,0.88) 80%, rgba(6,37,51,0.97) 100%), url('https://images.unsplash.com/photo-1565514158740-064f34bd6cfd?fm=jpg&q=85&w=1920&auto=format&fit=crop') center/cover no-repeat;">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a><span>/</span>
+      <a href="../index.html#articles">Articoli</a><span>/</span>
+      <span style="color:#93c5fd;">Umano vs AI nella Root Cause Analysis</span>
+    </div>
+    <div class="page-label">AI Analysis · Root Cause Analysis · Operations</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Umano vs AI nella Root Cause Analysis</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Un'azienda metalmeccanica produce 141 pezzi/settimana invece di 200. L'analisi tradizionale punta alla manutenzione. L'AI trova la vera causa in 48 ore. Un confronto metodologico sui dati reali.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px;">
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Root Cause Analysis</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">AI vs Human</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Operations</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Regressione</span>
+    </div>
+  </div>
+  <div style="position:absolute;bottom:-1px;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,#FAFAF8);pointer-events:none;z-index:2;"></div>
+</div>
+
+<div class="content-block">
+  <div class="container">
+
+    <!-- SCENARIO -->
+    <div class="prose fade-up">
+      <h2>Scenario Industriale</h2>
+      <p>Un'azienda metalmeccanica produce componenti meccanici. Il processo produttivo è complesso e prevede diversi passaggi, tra cui:</p>
+      <ul>
+        <li>Tornitura CNC del materiale grezzo</li>
+        <li>Saldatura (parte automatizzata e parte manuale)</li>
+        <li>Trattamento termico per garantire resistenza meccanica</li>
+        <li>Lavorazione finale (finitura superficiale e controlli qualità)</li>
+      </ul>
+      <p>L'azienda sta producendo meno pezzi a settimana rispetto alle aspettative, con un ritardo inspiegabile nella produzione.</p>
+      <p>Dovrebbe produrre idealmente <strong>200 pezzi a settimana</strong>, ma a causa dei ritardi effettivi, sta producendo solo circa <strong>140.88 pezzi a settimana</strong>. Deficit di produzione: circa 59 pezzi in meno a settimana rispetto al target ottimale.</p>
+      <p>Questo significa che, nell'arco di un mese (4 settimane), l'azienda sta perdendo dai 200 ai 240 pezzi di produzione, il che potrebbe avere un impatto significativo sui costi e sulle consegne ai clienti. Il dataset fornito contiene dati solo sulle tempistiche di lavorazione e ritardi, componenti sostituite e volumi di produzione.</p>
+    </div>
+
+    <!-- ANALISI UMANA -->
+    <div class="prose fade-up" style="margin-top:56px;">
+      <h2>Report: Analisi dei Ritardi Umana</h2>
+      <p>I team Sviluppo e Operations devono spiegare i ritardi e fornire soluzioni per mitigare il problema. Acquisiscono il dataset di produzione dove ogni lotto contiene i dati della produzione di 12 pezzi.</p>
+      <p>L'azienda ha registrato un deficit di produzione medio di circa 59 pezzi a settimana, con una perdita media stimata di 220 pezzi al mese. Questo impatta la capacità produttiva e le consegne ai clienti. Per comprendere la causa principale del ritardo, sono stati analizzati i dati sui tempi di lavorazione e manutenzione. Dai dati analizzati emergono le seguenti evidenze:</p>
+
+      <p><strong>1. Tornitura CNC</strong><br>
+      Il tempo medio effettivo di tornitura è superiore del 30-50% rispetto al tempo atteso. Questo suggerisce che la tornitura è la fase più critica e sta subendo ritardi significativi.</p>
+
+      <p><strong>2. Manutenzione dei Macchinari CNC</strong><br>
+      I macchinari CNC hanno richiesto una media di 3 ore di manutenzione extra per ordine, portando a fermi macchina più lunghi del previsto. L'analisi statistica mostra che la manutenzione è significativamente correlata ai ritardi di produzione.</p>
+
+      <p><strong>3. Saldatura e Trasporto Interno</strong><br>
+      La saldatura manuale ha mostrato lievi ritardi, ma non è il principale collo di bottiglia. Il trasporto tra reparti ha avuto variazioni, ma il suo impatto sui ritardi è inferiore rispetto alla manutenzione.</p>
+
+      <p><strong>Validazione statistica:</strong> è stato utilizzato un modello di regressione per verificare il legame tra ore di manutenzione e ritardi totali di produzione. R² ottenuto = 0.727. La manutenzione ha un coefficiente positivo, indicando che più ore di manutenzione corrispondono a ritardi maggiori. Questo significa che l'72.7% della variabilità nei ritardi può essere spiegata dalle variabili considerate (tornitura, manutenzione, saldatura e trasporto).</p>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Report Umano · Grafico 1</div>
+        <div class="analysis-finding-title">Ore di Manutenzione vs Ritardo Totale</div>
+        <div class="analysis-finding-body">
+          <p>Il grafico rappresenta la relazione tra le ore di manutenzione richieste dai macchinari CNC e il ritardo totale nella produzione. Ogni punto nel grafico rappresenta un ordine di produzione, mostrando quanto tempo è stato perso a causa di manutenzioni programmate o straordinarie.</p>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>Si nota una tendenza positiva, seppur con alta variabilità tra gli ordini: più manutenzione è necessaria, più il ritardo tende ad aumentare.</li>
+            <li>La distribuzione dei punti suggerisce una correlazione positiva, il che significa che il tempo perso per manutenzione incide significativamente sulla produzione.</li>
+            <li>Gli ordini con alta manutenzione (oltre 4 ore) tendono ad avere ritardi molto elevati.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> Questo grafico rafforza l'idea che la manutenzione è un fattore chiave nei ritardi e che potrebbe essere utile ottimizzare i processi di manutenzione per ridurre l'impatto sulla produzione.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%201.png" alt="Ore di Manutenzione vs Ritardo Totale" />
+        <div class="img-caption">Grafico 1 — Ore di Manutenzione vs Ritardo Totale</div>
+      </div>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Report Umano · Grafico 2</div>
+        <div class="analysis-finding-title">Tempo di Tornitura vs Ritardo Totale</div>
+        <div class="analysis-finding-body">
+          <p>Questo scatter plot mostra la relazione tra il tempo effettivo di tornitura e il ritardo totale di produzione. La tornitura è una fase fondamentale del processo e il suo rallentamento potrebbe causare ritardi a cascata su tutta la linea produttiva.</p>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>Anche in questo caso si osserva una relazione positiva: più il tempo di tornitura è elevato, più il ritardo complessivo aumenta.</li>
+            <li>Alcuni ordini mostrano un tempo di tornitura molto più lungo della media (&gt;15 ore), il che suggerisce problemi in questa fase.</li>
+            <li>Il grafico rafforza l'ipotesi che la tornitura sia un collo di bottiglia importante, contribuendo direttamente ai ritardi complessivi.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> I dati sembrano attribuire questo ritardo alla manutenzione. Dato confermato dalla datazione dei macchinari.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%202.png" alt="Tempo di Tornitura vs Ritardo Totale" />
+        <div class="img-caption">Grafico 2 — Tempo di Tornitura vs Ritardo Totale</div>
+      </div>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Report Umano · Grafico 3</div>
+        <div class="analysis-finding-title">Tempo di Trasporto vs Ritardo Totale</div>
+        <div class="analysis-finding-body">
+          <p>Questo scatter plot evidenzia la relazione tra il tempo effettivo di trasporto interno tra reparti e il ritardo totale di produzione.</p>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>A differenza dei grafici precedenti, la relazione tra il tempo di trasporto e il ritardo totale è meno evidente.</li>
+            <li>Ci sono alcuni punti in cui il tempo di trasporto è elevato, ma il ritardo totale rimane basso, suggerendo che il trasporto non è il fattore principale dei ritardi.</li>
+            <li>Tuttavia, il trasporto aggiunge una variabilità ai tempi di produzione, contribuendo al ritardo in misura secondaria.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> Il dato del trasporto non è un fattore critico.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%203.png" alt="Tempo di Trasporto vs Ritardo Totale" />
+        <div class="img-caption">Grafico 3 — Tempo di Trasporto vs Ritardo Totale</div>
+      </div>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Report Umano · Grafico 4</div>
+        <div class="analysis-finding-title">Heatmap delle Correlazioni</div>
+        <div class="analysis-finding-body">
+          <p>La heatmap rappresenta le correlazioni tra le variabili chiave del processo produttivo e il ritardo totale di produzione. Il valore di correlazione va da -1 (correlazione negativa) a 1 (correlazione positiva):</p>
+          <ul>
+            <li>Più il valore è vicino a 1, più due variabili sono collegate tra loro.</li>
+            <li>Se il valore è vicino a 0, non c'è una relazione chiara tra le variabili.</li>
+          </ul>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>La tornitura ha la correlazione più alta con il ritardo totale (0.58), seguita dalla saldatura (0.43) e dalla manutenzione (0.40).</li>
+            <li>La manutenzione, su cui si era concentrata l'analisi umana, risulta in realtà la variabile con la correlazione più bassa tra quelle principali.</li>
+            <li>Il trasporto interno ha una correlazione di 0.35, confermando il suo ruolo secondario.</li>
+            <li>Il grafico stava già indicando che la tornitura era il fattore dominante, ma il team non ha colto questo segnale.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> La heatmap mostra chiaramente che la tornitura è la variabile più correlata ai ritardi, non la manutenzione. Il team umano ha interpretato i dati attraverso la propria ipotesi di partenza, ignorando il segnale più forte.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%204.png" alt="Heatmap delle Correlazioni" />
+        <div class="img-caption">Grafico 4 — Heatmap delle Correlazioni tra variabili</div>
+      </div>
+    </div>
+
+    <div class="callout fade-up delay-1">
+      <p><strong>Conclusione dell'Analisi.</strong> I dati e i grafici confermano che la manutenzione è un fattore critico nei ritardi. Anche la tornitura è altamente correlata con il ritardo totale. Bisognerebbe prendere in considerazione di aggiornare alcuni macchinari per la tornitura e migliorare i programmi di manutenzione preventiva per ridurre il numero di failure.</p>
+    </div>
+
+    <!-- ANALISI AI -->
+    <div class="prose fade-up" style="margin-top:64px;">
+      <h2>Analisi Avanzata AI</h2>
+      <p>L'analisi precedente ha concluso che le condizioni di alcuni macchinari e la manutenzione sono le cause principali dei ritardi e che questi, sulla tornitura, hanno un impatto significativo. I dati vengono condivisi e uno dei product manager li da "in pasto" all'intelligenza artificiale insieme ai dataset aggiornati e alla relazione prodotta. Vengono rilevati immediatamente dei pattern di criticità rispetto alle conclusioni dell'analisi fatta.</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:28px 0 44px;" class="fade-up delay-1">
+      <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.18);border-radius:14px;padding:22px 24px;">
+        <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:10px;">Pattern 01</div>
+        <div style="font-size:0.9rem;font-weight:700;color:var(--text-main);margin-bottom:10px;line-height:1.4;">Gli ordini con più manutenzione non sono sempre quelli con i maggiori ritardi</div>
+        <ul style="font-size:0.82rem;color:var(--text-muted);line-height:1.72;padding-left:18px;margin:0;">
+          <li>Se la manutenzione fosse la causa principale, ci aspetteremmo una correlazione fortissima tra manutenzione e ritardi.</li>
+          <li>Ma alcuni ordini con bassa manutenzione hanno comunque ritardi molto elevati.</li>
+          <li>L'IA si chiede: cosa sta causando questi ritardi anche in ordini con poca manutenzione?</li>
+        </ul>
+      </div>
+      <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.18);border-radius:14px;padding:22px 24px;">
+        <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:10px;">Pattern 02</div>
+        <div style="font-size:0.9rem;font-weight:700;color:var(--text-main);margin-bottom:10px;line-height:1.4;">La tornitura è molto più lenta per alcuni ordini, anche quando si sostituiscono meno pezzi</div>
+        <ul style="font-size:0.82rem;color:var(--text-muted);line-height:1.72;padding-left:18px;margin:0;">
+          <li>L'analisi AI individua che il tempo di tornitura è molto variabile tra ordini simili.</li>
+          <li>Alcuni ordini hanno una tornitura più lunga, anche quando il tempo di manutenzione è ridotto.</li>
+          <li>Questo suggerisce che c'è un altro fattore che rallenta la lavorazione.</li>
+          <li>Un trend mostra statisticamente meno guasti ai motori nei lotti con ritardo.</li>
+        </ul>
+      </div>
+      <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.18);border-radius:14px;padding:22px 24px;">
+        <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:10px;">Pattern 03</div>
+        <div style="font-size:0.9rem;font-weight:700;color:var(--text-main);margin-bottom:10px;line-height:1.4;">Gli utensili CNC si usurano molto più velocemente in certi ordini</div>
+        <ul style="font-size:0.82rem;color:var(--text-muted);line-height:1.72;padding-left:18px;margin:0;">
+          <li>Se la manutenzione fosse il vero problema, gli utensili si dovrebbero consumare in modo uniforme.</li>
+          <li>Ma alcuni ordini richiedono molte più sostituzioni di utensili rispetto ad altri.</li>
+          <li>L'IA si chiede: cosa sta causando un'usura anomala degli utensili?</li>
+        </ul>
+      </div>
+      <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.18);border-radius:14px;padding:22px 24px;">
+        <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:10px;">Pattern 04</div>
+        <div style="font-size:0.9rem;font-weight:700;color:var(--text-main);margin-bottom:10px;line-height:1.4;">Gli ordini con più usura degli utensili hanno tempi di tornitura più lunghi</div>
+        <p style="font-size:0.82rem;color:var(--text-muted);line-height:1.72;margin:0;">C'è una forte relazione tra l'usura degli utensili e il tempo di tornitura, che l'analisi umana non aveva considerato. Questo suggerisce che la qualità del materiale lavorato potrebbe essere un problema.</p>
+      </div>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Analisi AI · Grafico 5</div>
+        <div class="analysis-finding-title">Manutenzione vs Ritardo Totale — Lettura AI</div>
+        <div class="analysis-finding-body">
+          <p><strong>Cosa mostra il grafico?</strong></p>
+          <p>Questo grafico rappresenta la relazione tra le ore di manutenzione dei macchinari CNC e il ritardo totale nella produzione.</p>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>Se la manutenzione fosse l'unica causa dei ritardi, ci aspetteremmo una relazione perfettamente lineare tra le due variabili.</li>
+            <li>Ma alcuni ordini con bassa manutenzione hanno ritardi molto elevati.</li>
+            <li>Questo suggerisce che qualcos'altro sta contribuendo ai ritardi, oltre alla manutenzione.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> L'AI identifica che la manutenzione da sola non spiega tutti i ritardi, quindi decide di investigare ulteriormente su altri fattori.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%205.png" alt="Manutenzione vs Ritardo Totale — lettura AI" />
+        <div class="img-caption">Grafico 5 — Manutenzione vs Ritardo (AI view)</div>
+      </div>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Analisi AI · Grafico 6</div>
+        <div class="analysis-finding-title">Tempo di Tornitura vs Ritardo Totale</div>
+        <div class="analysis-finding-body">
+          <p><strong>Cosa mostra il grafico?</strong></p>
+          <p>Questo Plot rappresenta la relazione tra il tempo di tornitura effettivo e il ritardo totale di produzione.</p>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>Anche qui si nota una relazione positiva: più il tempo di tornitura è lungo, più il ritardo totale aumenta.</li>
+            <li>Tuttavia, ci sono ordini con tempi di tornitura molto lunghi, anche se la manutenzione non è stata eccessiva.</li>
+            <li>Questo suggerisce che il tempo di tornitura è influenzato da un altro fattore oltre alla manutenzione.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> L'AI suggerisce attraverso il Plot di investigare maggiormente sul tempo di tornitura che è una delle cause principali dei ritardi, ma per capire il vero problema bisogna indagare cosa lo sta rallentando.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%206.png" alt="Tempo di Tornitura vs Ritardo Totale" />
+        <div class="img-caption">Grafico 6 — Tornitura vs Ritardo Totale (AI view)</div>
+      </div>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Analisi AI · Grafico 7</div>
+        <div class="analysis-finding-title">Usura Utensili vs Tempo di Tornitura</div>
+        <div class="analysis-finding-body">
+          <p><strong>Cosa mostra il grafico?</strong></p>
+          <p>Questo grafico rappresenta la relazione tra il livello di usura degli utensili CNC e il tempo di tornitura effettivo.</p>
+          <p><strong>Cosa ci dice il grafico?</strong></p>
+          <ul>
+            <li>C'è una relazione positiva, con variabilità significativa: all'aumentare dell'usura degli utensili, il tempo di tornitura tende ad aumentare.</li>
+            <li>Gli ordini con usura utensili elevata hanno tempi di tornitura molto lunghi, rallentando tutto il processo produttivo.</li>
+            <li>Questo suggerisce che qualcosa sta causando un'usura eccessiva degli utensili CNC.</li>
+          </ul>
+          <p><strong>Conclusione:</strong> L'IA rileva che l'usura degli utensili sia il vero problema e decide di investigare cosa la sta causando.</p>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%207.png" alt="Usura Utensili vs Tempo di Tornitura" />
+        <div class="img-caption">Grafico 7 — Usura Utensili vs Tornitura</div>
+      </div>
+    </div>
+
+    <div class="callout fade-up delay-1">
+      <p><strong>Conclusione Provvisoria dell'Analisi AI.</strong> La manutenzione non è la causa principale, ma una conseguenza di un problema più profondo, che incide in percentuale variabile sulla manutenzione. Chiede quindi di investigare ulteriormente, fornendo i report delle manutenzioni, di analizzare ulteriori parametri come il materiale di tornitura (che non vengono controllati in ingresso), dati storici degli operatori per verificare la possibilità di pattern relativi ad operai che potrebbero compiere operazioni diverse dal previsto.</p>
+    </div>
+
+    <!-- STEP 1-4 -->
+    <div class="prose fade-up" style="margin-top:64px;">
+      <h2>Regressione Multipla: Misurare il Peso di Ogni Causa</h2>
+
+      <h3>Step 1: Analisi della Correlazione tra Tempo di Tornitura e Ritardo Totale</h3>
+      <p>La tornitura è una fase critica del processo produttivo. Se fosse una delle cause principali dei ritardi, dovremmo vedere una forte correlazione tra tempo di tornitura e ritardo totale.</p>
+      <p><strong>Modello di regressione lineare semplice: R² = 0.817</strong> — il tempo di tornitura spiega l'81.7% della variabilità nei ritardi totali. Variabile indipendente: Tempo di tornitura. Variabile dipendente: Ritardo totale.</p>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Step 1 · Grafico 8</div>
+        <div class="analysis-finding-title">Tornitura vs Ritardo Totale (R²=0.817)</div>
+        <div class="analysis-finding-body">
+          <p>Mostra una forte correlazione positiva. Più il tempo di tornitura è elevato, maggiore è il ritardo totale.</p>
+          <p><strong>Conclusioni:</strong></p>
+          <ul>
+            <li>La tornitura è la principale causa dei ritardi.</li>
+            <li>Ottimizzare la tornitura potrebbe ridurre significativamente i ritardi.</li>
+            <li>L'IA suggerisce di indagare sulle cause della tornitura prolungata (es. durezza del materiale, usura utensili).</li>
+          </ul>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%208.png" alt="Tornitura vs Ritardo Totale — Step 1" />
+        <div class="img-caption">Grafico 8 — Tornitura vs Ritardo (Step 1, R²=0.817)</div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h3>Step 2: Analisi della Correlazione tra Guasti ai Motori e Ritardo Totale</h3>
+      <p>Se i guasti ai motori influiscono significativamente sui ritardi, dovremmo vedere una correlazione tra numero di guasti e ritardo totale.</p>
+      <p><strong>Modello di regressione lineare semplice: R² = 0.681</strong> — i guasti ai motori spiegano il 68.1% della variabilità nei ritardi. Variabile indipendente: Numero di guasti ai motori. Variabile dipendente: Ritardo totale.</p>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Step 2 · Grafico 9</div>
+        <div class="analysis-finding-title">Guasti ai Motori vs Ritardo Totale (R²=0.681)</div>
+        <div class="analysis-finding-body">
+          <p>Mostra una correlazione moderata. Più guasti ai motori ci sono, maggiore è il ritardo totale.</p>
+          <p><strong>Conclusioni:</strong></p>
+          <ul>
+            <li>I guasti ai motori contribuiscono ai ritardi, ma in misura minore rispetto alla tornitura.</li>
+            <li>I guasti ai motori potrebbero essere un effetto secondario dello stress causato dalla lavorazione di materiali più duri.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%209.png" alt="Guasti ai Motori vs Ritardo Totale — Step 2" />
+        <div class="img-caption">Grafico 9 — Guasti Motori vs Ritardo (Step 2, R²=0.681)</div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h3>Step 3: Analisi della Correlazione tra Tempo di Trasporto Interno e Ritardo Totale</h3>
+      <p>Il trasporto interno tra reparti potrebbe contribuire ai ritardi, ma è probabile che il suo impatto sia inferiore rispetto al tempo di tornitura e ai guasti ai motori.</p>
+      <p><strong>Modello di regressione lineare semplice: R² = 0.019</strong> — il tempo di trasporto interno spiega solo l'1.9% della variabilità nei ritardi. Variabile indipendente: Tempo di trasporto interno. Variabile dipendente: Ritardo totale.</p>
+    </div>
+
+    <div class="analysis-finding fade-up">
+      <div>
+        <div class="analysis-finding-label">Step 3 · Grafico 10</div>
+        <div class="analysis-finding-title">Trasporto Interno vs Ritardo Totale (R²=0.019)</div>
+        <div class="analysis-finding-body">
+          <p>Mostra una correlazione debole. Alcuni ordini con trasporti più lunghi hanno ritardi più elevati, ma l'impatto è minore rispetto ad altre variabili.</p>
+          <p><strong>Conclusioni:</strong></p>
+          <ul>
+            <li>Il trasporto interno aggiunge ritardi, ma non è la causa principale.</li>
+            <li>Ottimizzare il layout della fabbrica potrebbe migliorare l'efficienza logistica.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="analysis-finding-img">
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%2010.png" alt="Trasporto Interno vs Ritardo Totale — Step 3" />
+        <div class="img-caption">Grafico 10 — Trasporto vs Ritardo (Step 3, R²=0.019)</div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h3>Step 4: Stima dell'Impatto Totale delle Cause sui Ritardi</h3>
+      <p>Ora stimiamo il contributo di ciascun fattore ai ritardi.</p>
+      <p><strong>Modello di regressione multipla: R² del modello finale = 0.881</strong> — il modello spiega l'88.1% dei ritardi totali, con un'impatto percentuale:</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:20px 0 28px;" class="fade-up delay-1">
+      <div style="background:rgba(37,99,235,0.06);border:1px solid rgba(37,99,235,0.18);border-top:3px solid rgba(37,99,235,0.55);border-radius:12px;padding:18px 16px;text-align:center;">
+        <div style="font-size:1.5rem;font-weight:800;color:rgba(37,99,235,0.85);">81.7%</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);margin-top:6px;line-height:1.5;">Tempo di tornitura</div>
+      </div>
+      <div style="background:rgba(37,99,235,0.04);border:1px solid rgba(37,99,235,0.14);border-top:3px solid rgba(37,99,235,0.4);border-radius:12px;padding:18px 16px;text-align:center;">
+        <div style="font-size:1.5rem;font-weight:800;color:rgba(37,99,235,0.7);">68.1%</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);margin-top:6px;line-height:1.5;">Guasti ai motori</div>
+      </div>
+      <div style="background:rgba(100,116,139,0.04);border:1px solid rgba(100,116,139,0.15);border-top:3px solid rgba(100,116,139,0.3);border-radius:12px;padding:18px 16px;text-align:center;">
+        <div style="font-size:1.5rem;font-weight:800;color:rgba(100,116,139,0.7);">1.9%</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);margin-top:6px;line-height:1.5;">Tempo di trasporto interno</div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <p>La somma delle percentuali che supera il 100%, suggerisce che questi fattori sono tra loro correlati. Ogni variabile può contribuire a spiegare gli stessi ritardi, quindi i contributi si sovrappongono. Le percentuali vanno quindi interpretate come indicazione della rilevanza di ciascun fattore, non come quote che sommate devono dare 100%.</p>
+      <p>Il modello predittivo viene ora settato per investigare meglio circa il Problema e le sue possibili cause. Dopo numerose analisi.</p>
+    </div>
+
+    <!-- IPOTESI -->
+    <div class="prose fade-up" style="margin-top:64px;">
+      <h2>Ipotesi Testate e Causa Radice Stimata</h2>
+    </div>
+
+    <div style="background:rgba(239,68,68,0.03);border:1px solid rgba(239,68,68,0.14);border-left:3px solid rgba(239,68,68,0.4);border-radius:10px;padding:22px 24px;margin:20px 0;" class="fade-up">
+      <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:rgba(220,38,38,0.7);margin-bottom:10px;">Ipotesi testata — Scartata</div>
+      <div style="font-size:0.95rem;font-weight:700;margin-bottom:12px;color:var(--text-main);">L'IA analizza se il problema possa essere dovuto all'età o allo stato dei torni</div>
+      <p style="font-size:0.84rem;color:var(--text-muted);line-height:1.78;margin:0 0 8px;">"I torni vecchi potrebbero essere più lenti e subire più guasti, causando ritardi."</p>
+      <ul style="font-size:0.84rem;color:var(--text-muted);line-height:1.78;padding-left:18px;margin:0;">
+        <li>Se i torni fossero il problema, ci aspetteremmo che lo stesso tornio produca all'incirca una quantità simile di ritardo nel tempo.</li>
+        <li>Ci aspetteremmo che i guasti ai motori aumentino con il tempo di utilizzo del tornio.</li>
+        <li>Se il problema fosse nei torni, vedremmo un impatto costante sui ritardi per ogni macchina.</li>
+        <li>L'ipotesi viene quindi scartata.</li>
+      </ul>
+    </div>
+
+    <div style="background:rgba(239,68,68,0.03);border:1px solid rgba(239,68,68,0.14);border-left:3px solid rgba(239,68,68,0.4);border-radius:10px;padding:22px 24px;margin:20px 0;" class="fade-up delay-1">
+      <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:rgba(220,38,38,0.7);margin-bottom:10px;">Ipotesi testata — Scartata</div>
+      <div style="font-size:0.95rem;font-weight:700;margin-bottom:12px;color:var(--text-main);">L'IA verifica se il problema è dovuto agli operatori</div>
+      <p style="font-size:0.84rem;color:var(--text-muted);line-height:1.78;margin:0 0 8px;">"Gli operatori potrebbero essere la causa dei ritardi."</p>
+      <ul style="font-size:0.84rem;color:var(--text-muted);line-height:1.78;padding-left:18px;margin:0;">
+        <li>Se gli operatori fossero il problema, ci aspetteremmo che i team di produzione abbiano performance molto diverse tra loro, e che gli ordini lavorati dallo stesso team abbiano sempre gli stessi ritardi.</li>
+        <li>Pur non disponendo di questo parametro, la distribuzione e l'eterogeneità dell'insorgenza dei ritardi suggeriscono che o tutti gli operai siano la causa, o non c'è un modello ricorrente che porti ad analizzare oltre in tal senso.</li>
+        <li>E' possibile comunque da oggi iniziare a registrare questi dati in modo da averli a disposizione nel prossimo futuro.</li>
+        <li>Gli operatori sembrano non essere la causa dei ritardi, l'ipotesi viene scartata.</li>
+      </ul>
+    </div>
+
+    <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.16);border-left:3px solid #0E7490;border-radius:10px;padding:22px 24px;margin:20px 0 40px;" class="fade-up delay-2">
+      <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:10px;">Osservazione chiave</div>
+      <div style="font-size:0.95rem;font-weight:700;margin-bottom:12px;color:var(--text-main);">L'IA analizza la variabilità nei tempi di tornitura</div>
+      <p style="font-size:0.84rem;color:var(--text-muted);line-height:1.78;margin:0 0 8px;">"Perché alcuni ordini impiegano molto più tempo in tornitura rispetto ad altri, se i torni e gli operatori sono gli stessi?"</p>
+      <ul style="font-size:0.84rem;color:var(--text-muted);line-height:1.78;padding-left:18px;margin:0;">
+        <li>Se i torni fossero il problema, il tempo di tornitura sarebbe sempre alto.</li>
+        <li>Ma i dati mostrano che solo alcuni ordini hanno torniture estremamente lunghe.</li>
+        <li>I guasti ai motori non avvengono in modo uniforme.</li>
+        <li>Qualche fattore ha un'influenza indiretta su questo parametro.</li>
+        <li>Il problema non è nella macchina in sé, ma in qualcosa che varia tra i lotti di produzione.</li>
+      </ul>
+    </div>
+
+    <div class="prose fade-up">
+      <h3>L'IA stima la durezza del materiale</h3>
+      <p>Tra i molti parametri che l'IA matcha, trova alcuni parametri secondari (stimati approssimativamente dall'incrocio di dati) significativi. Sulla base dei dati prova a produrre una stima della durezza del materiale messo in tornitura, usando i parametri noti come il Tempo di tornitura, Sostituzione utensili per macchina, Sostituzione Motori, durezza nota dell'utensile, per vedere se possa esistere una correlazione di fattori.</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:24px 0 40px;" class="fade-up delay-1">
+      <div>
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%2011.png" alt="Stima durezza materiale" style="width:100%;border-radius:12px;border:1px solid rgba(0,0,0,0.09);box-shadow:0 6px 24px rgba(0,0,0,0.08);" />
+        <div class="img-caption">Modello AI — Stima durezza materiale (parametri incrociati)</div>
+      </div>
+      <div>
+        <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%2012.png" alt="Correlazione durezza stimata e ritardi" style="width:100%;border-radius:12px;border:1px solid rgba(0,0,0,0.09);box-shadow:0 6px 24px rgba(0,0,0,0.08);" />
+        <div class="img-caption">Durezza Stimata vs Tempo di Tornitura (Formula Aggiornata)</div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h3>Il Modello Predittivo ipotizza uno scenario delle Cause dei Ritardi Totali</h3>
+      <p>Dopo aver testato diverse ipotesi, il modello ha cercato di incrociare ed elaborare dati che giustifichino i dati e le cause dei problemi. Il modello di Output che ha dato migliori valori è stato il modello menzionato sopra, che vede una possibile spiegazione del problema, nella durezza incostante del materiale sottoposto a tornitura.</p>
+      <p><strong>Risultato del modello: R² = 0.837.</strong> Il modello spiegherebbe coerentemente l'83.7% dei ritardi totali.</p>
+      <p>Le variabili chiave che influenzano i ritardi sono:</p>
+      <ul>
+        <li><strong>Durezza stimata del materiale:</strong> maggiore è la durezza, più lunghi sono i tempi di tornitura e più usura degli utensili e dei motori si verifica.</li>
+        <li><strong>Numero di sostituzioni degli utensili:</strong> più alto è il valore, maggiore è la difficoltà della tornitura.</li>
+        <li><strong>Numero di guasti ai motori:</strong> questi guasti anche se meno significativi rispetto alla rottura degli utensili, complicano ulteriormente il quadro dei ritardi.</li>
+        <li><strong>Tempo di trasporto interno:</strong> ha un impatto minore, ma comunque significativo.</li>
+      </ul>
+    </div>
+
+    <div class="fade-up" style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-top:3px solid #0E7490;border-radius:14px;padding:28px 32px;margin-top:8px;">
+      <p style="font-size:0.9rem;color:var(--text-main);line-height:1.8;margin:0 0 22px;"><strong>Conclusione:</strong> Le sostituzioni frequenti di utensili e guasti ai motori sono compatibili con una possibile durezza incostante/eccessiva del materiale o della gestione errata della velocità di tornitura.</p>
+      <div style="border-top:1px solid rgba(14,116,144,0.18);padding-top:20px;">
+        <div style="font-size:0.6rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:14px;">Azioni Implementate</div>
+        <ul style="font-size:0.86rem;color:var(--text-muted);line-height:1.82;padding-left:20px;margin:0;">
+          <li>Viene rivisto il piano di lavoro, riducendo (temporaneamente) la velocità di tornitura.</li>
+          <li>Vengono implementati nei dataset la registrazione dell'operatore e della macchina che usa.</li>
+          <li>Viene indetta una fase di verifica della durezza dei materiali sia grezzi che dei semilavorati.</li>
+          <li>Vengono chiesti chiarimenti tecnici all'azienda che fornisce la materia prima grezza: è emerso che potrebbero esserci stati in passato dei problemi con il Trattamento Termico in fase di produzione, che avrebbero portato a modificare la dimensione e la densità dei grani cristallini.</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- CONFRONTO -->
+    <div class="prose fade-up" style="margin-top:64px;">
+      <h2>Due metodi, due conclusioni opposte</h2>
+    </div>
+
+    <div class="comparison-grid fade-up">
+      <div class="comparison-card human">
+        <div class="comparison-card-label">Analisi Tradizionale</div>
+        <div class="comparison-card-title">Regressione Semplice — R² = 0.727</div>
+        <ul style="font-size:0.82rem;color:var(--text-muted);line-height:1.72;padding-left:18px;margin:0;">
+          <li>Analisi sequenziale, variabile per variabile.</li>
+          <li>Conferma le ipotesi preesistenti del team.</li>
+          <li>Identifica sintomi come se fossero cause.</li>
+          <li>Conclusione: ottimizzare la manutenzione preventiva CNC.</li>
+          <li>Agisce sulle conseguenze, non sulla causa.</li>
+        </ul>
+      </div>
+      <div class="comparison-card ai">
+        <div class="comparison-card-label">Analisi AI</div>
+        <div class="comparison-card-title">Regressione Multipla — R² = 0.881</div>
+        <ul style="font-size:0.82rem;color:var(--text-muted);line-height:1.72;padding-left:18px;margin:0;">
+          <li>Analisi parallela di tutte le variabili e le loro interazioni.</li>
+          <li>Rileva pattern contraddittori che il modello semplice ignora.</li>
+          <li>Separa cause da effetti analizzando il contributo statistico di ogni variabile.</li>
+          <li>Ipotesi stimata: variabilità della durezza del materiale in ingresso.</li>
+          <li>Intervento a monte: fornitore e controllo qualità alla ricezione lotto.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="findings-grid fade-up">
+      <div class="finding-card">
+        <div class="finding-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none"/></svg></div>
+        <div class="finding-title">I Sintomi Non Sono la Causa</div>
+        <div class="finding-desc">La manutenzione CNC era un sintomo di un problema a monte, non la causa del ritardo. Agire sui sintomi avrebbe ridotto parzialmente il problema senza risolverlo alla radice.</div>
+      </div>
+      <div class="finding-card">
+        <div class="finding-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="21" x2="21" y2="21"/><line x1="3" y1="21" x2="3" y2="3"/><circle cx="7" cy="17" r="1.5" fill="currentColor" stroke="none"/><circle cx="11" cy="13" r="1.5" fill="currentColor" stroke="none"/><circle cx="15" cy="9" r="1.5" fill="currentColor" stroke="none"/><circle cx="18" cy="12" r="1.5" fill="currentColor" stroke="none" opacity="0.4"/><line x1="6" y1="19" x2="19" y2="7" stroke-dasharray="2 1.5" opacity="0.55"/></svg></div>
+        <div class="finding-title">R² = 0.727 Non Basta</div>
+        <div class="finding-desc">Un modello che spiega il 72.7% della varianza può sembrare solido. Ma nascondeva una spiegazione incompleta: il 28% non spiegato conteneva la causa reale, occultata dalle correlazioni superficiali.</div>
+      </div>
+      <div class="finding-card">
+        <div class="finding-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></div>
+        <div class="finding-title">Le Contraddizioni Sono il Segnale Più Prezioso</div>
+        <div class="finding-desc">L'AI ha trovato la risposta nei punti dove l'analisi umana aveva trovato inconsistenze irrisolte. Invece di ignorarle come rumore, le ha usate come segnale diagnostico verso la causa profonda.</div>
+      </div>
+    </div>
+
+    <div class="callout fade-up delay-2" style="margin-top:48px;">
+      <p>Usare l'AI nella root cause analysis non significa delegare il pensiero. Significa smettere di fermarsi alla prima risposta plausibile.</p>
+    </div>
+
+  </div>
+</div>
+
+<section class="contact-section">
+  <div class="container">
+    <h2 class="contact-title">Hai un problema di dati da risolvere?</h2>
+    <p class="contact-desc">Posso aiutarti a strutturare analisi che trovano le cause reali, non solo le correlazioni ovvie.</p>
+    <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Contattami &rarr;</a>
+      <a href="../index.html#articles" class="btn btn-outline">Altri articoli</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">Gabriele Albanese</div>
+      <ul class="footer-links">
+        <li><a href="../index.html#about">Chi Sono</a></li>
+        <li><a href="../index.html#works">Progetti</a></li>
+        <li><a href="../index.html#articles">Articoli</a></li>
+        <li><a href="../index.html#contact">Contatti</a></li>
+      </ul>
+      <div class="footer-copy">&copy; 2025 Gabriele Albanese</div>
+    </div>
+  </div>
+</footer>
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

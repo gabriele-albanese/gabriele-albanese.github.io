@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prompt Engineering: Output migliori con le LLM — Gabriele Albanese</title>
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <style>
+    @keyframes livepulse {
+      0%,100% { box-shadow: 0 0 0 3px rgba(14,116,144,0.25); }
+      50%      { box-shadow: 0 0 0 7px rgba(14,116,144,0.08); }
+    }
+    .prompt-compare {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin: 24px 0;
+    }
+    .prompt-box { border-radius: 12px; padding: 20px 22px; }
+    .prompt-box--before {
+      background: #F8FAFC;
+      border: 1px solid #E2E8F0;
+    }
+    .prompt-box--after {
+      background: rgba(14,116,144,0.05);
+      border: 1px solid rgba(14,116,144,0.28);
+    }
+    .prompt-box-label {
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .prompt-box--before .prompt-box-label { color: #94A3B8; }
+    .prompt-box--after .prompt-box-label { color: var(--accent); }
+    .prompt-box p {
+      font-size: 0.88rem;
+      font-style: italic;
+      margin: 0 !important;
+      line-height: 1.75;
+      color: #64748B;
+      text-align: left !important;
+      hyphens: none !important;
+    }
+    .prompt-box--after p { color: #1E3A4A; font-weight: 500; }
+
+    .technique-block {
+      border-left: 3px solid var(--accent);
+      padding-left: 28px;
+      margin: 52px 0 36px;
+    }
+    .technique-header {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+    .technique-num {
+      font-family: var(--font);
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+      min-width: 36px;
+    }
+    .technique-title {
+      font-family: var(--font);
+      font-size: 1.45rem;
+      font-weight: 800;
+      color: var(--primary);
+      letter-spacing: -0.02em;
+      margin: 0;
+    }
+
+    .science-art-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 28px 0;
+    }
+    .science-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 26px 28px;
+    }
+    .science-card-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin-bottom: 18px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+    }
+    .science-card--science .science-card-label { color: var(--accent); }
+    .science-card--art .science-card-label { color: #7C6F5A; }
+    .science-card ul { padding-left: 18px; margin: 0; }
+    .science-card li {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      line-height: 1.7;
+      margin-bottom: 8px;
+      text-align: left;
+      hyphens: none;
+    }
+
+    .code-block {
+      background: #0F172A;
+      border-radius: 12px;
+      padding: 24px 28px;
+      overflow-x: auto;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.82rem;
+      line-height: 1.85;
+      margin: 20px 0;
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+    .code-tag { color: #38BDF8; }
+    .code-attr { color: #67E8F9; }
+    .code-val { color: #E2E8F0; }
+    .code-comment { color: #475569; font-style: italic; }
+    .code-str { color: #86EFAC; }
+
+    .prompt-chain {
+      background: #0F172A;
+      border-radius: 12px;
+      padding: 24px 28px;
+      margin: 20px 0;
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+    .prompt-chain-item {
+      display: flex;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+    .prompt-chain-item:last-child { margin-bottom: 0; }
+    .prompt-chain-tag {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #38BDF8;
+      background: rgba(56,189,248,0.12);
+      border-radius: 6px;
+      padding: 3px 10px;
+      white-space: nowrap;
+      height: fit-content;
+      margin-top: 2px;
+    }
+    .prompt-chain-tag.iteration { color: #86EFAC; background: rgba(134,239,172,0.10); }
+    .prompt-chain-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.82rem;
+      color: #CBD5E1;
+      line-height: 1.7;
+      font-style: italic;
+    }
+
+    .case-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin: 32px 0;
+    }
+    .case-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 28px;
+    }
+    .case-card-company {
+      font-family: var(--font);
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 6px;
+    }
+    .case-card-context {
+      font-size: 0.78rem;
+      color: var(--text-light);
+      margin-bottom: 20px;
+      font-style: italic;
+    }
+    .case-result {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .case-result:last-child { border-bottom: none; padding-bottom: 0; }
+    .case-result-val {
+      font-size: 1.05rem;
+      font-weight: 800;
+      color: var(--accent);
+      white-space: nowrap;
+      min-width: 52px;
+    }
+    .case-result-desc {
+      font-size: 0.83rem;
+      color: var(--text-muted);
+      line-height: 1.55;
+    }
+
+    .roi-source {
+      font-size: 0.76rem;
+      color: var(--text-light);
+      font-style: italic;
+      margin-top: 8px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 700px) {
+      .prompt-compare { grid-template-columns: 1fr; }
+      .science-art-grid { grid-template-columns: 1fr; }
+      .case-grid { grid-template-columns: 1fr; }
+      .technique-num { font-size: 1.5rem; }
+      .technique-title { font-size: 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#about">Chi Sono</a></li>
+      <li><a href="../index.html#skills">Competenze</a></li>
+      <li><a href="../index.html#works">Progetti</a></li>
+      <li><a href="../index.html#articles" class="active">Articoli</a></li>
+      <li><a href="../index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<div class="page-hero" style="position:relative;background:linear-gradient(160deg, rgba(6,37,51,0.97) 0%, rgba(6,37,51,0.86) 28%, rgba(14,116,144,0.62) 58%, rgba(6,37,51,0.93) 100%), url('https://images.unsplash.com/photo-1677442136019-21780ecad995?fm=jpg&q=85&w=1920&auto=format&fit=crop') center/cover no-repeat;">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a><span>/</span>
+      <a href="../index.html#articles">Articoli</a><span>/</span>
+      <span style="color:#93c5fd;">Prompt Engineering</span>
+    </div>
+    <div class="page-label">AI · Prompt Engineering · LLM</div>
+    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Aprile 2024</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Come ottenere output migliori<br>con le LLM</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Come scrivere prompt efficaci per ottenere risposte migliori dai modelli di linguaggio: principi, tecniche e casi d'uso reali.</p>
+  </div>
+  <div style="position:absolute;bottom:-1px;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,#FAFAF8);pointer-events:none;z-index:2;"></div>
+</div>
+
+<!-- METRICS -->
+<div class="content-block alt" style="padding:48px 0;">
+  <div class="container">
+    <div class="metric-strip">
+      <div class="metric-box fade-up">
+        <div class="metric-box-val">40%</div>
+        <div class="metric-box-lbl">Riduzione dei tempi di elaborazione dei task</div>
+      </div>
+      <div class="metric-box fade-up delay-1">
+        <div class="metric-box-val">35%</div>
+        <div class="metric-box-lbl">Aumento della produttività dei team AI</div>
+      </div>
+      <div class="metric-box fade-up delay-2">
+        <div class="metric-box-val">75%</div>
+        <div class="metric-box-lbl">Grandi aziende con team dedicati entro il 2026</div>
+      </div>
+      <div class="metric-box fade-up delay-3">
+        <div class="metric-box-val">60%</div>
+        <div class="metric-box-lbl">Professioni che richiederanno AI skills entro il 2030</div>
+      </div>
+    </div>
+    <p style="font-size:0.74rem;color:var(--text-light);font-style:italic;text-align:center;margin-top:4px;">Fonti: McKinsey &amp; Company (2023), Gartner (2024), World Economic Forum (2023)</p>
+  </div>
+</div>
+
+<div class="content-block">
+  <div class="container">
+    <div class="prose fade-up">
+
+      <h2>Introduzione</h2>
+      <p>Negli ultimi anni, l'intelligenza artificiale generativa ha fatto passi da gigante, e con essa l'importanza di saper interagire con i modelli linguistici (LLM) nel modo più efficace possibile. Il prompt engineering, ovvero la scienza di scrivere richieste precise e strutturate per ottenere risultati di qualità, è diventato una competenza chiave per chiunque debba approcciarsi a questi strumenti.</p>
+      <p>Ma esistono regole universali per scrivere prompt efficaci? In genere questa è la domanda che viene fatta da chi si approccia per la prima volta a questa disciplina. La risposta è sì, anche se il livello di sofisticazione può variare a seconda dell'esperienza dell'utente e dell'obiettivo specifico. In questo articolo esploreremo i principi fondamentali del prompt engineering, senza ovviamente addentrarci in tecniche avanzate che richiedono una conoscenza approfondita del processo di modulazione della risposta e dei meccanismi interni dei modelli di elaborazione.</p>
+      <p>Prima di partire però bisogna fare due chiacchiere circa questa nuova disciplina sempre più oggetto di studio accademico.</p>
+
+      <h2>Arte, Scienza o entrambe?</h2>
+
+      <div class="callout">
+        <p>"Il prompt engineering è l'arte e la scienza della progettazione e dell'ottimizzazione dei prompt per guidare i modelli di AI, in particolare gli LLM, verso la generazione delle risposte desiderate. Creando con cura i prompt, fornisci al modello contesto, istruzioni ed esempi che lo aiutano a comprendere le tue intenzioni e a rispondere in modo significativo. Consideralo come una roadmap per l'AI, indirizzandola verso i risultati specifici che hai in mente."<br><span style="font-size:0.82rem;font-style:normal;font-weight:600;color:var(--accent);display:block;margin-top:10px;">Fonte: Google Cloud</span></p>
+      </div>
+
+      <p>È ricorrente definirla come "un incrocio di Arte e Scienza" ma per quale motivo?</p>
+
+    </div>
+
+    <div class="science-art-grid fade-up delay-1">
+      <div class="science-card science-card--science">
+        <div class="science-card-label">Perché è una scienza</div>
+        <ul>
+          <li>Si basa su principi logici e tecnici per ottimizzare l'interazione con i modelli di IA.</li>
+          <li>Richiede sperimentazione e analisi per capire quali strutture funzionano meglio.</li>
+          <li>Implica la comprensione dei modelli linguistici, delle loro limitazioni e delle migliori pratiche per ottenere risultati precisi.</li>
+        </ul>
+      </div>
+      <div class="science-card science-card--art">
+        <div class="science-card-label" style="color:#7C6F5A;">Perché è un'arte</div>
+        <ul>
+          <li>Saper formulare il prompt in modo efficace non è solo una questione tecnica, ma anche creativa.</li>
+          <li>Le sfumature linguistiche, il tono e la struttura influenzano fortemente la risposta dell'IA.</li>
+          <li>Serve intuizione per trovare il giusto equilibrio tra brevità, chiarezza e dettaglio.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <p>Ma come si scrivono quindi i prompt che massimizzano il potenziale di un modello di linguaggio? Di seguito esploreremo alcune delle migliori metodiche generali, fornendo strategie pratiche e applicabili fin da subito.</p>
+    </div>
+
+    <!-- TECNICA 1 -->
+    <div class="technique-block fade-up">
+      <div class="technique-header">
+        <div class="technique-num">1</div>
+        <h2 class="technique-title">Dare il giusto contesto</h2>
+      </div>
+      <div class="prose">
+        <p>Uno degli errori più comuni quando si interagisce con un LLM è supporre che "capisca" immediatamente il contesto della richiesta. In realtà, questi modelli lavorano meglio quando ricevono informazioni dettagliate. Ecco alcuni elementi da includere sempre:</p>
+        <ul>
+          <li><strong>Il pubblico di riferimento:</strong> a chi è destinata la risposta? Un esperto del settore o un principiante?</li>
+          <li><strong>L'obiettivo del task:</strong> cosa deve ottenere il modello? Una sintesi? Un testo creativo? Un elenco?</li>
+          <li><strong>Il formato desiderato:</strong> vuoi una tabella, un testo discorsivo, un elenco puntato?</li>
+        </ul>
+      </div>
+      <div class="prompt-compare">
+        <div class="prompt-box prompt-box--before">
+          <div class="prompt-box-label">Prompt generico</div>
+          <p>"Scrivi un post su innovazione e AI"</p>
+        </div>
+        <div class="prompt-box prompt-box--after">
+          <div class="prompt-box-label">Prompt efficace</div>
+          <p>"Scrivi un post LinkedIn informale di massimo 150 parole, rivolto a professionisti del settore tech, che possa spiegare come l'AI sta cambiando il mondo del lavoro. Usa un tono ottimista e chiudi con una domanda per stimolare l'interazione."</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TECNICA 2 -->
+    <div class="technique-block fade-up">
+      <div class="technique-header">
+        <div class="technique-num">2</div>
+        <h2 class="technique-title">Usare esempi per guidare il modello</h2>
+      </div>
+      <div class="prose">
+        <p>Una tecnica molto utile è il <strong>few-shot prompting</strong>, ovvero fornire esempi concreti di output desiderati. Questo aiuta l'LLM a cogliere il tono, la struttura e lo stile della risposta. L'aggiunta di esempi pratici di ciò che ci aspettiamo rende il risultato più coerente, accurato e in linea con le aspettative riguardo al risultato atteso.</p>
+      </div>
+      <div class="prompt-compare">
+        <div class="prompt-box prompt-box--before">
+          <div class="prompt-box-label">Senza esempi</div>
+          <p>"Analizza questi feedback dei clienti e classificali per sentiment e urgenza."</p>
+        </div>
+        <div class="prompt-box prompt-box--after">
+          <div class="prompt-box-label">Con esempi (few-shot)</div>
+          <p>"Analizza questi feedback e classificali per sentiment e urgenza.<br><br>
+          Esempio 1: 'Ho ricevuto il mio ordine oggi e sono molto soddisfatto.' → Sentiment: positivo, Urgenza: 1<br><br>
+          Esempio 2: 'Il mio ordine non è ancora arrivato, ho bisogno del prodotto per domani.' → Sentiment: negativo, Urgenza: 5<br><br>
+          Ora procedi con la classificazione di questi nuovi feedback."</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TECNICA 3 -->
+    <div class="technique-block fade-up">
+      <div class="technique-header">
+        <div class="technique-num">3</div>
+        <h2 class="technique-title">Chiedere il ragionamento passo dopo passo</h2>
+      </div>
+      <div class="prose">
+        <p>Forse in assoluto la tecnica considerata "di base" più consigliata, tanto che è prevedibile che nel futuro sarà una funzione autonoma e integrata nei modelli LLM. Una strategia molto utile, chiamata <strong>Chain of Thought</strong>, consiste nel chiedere esplicitamente al modello di spiegare il suo ragionamento prima di fornire la risposta. Questo è particolarmente efficace per problemi complessi, in cui la trasparenza del processo è fondamentale. Questa tecnica non solo aiuta a ottenere risposte più precise e verificabili, ma permette di ricavare anche ulteriori spunti di argomentazione.</p>
+      </div>
+      <div class="prompt-compare">
+        <div class="prompt-box prompt-box--before">
+          <div class="prompt-box-label">Prompt base</div>
+          <p>"Qual è la capitale del Canada?"</p>
+        </div>
+        <div class="prompt-box prompt-box--after">
+          <div class="prompt-box-label">Chain of Thought</div>
+          <p>"Pensa passo dopo passo e spiega il tuo ragionamento prima di rispondere: qual è la capitale del Canada?"<br><br>
+          <span style="font-size:0.8rem;color:var(--accent);font-style:normal;">Risposta ottenuta: "Il Canada è uno stato del Nord America. La sua capitale non è la città più grande (Toronto), ma Ottawa, scelta per motivi strategici nel 1857."</span></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TECNICA 4 -->
+    <div class="technique-block fade-up">
+      <div class="technique-header">
+        <div class="technique-num">4</div>
+        <h2 class="technique-title">Sfruttare i tag per organizzare i prompt</h2>
+      </div>
+      <div class="prose">
+        <p>Per i task più complessi, è utile strutturare i prompt con tag simili a quelli usati nei file XML o JSON. Questo ne migliora notevolmente la leggibilità e l'elaborazione da parte del modello. Sono già state annunciate IA che elimineranno all'utente la necessità di scrivere prompt in questa forma, e che spiegando bene il contesto della richiesta saranno in grado di autogenerare il miglior prompt per garantire che il risultato sia in linea con la richiesta.</p>
+      </div>
+      <div class="prompt-compare" style="grid-template-columns:1fr;">
+        <div class="prompt-box prompt-box--before">
+          <div class="prompt-box-label">Prompt generico</div>
+          <p>"Scrivi una mail di scuse per un cliente che ha ricevuto un prodotto difettoso."</p>
+        </div>
+      </div>
+      <div class="code-block">
+        <div style="font-size:0.68rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#38BDF8;margin-bottom:16px;">Prompt strutturato con tag</div>
+        <div>
+          <span class="code-tag">&lt;cliente&gt;</span><br>
+          &nbsp;&nbsp;<span class="code-attr">&lt;nome&gt;</span><span class="code-val">Mario Rossi</span><span class="code-attr">&lt;/nome&gt;</span><br>
+          &nbsp;&nbsp;<span class="code-attr">&lt;tipo&gt;</span><span class="code-val">Business</span><span class="code-attr">&lt;/tipo&gt;</span><br>
+          &nbsp;&nbsp;<span class="code-attr">&lt;acquisto&gt;</span><span class="code-val">MacBook Pro 2023</span><span class="code-attr">&lt;/acquisto&gt;</span><br>
+          &nbsp;&nbsp;<span class="code-attr">&lt;problema&gt;</span><span class="code-val">Batteria difettosa</span><span class="code-attr">&lt;/problema&gt;</span><br>
+          <span class="code-tag">&lt;/cliente&gt;</span><br>
+          <span class="code-tag">&lt;istruzioni&gt;</span><br>
+          &nbsp;&nbsp;<span class="code-val">Scrivi una mail di scuse formale e proponi un rimborso o una sostituzione.</span><br>
+          <span class="code-tag">&lt;/istruzioni&gt;</span>
+        </div>
+      </div>
+      <div class="prose">
+        <p style="font-size:0.85rem;">Questa struttura aiuta sia il modello a comprendere meglio il contesto, sia l'utente a gestire e modificare facilmente il prompt nel tempo.</p>
+      </div>
+    </div>
+
+    <!-- TECNICA 5 -->
+    <div class="technique-block fade-up">
+      <div class="technique-header">
+        <div class="technique-num">5</div>
+        <h2 class="technique-title">Assegnare un ruolo al modello</h2>
+      </div>
+      <div class="prose">
+        <p>Uno dei metodi più potenti per migliorare le risposte è l'<strong>Act as Prompting</strong>, ovvero dire esplicitamente al modello di assumere un certo ruolo e di rispondere come se fosse quella persona o figura professionale. Questo modello è alla base di molti GPTs e, come è facilmente intuibile, modula notevolmente la forma della risposta. Più il ruolo è ben definito e i suoi compiti chiari, più questa tecnica risulta efficace.</p>
+      </div>
+      <div class="prompt-compare">
+        <div class="prompt-box prompt-box--before">
+          <div class="prompt-box-label">Senza ruolo</div>
+          <p>"Spiegami perché ci sono le maree."</p>
+        </div>
+        <div class="prompt-box prompt-box--after">
+          <div class="prompt-box-label">Con ruolo definito</div>
+          <p>"Sei un docente universitario di fisica con 20 anni di esperienza. Spiega perché ci sono le maree a un pubblico di studenti di ingegneria, usando un linguaggio tecnico e dettagliato."</p>
+        </div>
+      </div>
+      <div class="prompt-compare" style="margin-top:0;">
+        <div class="prompt-box prompt-box--after" style="grid-column:1/-1;">
+          <div class="prompt-box-label">Stesso tema, ruolo diverso</div>
+          <p>"Sei un maestro di scienze delle elementari. Spiega perché ci sono le maree ai tuoi alunni usando un linguaggio semplice e coinvolgente."</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- TECNICA 6 -->
+    <div class="technique-block fade-up">
+      <div class="technique-header">
+        <div class="technique-num">6</div>
+        <h2 class="technique-title">Iterare e migliorare il prompt</h2>
+      </div>
+      <div class="prose">
+        <p>Una delle migliori pratiche nel prompt engineering è non fermarsi alla prima risposta, ma raffinare il prompt iterativamente. Se l'output non è quello desiderato, si può migliorare il prompt appena dato in modo che lo rigeneri, o con una nuova richiesta che chieda di modificare la risposta aggiungendo, togliendo o specificando determinate informazioni.</p>
+      </div>
+      <div class="prompt-chain">
+        <div style="font-size:0.68rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#38BDF8;margin-bottom:18px;">Esempio di iterazione progressiva</div>
+        <div class="prompt-chain-item">
+          <div class="prompt-chain-tag">Prompt 1</div>
+          <div class="prompt-chain-text">"Scrivi un post LinkedIn motivazionale per i neolaureati in cerca di lavoro."</div>
+        </div>
+        <div class="prompt-chain-item">
+          <div class="prompt-chain-tag iteration">Iter. 1</div>
+          <div class="prompt-chain-text">"Riduci l'enfasi e rendi il tono più informale."</div>
+        </div>
+        <div class="prompt-chain-item">
+          <div class="prompt-chain-tag iteration">Iter. 2</div>
+          <div class="prompt-chain-text">"Passa dal 'lei' al 'tu' per rendere il messaggio più personale."</div>
+        </div>
+        <div class="prompt-chain-item" style="margin-bottom:0;">
+          <div class="prompt-chain-tag iteration">Iter. 3</div>
+          <div class="prompt-chain-text">"Sostituisci il termine 'resilienza' con 'antifragilità'."</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ROI -->
+    <div class="prose fade-up" style="margin-top:64px;">
+      <h2>Il ROI del Prompt Engineering: Dati Concreti</h2>
+      <p>Secondo un rapporto di McKinsey del 2023, le aziende che implementano efficacemente strategie di prompt engineering possono ottenere risultati misurabili e significativi:</p>
+    </div>
+
+    <div class="metric-strip fade-up delay-1" style="margin-bottom:8px;">
+      <div class="metric-box">
+        <div class="metric-box-val">40%</div>
+        <div class="metric-box-lbl">Riduzione dei tempi di elaborazione dei task</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-box-val">35%</div>
+        <div class="metric-box-lbl">Aumento della produttività dei team AI</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-box-val">$6,5M</div>
+        <div class="metric-box-lbl">Risparmio minimo stimato annuale (aziende 1.000+ dipendenti)</div>
+      </div>
+      <div class="metric-box">
+        <div class="metric-box-val">$10,5M</div>
+        <div class="metric-box-lbl">Risparmio massimo stimato annuale (aziende 1.000+ dipendenti)</div>
+      </div>
+    </div>
+    <p class="roi-source fade-up">Fonte: McKinsey &amp; Company, "Generative AI: Realizing the Productivity Potential" (2023)</p>
+
+    <div class="prose fade-up" style="margin-top:40px;">
+      <p>Le stime di Gartner prevedono che entro il 2026:</p>
+      <ul>
+        <li>Il 75% delle grandi aziende globali avrà implementato team dedicati al prompt engineering.</li>
+        <li>Nasceranno nuove figure professionali specializzate nella "AI Interaction Design".</li>
+        <li>Gli investimenti in formazione sul prompt engineering cresceranno del 50% anno su anno.</li>
+      </ul>
+    </div>
+
+    <!-- CASE STUDIES -->
+    <div class="prose fade-up" style="margin-top:48px;">
+      <h2>Casi Studio Reali</h2>
+      <p>Due esempi italiani documentati dall'Osservatorio Artificial Intelligence del Politecnico di Milano mostrano l'impatto concreto del prompt engineering applicato a processi aziendali critici.</p>
+    </div>
+
+    <div class="case-grid fade-up delay-1">
+      <div class="case-card">
+        <div class="case-card-company">UniCredit</div>
+        <div class="case-card-context">Analisi del rischio di credito con LLM e prompt engineering avanzato</div>
+        <div class="case-result">
+          <div class="case-result-val">4h</div>
+          <div class="case-result-desc">Tempo di valutazione delle pratiche (era: 3 giorni)</div>
+        </div>
+        <div class="case-result">
+          <div class="case-result-val">+17%</div>
+          <div class="case-result-desc">Precisione delle valutazioni (dal 72% all'89%)</div>
+        </div>
+        <div class="case-result">
+          <div class="case-result-val">€2,3M</div>
+          <div class="case-result-desc">Risparmio stimato annuale</div>
+        </div>
+      </div>
+      <div class="case-card">
+        <div class="case-card-company">Telecom Italia</div>
+        <div class="case-card-context">Customer service con modelli LLM e prompt engineering per gestione richieste</div>
+        <div class="case-result">
+          <div class="case-result-val">-60%</div>
+          <div class="case-result-desc">Riduzione dei tempi di risposta</div>
+        </div>
+        <div class="case-result">
+          <div class="case-result-val">+45%</div>
+          <div class="case-result-desc">Soddisfazione clienti</div>
+        </div>
+        <div class="case-result">
+          <div class="case-result-val">-35%</div>
+          <div class="case-result-desc">Costi operativi</div>
+        </div>
+      </div>
+    </div>
+    <p class="roi-source fade-up">Fonte: Osservatorio Artificial Intelligence del Politecnico di Milano (2023)</p>
+
+    <!-- CONCLUSIONE -->
+    <div class="prose fade-up" style="margin-top:56px;">
+      <h2>Conclusione</h2>
+      <p>Il prompt engineering è un'abilità essenziale per chiunque lavori con modelli LLM. Saper dare istruzioni chiare, strutturare i prompt in modo efficace e iterare per migliorare i risultati permette di ottenere risposte più precise, pertinenti e utili. Questa materia sempre più spesso sta diventando oggetto di studio universitario e parte dei programmi formativi, soprattutto per quei prompt complessi che richiedono l'integrazione di grandi quantità di dati con richieste di elaborazione molto sofisticate, dimostrando che il prompt engineering non è una moda passeggera, ma l'inizio di una rivoluzione nell'interazione uomo-macchina.</p>
+      <p>Secondo il World Economic Forum, entro il 2030 oltre il 60% delle professioni richiederanno competenze avanzate di interazione con sistemi di intelligenza artificiale.</p>
+
+      <div class="callout">
+        <p>Seguendo le strategie mostrate nell'articolo, è possibile iniziare ad avere un occhio critico sulla creazione dei propri prompt e intraprendere il percorso di apprendimento per sfruttare al meglio il potenziale dell'intelligenza artificiale, migliorando la qualità del lavoro e ottimizzando i processi dove le IA vengono implementate.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<section class="contact-section">
+  <div class="container">
+    <h2 class="contact-title">Integri l'AI nei tuoi processi?</h2>
+    <p class="contact-desc">Posso supportarti nella definizione di strategie AI e nell'ottimizzazione dei workflow basati su LLM.</p>
+    <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Contattami &rarr;</a>
+      <a href="../index.html#articles" class="btn btn-outline">Altri articoli</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">Gabriele Albanese</div>
+      <ul class="footer-links">
+        <li><a href="../index.html#about">Chi Sono</a></li>
+        <li><a href="../index.html#works">Progetti</a></li>
+        <li><a href="../index.html#articles">Articoli</a></li>
+        <li><a href="../index.html#contact">Contatti</a></li>
+      </ul>
+      <div class="footer-copy">&copy; 2025 Gabriele Albanese</div>
+    </div>
+  </div>
+</footer>
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

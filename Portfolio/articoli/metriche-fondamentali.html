@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Metriche Fondamentali per PM — Gabriele Albanese</title>
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#about">Chi Sono</a></li>
+      <li><a href="../index.html#skills">Competenze</a></li>
+      <li><a href="../index.html#works">Progetti</a></li>
+      <li><a href="../index.html#articles" class="active">Articoli</a></li>
+      <li><a href="../index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<div class="page-hero">
+  <div class="container">
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a><span>/</span>
+      <a href="../index.html#articles">Articoli</a><span>/</span>
+      <span style="color:#93c5fd;">Metriche per PM</span>
+    </div>
+    <div class="page-label">Product Management · Data Strategy</div>
+    <h1 class="page-title">Le Metriche Fondamentali per Product Manager</h1>
+    <p class="page-subtitle">Un approccio basato sui dati: dal framework AARRR al caso Netflix, passando per CAC, retention e LTV. Come smettere di misurare le cose sbagliate.</p>
+  </div>
+</div>
+
+<div class="content-block">
+  <div class="container">
+    <div class="prose fade-up">
+      <p>Le ricerche di McKinsey mostrano che le aziende data-driven hanno una probabilità <strong>23% maggiore di acquisire clienti</strong>. PwC rileva che le organizzazioni altamente orientate ai dati hanno tre volte più probabilità di migliorare i processi decisionali. Eppure la maggior parte dei team PM continua a misurare le cose sbagliate.</p>
+
+      <h2>Il Problema delle Vanity Metrics</h2>
+      <p>Prima di parlare di metriche utili, è necessario capire perché quelle superficiali sono pericolose. Due fallimenti storici lo dimostrano meglio di qualsiasi teoria:</p>
+      <ul>
+        <li><strong>Segway:</strong> prevedeva 10.000 unità/mese, ha venduto 24.000 in cinque anni. Il problema non era il prodotto — erano i test di usabilità che misuravano la curiosità, non l'intenzione d'acquisto reale.</li>
+        <li><strong>New Coke (Coca-Cola, 1985):</strong> superò ogni blind taste test rispetto alla formula originale. Ma nessuno aveva misurato il legame emotivo dei consumatori con il brand. Il lancio fu un disastro immediato.</li>
+      </ul>
+      <div class="callout"><p>"Non è che avevano i dati sbagliati. Avevano le domande sbagliate."</p></div>
+
+      <h2>Il Framework AARRR (Pirate Metrics)</h2>
+      <p>Dave McClure ha creato nel 2007 un framework che rimane insuperato per la sua semplicità operativa. Decompone il ciclo cliente in cinque fasi misurabili:</p>
+    </div>
+
+    <div class="chart-wrap fade-up delay-1" style="max-width:740px;">
+      <div class="chart-wrap-title">Framework AARRR — Ciclo di vita del cliente</div>
+      <canvas id="chartAARRR"></canvas>
+    </div>
+
+    <div class="prose fade-up">
+      <p>La potenza del framework AARRR sta nel fatto che ogni fase ha metriche discrete, responsabili chiari e leve di ottimizzazione specifiche. Un prodotto con ottima acquisition ma bassa activation ha un problema di onboarding. Un prodotto con ottima activation ma bassa retention ha un problema di valore continuativo.</p>
+
+      <h2>Customer Acquisition Cost: Attenzione alle Semplificazioni</h2>
+      <p>Il CAC è la metrica più citata e più mal interpretata in ambito PM. La formula sembra semplice: <strong>CAC = Costi totali di marketing / Nuovi clienti acquisiti</strong>. Il problema è che questa formula da sola non dice quasi nulla.</p>
+      <p>Quello che manca sistematicamente nella letteratura pubblica è il collegamento tra canale di acquisizione e retention a lungo termine. Un canale che genera 1000 nuovi clienti al mese con CAC €20 è peggiore di uno che ne genera 200 con CAC €80, se il primo produce churn al 70% nei primi 90 giorni e il secondo al 5%.</p>
+
+      <h3>Activation e i Primi 7 Giorni</h3>
+      <p>Dati Mixpanel su oltre 1,3 miliardi di utenti dimostrano che i <strong>primi 7 giorni determinano la retention a lungo termine</strong> con una correlazione più forte di qualsiasi altra variabile. Totango (SaaS, dataset anonimizzato) rileva:</p>
+      <ul>
+        <li>Chi completa l'onboarding in 24 ore: retention a 90 giorni del <strong>62%</strong></li>
+        <li>Chi impiega più tempo: retention a 90 giorni del <strong>41%</strong></li>
+      </ul>
+      <p>Implicazione pratica: investire sul time-to-value è spesso più efficace di qualsiasi campagna di re-engagement.</p>
+
+      <h3>Retention come Moltiplicatore di Profitto</h3>
+      <p>Bain & Company ha quantificato l'effetto: aumentare la retention del <strong>5% incrementa i profitti dal 25% al 95%</strong> a seconda del settore. Il motivo è matematico: un cliente fedele non solo paga di più nel tempo (LTV più alto), ma abbatte il CAC medio attraverso passaparola e referral organico.</p>
+
+      <h2>Case Study Netflix: Come Ridurre il CAC del 25% in 7 Anni</h2>
+      <p>Netflix ha ridotto il proprio CAC da $60 (2013) a $45 (2020) mentre cresceva da 30 a 200 milioni di abbonati. Il paradosso apparente — crescere e spendere meno per cliente — si spiega con quattro leve integrate:</p>
+    </div>
+
+    <div class="chart-wrap fade-up delay-1" style="max-width:740px;">
+      <div class="chart-wrap-title">Netflix — Evoluzione CAC stimato 2013–2020</div>
+      <canvas id="chartNetflix"></canvas>
+    </div>
+
+    <div class="prose fade-up">
+      <ul>
+        <li><strong>Algoritmo di raccomandazione (Cinematch → ML):</strong> Netflix stima che l'algoritmo faccia risparmiare $1 miliardo/anno riducendo il churn. Un utente che riceve raccomandazioni pertinenti rimane abbonato più a lungo, abbassando il CAC effettivo.</li>
+        <li><strong>Personalizzazione della homepage:</strong> ogni utente vede una diversa selezione basata sul suo comportamento. Il contenuto che vede l'utente 1 non è lo stesso dell'utente 2, anche se hanno profili demografici identici.</li>
+        <li><strong>Contenuti esclusivi:</strong> engagement 8x superiore rispetto ai contenuti acquisiti. House of Cards, Stranger Things e simili non sono solo produzione artistica — sono leve di acquisizione con effetto permanente (nessun competitor può replicarle).</li>
+        <li><strong>Pricing differenziato:</strong> in India il piano base costa $3/mese vs $9+ in USA. Massimizzazione della penetrazione nei mercati emergenti senza cannibalizzare i mercati premium.</li>
+      </ul>
+
+      <h2>Referral: Il Canale con CAC più Basso</h2>
+      <p>I programmi referral ben strutturati sono il canale con il CAC più basso perché sfruttano la fiducia preesistente tra persone. Tre dati concreti:</p>
+      <ul>
+        <li><strong>Dropbox:</strong> il programma referral (spazio gratuito in cambio di inviti) ha aumentato le iscrizioni del <strong>60% in 14 mesi</strong></li>
+        <li><strong>Nespresso:</strong> il modello razor-blade (macchina a basso costo, capsule ricorrenti) ha aumentato il Customer Lifetime Value del <strong>47%</strong></li>
+        <li><strong>Tesla:</strong> ha acquisito 1,3 milioni di clienti principalmente tramite referral strutturato, con CAC significativamente inferiore alla media automotive</li>
+      </ul>
+
+      <h2>Conclusioni Operative</h2>
+      <p>L'ottimizzazione del CAC richiede una visione integrata a lungo termine. Tre principi pratici:</p>
+      <ul>
+        <li><strong>Non ottimizzare il CAC in isolamento</strong> — sempre in relazione a LTV e churn rate del canale specifico</li>
+        <li><strong>Investire sull'activation</strong> prima di scalare l'acquisition — un utente che non attiva non diventa mai retention</li>
+        <li><strong>Costruire i cicli virtuosi</strong>: buona retention → più referral → CAC minore → budget liberato per migliorare il prodotto → retention migliore</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<section class="contact-section">
+  <div class="container">
+    <h2 class="contact-title">Parlami delle tue metriche</h2>
+    <p class="contact-desc">Posso aiutarti a identificare quali numeri stai misurando e quali dovresti misurare.</p>
+    <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Contattami &rarr;</a>
+      <a href="../index.html#articles" class="btn btn-outline">Altri articoli</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">Gabriele Albanese</div>
+      <ul class="footer-links">
+        <li><a href="../index.html#about">Chi Sono</a></li>
+        <li><a href="../index.html#works">Progetti</a></li>
+        <li><a href="../index.html#articles">Articoli</a></li>
+        <li><a href="../index.html#contact">Contatti</a></li>
+      </ul>
+      <div class="footer-copy">&copy; 2025 Gabriele Albanese</div>
+    </div>
+  </div>
+</footer>
+
+<script src="../assets/js/main.js"></script>
+<script>
+new Chart(document.getElementById('chartAARRR').getContext('2d'), {
+  type: 'bar',
+  data: {
+    labels: ['Acquisition', 'Activation', 'Retention', 'Revenue', 'Referral'],
+    datasets: [{
+      label: 'Tasso tipico (%)',
+      data: [100, 40, 25, 18, 8],
+      backgroundColor: [
+        'rgba(37,99,235,0.9)',
+        'rgba(37,99,235,0.75)',
+        'rgba(37,99,235,0.6)',
+        'rgba(37,99,235,0.45)',
+        'rgba(37,99,235,0.3)',
+      ],
+      borderRadius: 8,
+      borderWidth: 0,
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true,
+    plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => `${c.parsed.x}% degli utenti arriva a questa fase` } } },
+    scales: {
+      x: { beginAtZero: true, max: 110, ticks: { callback: v => v + '%' }, grid: { color: 'rgba(0,0,0,0.06)' } },
+      y: { grid: { display: false } }
+    }
+  }
+});
+
+new Chart(document.getElementById('chartNetflix').getContext('2d'), {
+  type: 'line',
+  data: {
+    labels: ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020'],
+    datasets: [{
+      label: 'CAC stimato ($)',
+      data: [60, 58, 55, 52, 50, 48, 46, 45],
+      borderColor: 'rgba(37,99,235,1)',
+      backgroundColor: 'rgba(37,99,235,0.1)',
+      fill: true,
+      tension: 0.4,
+      pointRadius: 5,
+      pointBackgroundColor: 'rgba(37,99,235,1)',
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => `CAC: $${c.parsed.y}` } } },
+    scales: {
+      y: { beginAtZero: false, min: 40, ticks: { callback: v => '$' + v }, grid: { color: 'rgba(0,0,0,0.06)' } },
+      x: { grid: { display: false } }
+    }
+  }
+});
+</script>
+</body>
+</html>

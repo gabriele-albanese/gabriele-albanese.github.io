@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Data Mining dai Social Media — Gabriele Albanese</title>
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <style>
+    @keyframes livepulse {
+      0%,100% { box-shadow: 0 0 0 3px rgba(16,185,129,0.25); }
+      50%      { box-shadow: 0 0 0 7px rgba(16,185,129,0.08); }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#about">Chi Sono</a></li>
+      <li><a href="../index.html#skills">Competenze</a></li>
+      <li><a href="../index.html#works">Progetti</a></li>
+      <li><a href="../index.html#articles" class="active">Articoli</a></li>
+      <li><a href="../index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<div class="page-hero" style="position:relative;background: linear-gradient(160deg, rgba(6,37,51,0.97) 0%, rgba(6,37,51,0.88) 28%, rgba(14,116,144,0.68) 58%, rgba(9,80,100,0.86) 80%, rgba(6,37,51,0.95) 100%), url('https://images.unsplash.com/photo-1644088379091-d574269d422f?fm=jpg&q=85&w=1920&auto=format&fit=crop') center/cover no-repeat;">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a><span>/</span>
+      <a href="../index.html#articles">Articoli</a><span>/</span>
+      <span style="color:#93c5fd;">Data Mining Social Media</span>
+    </div>
+    <div class="page-label">Data Science · Social Intelligence</div>
+    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Ottobre 2022</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Data Mining dai Social Media:<br>Analisi e Visione Critica</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Metodologie, limiti e applicazioni pratiche del social data mining — con un case study reale su sentiment analysis da Reddit.</p>
+  </div>
+  <div style="position:absolute;bottom:-1px;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,#FAFAF8);pointer-events:none;z-index:2;"></div>
+</div>
+
+<div class="content-block">
+  <div class="container">
+    <div class="prose fade-up">
+
+      <h2>Introduzione: La Rivoluzione dei Dati Sociali</h2>
+      <p>Le aziende spendono budget significativi per acquistare dati dai social media convinte di ottenere un vantaggio competitivo. Raramente si chiedono cosa stiano davvero comprando, e soprattutto cosa le piattaforme stiano scegliendo di non vendere. La differenza tra questi due insiemi è spesso la parte più strategicamente rilevante.</p>
+      <p>Come Product Manager con esperienza diretta in progetti data-driven, ho navigato questo ecosistema in profondità, delineando un panorama di opportunità concrete, sfide tecniche e considerazioni che influenzano profondamente le decisioni aziendali.</p>
+
+      <h2>Metodologie Avanzate di Social Data Acquisition</h2>
+
+      <h3>1. API Ufficiali: L'Accesso Regolamentato</h3>
+      <p>Le Application Programming Interfaces (API) rappresentano il metodo più trasparente e conforme per accedere ai dati dei social media. Piattaforme come Twitter (X), Facebook e LinkedIn offrono API con diversi livelli di accesso:</p>
+      <ul>
+        <li><strong>API Standard/Free:</strong> Generalmente molto limitate in termini di volume (analizza le token nella query) e quantità totale/frequenza di richieste. Fornisce dati recenti non consentendo l'accesso ai dati storici, o di profilazione degli account.</li>
+        <li><strong>API Premium/Enterprise:</strong> Offrono accesso a dati storici più estesi e maggiori quote di richieste, con costi proporzionali al volume.</li>
+      </ul>
+
+      <h3>2. Web Scraping: L'Approccio Alternativo</h3>
+      <p>Quando le limitazioni delle API ostacolano l'acquisizione dati, il web scraping rappresenta un'alternativa tecnica da considerare:</p>
+      <ul>
+        <li><strong>Crawler personalizzati:</strong> Script programmati per navigare e raccogliere dati specifici</li>
+        <li><strong>Piattaforme specializzate:</strong> Strumenti come Octoparse e Apify che riducono la complessità tecnica mantenendo flessibilità operativa</li>
+      </ul>
+
+      <h3>3. Data Provider Specializzati</h3>
+      <p>Il panorama include provider che offrono soluzioni integrate per la Social Data Intelligence:</p>
+      <ul>
+        <li><strong>Piattaforme di social listening:</strong> Brandwatch, Sprinklr e Hootsuite Insights che combinano accesso ai dati con capacità analitiche</li>
+        <li><strong>Data reseller certificati:</strong> Partner autorizzati con accordi diretti per la distribuzione regolamentata di dataset conformi</li>
+      </ul>
+
+      <h2>La complessità del panorama attuale: Costi, Limitazioni e Sfide</h2>
+      <p>Il panorama del social data mining è caratterizzato da crescenti complessità e fattori critici che richiedono un'attenta analisi oltre che un approccio strategico.</p>
+      <p>Primo elemento da prendere in considerazione sono le sfide comportamentali e la conseguente rappresentatività dei dati. Le ricerche recenti documentano una crescente reticenza degli utenti nell'esprimere opinioni genuine sui social media. Questo fenomeno, noto come la "spirale del silenzio", è un concetto ben documentato che spiega come la percezione di non avere opinioni condivise possa portare gli individui a ritrarsi dal discutere certi argomenti in pubblico, sia online che di persona. Ad esempio, uno studio del Pew Research Center ha rilevato che la propensione a partecipare a discussioni sui social media diminuisce quando gli utenti credono che le loro reti non condividano determinate opinioni su determinati argomenti. Questa sorta di autocensura preventiva crea bias sistematici nei dataset che richiedono metodologie correttive avanzate.</p>
+      <p>Vanno anche considerate le diverse modalità con cui le varie fasce d'età interagiscono con le piattaforme social. Inoltre, i costi e le limitazioni tecniche, come il prezzo delle API Enterprise e le difficoltà legate al data crawling dei dati a causa di CAPTCHA e blocchi IP, complicano ulteriormente l'estrazione e l'analisi di queste opinioni.</p>
+      <p>Queste barriere sono aggravate ulteriormente da un panorama normativo in continua evoluzione, che impone sempre nuove restrizioni sull'accesso e l'utilizzo dei dati raccolti dai social media. Vanno inoltre segnalate le politiche interne di alcune importanti piattaforme ulteriormente restrittive come il caso di Facebook dopo il caso Cambridge Analytica.</p>
+
+      <h2>Applicazioni Strategiche: Dove il Data Scraping viene utilizzato maggiormente</h2>
+
+      <h3>1. Analisi Politica e Opinione Pubblica</h3>
+      <p>Un data scraping attento e mirato risulta ancora incisivo nell'analisi politica permettendo di:</p>
+      <ul>
+        <li><strong>Analizzare il sentiment in tempo reale:</strong> Monitoraggio continuo della percezione pubblica su temi e candidati</li>
+        <li><strong>Rilevare precocemente temi:</strong> Identificazione di temi nascenti con potenziale impatto sul dibattito pubblico</li>
+        <li><strong>Microtargeting comunicativo:</strong> Personalizzazione granulare dei messaggi basata su segmentazione avanzata (solo attraverso API)</li>
+      </ul>
+
+      <h3>2. Fast-Moving Consumer Goods (FMCG)</h3>
+      <p>Per le aziende di beni di largo consumo, i social media fungono da laboratorio di ricerca continuo:</p>
+      <ul>
+        <li><strong>Cicli di feedback accelerati:</strong> Raccolta e analisi immediata alle dinamiche di mercato</li>
+        <li><strong>Intelligence competitiva:</strong> Mappatura della percezione dei brand concorrenti</li>
+        <li><strong>Trend forecasting:</strong> Identificazione precoce di tendenze emergenti come driver di innovazione</li>
+      </ul>
+
+      <h2>Il Presente e il Futuro del Data Scraping</h2>
+      <p>Ritengo che sempre più spesso, in molti settori, si possa intravedere il rischio di una vera e propria concorrenza – peraltro asimmetrica – da parte delle grandi società che controllano i principali social network. È lecito domandarsi se, in alcuni casi, queste piattaforme possano riservarsi l'accesso esclusivo ai dati più significativi – ovvero quelli a maggior valore strategico – impiegandoli internamente o condividendoli solo con partner selezionati operanti in aree sinergiche ai propri interessi commerciali. Parallelamente, potrebbero scegliere di rendere disponibili sul mercato soltanto set di dati meno rilevanti e/o parziali, oppure riferiti a settori distanti dal proprio core business, a costi comunque esosi.</p>
+      <p>Tali considerazioni trovano riscontro nella persistente opacità che caratterizza le politiche di trattamento, selezione e aggregazione dei dati venduti. Nella documentazione di riferimento mancano spesso indicazioni esaustive e puntuali sui criteri di costruzione dei dataset, e non vengono fornite rassicurazioni concrete su come si evitino distorsioni o filtraggi potenzialmente orientati. In assenza di reali garanzie, si apre così la possibilità che gli insight forniti riflettano visioni parziali o influenzate da logiche non del tutto neutre, sollevando interrogativi sulla reale affidabilità di tali fonti per decisioni strategiche di terzi.</p>
+
+      <h2>Verso una Data Intelligence Etica e Sostenibile</h2>
+      <p>In conclusione credo che ci sia la necessità di porsi molte domande prima di decidere se acquistare o meno dati provenienti da queste fonti. C'è necessità di riflettere sulla significatività, sulla rappresentatività e non per ultimo sulla reale possibilità che gli stessi dati siano talvolta volutamente frammentati. Una riflessione va fatta anche sulla mancanza di trasparenza dei processi che subiscono questi dati nella loro raccolta ed elaborazione.</p>
+      <p>Credo inoltre che la vera innovazione, per la maggioranza delle aziende, non risieda nell'accumulazione indiscriminata di enormi moli dati, ma nella "tailorizzazione", nella personalizzazione di una costruzione delle relazioni di fiducia con gli utenti e nello sviluppo di metodologie che generino insight autentici e rappresentativi per una data azienda, su cui poi affidare le scelte strategiche nella pratica professionale. Come al solito ciò che si ottiene molto facilmente e pagando spesso non è la soluzione adeguata.</p>
+
+      <p>Acquistare un dataset preconfezionato sembra la scelta efficiente: migliaia di record pronti, dashboard inclusa, report in 48 ore. Ma c'è un costo nascosto che non appare in nessuna fattura: la perdita di controllo su cosa quei dati contengono e, soprattutto, su cosa escludono.</p>
+      <p>Nessun provider documenta davvero i criteri con cui ha costruito il dataset che ti sta vendendo. Quali conversazioni sono state incluse e quali no. Quale soglia minima di engagement. Se certi sentiment negativi sono stati aggregati in modo da risultare statisticamente irrilevanti. Non per malafede necessariamente, ma perché quella documentazione non è nel loro interesse commerciale produrla, e non è nel tuo potere contrattuale esigerla.</p>
+      <p>Il tool costruito per analizzare il sentiment su Alexa da Reddit produce meno dati. Molto meno. Ma produce qualcosa che nessun dataset acquistato può garantire: la piena tracciabilità delle scelte metodologiche. Si sa che mancano i dati storici oltre il limite API, e si sa perché mancano: un vincolo tecnico dichiarato, non una selezione editoriale opaca. Si sa che i 219 record sono stati scelti per engagement e non estratti casualmente. Si sa che i 24 trovati nella fase di verifica erano per l'80% sentiment negativi su un tema specifico, e si sa che quella distribuzione non è un artefatto del metodo ma un segnale reale.</p>
+      <p><strong>Meno dati, più controllo.</strong> In un contesto decisionale, sapere i limiti precisi di ciò che si sta misurando vale più di una mole di dati di cui non si capisce la provenienza.</p>
+
+      <h2>Case: Analisi del Sentiment su Alexa da Reddit</h2>
+      <p style="font-weight:700;font-size:1.05rem;">Dati, Hype e Intelligenza Artificiale</p>
+
+      <h3>Introduzione</h3>
+      <p>Le opinioni contano, ma solo se sai quali ascoltare. Per questo ho sviluppato un bot avanzato in Python che non si limita a usare le API di Reddit, ma include diversi metodi per raccogliere e analizzare solo i commenti più rilevanti su Alexa.</p>
+
+      <h3>Come funziona?</h3>
+
+      <h4 style="font-size:1rem;font-weight:700;margin-top:20px;">1. Raccolta Intelligente</h4>
+      <p>Le API Free di Reddit hanno un limite di 1000 record, quindi ho implementato un sistema di filtraggio avanzato che seleziona i post con il massimo hype: quelli con più commenti, upvote e interazioni, per ottenere solo i contenuti più significativi.</p>
+
+      <h4 style="font-size:1rem;font-weight:700;margin-top:20px;">2. Analisi del Sentiment</h4>
+      <p>Grazie a VADER (Valence Aware Dictionary and sEntiment Reasoner), il bot analizza ogni thread e ogni commento, ne classifica il tono in positivo, negativo o neutro, interpretando il linguaggio naturale in modo efficace. Viene poi ulteriormente filtrato attraverso un LLM per valutare eventuali sarcasmi e linguaggi gergali.</p>
+
+      <h4 style="font-size:1rem;font-weight:700;margin-top:20px;">3. Elaborazione &amp; Insight</h4>
+      <p>I dati vengono strutturati in una tabella, pronti per analisi strategiche e ulteriori approfondimenti.</p>
+
+      <h3>Perché questo esempio?</h3>
+      <p>Ho scelto di creare questo esempio per mostrare una parte di quello che è ancora possibile fare in modo gratuito grazie alle intelligenze artificiali e come per il momento sia ancora possibile ottenere dati in modo gratuito, sfruttando qualche funzione avanzata e cercando di ridurre al minimo i limiti citati nell'articolo.</p>
+      <div class="callout">
+        <p>Interessante è scoprire che le API, nella prima ricerca (iniziale) hanno prodotto 219 risultati affidabili e diverse ulteriori ricerche per convalidare i dati hanno invece trovato gli stessi 219 risultati e ulteriori 24 che complessivamente risultano più completi e dettagliati. I 24 risultati trovati in fase di verifica, erano per l'80% c.a. sentiment negativi, che venivano argomentati con critiche all'ecosistema sulla mancanza di integrabilità o particolare complessità di integrazione con dispositivi specifici.</p>
+      </div>
+      <p>La scelta metodologica di fondo è stata usare le API ufficiali di Reddit. Non per mancanza di alternative tecniche, ma perché per un'analisi pubblicabile e replicabile la conformità alle policy della piattaforma non è opzionale. Il web scraping avrebbe fornito più dati, ma non citabili, non riproducibili e legalmente esposti.</p>
+
+    </div>
+
+    <!-- Dashboard Looker Studio -->
+    <div class="fade-up delay-1" style="margin-top:48px;margin-bottom:48px;">
+      <div class="section-label" style="margin-bottom:8px;">Dashboard Interattiva · Aggiornamento in tempo reale</div>
+      <h3 style="font-size:1.25rem;font-weight:800;margin-bottom:6px;">Distribuzione Sentiment: Amazon Alexa su Reddit</h3>
+      <p style="font-size:0.9rem;color:var(--muted);margin-bottom:20px;font-style:italic;">*Il grafico è a solo scopo d'esempio e volutamente non dettaglia le aree specifiche delle critiche né i pregi più apprezzati, al fine di non violare le norme e le policy di utilizzo delle API Free.</p>
+      <div id="looker-wrap" style="position:relative;width:100%;border-radius:16px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,0.10);border:1px solid rgba(0,0,0,0.06);background:#fff;">
+        <!-- barra header -->
+        <div style="display:flex;align-items:center;gap:10px;padding:11px 18px;background:#f8fafc;border-bottom:1px solid rgba(0,0,0,0.07);">
+          <span style="width:9px;height:9px;border-radius:50%;background:#10b981;display:inline-block;animation:livepulse 2s infinite;flex-shrink:0;"></span>
+          <span style="font-size:0.75rem;font-weight:700;color:#64748b;letter-spacing:0.06em;text-transform:uppercase;">Live Sentiment Alexa</span>
+          <span id="looker-hint" style="margin-left:auto;font-size:0.75rem;color:#94a3b8;transition:opacity .3s;">Clicca per interagire</span>
+        </div>
+        <!-- overlay: cattura lo scroll finché non si clicca -->
+        <div id="looker-overlay" style="position:absolute;top:44px;left:0;width:100%;height:calc(100% - 44px);z-index:2;cursor:pointer;background:transparent;" title="Clicca per interagire con la dashboard"></div>
+        <iframe
+          id="looker-iframe"
+          src="https://lookerstudio.google.com/embed/reporting/fb09e7be-22de-414b-ac87-eb038d9db295/page/R6U0E"
+          frameborder="0"
+          style="border:0;width:100%;height:700px;display:block;"
+          allowfullscreen
+          sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox">
+        </iframe>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+
+      <h3>Il Risultato: Un Approccio Metodologico Integrato</h3>
+      <p>L'esperimento condotto sul sentiment riguardo Alexa attraverso l'analisi dei dati Reddit evidenzia un aspetto cruciale. La necessità di metodologie di acquisizione dati multi-fonte e cross-referenziate. Inizialmente, le API standard hanno restituito 219 risultati affidabili. Successive analisi comparative hanno confermato i dati estratti iniziali, ma hanno arricchito il dataset con ulteriori 24 entry altamente significative, portando a una visione più completa e sfaccettata.</p>
+      <p>Questo approccio multi-metodologico dimostra un principio fondamentale: nessuna singola fonte di dati può considerarsi esaustiva o completamente neutrale. L'integrazione di diverse metodologie di acquisizione consente di:</p>
+      <ul>
+        <li>Superare i limiti intrinseci delle singole piattaforme</li>
+        <li>Ridurre il rischio di bias sistematici</li>
+        <li>Ottenere un quadro più rappresentativo e articolato</li>
+      </ul>
+      <p>Con poche ore di lavoro e una combinazione di competenze in programmazione e analisi dei dati, è stato possibile sviluppare un sistema di data intelligence, autonomo e che si modifica e si aggiorna costantemente ed autonomamente, che va oltre il semplice data scraping, mirando a una comprensione più profonda e critica dei dati raccolti.</p>
+      <p>L'obiettivo non è l'accumulo indiscriminato di informazioni, ma la generazione di insight strategici che possano realmente supportare decisioni di product management, sempre mantenendo un approccio etico e consapevole dei limiti delle fonti di dati.</p>
+
+    </div>
+
+  </div>
+</div>
+
+<section class="contact-section">
+  <div class="container">
+    <h2 class="contact-title">Hai un progetto data-driven?</h2>
+    <p class="contact-desc">Posso aiutarti a strutturare analisi di mercato basate su dati reali.</p>
+    <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Contattami &rarr;</a>
+      <a href="../index.html#articles" class="btn btn-outline">Altri articoli</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">Gabriele Albanese</div>
+      <ul class="footer-links">
+        <li><a href="../index.html#about">Chi Sono</a></li>
+        <li><a href="../index.html#works">Progetti</a></li>
+        <li><a href="../index.html#articles">Articoli</a></li>
+        <li><a href="../index.html#contact">Contatti</a></li>
+      </ul>
+      <div class="footer-copy">&copy; 2025 Gabriele Albanese</div>
+    </div>
+  </div>
+</footer>
+
+<script src="../assets/js/main.js"></script>
+<script>
+(function () {
+  var wrap    = document.getElementById('looker-wrap');
+  var overlay = document.getElementById('looker-overlay');
+  var hint    = document.getElementById('looker-hint');
+  if (!overlay) return;
+
+  // Clic sull'overlay: nascondilo per permettere l'interazione con l'iframe
+  overlay.addEventListener('click', function () {
+    overlay.style.display = 'none';
+    if (hint) hint.textContent = 'Scorri fuori per uscire';
+  });
+
+  // Quando il mouse esce dal contenitore, ripristina l'overlay
+  wrap.addEventListener('mouseleave', function () {
+    overlay.style.display = '';
+    if (hint) hint.textContent = 'Clicca per interagire';
+  });
+})();
+</script>
+</body>
+</html>

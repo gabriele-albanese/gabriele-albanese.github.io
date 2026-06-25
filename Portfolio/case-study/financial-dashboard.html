@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Finanziaria — NeuroDrill Pro</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+  <style>
+    :root {
+      --primary: #0E7490;
+      --primary-light: rgba(14,116,144,0.12);
+      --green: #10b981;
+      --red: #ef4444;
+      --orange: #f59e0b;
+      --bg: #FAFAF8;
+      --surface: #ffffff;
+      --border: #e5e7eb;
+      --text: #111827;
+      --text-muted: #6b7280;
+      --radius: 10px;
+      --font: 'Segoe UI', system-ui, sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: var(--font); background: var(--bg); color: var(--text); padding: 24px 20px; }
+
+    .fin-header { text-align: center; margin-bottom: 24px; }
+    .fin-header h2 { font-size: 1.15rem; font-weight: 800; color: var(--primary); }
+    .fin-header p { font-size: 0.82rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* Scenario selector */
+    .scenario-selector { display: flex; justify-content: center; gap: 10px; margin-bottom: 28px; flex-wrap: wrap; }
+    .scenario-btn {
+      padding: 9px 22px; border: 2px solid var(--border); border-radius: 30px;
+      background: var(--surface); color: var(--text-muted); font-weight: 600;
+      font-size: 0.85rem; cursor: pointer; transition: all 0.25s;
+    }
+    .scenario-btn:hover { border-color: var(--primary); color: var(--primary); }
+    .scenario-btn.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+
+    /* KPI strip */
+    .kpi-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 24px; }
+    .kpi-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px 20px; text-align: center; }
+    .kpi-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); margin-bottom: 6px; }
+    .kpi-value { font-size: 1.75rem; font-weight: 800; color: var(--primary); }
+    .kpi-card.positive .kpi-value { color: var(--green); }
+
+    /* Charts grid */
+    .charts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-bottom: 16px; }
+    .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; }
+    .chart-card-title { font-size: 0.87rem; font-weight: 700; color: var(--primary); margin-bottom: 14px; }
+    .chart-wrap { height: 240px; position: relative; }
+
+    /* Cost table */
+    .cost-table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+    .cost-table th, .cost-table td { padding: 9px 10px; text-align: left; border-bottom: 1px solid var(--border); }
+    .cost-table th { background: var(--bg); color: var(--primary); font-weight: 700; font-size: 0.78rem; text-transform: uppercase; letter-spacing: .04em; }
+    .cost-table tr:last-child td { font-weight: 700; border-bottom: none; color: var(--text); }
+    .cost-table td:last-child { text-align: right; }
+
+    /* Scenario content visibility */
+    .scenario-content { display: none; }
+    .scenario-content.active { display: block; }
+
+    @media (max-width: 640px) {
+      .kpi-strip { grid-template-columns: 1fr; }
+      .charts-grid { grid-template-columns: 1fr; }
+      .kpi-value { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="fin-header">
+    <h2>Dashboard Finanziaria — Business Case NeuroDrill Pro</h2>
+    <p>Investimento totale: €6.182.800 &nbsp;·&nbsp; Orizzonte: 10 anni &nbsp;·&nbsp; Seleziona uno scenario</p>
+  </div>
+
+  <div class="scenario-selector">
+    <button class="scenario-btn" id="btn-pessimistico">Scenario Pessimistico</button>
+    <button class="scenario-btn active" id="btn-medio">Scenario Medio</button>
+    <button class="scenario-btn" id="btn-ottimistico">Scenario Ottimistico</button>
+  </div>
+
+  <!-- PESSIMISTICO -->
+  <div class="scenario-content" id="scenario-pessimistico">
+    <div class="kpi-strip">
+      <div class="kpi-card positive"><div class="kpi-label">ROI</div><div class="kpi-value">246,98%</div></div>
+      <div class="kpi-card positive"><div class="kpi-label">IRR</div><div class="kpi-value">26,92%</div></div>
+      <div class="kpi-card positive"><div class="kpi-label">Cashflow Anno 10</div><div class="kpi-value">€5,70M</div></div>
+    </div>
+    <div class="charts-grid">
+      <div class="chart-card"><div class="chart-card-title">Andamento Cassa nel Tempo</div><div class="chart-wrap"><canvas id="cf-pess"></canvas></div></div>
+      <div class="chart-card"><div class="chart-card-title">Vendite Prodotti (media annua)</div><div class="chart-wrap"><canvas id="prod-pess"></canvas></div></div>
+      <div class="chart-card">
+        <div class="chart-card-title">Costi &amp; Investimenti</div>
+        <table class="cost-table">
+          <thead><tr><th>Categoria</th><th>Costo (€)</th></tr></thead>
+          <tbody>
+            <tr><td>Ricerca e Prototipazione</td><td>1.177.800</td></tr>
+            <tr><td>Operations</td><td>3.325.000</td></tr>
+            <tr><td>Operations Frese</td><td>380.000</td></tr>
+            <tr><td>Marketing e Lancio</td><td>1.300.000</td></tr>
+            <tr><td>Investimento Totale</td><td>6.182.800</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="chart-card"><div class="chart-card-title">Margini per Prodotto (€)</div><div class="chart-wrap"><canvas id="marg-pess"></canvas></div></div>
+    </div>
+  </div>
+
+  <!-- MEDIO -->
+  <div class="scenario-content active" id="scenario-medio">
+    <div class="kpi-strip">
+      <div class="kpi-card positive"><div class="kpi-label">ROI</div><div class="kpi-value">448,86%</div></div>
+      <div class="kpi-card positive"><div class="kpi-label">IRR</div><div class="kpi-value">49,63%</div></div>
+      <div class="kpi-card positive"><div class="kpi-label">Cashflow Anno 10</div><div class="kpi-value">€8,36M</div></div>
+    </div>
+    <div class="charts-grid">
+      <div class="chart-card"><div class="chart-card-title">Andamento Cassa nel Tempo</div><div class="chart-wrap"><canvas id="cf-med"></canvas></div></div>
+      <div class="chart-card"><div class="chart-card-title">Vendite Prodotti (media annua)</div><div class="chart-wrap"><canvas id="prod-med"></canvas></div></div>
+      <div class="chart-card">
+        <div class="chart-card-title">Costi &amp; Investimenti</div>
+        <table class="cost-table">
+          <thead><tr><th>Categoria</th><th>Costo (€)</th></tr></thead>
+          <tbody>
+            <tr><td>Ricerca e Prototipazione</td><td>1.177.800</td></tr>
+            <tr><td>Operations</td><td>3.325.000</td></tr>
+            <tr><td>Operations Frese</td><td>380.000</td></tr>
+            <tr><td>Marketing e Lancio</td><td>1.300.000</td></tr>
+            <tr><td>Investimento Totale</td><td>6.182.800</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="chart-card"><div class="chart-card-title">Margini per Prodotto (€)</div><div class="chart-wrap"><canvas id="marg-med"></canvas></div></div>
+    </div>
+  </div>
+
+  <!-- OTTIMISTICO -->
+  <div class="scenario-content" id="scenario-ottimistico">
+    <div class="kpi-strip">
+      <div class="kpi-card positive"><div class="kpi-label">ROI</div><div class="kpi-value">720,95%</div></div>
+      <div class="kpi-card positive"><div class="kpi-label">IRR</div><div class="kpi-value">92,23%</div></div>
+      <div class="kpi-card positive"><div class="kpi-label">Cashflow Anno 10</div><div class="kpi-value">€13,64M</div></div>
+    </div>
+    <div class="charts-grid">
+      <div class="chart-card"><div class="chart-card-title">Andamento Cassa nel Tempo</div><div class="chart-wrap"><canvas id="cf-ott"></canvas></div></div>
+      <div class="chart-card"><div class="chart-card-title">Vendite Prodotti (media annua)</div><div class="chart-wrap"><canvas id="prod-ott"></canvas></div></div>
+      <div class="chart-card">
+        <div class="chart-card-title">Costi &amp; Investimenti</div>
+        <table class="cost-table">
+          <thead><tr><th>Categoria</th><th>Costo (€)</th></tr></thead>
+          <tbody>
+            <tr><td>Ricerca e Prototipazione</td><td>1.177.800</td></tr>
+            <tr><td>Operations</td><td>3.325.000</td></tr>
+            <tr><td>Operations Frese</td><td>380.000</td></tr>
+            <tr><td>Marketing e Lancio</td><td>1.300.000</td></tr>
+            <tr><td>Investimento Totale</td><td>6.182.800</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="chart-card"><div class="chart-card-title">Margini per Prodotto (€)</div><div class="chart-wrap"><canvas id="marg-ott"></canvas></div></div>
+    </div>
+  </div>
+
+  <script>
+    // Scenario switch
+    document.querySelectorAll('.scenario-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        document.querySelectorAll('.scenario-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        document.querySelectorAll('.scenario-content').forEach(c => c.classList.remove('active'));
+        document.getElementById('scenario-' + this.id.split('-')[1]).classList.add('active');
+      });
+    });
+
+    const LABELS_ANNI = ['Anno 0','Anno 1','Anno 2','Anno 3','Anno 4','Anno 5','Anno 6','Anno 7','Anno 8','Anno 9','Anno 10'];
+    const COLORS_PROD = ['rgba(14,116,144,0.8)','rgba(99,102,241,0.75)','rgba(16,185,129,0.75)','rgba(245,158,11,0.75)','rgba(239,68,68,0.75)'];
+    const COLORS_MARG = ['rgba(14,116,144,0.8)','rgba(239,68,68,0.7)','rgba(16,185,129,0.75)'];
+    const lineOpts = { responsive:true, maintainAspectRatio:false, plugins:{legend:{position:'top',labels:{font:{size:11}}}}, scales:{ y:{beginAtZero:false,ticks:{callback:v=>v+'M€'}}, x:{grid:{display:false}} } };
+    const barOptH  = { indexAxis:'y', responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}}, scales:{x:{grid:{color:'rgba(0,0,0,0.05)'}},y:{grid:{display:false}}} };
+    const barOptV  = { responsive:true, maintainAspectRatio:false, plugins:{legend:{position:'top',labels:{font:{size:10}}}}, scales:{x:{grid:{display:false}},y:{grid:{color:'rgba(0,0,0,0.05)'}}} };
+
+    // PESSIMISTICO
+    new Chart(document.getElementById('cf-pess'), { type:'line', data:{ labels:LABELS_ANNI, datasets:[{ label:'Cashflow cumulativo (M€)', data:[-5.80,-0.82,0.07,0.93,3.58,3.60,3.45,4.36,4.35,5.67,5.70], borderColor:'rgba(14,116,144,1)', backgroundColor:'rgba(14,116,144,0.08)', fill:true, tension:0.35, pointRadius:4, pointBackgroundColor:'rgba(14,116,144,1)' }] }, options:lineOpts });
+    new Chart(document.getElementById('prod-pess'), { type:'bar', data:{ labels:['Centralina','BEE','VECTOR','SIL','Handpiece Set'], datasets:[{ label:'Vendite medie annuali', data:[86,88,63,50,88], backgroundColor:COLORS_PROD, borderRadius:5 }] }, options:barOptH });
+    new Chart(document.getElementById('marg-pess'), { type:'bar', data:{ labels:['Centralina','BEE','VECTOR','SIL','Fresa','Handpiece'], datasets:[ { label:'Prezzo (€)', data:[5500,5000,8000,10000,68,1500], backgroundColor:COLORS_MARG[0], borderRadius:4 }, { label:'Costo (€)', data:[2850,1900,2375,2375,22.8,535], backgroundColor:COLORS_MARG[1], borderRadius:4 }, { label:'Margine (€)', data:[2650,3100,5625,7625,45.2,965], backgroundColor:COLORS_MARG[2], borderRadius:4 } ] }, options:barOptV });
+
+    // MEDIO
+    new Chart(document.getElementById('cf-med'), { type:'line', data:{ labels:LABELS_ANNI, datasets:[{ label:'Cashflow cumulativo (M€)', data:[-5.80,-0.18,3.05,3.99,4.80,5.91,6.50,6.43,7.80,7.95,8.36], borderColor:'rgba(14,116,144,1)', backgroundColor:'rgba(14,116,144,0.08)', fill:true, tension:0.35, pointRadius:4, pointBackgroundColor:'rgba(14,116,144,1)' }] }, options:lineOpts });
+    new Chart(document.getElementById('prod-med'), { type:'bar', data:{ labels:['Centralina','BEE','VECTOR','SIL','Handpiece Set'], datasets:[{ label:'Vendite medie annuali', data:[74,181.5,180.5,169.5,182], backgroundColor:COLORS_PROD, borderRadius:5 }] }, options:barOptH });
+    new Chart(document.getElementById('marg-med'), { type:'bar', data:{ labels:['Centralina','BEE','VECTOR','SIL','Fresa','Handpiece'], datasets:[ { label:'Prezzo (€)', data:[5500,6000,10000,12500,68,1500], backgroundColor:COLORS_MARG[0], borderRadius:4 }, { label:'Costo (€)', data:[2850,1900,2375,2375,22.8,535], backgroundColor:COLORS_MARG[1], borderRadius:4 }, { label:'Margine (€)', data:[2650,4100,7625,10125,45.2,965], backgroundColor:COLORS_MARG[2], borderRadius:4 } ] }, options:barOptV });
+
+    // OTTIMISTICO
+    new Chart(document.getElementById('cf-ott'), { type:'line', data:{ labels:LABELS_ANNI, datasets:[{ label:'Cashflow cumulativo (M€)', data:[-5.80,3.54,5.64,6.94,9.07,9.67,9.91,10.90,11.66,15.59,13.64], borderColor:'rgba(14,116,144,1)', backgroundColor:'rgba(14,116,144,0.08)', fill:true, tension:0.35, pointRadius:4, pointBackgroundColor:'rgba(14,116,144,1)' }] }, options:lineOpts });
+    new Chart(document.getElementById('prod-ott'), { type:'bar', data:{ labels:['Centralina','BEE','VECTOR','SIL','Handpiece Set'], datasets:[{ label:'Vendite medie annuali', data:[104,203,203,203,203], backgroundColor:COLORS_PROD, borderRadius:5 }] }, options:barOptH });
+    new Chart(document.getElementById('marg-ott'), { type:'bar', data:{ labels:['Centralina','BEE','VECTOR','SIL','Fresa','Handpiece'], datasets:[ { label:'Prezzo (€)', data:[5500,7000,12000,15000,68,1500], backgroundColor:COLORS_MARG[0], borderRadius:4 }, { label:'Costo (€)', data:[2850,1900,2375,2375,22.8,535], backgroundColor:COLORS_MARG[1], borderRadius:4 }, { label:'Margine (€)', data:[2650,5100,9625,12625,45.2,965], backgroundColor:COLORS_MARG[2], borderRadius:4 } ] }, options:barOptV });
+  </script>
+</body>
+</html>
