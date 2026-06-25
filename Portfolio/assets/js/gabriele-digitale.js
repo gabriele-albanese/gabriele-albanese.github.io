@@ -75,7 +75,13 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
 
     #gd-header {
       background: linear-gradient(135deg, #0A3D4A 0%, #0E7490 100%);
-      padding: 16px 18px; flex-shrink: 0;
+      padding: 14px 18px; flex-shrink: 0;
+      display: flex; align-items: center; gap: 12px;
+    }
+    #gd-header-avatar {
+      width: 42px; height: 42px; border-radius: 50%;
+      object-fit: cover; border: 2px solid rgba(255,255,255,0.4);
+      flex-shrink: 0;
     }
     #gd-header-title {
       font-family: 'Plus Jakarta Sans', sans-serif;
@@ -84,6 +90,15 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
     #gd-header-sub {
       font-family: 'Plus Jakarta Sans', sans-serif;
       font-size: 0.72rem; color: rgba(255,255,255,0.65); margin-top: 2px;
+    }
+    .gd-msg-row {
+      display: flex; align-items: flex-end; gap: 8px;
+    }
+    .gd-msg-row.gd-user-row { justify-content: flex-end; }
+    .gd-msg-avatar {
+      width: 28px; height: 28px; border-radius: 50%;
+      object-fit: cover; flex-shrink: 0;
+      border: 1px solid #E5E7EB;
     }
 
     #gd-messages {
@@ -175,10 +190,17 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
 
   const win = document.createElement('div');
   win.id = 'gd-window';
+  const AVATAR_SRC = document.currentScript
+    ? new URL('../../assets/img/foto-profilo.jpg', document.currentScript.src).href
+    : 'assets/img/foto-profilo.jpg';
+
   win.innerHTML = `
     <div id="gd-header">
-      <div id="gd-header-title">Gabriele Digitale</div>
-      <div id="gd-header-sub">Assistente PM</div>
+      <img id="gd-header-avatar" src="${AVATAR_SRC}" alt="Gabriele Digitale" />
+      <div>
+        <div id="gd-header-title">Gabriele Digitale</div>
+        <div id="gd-header-sub">Assistente PM</div>
+      </div>
     </div>
     <div id="gd-messages"></div>
     <div id="gd-input-row">
@@ -198,10 +220,23 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
 
   /* ---- Helpers ---- */
   function addMessage(text, role) {
+    const row = document.createElement('div');
+    row.className = 'gd-msg-row' + (role === 'user' ? ' gd-user-row' : '');
+
+    if (role !== 'user') {
+      const img = document.createElement('img');
+      img.className = 'gd-msg-avatar';
+      img.src = AVATAR_SRC;
+      img.alt = 'Gabriele Digitale';
+      row.appendChild(img);
+    }
+
     const div = document.createElement('div');
     div.className = 'gd-msg ' + (role === 'user' ? 'gd-user' : 'gd-ai');
     div.textContent = text;
-    messagesEl.appendChild(div);
+    row.appendChild(div);
+
+    messagesEl.appendChild(row);
     messagesEl.scrollTop = messagesEl.scrollHeight;
     return div;
   }
