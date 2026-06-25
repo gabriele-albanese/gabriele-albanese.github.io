@@ -228,14 +228,8 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
     showTyping();
 
     try {
-      const res = await fetch(PROXY_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
-          contents: history
-        })
-      });
+      const payload = encodeURIComponent(JSON.stringify({ contents: history.slice(-10) }));
+      const res = await fetch(PROXY_URL + '?d=' + payload);
 
       const data = await res.json();
       hideTyping();
