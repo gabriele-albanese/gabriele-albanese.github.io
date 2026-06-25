@@ -243,6 +243,7 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
       addMessage(reply, 'ai');
     } catch (err) {
       hideTyping();
+      console.error('GD ERROR:', err);
       addMessage('Si è verificato un errore. Riprova tra qualche istante.', 'ai');
       history.pop();
     }
