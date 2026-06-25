@@ -38,6 +38,8 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
   let history = [];
   let isOpen = false;
   let isLoading = false;
+  let lastRequestTime = 0;
+  const MIN_INTERVAL = 16000;
 
   /* ---- Styles ---- */
   const css = `
@@ -223,6 +225,14 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
 
   /* ---- API ---- */
   async function sendMessage(text) {
+    const now = Date.now();
+    const wait = MIN_INTERVAL - (now - lastRequestTime);
+    if (wait > 0) {
+      showTyping();
+      await new Promise(r => setTimeout(r, wait));
+      hideTyping();
+    }
+
     history.push({ role: 'user', content: text });
     setLoading(true);
     showTyping();
@@ -233,6 +243,7 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
         ...history.slice(-10)
       ];
 
+      lastRequestTime = Date.now();
       const res = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
