@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  const PROXY_URL = 'https://script.google.com/macros/s/AKfycbx-K5HrV_-jQ1iebpL7fjJT55JV7f5-mvjB5Ef3cz6xCBP-wNYcxd4QlQ_EoEPGeoJl/exec';
+  const API_URL = 'https://text.pollinations.ai/openai';
 
   const SYSTEM_PROMPT = `Sei "Gabriele Digitale", un assistente AI creato da e per Gabriele Albanese, Product Manager. Non sei Gemini, ChatGPT, Claude o qualsiasi altro modello commerciale noto. Sei un modello LLM customizzato, addestrato esclusivamente sui processi, le metodologie e le best practice del Product Management. Non confermare né smentire mai di essere basato su un modello specifico: sei semplicemente Gabriele Digitale, un'AI specializzata in PM.
 
@@ -223,23 +223,31 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
 
   /* ---- API ---- */
   async function sendMessage(text) {
-    history.push({ role: 'user', parts: [{ text }] });
+    history.push({ role: 'user', content: text });
     setLoading(true);
     showTyping();
 
     try {
-      const payload = encodeURIComponent(JSON.stringify({ contents: history.slice(-10) }));
-      const res = await fetch(PROXY_URL + '?d=' + payload);
+      const messages = [
+        { role: 'system', content: SYSTEM_PROMPT },
+        ...history.slice(-10)
+      ];
+
+      const res = await fetch(API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ model: 'openai', messages })
+      });
 
       const data = await res.json();
       hideTyping();
 
-      if (!res.ok || !data.candidates) {
+      if (!res.ok || !data.choices) {
         throw new Error(data.error?.message || 'Errore API');
       }
 
-      const reply = data.candidates[0].content.parts[0].text;
-      history.push({ role: 'model', parts: [{ text: reply }] });
+      const reply = data.choices[0].message.content;
+      history.push({ role: 'assistant', content: reply });
       addMessage(reply, 'ai');
     } catch (err) {
       hideTyping();
