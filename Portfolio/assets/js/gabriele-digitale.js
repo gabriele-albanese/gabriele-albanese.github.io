@@ -191,8 +191,8 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
   const win = document.createElement('div');
   win.id = 'gd-window';
   const AVATAR_SRC = document.currentScript
-    ? new URL('../../assets/img/foto-profilo.jpg', document.currentScript.src).href
-    : 'assets/img/foto-profilo.jpg';
+    ? new URL('../../assets/img/avatar.png', document.currentScript.src).href
+    : 'assets/img/avatar.png';
 
   win.innerHTML = `
     <div id="gd-header">
