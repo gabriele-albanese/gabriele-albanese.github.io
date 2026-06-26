@@ -60,6 +60,37 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
     #gd-toggle.open .gd-icon-chat { display: none; }
     #gd-toggle.open .gd-icon-close { display: block; }
 
+    #gd-toggle::before {
+      content: '';
+      position: absolute;
+      inset: -2px;
+      border-radius: 50%;
+      border: 2px solid rgba(14,116,144,0.7);
+      animation: gd-radar 2.4s ease-out infinite;
+      pointer-events: none;
+    }
+    #gd-toggle.open::before { animation: none; opacity: 0; }
+    @keyframes gd-radar {
+      0%   { transform: scale(1);   opacity: 0.8; }
+      70%  { opacity: 0.25; }
+      100% { transform: scale(2.1); opacity: 0; }
+    }
+
+    #gd-label {
+      position: fixed; bottom: 39px; right: 96px; z-index: 8998;
+      background: white; color: #0E7490;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      font-size: 13px; font-weight: 600;
+      padding: 7px 14px; border-radius: 20px;
+      box-shadow: 0 2px 16px rgba(14,116,144,0.18);
+      border: 1px solid rgba(14,116,144,0.18);
+      white-space: nowrap; pointer-events: none;
+      opacity: 0; transform: translateX(10px);
+      transition: opacity 0.4s, transform 0.4s;
+    }
+    #gd-label.visible { opacity: 1; transform: translateX(0); }
+    @media (max-width: 480px) { #gd-label { display: none; } }
+
     #gd-window {
       position: fixed; bottom: 96px; right: 28px; z-index: 8999;
       width: 360px; height: 480px;
@@ -218,8 +249,13 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
     </div>
   `;
 
+  const label = document.createElement('div');
+  label.id = 'gd-label';
+  label.textContent = 'AI Assistant';
   document.body.appendChild(toggle);
   document.body.appendChild(win);
+  document.body.appendChild(label);
+  setTimeout(() => { label.classList.add('visible'); }, 2000);
 
   const messagesEl = document.getElementById('gd-messages');
   const inputEl = document.getElementById('gd-input');
@@ -320,7 +356,12 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
     isOpen = !isOpen;
     toggle.classList.toggle('open', isOpen);
     win.classList.toggle('open', isOpen);
-    if (isOpen) inputEl.focus();
+    if (isOpen) {
+      label.classList.remove('visible');
+      inputEl.focus();
+    } else {
+      setTimeout(() => { label.classList.add('visible'); }, 1500);
+    }
   });
 
   inputEl.addEventListener('input', function () {
