@@ -181,7 +181,14 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
   toggle.title = 'Gabriele Digitale';
   toggle.innerHTML = `
     <svg class="gd-icon-chat" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"/>
+      <circle cx="12" cy="2" r="1.5"/>
+      <rect x="11" y="3" width="2" height="3.5"/>
+      <rect x="3" y="6" width="18" height="13" rx="2.5"/>
+      <circle cx="9" cy="11" r="2" fill="#0E7490"/>
+      <circle cx="9" cy="11" r="0.8" fill="white"/>
+      <circle cx="15" cy="11" r="2" fill="#0E7490"/>
+      <circle cx="15" cy="11" r="0.8" fill="white"/>
+      <rect x="8" y="15.5" width="8" height="1.5" rx="0.75" fill="#0E7490"/>
     </svg>
     <svg class="gd-icon-close" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
       <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
