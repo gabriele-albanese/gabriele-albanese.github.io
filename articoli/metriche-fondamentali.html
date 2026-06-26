@@ -47,18 +47,18 @@
 <div class="content-block">
   <div class="container">
     <div class="prose fade-up">
-      <p>Le ricerche di McKinsey mostrano che le aziende data-driven hanno <strong>23 volte più probabilità di acquisire nuovi clienti</strong> rispetto ai competitor non orientati ai dati. PwC rileva che le organizzazioni altamente orientate ai dati hanno tre volte più probabilità di migliorare i processi decisionali. Eppure la maggior parte dei team PM continua a misurare le cose sbagliate.</p>
+      <p>Le ricerche di McKinsey mostrano che le aziende che usano <strong>intensivamente la customer analytics</strong> hanno 23 volte più probabilità di superare i competitor nell'acquisizione di nuovi clienti, 6 volte più probabilità di fidelizzarli nel tempo e 19 volte più probabilità di essere significativamente redditizie. PwC rileva che le organizzazioni altamente orientate ai dati hanno tre volte più probabilità di migliorare i processi decisionali. Eppure la maggior parte dei team PM continua a misurare le cose sbagliate.</p>
 
       <h2>Il Problema delle Vanity Metrics</h2>
       <p>Prima di parlare di metriche utili, è necessario capire perché quelle superficiali sono pericolose. Due fallimenti storici lo dimostrano meglio di qualsiasi teoria:</p>
       <ul>
-        <li><strong>Segway:</strong> prevedeva 10.000 unità/mese, ha venduto 24.000 in cinque anni. Il problema non era il prodotto — erano i test di usabilità che misuravano la curiosità, non l'intenzione d'acquisto reale.</li>
-        <li><strong>New Coke (Coca-Cola, 1985):</strong> superò ogni blind taste test rispetto alla formula originale. Ma nessuno aveva misurato il legame emotivo dei consumatori con il brand. Il lancio fu un disastro immediato.</li>
+        <li><strong>Segway:</strong> prevedeva 10.000 unità/mese, ha venduto circa 24.000 in cinque anni. I test di mercato avevano misurato interesse e curiosità verso il prodotto — non l'intenzione d'acquisto reale a quel prezzo e in quel contesto d'uso. (Caso ampiamente documentato in letteratura di business e casi Harvard.)</li>
+        <li><strong>New Coke (Coca-Cola, 1985):</strong> superò ogni blind taste test rispetto alla formula originale. Ma i test non misuravano il legame emotivo dei consumatori con il brand e la formula storica. Il lancio fu ritirato in meno di tre mesi.</li>
       </ul>
-      <div class="callout"><p>"Non è che avevano i dati sbagliati. Avevano le domande sbagliate."</p></div>
+      <div class="callout"><p>Non è che avevano i dati sbagliati. Avevano le domande sbagliate.</p></div>
 
       <h2>Il Framework AARRR (Pirate Metrics)</h2>
-      <p>Dave McClure ha creato nel 2007 un framework che rimane insuperato per la sua semplicità operativa. Decompone il ciclo cliente in cinque fasi misurabili:</p>
+      <p>Dave McClure ha creato nel 2007 un framework che rimane tra i più diffusi per la sua semplicità operativa, pur con limiti noti nei contesti non-funnel (social, marketplace, B2B enterprise). Decompone il ciclo cliente in cinque fasi misurabili:</p>
     </div>
 
     <div class="chart-wrap fade-up delay-1" style="max-width:740px;">
@@ -74,14 +74,14 @@
       <p>Quello che manca sistematicamente nella letteratura pubblica è il collegamento tra canale di acquisizione e retention a lungo termine. Un canale che genera 1000 nuovi clienti al mese con CAC €20 è peggiore di uno che ne genera 200 con CAC €80, se il primo produce churn al 70% nei primi 90 giorni e il secondo al 5%.</p>
 
       <h3>Activation e i Primi 7 Giorni</h3>
-      <p>Dati Mixpanel su oltre 1,3 miliardi di utenti dimostrano che i <strong>primi 7 giorni determinano la retention a lungo termine</strong> con una correlazione più forte di qualsiasi altra variabile. La ricerca SaaS mostra un pattern consistente: chi completa l'onboarding nelle prime 24 ore ha una retention a 90 giorni significativamente superiore a chi impiega più di una settimana. Il gap varia per settore e prodotto, ma la direzione è invariante.</p>
+      <p>Dati Mixpanel su oltre 1,3 miliardi di utenti mostrano che i <strong>primi 7 giorni sono fortemente predittivi della retention a lungo termine</strong> — tra le variabili più correlate identificate nel benchmark report. La ricerca SaaS mostra un pattern consistente: chi completa l'onboarding nelle prime 24 ore ha una retention a 90 giorni significativamente superiore a chi impiega più di una settimana. Il gap varia per settore e prodotto, ma la direzione è invariante.</p>
       <p>Implicazione pratica: investire sul time-to-value è spesso più efficace di qualsiasi campagna di re-engagement.</p>
 
       <h3>Retention come Moltiplicatore di Profitto</h3>
       <p>Bain & Company ha quantificato l'effetto: aumentare la retention del <strong>5% incrementa i profitti dal 25% al 95%</strong> a seconda del settore. Il motivo è matematico: un cliente fedele non solo paga di più nel tempo (LTV più alto), ma abbatte il CAC medio attraverso passaparola e referral organico.</p>
 
-      <h2>Case Study Netflix: Come Ridurre il CAC del 25% in 7 Anni</h2>
-      <p>Netflix ha ridotto il proprio CAC stimato da circa $60 (2013) a circa $45 (2020) mentre cresceva da 30 a 200 milioni di abbonati — dato ricostruito da analisi indipendenti, poiché Netflix non pubblica il CAC ufficialmente. Il paradosso apparente — crescere e spendere meno per cliente — si spiega con quattro leve integrate:</p>
+      <h2>Case Study Netflix: Ottimizzare il CAC mentre si scala</h2>
+      <p>Nel periodo 2013–2020, Netflix ha ridotto il proprio CAC stimato da circa $60 a circa $45 mentre cresceva da 30 a 200 milioni di abbonati — dato ricostruito da analisi indipendenti, poiché Netflix non pubblica il CAC ufficialmente. Nota: dal 2020 in poi il CAC è tornato a salire con l'intensificarsi della concorrenza streaming. Il caso rimane rilevante non per il numero, ma per le leve operative che lo hanno generato:</p>
     </div>
 
     <div class="chart-wrap fade-up delay-1" style="max-width:740px;">
@@ -101,8 +101,8 @@
       <p>I programmi referral ben strutturati sono il canale con il CAC più basso perché sfruttano la fiducia preesistente tra persone. Tre dati concreti:</p>
       <ul>
         <li><strong>Dropbox:</strong> il programma referral (spazio gratuito in cambio di inviti) ha aumentato le iscrizioni del <strong>60% in 15 mesi</strong></li>
-        <li><strong>Nespresso:</strong> il modello razor-blade (macchina a basso costo, capsule ricorrenti) ha trasformato il brand in un business da $8 miliardi per Nestlé, con crescita annua superiore al 30% per oltre 6 anni consecutivi — caso emblematico di come il modello impatti direttamente il LTV</li>
-        <li><strong>Tesla:</strong> ha acquisito 1,3 milioni di clienti principalmente tramite referral strutturato, con CAC significativamente inferiore alla media automotive</li>
+        <li><strong>Nespresso:</strong> il modello razor-blade (macchina accessibile, capsule proprietarie ricorrenti) ha generato crescite a doppia cifra per oltre un decennio — principalmente nel periodo di espansione 2000–2012 — trasformando un prodotto hardware a basso margine in un ecosistema ad alto LTV. Nespresso vale oggi circa $8 miliardi di fatturato annuo per Nestlé (dato 2025).</li>
+        <li><strong>Tesla:</strong> ha costruito la propria base clienti iniziale con investimenti pubblicitari minimi, usando il referral come leva principale di acquisizione. Il programma ha avuto più iterazioni ed è stato temporaneamente sospeso per problemi di sostenibilità economica — un dato che rende il caso ancora più istruttivo sulla necessità di monitorare il CAC effettivo dei canali referral.</li>
       </ul>
 
       <h2>Conclusioni Operative</h2>
