@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NeuroDrill Pro — Proposta di Prodotto</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 40px 52px;
+    line-height: 1.55;
+  }
+
+  h1 {
+    font-size: 17pt;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #0a0a0a;
+    line-height: 1.3;
+  }
+
+  .doc-meta {
+    font-size: 9pt;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  .doc-disclaimer {
+    font-size: 9pt;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid #0E7490;
+  }
+
+  .section-block {
+    margin-bottom: 36px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .section-block:last-of-type { border-bottom: none; }
+
+  .section-h2 {
+    font-size: 14pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #0E7490;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .section-num {
+    font-size: 8pt;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0E7490;
+    background: #e8f5f9;
+    padding: 2px 7px;
+    border-radius: 3px;
+  }
+
+  /* PRODUCT CARDS */
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin: 16px 0 24px;
+  }
+  .product-card {
+    border: 1.5px solid #0E7490;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .product-card-header {
+    background: #0E7490;
+    color: #fff;
+    padding: 10px 16px;
+    font-weight: 800;
+    font-size: 11pt;
+  }
+  .product-card-sub {
+    font-size: 8.5pt;
+    font-weight: 400;
+    opacity: 0.85;
+    display: block;
+    margin-top: 1px;
+  }
+  .product-card-body {
+    padding: 12px 16px;
+    background: #f5fbfd;
+  }
+  .product-card-body ul {
+    padding-left: 16px;
+    font-size: 10pt;
+  }
+  .product-card-body li {
+    margin-bottom: 5px;
+  }
+
+  /* ACCESSORY BLOCKS */
+  .accessory-block {
+    margin-bottom: 20px;
+    padding: 14px 18px;
+    background: #f9f9f9;
+    border-left: 3px solid #0E7490;
+    border-radius: 0 6px 6px 0;
+  }
+  .accessory-title {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 8px;
+  }
+  .accessory-block ul {
+    padding-left: 16px;
+    font-size: 10.5pt;
+  }
+  .accessory-block li { margin-bottom: 5px; }
+
+  /* LISTS */
+  ul.doc-list {
+    padding-left: 20px;
+    margin-top: 8px;
+  }
+  ul.doc-list li {
+    margin-bottom: 7px;
+    font-size: 10.5pt;
+  }
+
+  /* BENEFIT ITEMS */
+  .benefit-item {
+    margin-bottom: 12px;
+    font-size: 10.5pt;
+  }
+
+  /* SUB LABEL */
+  .sub-label {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #0E7490;
+    margin: 16px 0 8px 0;
+  }
+
+  /* PRICE TABLE */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+    font-size: 10.5pt;
+  }
+  thead th {
+    background: #0E7490;
+    color: #fff;
+    font-weight: 700;
+    padding: 9px 14px;
+    text-align: left;
+    font-size: 10pt;
+  }
+  tbody tr:nth-child(even) { background: #f5fbfd; }
+  tbody td {
+    padding: 9px 14px;
+    vertical-align: top;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  td.bold { font-weight: 700; }
+
+  /* TIMELINE */
+  .timeline {
+    margin-top: 12px;
+  }
+  .timeline-item {
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+  }
+  .timeline-q {
+    flex-shrink: 0;
+    background: #0E7490;
+    color: #fff;
+    font-size: 9pt;
+    font-weight: 800;
+    padding: 3px 9px;
+    border-radius: 4px;
+    min-width: 32px;
+    text-align: center;
+  }
+  .timeline-text { font-size: 10.5pt; }
+
+  /* COMPETITIVE BOX */
+  .competitive-box {
+    background: #f0f8fb;
+    border: 1.5px solid #0E7490;
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin-top: 14px;
+  }
+  .competitive-box .benefit-item { margin-bottom: 10px; }
+
+  /* BACK LINK */
+  .back-link {
+    display: inline-block;
+    margin-bottom: 28px;
+    font-size: 9.5pt;
+    color: #0E7490;
+    text-decoration: none;
+    border: 1px solid #0E7490;
+    padding: 4px 12px;
+    border-radius: 4px;
+  }
+  .back-link:hover { background: #0E7490; color: #fff; }
+
+  .future-note {
+    font-size: 10pt;
+    color: #555;
+    font-style: italic;
+    margin-top: 12px;
+    padding: 10px 14px;
+    background: #f9f9f9;
+    border-radius: 4px;
+  }
+
+  @media (max-width: 640px) {
+    body { padding: 20px 16px; }
+    .product-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<a href="trapano-chirurgico.html" class="back-link">← Case Study NeuroDrill Pro</a>
+
+<h1>Proposta di Prodotto</h1>
+<div class="doc-meta">NeuroDrill Pro &mdash; Micromotori Chirurgici ad Alte Prestazioni &nbsp;|&nbsp; BEE &middot; VECTOR &middot; SIL</div>
+<div class="doc-disclaimer">Documento a scopo dimostrativo. Alcuni dati identificativi sono stati omessi per tutela della riservatezza aziendale.</div>
+
+<!-- 1. INTRODUZIONE -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">01</span> Introduzione</div>
+  <p style="font-size:10.5pt;">I micromotori chirurgici <strong>BEE, VECTOR e SIL</strong> rappresentano una nuova generazione di strumenti ad alte prestazioni progettati per la chirurgia cranica e il drilling di precisione. Questi dispositivi innovativi offrono una combinazione unica di <strong>stabilita', potenza, silenziosita' e versatilita'</strong>, migliorando significativamente l'esperienza del chirurgo e l'efficacia dell'intervento.</p>
+</div>
+
+<!-- 2. PROBLEMA DA RISOLVERE -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">02</span> Problema da Risolvere</div>
+
+  <div class="sub-label">Limitazioni degli strumenti attuali:</div>
+  <ul class="doc-list">
+    <li><strong>Instabilita' e vibrazioni</strong> che riducono la precisione.</li>
+    <li><strong>Rumorosita' elevata</strong>, che compromette il comfort chirurgico.</li>
+    <li><strong>Surriscaldamento del motore e della fresa</strong> durante interventi prolungati.</li>
+    <li><strong>Scarsa versatilita'</strong> e necessita' di molteplici manipoli e frese.</li>
+    <li><strong>Scarsa adattabilita'</strong> ai molti tipi di intervento.</li>
+    <li><strong>Personale dedicato</strong> per l'assemblaggio e il funzionamento &mdash; in situazioni di emergenza questo rappresenta un problema limitante.</li>
+    <li><strong>Feedback del pedale</strong> migliorabile.</li>
+  </ul>
+
+  <div class="sub-label" style="margin-top:20px;">La nostra linea risolve queste criticit&agrave; introducendo:</div>
+  <ul class="doc-list">
+    <li><strong>Girostabilizzazione interna</strong> per la massima precisione.</li>
+    <li><strong>Bassa rumorosita'</strong> (fino a &lt;12 dB per SIL).</li>
+    <li><strong>Raffreddamento ad acqua e set di irrigazione</strong> per evitare il surriscaldamento (con creazione di una nuova categoria di consumabili). Irrigazione del campo operatorio che libera una mano del primo assistente.</li>
+    <li><strong>Compatibilita' con manipoli modulari</strong>, riducendo il numero di strumenti necessari, la complessita' di assemblaggio e il tempo di esecuzione.</li>
+    <li><strong>Una unita' di controllo</strong> che consente l'utilizzo autonomo da parte del chirurgo. Controllo del pedale gestito da software della centralina che migliora l'accelerazione e l'erogazione della velocita'.</li>
+  </ul>
+</div>
+
+<!-- 3. DESCRIZIONE DEL PRODOTTO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">03</span> Descrizione del Prodotto</div>
+
+  <div class="product-grid">
+    <div class="product-card">
+      <div class="product-card-header">
+        BEE
+        <span class="product-card-sub">Perforatore Cranico ad Alte Prestazioni</span>
+      </div>
+      <div class="product-card-body">
+        <ul>
+          <li>Peso: <strong>400&ndash;500 g</strong></li>
+          <li>Velocita' massima: <strong>70.000 rpm</strong></li>
+          <li><strong>Controrotazione interna</strong> per annullare le forze di rotazione</li>
+          <li>Torque superiore ai competitor (e ai Vector e SIL)</li>
+          <li>Set di irrigazione opzionale per ridurre temperatura e dispersione detriti</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="product-card">
+      <div class="product-card-header">
+        VECTOR
+        <span class="product-card-sub">Motore per Craniotomia e Heavy Drilling</span>
+      </div>
+      <div class="product-card-body">
+        <ul>
+          <li>Peso: <strong>220&ndash;350 g</strong></li>
+          <li>Velocita' massima: <strong>100.000 rpm</strong> (senza demoltiplica)</li>
+          <li>Torque piu' alto tra i trapani da drilling</li>
+          <li><strong>Raffreddamento ad acqua</strong> per interventi prolungati</li>
+          <li><strong>Girostabilizzazione</strong> per ridurre instabilita' dovuta alla potenza elevata</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="product-card">
+      <div class="product-card-header">
+        SIL
+        <span class="product-card-sub">Il Trapano piu' Stabile e Silenzioso</span>
+      </div>
+      <div class="product-card-body">
+        <ul>
+          <li>Peso: <strong>&lt;100 g</strong></li>
+          <li>Velocita' massima: elevata, ottimizzata per precisione</li>
+          <li>Rumorosita' minima: <strong>&lt;12 dB</strong></li>
+          <li>Meccanismo di <strong>girostabilizzazione avanzato</strong> per eliminare vibrazioni</li>
+          <li>Progettato per <strong>drilling precisi e prolungati</strong> in aree delicate</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="accessory-block">
+    <div class="accessory-title">Frese Stepersonal</div>
+    <ul>
+      <li>Attacco regolabile (base&ndash;meta' lunghezza), riducendo la necessita' di molteplici handpiece.</li>
+      <li>Due categorie: <strong>Tagliente</strong> e <strong>Abradente</strong>.</li>
+      <li>Tre livelli di aggressivita': Leggera, Media, Aggressiva.</li>
+    </ul>
+  </div>
+
+  <div class="accessory-block">
+    <div class="accessory-title">Handpiece e Manipoli</div>
+    <ul>
+      <li><strong>Attacco rapido a baionetta</strong>.</li>
+      <li><strong>Bilanciamento ottimale</strong> per ridurre vibrazioni.</li>
+      <li>Compatibilita' universale con i motori <strong>SIL e VECTOR</strong>.</li>
+      <li>Disponibili nelle lunghezze: <strong>60 mm, 90 mm, 135 mm</strong>.</li>
+    </ul>
+  </div>
+
+  <div class="accessory-block">
+    <div class="accessory-title">Centralina e Pedale</div>
+    <ul>
+      <li><strong>Touchscreen capacitivo</strong> con supporto per tutti i motori contemporaneamente.</li>
+      <li>Due modalita' operative:
+        <ul style="margin-top:4px; padding-left:16px;">
+          <li><strong>User Semplice</strong>: preimpostazioni standard.</li>
+          <li><strong>Modalita' Avanzata</strong>: personalizzazione parametri e profili utente.</li>
+        </ul>
+      </li>
+      <li><strong>Pompa a pressione variabile</strong> per il circuito di irrigazione.</li>
+      <li><strong>Pedale ergonomico</strong> con funzioni di navigazione tra profili utente e funzionalita' (velocita' massima, velocita' analogica, irrigazione attiva/spenta).</li>
+    </ul>
+  </div>
+
+  <div class="future-note">
+    <strong>Applicazioni future:</strong> Controllo vocale, creazione di log scaricabili di tutti i parametri, integrazione nel macro-ambiente della sala operatoria, adattabilita' al sistema di neuronavigazione.
+  </div>
+</div>
+
+<!-- 4. BENEFICI DEL PRODOTTO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">04</span> Benefici del Prodotto</div>
+
+  <div class="benefit-item"><strong>Maggiore precisione chirurgica</strong> grazie al meccanismo di stabilizzazione e al miglior design delle frese da 100.000 rpm.</div>
+  <div class="benefit-item"><strong>Esperienza operatoria migliorata</strong> grazie a peso ridotto, comfort ottimizzato e irrigazione del campo operatorio.</div>
+  <div class="benefit-item"><strong>Minori scorte di magazzino</strong> grazie a un sistema modulare di manipoli e frese.</div>
+  <div class="benefit-item"><strong>Minore dipendenza da altri operatori</strong> grazie all'irrigazione, alla modularita' e alla semplicita' dei componenti (anche grazie agli attacchi rapidi) che possono essere assemblati anche con una sola mano.</div>
+  <div class="benefit-item"><strong>Raffreddamento avanzato</strong> per prestazioni termiche ottimali.</div>
+  <div class="benefit-item"><strong>Riduzione dei tempi operatori:</strong> non bisogna attendere che il trapano raffreddi; piu' personale puo' dedicarsi ad altre attivita' (assistente chirurgo, strumentista e personale non lavato). Ridotto anche il numero di accessori da montare e smontare.</div>
+  <div class="benefit-item"><strong>Compatibilita' e versatilita'</strong> con un numero ridotto di accessori si copre una gamma migliore di operativita'.</div>
+  <div class="benefit-item"><strong>Silenziosita' senza precedenti</strong>, riducendo l'affaticamento del chirurgo.</div>
+</div>
+
+<!-- 5. ANALISI DI MERCATO E COMPETITOR -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">05</span> Analisi di Mercato e Competitor</div>
+
+  <div class="sub-label">Mercato di riferimento:</div>
+  <ul class="doc-list">
+    <li>Il settore dei dispositivi chirurgici craniotomici ha un tasso di crescita annuo del <strong>5&ndash;7%</strong>.</li>
+    <li>Domanda crescente di soluzioni piu' precise, stabili e modulari.</li>
+    <li>La concorrenza attuale offre strumenti meno performanti e piu' rumorosi.</li>
+  </ul>
+
+  <div class="sub-label">Competitor principali:</div>
+  <ul class="doc-list">
+    <li><strong>Comp.1:</strong> noto ma con alta rumorosita' e instabilita'.</li>
+    <li><strong>Comp.2:</strong> potente ma con vibrazioni e meno modularita'.</li>
+    <li><strong>Comp.3:</strong> soluzioni stabili ma meno versatili e piu' costose.</li>
+  </ul>
+
+  <div class="competitive-box">
+    <div class="sub-label" style="margin-top:0; margin-bottom:12px;">Il nostro vantaggio competitivo:</div>
+    <div class="benefit-item"><strong>Prestazioni superiori</strong> su torque, stabilita', raffreddamento e rumorosita'.</div>
+    <div class="benefit-item"><strong>Minore tempo tecnico e maggiore autonomia:</strong> grazie alla modularita', i tempi di attesa per il raffreddamento dello strumento sono azzerati. Il chirurgo viene reso autonomo in tutte le operazioni (metrica individuata come strategica nell'MRD), con una riduzione del tempo di anestesia e quindi dei costi.</div>
+    <div class="benefit-item"><strong>Maggiore sicurezza:</strong> durante le fasi di urgenza si puo' intervenire piu' rapidamente grazie al ridotto tempo tecnico.</div>
+    <div class="benefit-item"><strong>Tecnologia di raffreddamento avanzata</strong> per drilling prolungati.</div>
+  </div>
+</div>
+
+<!-- 6. STRATEGIA DI LANCIO E BUSINESS MODEL -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">06</span> Strategia di Lancio e Business Model</div>
+
+  <div class="sub-label">Prezzo di vendita:</div>
+  <table>
+    <thead>
+      <tr><th>Prodotto</th><th>Prezzo (EUR)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="bold">BEE</td><td>€ 5.000 &ndash; 7.000</td></tr>
+      <tr><td class="bold">VECTOR</td><td>€ 8.000 &ndash; 12.000</td></tr>
+      <tr><td class="bold">SIL</td><td>€ 10.000 &ndash; 14.000</td></tr>
+      <tr><td class="bold">Control Unit</td><td>€ 5.000</td></tr>
+      <tr><td class="bold">Accessori e frese</td><td>€ 1.500 &ndash; 5.000</td></tr>
+    </tbody>
+  </table>
+
+  <div class="sub-label" style="margin-top:20px;">Modello di vendita:</div>
+  <ul class="doc-list">
+    <li><strong>Acquisto diretto</strong> per ospedali e cliniche chirurgiche.</li>
+    <li><strong>Programma di leasing</strong> con aggiornamenti annuali.</li>
+    <li><strong>Assistenza e formazione personalizzata</strong> per l'uso ottimale del dispositivo.</li>
+  </ul>
+
+  <div class="sub-label" style="margin-top:20px;">Piano di lancio:</div>
+  <div class="timeline">
+    <div class="timeline-item"><span class="timeline-q">Q1</span><span class="timeline-text">Progettazione.</span></div>
+    <div class="timeline-item"><span class="timeline-q">Q2</span><span class="timeline-text">Pre-marketing, individuazione delle aree da affidare ai distributori, Test Beta.</span></div>
+    <div class="timeline-item"><span class="timeline-q">Q3</span><span class="timeline-text">Realizzazione dei Prototipi. Avvio del processo di Normalizzazione legislativa.</span></div>
+    <div class="timeline-item"><span class="timeline-q">Q4</span><span class="timeline-text">Ottenute le autorizzazioni ai test (fine prima parte di normalizzazione). Test pilota in 6 ospedali leader. Individuazione dei distributori e accordi.</span></div>
+    <div class="timeline-item"><span class="timeline-q">Q5</span><span class="timeline-text">Ultime documentazioni da dare agli enti Regolatori per le certificazioni, relativamente ai test negli ospedali. Avvio delle fasi di Marketing.</span></div>
+    <div class="timeline-item"><span class="timeline-q">Q6</span><span class="timeline-text">Lancio definitivo.</span></div>
+    <div class="timeline-item"><span class="timeline-q">Q7</span><span class="timeline-text">Espansione del mercato.</span></div>
+  </div>
+</div>
+
+</body>
+</html>
