@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NeuroDrill Pro — Product Requirements Document (PRD)</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 40px 52px;
+    line-height: 1.55;
+  }
+
+  h1 {
+    font-size: 17pt;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #0a0a0a;
+    line-height: 1.3;
+  }
+
+  /* SECTION */
+  .section-block {
+    margin-bottom: 36px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .section-block:last-of-type { border-bottom: none; }
+
+  .section-h2 {
+    font-size: 14pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #0E7490;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .section-num {
+    font-size: 8pt;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0E7490;
+    background: #e8f5f8;
+    padding: 2px 7px;
+    border-radius: 3px;
+  }
+
+  .subsection-h3 {
+    font-size: 11pt;
+    font-weight: 700;
+    margin: 18px 0 8px;
+    color: #1a1a1a;
+  }
+
+  p { font-size: 10.5pt; line-height: 1.65; margin-bottom: 10px; }
+
+  ul { padding-left: 20px; margin-bottom: 10px; }
+  ul li { font-size: 10.5pt; line-height: 1.6; margin-bottom: 4px; }
+  ul ul { margin-top: 3px; margin-bottom: 3px; }
+  ul ul li { list-style: circle; }
+
+  strong { font-weight: 700; }
+
+  /* INTRO */
+  .intro-box {
+    font-size: 10pt;
+    color: #444;
+    line-height: 1.65;
+    margin-bottom: 30px;
+    padding: 14px 18px;
+    background: #f0f8fb;
+    border-left: 3px solid #0E7490;
+    border-radius: 4px;
+    max-width: 860px;
+  }
+
+  /* MARKET SEGMENT PILLS */
+  .segment-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin: 14px 0;
+  }
+  .segment-card {
+    background: #f7f7f7;
+    border: 1px solid #e0e0e0;
+    border-top: 3px solid #0E7490;
+    border-radius: 6px;
+    padding: 12px 14px;
+  }
+  .segment-label {
+    font-size: 8pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #0E7490;
+    margin-bottom: 6px;
+  }
+  .segment-card ul { padding-left: 14px; }
+  .segment-card li { font-size: 9.5pt; margin-bottom: 2px; }
+
+  /* USER PERSONA */
+  .persona-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin: 14px 0;
+  }
+  .persona-card {
+    background: #f7f7f7;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 12px 14px;
+  }
+  .persona-label {
+    font-size: 8pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #555;
+    margin-bottom: 6px;
+  }
+  .persona-card ul { padding-left: 14px; }
+  .persona-card li { font-size: 9.5pt; margin-bottom: 3px; }
+
+  /* FEATURE TABLE */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9.5pt;
+    margin: 14px 0 20px;
+  }
+  th {
+    background: #0E7490;
+    color: #fff;
+    padding: 9px 12px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 9pt;
+  }
+  td {
+    padding: 9px 12px;
+    border: 1px solid #d8d8d8;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  tr:nth-child(even) td { background: #f8f8f8; }
+  td:first-child { font-weight: 700; width: 28%; }
+
+  /* MOTOR CARDS */
+  .motor-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin: 16px 0;
+  }
+  .motor-card {
+    border: 1.5px solid #b2dce8;
+    border-radius: 8px;
+    padding: 16px 16px;
+    background: #f0f8fb;
+  }
+  .motor-name {
+    font-size: 13pt;
+    font-weight: 800;
+    color: #0E7490;
+    margin-bottom: 4px;
+  }
+  .motor-desc {
+    font-size: 9pt;
+    color: #555;
+    margin-bottom: 10px;
+    line-height: 1.45;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #c8e6ef;
+  }
+  .motor-specs ul {
+    padding-left: 14px;
+  }
+  .motor-specs li {
+    font-size: 9.5pt;
+    margin-bottom: 4px;
+    line-height: 1.45;
+  }
+
+  /* CONFORMITA BOX */
+  .conformita-box {
+    background: #fffbf0;
+    border: 1px solid #e8d88a;
+    border-left: 3px solid #c8a000;
+    border-radius: 6px;
+    padding: 12px 16px;
+    margin: 14px 0;
+  }
+  .conformita-box p { font-size: 9.5pt; font-weight: 700; margin-bottom: 6px; color: #7a5c00; }
+  .conformita-box ul { padding-left: 16px; }
+  .conformita-box li { font-size: 9.5pt; margin-bottom: 3px; }
+
+  /* RISK TABLE */
+  .risk-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 8pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .risk-alto { background: #fee2e2; color: #b91c1c; }
+  .risk-medio { background: #fef3c7; color: #92400e; }
+
+  /* PRICING */
+  .pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 12px 0;
+  }
+  .price-card {
+    background: #f7f7f7;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 10px 14px;
+    text-align: center;
+  }
+  .price-name { font-size: 9pt; font-weight: 800; color: #0E7490; margin-bottom: 3px; }
+  .price-val { font-size: 11pt; font-weight: 700; color: #1a1a1a; }
+
+  /* LAUNCH TIMELINE */
+  .launch-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin: 12px 0;
+  }
+  .launch-card {
+    background: #f0f8fb;
+    border: 1px solid #b2dce8;
+    border-radius: 6px;
+    padding: 10px 12px;
+  }
+  .launch-q { font-size: 10pt; font-weight: 800; color: #0E7490; margin-bottom: 4px; }
+  .launch-desc { font-size: 9pt; line-height: 1.4; }
+
+  /* KPI TABLE */
+  .kpi-note {
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px 16px;
+    font-size: 9.5pt;
+    color: #444;
+    line-height: 1.6;
+    margin-top: 14px;
+  }
+
+  /* CLOSING */
+  .closing-line {
+    font-size: 9.5pt;
+    color: #555;
+    line-height: 1.6;
+    margin-top: 28px;
+    padding-top: 18px;
+    border-top: 1px solid #e0e0e0;
+    max-width: 860px;
+  }
+
+  /* PRINT */
+  @media print {
+    body { padding: 20px 30px; font-size: 10pt; }
+    .section-block { page-break-inside: avoid; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .motor-card, .segment-card, .risk-alto, .risk-medio { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+
+<h1>Product Requirements Document (PRD)<br>Micromotori Neurochirurgici ad Alte Prestazioni</h1>
+
+<div class="intro-box">
+  Documento strutturato sulla base dei bisogni utente e dei requisiti di sistema emersi dalle User Stories e dal Product Backlog. Il PRD formalizza le specifiche funzionali e non funzionali del prodotto e viene sviluppato parallelamente al Business Case preliminare, per poi essere approfondito nelle sue sezioni dopo l'approvazione da parte della dirigenza.
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 1 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">01</span> Product Overview</h2>
+
+  <p><strong>Prodotto:</strong> Sistema Motorizzato ad alte prestazioni</p>
+
+  <div class="subsection-h3">Obiettivo del Prodotto</div>
+  <p>Fornire ai neurochirurghi un sistema motorizzato ad alte prestazioni, innovativo. Il sistema in questione è un set di 3 trapani (BEE, Vector, SIL) con relativi handpiece e unità di controllo innovativa composta da Centralina e Pedale multifunzione. Nella fattispecie il sistema dovrà rispondere in modo ottimale a tutte le necessità chirurgiche delle diverse procedure chirurgiche, favorire il lavoro dell'equipe chirurgica, non surriscaldare durante il funzionamento, essere silenzioso, stabile e permetterne l'utilizzo al chirurgo senza personale di supporto. Grazie a tutte queste feature, il trapano a pieno regime operativo garantirà anche un risparmio per la struttura adottante.</p>
+  <p>L'obiettivo più in generale è fissare l'asticella di questa categoria di prodotto molto più in alto rispetto a quanto mai è stato fatto. Il gap tecnologico rispetto alla concorrenza e il vantaggio nel suo utilizzo deve essere tale da diventare il nuovo standard per la neurochirurgia. Le amministrazioni (pubbliche e private), una volta compreso il vantaggio in termini economici e di operatività, dovranno essere anche loro fautrici del nuovo cambiamento.</p>
+
+  <div class="subsection-h3">Segmento di Mercato</div>
+  <div class="segment-grid">
+    <div class="segment-card">
+      <div class="segment-label">Primario</div>
+      <ul>
+        <li>Neurochirurgie tutte</li>
+        <li>Dalle pubbliche alle private</li>
+        <li>Dalle craniche alle spinali</li>
+      </ul>
+    </div>
+    <div class="segment-card">
+      <div class="segment-label">Secondario</div>
+      <ul>
+        <li>Distributori e importatori nei paesi non forniti direttamente</li>
+      </ul>
+    </div>
+    <div class="segment-card">
+      <div class="segment-label">Terziario</div>
+      <ul>
+        <li>Otorinolaringoiatria (mastoidectomia, chirurgia orecchio medio)</li>
+        <li>Chirurgia Maxillo-Facciale (osteotomie craniche e facciali)</li>
+        <li>Laboratori di dissezione scuole di specialità</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="subsection-h3">Strategia di Distribuzione</div>
+  <ul>
+    <li><strong>Vendita diretta</strong> nei paesi in cui è strategicamente conveniente.</li>
+    <li><strong>Vendita tramite distributori</strong> nei mercati in cui l'azienda non arriva direttamente ed esistono venditori consolidati.</li>
+  </ul>
+
+  <div class="subsection-h3">Razionale della Segmentazione</div>
+  <p>L'adozione dei trapani neurochirurgici in tutte le neurochirurgie è l'obiettivo ideale. Distributori e importatori diventano, in tal senso, lo strumento con cui perseguirlo.</p>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 2 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">02</span> Product Users</h2>
+
+  <div class="persona-grid">
+    <div class="persona-card">
+      <div class="persona-label">Buyer Persona</div>
+      <ul>
+        <li>Ospedali, Pubbliche amministrazioni e centri di neurochirurgia</li>
+        <li>Cliniche private e universitarie, laboratori di specialità</li>
+        <li>Distributori e grossisti medicali</li>
+      </ul>
+    </div>
+    <div class="persona-card">
+      <div class="persona-label">User Persona</div>
+      <ul>
+        <li><strong>Neurochirurghi:</strong> necessitano di strumenti precisi, affidabili, modulari e silenziosi</li>
+        <li><strong>ORL:</strong> negli interventi (chirurgia transfenoidale) che li coinvolgono assieme al NCH</li>
+        <li><strong>Personale di sala operatoria:</strong> richiedono strumenti facili da installare e configurare</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="subsection-h3">Bisogni e Gap di Mercato</div>
+  <p>L'attuale panorama dei trapani neurochirurgici presenta diverse limitazioni, portate sostanzialmente dal fatto che il dispositivo progettato più recentemente è vecchio di circa 12 anni. Le principali aree dei bisogni influenzano la <strong>precisione, la rumorosità, il surriscaldamento, l'inadattabilità sempre crescente ai nuovi approcci chirurgici e alle nuove tecniche, l'efficienza del team e il comfort chirurgico</strong>:</p>
+  <ul>
+    <li><strong>Instabilità e vibrazioni</strong>, che compromettono l'accuratezza chirurgica.</li>
+    <li><strong>Livelli di rumore elevati</strong>, causando disagio e fastidio all'equipe nei drilling prolungati e al paziente nel caso delle Awake Surgery.</li>
+    <li><strong>Surriscaldamento del motore e della fresa</strong>, portando a perdite di efficienza della coppia del motore, maggiori rischi per il paziente e rallentamento dei processi chirurgici:
+      <ul>
+        <li>Aumento del tempo di anestesia per paziente con ripercussioni sulla salute di pazienti critici. Nel caso delle urgenze, dover aspettare che il trapano si raffreddi o accettare il calo delle prestazioni aumenta di minuti preziosi la procedura di apertura, con possibile aumento dei costi dovuti alle complicanze.</li>
+        <li>Costi maggiori e problemi logistici dovuti all'uso prolungato della sala operatoria e maggiore rischio di complicanze.</li>
+        <li>Sale operatorie occupate per più tempo.</li>
+      </ul>
+    </li>
+    <li><strong>Perdita di velocità e potenza durante il contatto con l'osso</strong>, proprio quando servirebbe la massima potenza e velocità.</li>
+    <li><strong>Mancanza di modularità</strong>, con strumenti troppo o troppo poco potenti per tutte le tipologie di intervento.</li>
+    <li><strong>Miglioramento della risposta del motore</strong> alla pressione del pedale.</li>
+    <li><strong>Gestione complessa del personale di sala:</strong>
+      <ul>
+        <li>La quantità di accessori e la complessità di montaggio richiedono molte manovre dello strumentista, che deve dedicare molto tempo al setup del trapano. Gli accessori risultano spesso dispersivi, creando inefficienza operativa.</li>
+        <li>Il personale non sterile deve gestire manualmente i parametri e collegare accessori alla centralina: in casi di emergenza, quando il personale lavora ad alta intensità, questo rischia di provocare problemi di coordinamento.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 3 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">03</span> Functional Requirements</h2>
+
+  <div class="subsection-h3">User Stories (sintesi)</div>
+  <p style="font-size:9.5pt;color:#555;margin-bottom:10px;">Le User Stories di dettaglio, con analisi JTBD per ciascun scenario clinico, sono documentate nel documento <a href="neurodrill-user-stories-jtbd.html" target="_blank" style="color:#0E7490;font-weight:600;text-decoration:underline;">User Stories &amp; Product Backlog</a>, che costituisce la base informativa di questa sezione.</p>
+  <ol style="padding-left:20px;margin-bottom:14px;">
+    <li style="font-size:10.5pt;margin-bottom:6px;"><strong>Neurochirurgo:</strong> Voglio un micromotore stabile, preciso, affidabile, per eseguire craniotomie con sicurezza.</li>
+    <li style="font-size:10.5pt;margin-bottom:6px;"><strong>Assistente di sala operatoria:</strong> Voglio che il sistema sia modulare per ridurre il numero di strumenti da preparare e gestire.</li>
+    <li style="font-size:10.5pt;margin-bottom:6px;"><strong>Distributore:</strong> Voglio un prodotto con un forte valore competitivo per facilitarne la vendita nel mercato europeo.</li>
+  </ol>
+
+  <div class="subsection-h3">Feature Set</div>
+  <table>
+    <thead>
+      <tr>
+        <th>Funzionalità</th>
+        <th>Descrizione</th>
+        <th>Beneficio</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Girostabilizzazione interna</td>
+        <td>Riduzione delle vibrazioni, aumento della stabilità.</td>
+        <td>Maggiore precisione chirurgica.</td>
+      </tr>
+      <tr>
+        <td>Sistema di irrigazione avanzato</td>
+        <td>Raffreddamento della fresa e pulizia del campo operatorio.</td>
+        <td>Mantenimento delle prestazioni ottimali (i trapani che si surriscaldano perdono potenza) e capacità di funzionare più a lungo senza surriscaldarsi.</td>
+      </tr>
+      <tr>
+        <td>Sistema di frese modulare (Stepersonal)</td>
+        <td>Le frese si possono fissare ai manipoli dalla metà della loro lunghezza. Con la stessa fresa si coprono profondità da 60 a 90 mm (con il manipolo da 60 mm) agganciandola più o meno profondamente.</td>
+        <td>Riduzione dei costi e della complessità logistica. Aumento della velocità delle procedure ed enorme versatilità.</td>
+      </tr>
+      <tr>
+        <td>Sistema Handpiece ottimizzato</td>
+        <td>Sistema di handpiece con agganci rapidi one hand. 7 manipoli totali.</td>
+        <td>Rispetto ai 12-14 pezzi della concorrenza, rende più semplice l'uso e copre lunghezze tra 60 e 135 mm. Riduzione del numero di cambi del manipolo.</td>
+      </tr>
+      <tr>
+        <td>Motori veloci e potenti</td>
+        <td>Velocità massima 100k RPM. Torque maggiore del mercato &ge; 10 N.m (per Vector e BEE).</td>
+        <td>Maggiore adattabilità chirurgica, affidabilità e precisione.</td>
+      </tr>
+      <tr>
+        <td>Rumore ultra-ridotto</td>
+        <td>&lt;12 dB (SIL)</td>
+        <td>Comfort per chirurgo e paziente.</td>
+      </tr>
+      <tr>
+        <td>Unità di controllo avanzata</td>
+        <td>Controllo autonomo del chirurgo sui parametri operativi.</td>
+        <td>Eliminazione della necessità di assistenza extra. Migliore controllo delle prestazioni del motore.</td>
+      </tr>
+      <tr>
+        <td>Tasto di attivazione sul motore</td>
+        <td>Tutti i motori avranno un tasto di comando integrato.</td>
+        <td>Tutti e tre i motori collegati a un solo pedale. Per selezionare quale motore attivare si posiziona un pulsante di comando direttamente sul motore.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="conformita-box">
+    <p>Conformità alle specifiche contenute in:</p>
+    <ul>
+      <li>Capitolato speciale di conformità ai requisiti normativi</li>
+      <li>Capitolato di conformità alle performance e all'applicazione dei brevetti ivi contenuti</li>
+      <li>Capitolato "Shape" e all'applicazione dei brevetti ivi contenuti</li>
+      <li>Capitolato di Sistema Uso, sterilizzazione e Manutenzione</li>
+    </ul>
+  </div>
+
+  <div class="subsection-h3">Specifiche dei Motori</div>
+  <div class="motor-grid">
+    <div class="motor-card">
+      <div class="motor-name">BEE</div>
+      <div class="motor-desc">Motore perforatore con attacco Hudson per impugnatura ergonomica "Accademica". Peso: 400-500 g.</div>
+      <div class="motor-specs">
+        <ul>
+          <li>Rumorosità &lt; 16 dB</li>
+          <li>70.000 rpm con demoltiplica, 11 Nm — torque superiore al mercato</li>
+          <li>Meccanismo di controrotazione interna per annullare le forze di rotazione</li>
+          <li>Set di irrigazione opzionale per raffreddamento trefina monouso e riduzione detriti</li>
+        </ul>
+      </div>
+    </div>
+    <div class="motor-card">
+      <div class="motor-name">VECTOR</div>
+      <div class="motor-desc">Motore per craniotomia e perforazioni prolungate. Torque massimo tra i trapani da drilling. Peso: 220-350 g.</div>
+      <div class="motor-specs">
+        <ul>
+          <li>Velocità massima: 100.000 rpm (senza demoltiplica)</li>
+          <li>Torque: 10.1 Nm</li>
+          <li>Raffreddamento ad acqua con circuito irrigazione sterile</li>
+          <li>Girostabilizzazione (leggermente inferiore a BEE e SIL per la maggiore potenza)</li>
+          <li>Drilling prolungato senza variazioni termiche</li>
+        </ul>
+      </div>
+    </div>
+    <div class="motor-card">
+      <div class="motor-name">SIL</div>
+      <div class="motor-desc">Il trapano chirurgico più stabile e silenzioso al mondo (&lt;12 dB). Ideale per Awake Surgery. Peso: &lt;100 g.</div>
+      <div class="motor-specs">
+        <ul>
+          <li>Rumorosità &lt; 12 dB in condizioni operative</li>
+          <li>Torque: 7 Nm — ottimizzato per precisione in zone profonde</li>
+          <li>Girostabilizzazione completa grazie al peso ridotto</li>
+          <li>Raffreddamento ad acqua per drilling continuo senza variazioni termiche</li>
+          <li>Massima maneggevolezza e comfort chirurgico</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 4 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">04</span> Non-Functional Requirements</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Requisito</th>
+        <th>Descrizione</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Affidabilità</td>
+        <td>Resistenza all'uso continuo in sala operatoria.</td>
+      </tr>
+      <tr>
+        <td>Sicurezza</td>
+        <td>Conformità MDR/CE per il mercato europeo e STERRAD. Tutti i dati nel Capitolato di Conformità ai requisiti, distribuiti al reparto R&amp;D e presentati al product team dall'unità di Validazione Legale.</td>
+      </tr>
+      <tr>
+        <td>Ergonomia</td>
+        <td>Peso e design ottimizzati per ridurre l'affaticamento del chirurgo.</td>
+      </tr>
+      <tr>
+        <td>Manutenzione</td>
+        <td>Semplice gestione della sterilizzazione e sostituzione degli accessori.</td>
+      </tr>
+      <tr>
+        <td>Strumentazione accessoria</td>
+        <td>Tutto il sistema di contenitori per la sterilizzazione (cassette e contenitori).</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 5 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">05</span> Product Support</h2>
+  <ul>
+    <li><strong>Documentazione:</strong> Manuali d'uso, guide di installazione, certificazioni CE/MDR/STERRAD.</li>
+    <li><strong>Accessori:</strong> Manipoli modulari, frese intercambiabili, unità di controllo con pedale ergonomico.</li>
+    <li><strong>Supporto clienti:</strong> Formazione tecnica per chirurghi e personale di sala operatoria.</li>
+    <li><strong>Aggiornamenti software:</strong> Miglioramenti continui del firmware per l'unità di controllo.</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 6 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">06</span> Business Considerations</h2>
+
+  <div class="subsection-h3">Prezzi di Vendita</div>
+  <div class="pricing-grid">
+    <div class="price-card">
+      <div class="price-name">BEE</div>
+      <div class="price-val">€5.000 – €7.000</div>
+    </div>
+    <div class="price-card">
+      <div class="price-name">VECTOR</div>
+      <div class="price-val">€8.000 – €12.000</div>
+    </div>
+    <div class="price-card">
+      <div class="price-name">SIL</div>
+      <div class="price-val">€10.000 – €14.000</div>
+    </div>
+    <div class="price-card">
+      <div class="price-name">Unità di controllo</div>
+      <div class="price-val">€5.000</div>
+    </div>
+    <div class="price-card">
+      <div class="price-name">Accessori &amp; Frese</div>
+      <div class="price-val">€1.500 – €5.000</div>
+    </div>
+  </div>
+
+  <ul style="margin-top:12px;">
+    <li><strong>Obiettivi di mercato:</strong> Raggiungere vendite tra €6-8M nel primo anno.</li>
+    <li><strong>Strategia di distribuzione:</strong> Grossisti e importatori nel settore medicale.</li>
+  </ul>
+
+  <div class="subsection-h3">Piano di Lancio</div>
+  <div class="launch-grid">
+    <div class="launch-card">
+      <div class="launch-q">Q2</div>
+      <div class="launch-desc">Pre-marketing. Individuazione delle aree da affidare ai distributori.</div>
+    </div>
+    <div class="launch-card">
+      <div class="launch-q">Q4</div>
+      <div class="launch-desc">Produzione del materiale marketing.</div>
+    </div>
+    <div class="launch-card">
+      <div class="launch-q">Q5</div>
+      <div class="launch-desc">Avvio delle fasi di Marketing. Ottenimento di tutte le certificazioni.</div>
+    </div>
+    <div class="launch-card">
+      <div class="launch-q">Q6</div>
+      <div class="launch-desc">Lancio definitivo.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 7 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">07</span> Risks &amp; Mitigation</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:28%;">Rischio</th>
+        <th style="width:12%;">Livello</th>
+        <th>Strategia di Mitigazione</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Ritardi certificazioni CE/MDR</td>
+        <td><span class="risk-badge risk-alto">Alto</span></td>
+        <td>Pianificazione anticipata e collaborazione con enti regolatori. Il rischio burocratico presenta componenti non dipendenti dalle azioni interne: nella fase di pianificazione è stato considerato un ritardo dei tempi conforme al tempo medio storico, ed è stata prevista anche l'eventualità di un iter senza ritardi.</td>
+      </tr>
+      <tr>
+        <td>Scarsa adozione da parte dei chirurghi</td>
+        <td><span class="risk-badge risk-medio">Medio</span></td>
+        <td>Formazione mirata e partnership con Key Opinion Leaders. Attività di marketing fisico mirato (fiere EEANS/AANS) e online. Supporto scientifico per la pubblicazione di letteratura scientifica. Sul medio termine il segmento delle scuole di specializzazione mitiga notevolmente questo rischio.</td>
+      </tr>
+      <tr>
+        <td>Difficoltà di onboarding distributori</td>
+        <td><span class="risk-badge risk-medio">Medio</span></td>
+        <td>Incentivi e supporto marketing per i primi partner. Timing: avvicinarsi ai distributori quando il mercato percepisce i primi segnali sul prodotto e inizia a muoversi in quella direzione.</td>
+      </tr>
+      <tr>
+        <td>Rischio approvvigionamento materie prime (da analisi PESTL)</td>
+        <td><span class="risk-badge risk-medio">Medio</span></td>
+        <td>Mandato al responsabile Supply Chain, in concerto con il Product Team, di valutare fornitori alternativi. Assieme alla Business Unit: valutazione dell'impatto di soluzioni secondarie e adozione preventiva di contromisure (accordi con più fornitori). Aumento delle scorte di materie prime per garantire produzione di 5 mesi (cut-off medio emerso durante l'analisi delle forze di Porter e PESTL).</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- ============================================================ -->
+<!-- SECTION 8 -->
+<!-- ============================================================ -->
+<div class="section-block">
+  <h2 class="section-h2"><span class="section-num">08</span> Key Performance Indicators (KPI)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>KPI</th>
+        <th>Obiettivo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Tempo chirurgico medio</td>
+        <td>Riduzione rispetto ai trapani tradizionali.</td>
+      </tr>
+      <tr>
+        <td>Autonomia d'uso</td>
+        <td>Il chirurgo opera senza assistenza esterna, compiendo tutte le operazioni necessarie riguardanti l'uso dei trapani, mantenendo la riduzione dei tempi tradizionali. Lo strumentista deve ridurre il tempo di operazione sul trapano rispetto ai competitor.</td>
+      </tr>
+      <tr>
+        <td>Temperatura massima manipolo</td>
+        <td>Aumento di almeno 180 secondi (rispetto ai competitor) dell'uso continuativo prima che la temperatura sul motore aumenti di 10 gradi. Riferimento competitor 1: 5 minuti 13 secondi.</td>
+      </tr>
+      <tr>
+        <td>Rumore (SIL)</td>
+        <td>&le; 12 dB in condizioni operative.</td>
+      </tr>
+      <tr>
+        <td>Irrigazione del campo operatorio</td>
+        <td>Migliore visibilità intraoperatoria, tale da non richiedere il supporto del primo operatore.</td>
+      </tr>
+      <tr>
+        <td>Conversione distributori</td>
+        <td>Onboarding di almeno 5 distributori nel primo anno.</td>
+      </tr>
+      <tr>
+        <td>Soddisfazione clinica</td>
+        <td>85% di feedback positivi del mercato.</td>
+      </tr>
+      <tr>
+        <td>Velocità costante</td>
+        <td>Durante le attività di drilling la velocità deve rimanere costante.</td>
+      </tr>
+      <tr>
+        <td>Soddisfazione modularità (StepPersonal + aggancio rapido)</td>
+        <td>90% di feedback positivi del mercato.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="kpi-note">
+    <strong>Nota:</strong> L'assenza di una valutazione quantitativa circa i costi dovuti al rallentamento delle procedure chirurgiche non è una lacuna di investigazione, ma riflette la natura non misurabile ex-ante di questo parametro. Tale indeterminazione non influisce sulla sensibilità al tema da parte delle equipe chirurgiche, che rimane molto elevata.
+  </div>
+</div>
+
+<p class="closing-line">Il PRD costituisce il documento di riferimento per le specifiche tecniche e funzionali del sistema NeuroDrill Pro. Le sezioni qui definite vengono approfondite e sviluppate nelle fasi successive al Business Case preliminare, in parallelo con il avanzamento del processo di progettazione e validazione del prodotto.</p>
+
+</body>
+</html>
