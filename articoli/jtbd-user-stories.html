@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JTBD e User Stories: il framework ibrido — Gabriele Albanese</title>
+  <link rel="stylesheet" href="../assets/css/style.css" />
+</head>
+<body>
+
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#about">Chi Sono</a></li>
+      <li><a href="../index.html#skills">Competenze</a></li>
+      <li><a href="../index.html#works">Progetti</a></li>
+      <li><a href="../index.html#articles" class="active">Articoli</a></li>
+      <li><a href="../index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<div class="page-hero" style="position:relative;background: linear-gradient(160deg, rgba(6,37,51,0.97) 0%, rgba(6,37,51,0.88) 28%, rgba(14,116,144,0.62) 58%, rgba(9,80,100,0.88) 80%, rgba(6,37,51,0.97) 100%), url('https://images.unsplash.com/photo-1552664730-d307ca884978?fm=jpg&q=85&w=1920&auto=format&fit=crop') center/cover no-repeat;">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a><span>/</span>
+      <a href="../index.html#articles">Articoli</a><span>/</span>
+      <span style="color:#93c5fd;">JTBD e User Stories</span>
+    </div>
+    <div class="page-label">Product Management · Discovery</div>
+    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Ottobre 2025 · 15 min</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">User Stories ti dicono cosa costruire. JTBD ti dice se vale la pena farlo.</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Quasi ogni team di prodotto che lavora bene incappa nello stesso pattern. Il processo funziona. Il prodotto no.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px;">
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Product Management</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">JTBD</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Discovery</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">User Stories</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Framework</span>
+    </div>
+  </div>
+  <div style="position:absolute;bottom:-1px;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,#FAFAF8);pointer-events:none;z-index:2;"></div>
+</div>
+
+<div class="content-block">
+  <div class="container">
+    <div class="prose fade-up">
+
+      <p>Le User Stories sono precise. Le sessioni di discovery sono strutturate. Il backlog è ordinato e prioritizzato. Il processo funziona. Eppure il prodotto che ne esce non cambia il comportamento degli utenti nel modo atteso.</p>
+      <p>Non è un problema di competenza del team. È un problema di domanda. Il team ha risposto con precisione alla domanda sbagliata.</p>
+      <p>Le User Stories rispondono a: <em>cosa vuole l'utente?</em> È la domanda giusta, ma non è la prima da fare. Prima viene un'altra, più difficile: <em>perché lo vuole?</em> E ancora prima: qual è il lavoro che l'utente sta cercando di fare nella propria vita, e per cui sta assumendo il tuo prodotto?</p>
+      <p>Questa è la domanda che separa un framework di discovery da un altro. La risposta, combinata con la precisione esecutiva delle User Stories, produce qualcosa che nessuno dei due strumenti da solo riesce a generare.</p>
+
+      <h2>Come funzionano le User Stories, davvero</h2>
+      <p>Il formato è noto: <em>"Come [ruolo], voglio [funzionalità], così che [beneficio]."</em> L'utilità è concreta: le User Stories creano un punto di vista condiviso tra PM, design e sviluppo. Definiscono criteri di accettazione verificabili. Rendono il backlog leggibile da tutti, tecnici e non.</p>
+      <p>Ma la struttura ha un limite preciso, e quasi nessuno lo nomina. La User Story parte dall'utente e dalla funzionalità: è già dentro il perimetro del prodotto. Chiede al team di costruire meglio qualcosa di cui si è già deciso che vale la pena costruire. Non mette mai in discussione la premessa.</p>
+
+      <div class="callout">
+        <p><em>"Come utente mobile, voglio filtrare i risultati di ricerca per categoria, così che trovo più velocemente quello che cerco."</em></p>
+      </div>
+
+      <p>La storia è corretta. Ma non risponde a nessuna di queste domande: perché l'utente fa questa ricerca? Quale obiettivo nella propria vita sta cercando di raggiungere? Il filtro per categoria è la soluzione giusta al problema reale? C'è un modo migliore per raggiungere lo stesso obiettivo?</p>
+      <p>Un team che lavora solo con User Stories costruisce le funzionalità che gli utenti chiedono. Non necessariamente quelle che cambiano il loro comportamento. La distanza tra le due è esattamente dove vivono i prodotti che non decollano mai.</p>
+
+      <h2>JTBD: il cambio di domanda</h2>
+      <p>Clayton Christensen ha formulato il principio con precisione: le persone non comprano prodotti. <strong>Assumono prodotti per fare un lavoro nella propria vita.</strong> Se un prodotto fa quel lavoro meglio, lo scelgono. Se un altro lo fa ancora meglio, lo sostituiscono senza esitazione.</p>
+      <p>Il framework riconosce tre dimensioni del lavoro. Ignorarne anche solo una produce soluzioni parziali.</p>
+    </div>
+
+    <div class="fade-up delay-1" style="margin:32px 0;">
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;">
+        <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-radius:12px;padding:20px 22px;">
+          <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:8px;">Job Funzionale</div>
+          <p style="font-size:0.85rem;font-weight:600;color:var(--text);margin-bottom:6px;">L'obiettivo pratico da raggiungere.</p>
+          <p style="font-size:0.8rem;color:var(--muted);margin:0;">Una persona acquista una barretta proteica per placare la fame durante il giorno.</p>
+        </div>
+        <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-radius:12px;padding:20px 22px;">
+          <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:8px;">Job Emotivo</div>
+          <p style="font-size:0.85rem;font-weight:600;color:var(--text);margin-bottom:6px;">Come ci si vuole sentire durante e dopo.</p>
+          <p style="font-size:0.8rem;color:var(--muted);margin:0;">La stessa persona sceglie quella barretta per sentire di stare lavorando verso il proprio obiettivo di peso.</p>
+        </div>
+        <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-radius:12px;padding:20px 22px;">
+          <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:8px;">Job Sociale</div>
+          <p style="font-size:0.85rem;font-weight:600;color:var(--text);margin-bottom:6px;">Come ci si vuole essere percepiti dagli altri.</p>
+          <p style="font-size:0.8rem;color:var(--muted);margin:0;">Se è nella community del bodybuilding e quel brand ha prestigio in quel contesto, la scelta non è nutrizionale: è identitaria.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <p>Tre persone che comprano la stessa barretta per tre ragioni diverse. Tre profili cliente distinti. Tre strategie di prodotto separate. Una sola User Story che dice <em>"come cliente attento alla salute, voglio una barretta proteica pratica"</em> non distingue nessuna delle tre.</p>
+      <p>Per identificare il job, Christensen suggerisce di partire da tre domande formulate dal punto di vista del cliente: <em>"Aiutami a..."</em>, <em>"Aiutami a evitare..."</em>, <em>"Ho bisogno di..."</em>. Non sono esercizi retorici: sono la struttura con cui si articola il job includendo circostanze, contesto competitivo, ansie e tempistica della decisione.</p>
+
+      <h2>Il frullato, e cosa succede quando il job è davvero chiaro</h2>
+      <p>Il caso che Christensen ha usato per decenni riguarda i frullati di McDonald's. Una catena fast food scopre che la maggior parte dei frullati viene venduta prima delle 8:30, da clienti che non ordinano altro. Il job non è "bere qualcosa di dolce": è sopravvivere a un lungo tragitto in auto senza avere fame e senza annoiarsi. Il frullato si beve lentamente, si tiene in una mano sola, non sporca, dura abbastanza per tutto il percorso.</p>
+      <p>Il concorrente non è un altro frullato. È una banana, un panino, la radio.</p>
+      <p>McDonald's ha identificato due interventi concreti. Una carta prepagata per pagare senza fare la fila, che risolve il job emotivo: l'ansia di essere in ritardo. Una consistenza più densa del frullato, così che impieghi più tempo ad essere consumato, che risolve il job funzionale: durare il tragitto.</p>
+
+      <div class="callout">
+        <p>Nessuna delle due decisioni emerge da una User Story standard. Entrambe sono figlie dirette di una comprensione precisa del lavoro che i clienti stavano cercando di fare.</p>
+      </div>
+
+      <h2>Jobs stabili, prodotti effimeri</h2>
+      <p>Chi definisce la propria attività attorno ai prodotti che vende è esposto a ogni cambio tecnologico: il vantaggio è nel prodotto, e il prodotto può essere sostituito. Chi la definisce attorno al job che risolve attraversa quei cambi senza perdere il filo, perché il job resta e le tecnologie per servirlo cambiano.</p>
+      <p>Non è una distinzione teorica. È quello che separa le aziende che sopravvivono alla disruption da quelle che ne diventano le vittime.</p>
+
+      <p><strong>Blockbuster vs Netflix.</strong> All'inizio degli anni 2000, Blockbuster dominava il mercato del noleggio video con oltre 5.000 negozi negli Stati Uniti. Il suo vantaggio era costruito sul prodotto: rotazione delle nuove uscite, prossimità fisica, acquisto d'impulso. Netflix è stata assunta per un job fondamentalmente diverso: scoprire e guardare film che corrispondessero ai gusti personali dell'utente, secondo i propri orari, senza penali per il ritardo, senza doversi spostare. Quando la banda larga ha reso possibile lo streaming, Netflix ha soddisfatto lo stesso job con una tecnologia nuova. Blockbuster non aveva una risposta perché non aveva mai definito il problema a quel livello.</p>
+
+      <p><strong>Nike.</strong> Negli anni '60, Bill Bowerman ha progettato la prima scarpa con un obiettivo dichiarato: aiutare i corridori a correre più velocemente con meno peso e meno rischio di infortuni. Da quella definizione è nata la Cortez, poi la Waffle Trainer, poi le Vaporfly con piastra in carbonio con cui Eliud Kipchoge ha corso la maratona sotto le due ore nel 2019. Decenni di materiali e tecnologie diverse, stesso job. Sul fronte opposto: Kodak sapeva fare le foto meglio di chiunque altro, ma il suo job dichiarato era vendere pellicola. Quando la pellicola è diventata irrilevante, non c'era più niente attorno a cui tenere insieme l'azienda.</p>
+
+      <h2>Perché ciascuno, da solo, è parziale</h2>
+      <p>Il JTBD usato senza User Stories è potente in teoria e inutilizzabile in pratica. Identifica il perché profondo di un comportamento ma non lo traduce in specifiche costruibili. È analisi senza implementazione.</p>
+      <p>Le User Stories usate senza JTBD sono precise e miopi. Definiscono cosa costruire, ma non se vale la pena costruirlo. Il team ottimizza. Non ridisegna mai.</p>
+      <p>Separati, entrambi coprono metà della domanda e ignorano l'altra. Il punto di contatto tra i due è esattamente dove le decisioni di prodotto più importanti vengono prese, e più spesso sbagliate.</p>
+
+      <h2>Il framework ibrido: tre esempi su prodotti diversi</h2>
+      <p>La fusione funziona con una gerarchia precisa: il JTBD a monte come filtro di rilevanza, la User Story a valle come specifica di implementazione. Saltare il primo e andare direttamente al secondo produce backlog pieni di funzionalità corrette che nessuno usa.</p>
+    </div>
+
+    <!-- ESEMPIO 01 -->
+    <div class="fade-up delay-1" style="margin:40px 0;border:1px solid rgba(14,116,144,0.2);border-radius:16px;overflow:hidden;">
+      <div style="background:rgba(14,116,144,0.08);padding:18px 28px;border-bottom:1px solid rgba(14,116,144,0.15);">
+        <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.12em;text-transform:uppercase;color:#0E7490;">Esempio 01 · SaaS B2C · Streaming Musicale</div>
+        <div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-top:4px;">Spotify: non vendere musica. Risolvere un momento.</div>
+      </div>
+      <div style="padding:24px 28px;">
+        <p style="font-size:0.88rem;color:var(--muted);margin-bottom:16px;">iTunes vendeva brani. Spotify ha capito che il job non era possedere musica, ma avere sempre la colonna sonora giusta per il momento in cui ci si trova. Un job che cambia tre volte al giorno sulla base dell'umore, del contesto e di chi ti sta intorno.</p>
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:20px;">
+          <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.12);border-radius:8px;padding:12px 14px;">
+            <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:4px;">Job Funzionale</div>
+            <p style="font-size:0.78rem;color:var(--muted);margin:0;">Accedere immediatamente alla musica giusta senza dover scegliere ogni singolo brano.</p>
+          </div>
+          <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.12);border-radius:8px;padding:12px 14px;">
+            <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:4px;">Job Emotivo</div>
+            <p style="font-size:0.78rem;color:var(--muted);margin:0;">Sentire che la musica amplifica o sostiene quello che si sta vivendo in quel momento: la corsa, il lavoro, il viaggio.</p>
+          </div>
+          <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.12);border-radius:8px;padding:12px 14px;">
+            <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:4px;">Job Sociale</div>
+            <p style="font-size:0.78rem;color:var(--muted);margin:0;">Condividere gusti e playlist come forma di identità. In certi contesti, cosa ascolti dice qualcosa di te quanto quello che indossi.</p>
+          </div>
+        </div>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:10px;"><strong>Senza JTBD:</strong> il backlog si concentra su catalogo, qualità audio, velocità di caricamento. Tutte variabili reali. Nessuna decisiva per il job principale.</p>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:16px;"><strong>Con JTBD:</strong> la priorità diventa la riduzione dell'attrito tra il momento e la musica. Le playlist generate automaticamente per contesto (Discover Weekly, Daily Mix) non sono una funzionalità di catalogo: sono la risposta diretta al job emotivo. L'utente non vuole scegliere, vuole che Spotify scelga bene per lui.</p>
+        <div style="background:rgba(14,116,144,0.04);border-left:3px solid #0E7490;border-radius:0 8px 8px 0;padding:14px 18px;">
+          <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:8px;">User Stories che emergono</div>
+          <p style="font-size:0.82rem;color:var(--muted);margin-bottom:6px;">"Come utente che inizia una corsa, voglio che Spotify riconosca l'attività e avvii automaticamente una playlist ad alto ritmo, così che non devo interrompere il riscaldamento per cercare musica."</p>
+          <p style="font-size:0.82rem;color:var(--muted);margin:0;">"Come utente che ascolta spesso un certo genere il lunedì mattina, voglio trovare una playlist personalizzata già pronta, così che la settimana inizia senza frizioni."</p>
+        </div>
+        <p style="font-size:0.8rem;color:var(--muted);margin-top:12px;margin-bottom:0;">Nessuna delle due parla di catalogo o qualità audio. Entrambe risolvono il job emotivo: la musica giusta nel momento giusto, senza sforzo. Quella differenza è misurabile nel tempo di sessione e nella retention a 90 giorni.</p>
+      </div>
+    </div>
+
+    <!-- ESEMPIO 02 -->
+    <div class="fade-up delay-1" style="margin:40px 0;border:1px solid rgba(14,116,144,0.2);border-radius:16px;overflow:hidden;">
+      <div style="background:rgba(14,116,144,0.08);padding:18px 28px;border-bottom:1px solid rgba(14,116,144,0.15);">
+        <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.12em;text-transform:uppercase;color:#0E7490;">Esempio 02 · Fintech B2C · Pagamenti</div>
+        <div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-top:4px;">PayPal: il logo che vale più della funzionalità.</div>
+      </div>
+      <div style="padding:24px 28px;">
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:20px;">
+          <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.12);border-radius:8px;padding:12px 14px;">
+            <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:4px;">Job Funzionale</div>
+            <p style="font-size:0.78rem;color:var(--muted);margin:0;">Pagare su siti dove non si vogliono inserire i dati della propria carta.</p>
+          </div>
+          <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.12);border-radius:8px;padding:12px 14px;">
+            <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:4px;">Job Emotivo</div>
+            <p style="font-size:0.78rem;color:var(--muted);margin:0;">Sentirsi al sicuro, protetti dalla possibilità di frode. Il CEO Dan Schulman ha dichiarato esplicitamente che PayPal genera nei propri utenti un senso di fiducia che va ben oltre il meccanismo di pagamento.</p>
+          </div>
+          <div style="background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.12);border-radius:8px;padding:12px 14px;">
+            <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:4px;">Job Sociale</div>
+            <p style="font-size:0.78rem;color:var(--muted);margin:0;">Sentirsi un utente digitale consapevole, non vulnerabile o ingenuo.</p>
+          </div>
+        </div>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:10px;"><strong>Senza JTBD:</strong> il backlog si concentra su velocità del checkout, numero di valute supportate, commissioni competitive. Variabili che contano per la conversione iniziale, non per la fidelizzazione.</p>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:16px;"><strong>Con JTBD:</strong> la priorità diventa il segnale di sicurezza percepito, non solo la sicurezza reale. Il logo PayPal su un sito sconosciuto risolve il job emotivo prima ancora che l'utente inizi la transazione. È per questo che i merchant accettano PayPal pagando commissioni più alte: non comprano un processore di pagamenti, comprano un tasso di conversione più alto perché riducono l'ansia dell'acquirente nel momento più critico del funnel.</p>
+        <div style="background:rgba(14,116,144,0.04);border-left:3px solid #0E7490;border-radius:0 8px 8px 0;padding:14px 18px;">
+          <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:8px;">User Stories che emergono</div>
+          <p style="font-size:0.82rem;color:var(--muted);margin-bottom:6px;">"Come acquirente su un nuovo sito di e-commerce, voglio vedere il logo PayPal come opzione di pagamento, così che posso completare l'acquisto senza inserire i dati della carta su un sito che non conosco."</p>
+          <p style="font-size:0.82rem;color:var(--muted);margin:0;">"Come utente che ha appena completato un pagamento, voglio ricevere immediatamente una notifica di conferma con il riepilogo della transazione, così che ho un riferimento in caso di contestazione."</p>
+        </div>
+        <p style="font-size:0.8rem;color:var(--muted);margin-top:12px;margin-bottom:0;">La prima User Story non è una funzionalità del prodotto PayPal: è la ragione per cui esiste il programma partner dei merchant. Nessuno la scrive senza aver fatto prima l'analisi JTBD.</p>
+      </div>
+    </div>
+
+    <!-- ESEMPIO 03 -->
+    <div class="fade-up delay-1" style="margin:40px 0;border:1px solid rgba(14,116,144,0.2);border-radius:16px;overflow:hidden;">
+      <div style="background:rgba(14,116,144,0.08);padding:18px 28px;border-bottom:1px solid rgba(14,116,144,0.15);">
+        <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.12em;text-transform:uppercase;color:#0E7490;">Esempio 03 · SaaS B2B · Enterprise Project Management</div>
+        <div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-top:4px;">Il CSV che nessuno voleva davvero.</div>
+      </div>
+      <div style="padding:24px 28px;">
+        <p style="font-size:0.85rem;color:var(--muted);margin-bottom:16px;">Il team riceve questa richiesta dal backlog: <em>"Come manager, voglio esportare i dati in CSV, così che posso analizzarli nel mio strumento preferito."</em> Sembra chiara. Non lo è.</p>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:6px;"><strong>Partendo dalle tre domande di Christensen:</strong></p>
+        <ul style="font-size:0.84rem;color:var(--muted);margin-bottom:16px;display:flex;flex-direction:column;gap:6px;">
+          <li><strong>"Aiutami a..."</strong> dimostrare al mio responsabile che il progetto sta andando bene prima della review mensile.</li>
+          <li><strong>"Aiutami a evitare..."</strong> dover costruire manualmente un'analisi da zero ogni volta.</li>
+          <li><strong>"Ho bisogno di..."</strong> visibilità immediata sullo stato del lavoro del team senza dover inseguire aggiornamenti.</li>
+        </ul>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:10px;"><strong>Il job reale</strong> non è trasferire dati tra strumenti. È sentirsi in controllo prima di una review ad alto rischio. Il CSV è l'unico modo che l'utente conosce per raggiungere quell'obiettivo con gli strumenti che ha. Non è la soluzione che vuole: è la soluzione di ripiego che ha imparato a chiedere.</p>
+        <p style="font-size:0.85rem;color:var(--text);margin-bottom:16px;"><strong>Con JTBD:</strong> la soluzione prioritaria non è l'esportazione, è la sintesi automatica. Un report precompilato con le metriche che il manager sa già verranno chieste, formattato per essere condiviso senza rielaborazione.</p>
+        <div style="background:rgba(14,116,144,0.04);border-left:3px solid #0E7490;border-radius:0 8px 8px 0;padding:14px 18px;">
+          <div style="font-size:0.65rem;font-weight:800;letter-spacing:0.08em;text-transform:uppercase;color:#0E7490;margin-bottom:8px;">User Story che emerge</div>
+          <p style="font-size:0.82rem;color:var(--muted);margin:0;">"Come manager responsabile di un progetto, voglio ricevere ogni lunedì mattina un report precompilato con i task in ritardo e quelli a rischio per la settimana, così che posso condividerlo con il mio responsabile prima della review mensile senza dover aggregare dati manualmente."</p>
+        </div>
+        <p style="font-size:0.8rem;color:var(--muted);margin-top:12px;margin-bottom:0;">Non è la stessa feature. Non è nemmeno nello stesso spazio di soluzioni. È la differenza tra una User Story scritta dopo un'analisi JTBD e una scritta senza averla fatta.</p>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h2>Come identificare i job dei propri utenti</h2>
+      <p>Prima di applicare il framework ibrido serve capire quale sia il job reale. Christensen identifica tre percorsi, da usare in sequenza e non in alternativa.</p>
+      <p><strong>Riflessione diretta.</strong> Anche il PM è un cliente. Riflettere sui propri comportamenti e sulle proprie decisioni d'acquisto aiuta a identificare pattern che si applicano a segmenti più ampi. È il punto di partenza più rapido quando non si ha ancora accesso agli utenti.</p>
+      <p><strong>Osservazione.</strong> Guardare come gli utenti reali usano il prodotto, non come dichiarano di usarlo. Le discrepanze tra quello che le persone dicono e quello che fanno sono quasi sempre il segnale più chiaro di un job non ancora compreso. Chi usa il CSV per fare un report ogni mese sta dicendo qualcosa di preciso sul job reale che il prodotto non sta servendo.</p>
+      <p><strong>Intervista.</strong> Gli utenti attuali, quelli che hanno smesso di usare il prodotto e quelli potenziali raccontano storie diverse sullo stesso job. Ascoltarli tutti e tre, in modo strutturato, è il modo più diretto per capire dove il prodotto sta mancando il bersaglio.</p>
+
+      <h2>La regola operativa</h2>
+      <p>Nessuna User Story entra in backlog senza che il team abbia risposto a tre domande JTBD.</p>
+    </div>
+
+    <div class="fade-up delay-1" style="margin:32px 0;">
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;">
+        <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-radius:12px;padding:20px 22px;">
+          <div style="font-size:1.8rem;font-weight:800;color:#0E7490;margin-bottom:8px;">01</div>
+          <p style="font-size:0.84rem;color:var(--text);margin:0;">Quale obiettivo reale, al di fuori del prodotto, questa funzionalità aiuta l'utente a raggiungere?</p>
+        </div>
+        <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-radius:12px;padding:20px 22px;">
+          <div style="font-size:1.8rem;font-weight:800;color:#0E7490;margin-bottom:8px;">02</div>
+          <p style="font-size:0.84rem;color:var(--text);margin:0;">Quali sono le dimensioni emotive e sociali di quel job, non solo quella funzionale?</p>
+        </div>
+        <div style="background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.2);border-radius:12px;padding:20px 22px;">
+          <div style="font-size:1.8rem;font-weight:800;color:#0E7490;margin-bottom:8px;">03</div>
+          <p style="font-size:0.84rem;color:var(--text);margin:0;">Cosa fa oggi l'utente per raggiungere quell'obiettivo, con o senza il prodotto?</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <p>Queste domande non rallentano il processo di discovery: lo ancorano. Trasformano il backlog da lista di funzionalità desiderate a lista di job da soddisfare con soluzioni verificabili. Rendono il "perché lo costruiamo" una risposta che tutti nel team, non solo il PM, sono in grado di dare con precisione.</p>
+
+      <p>La maggior parte dei PM conosce entrambi i framework. Quasi nessuno li usa come sistema unico, con una gerarchia esplicita tra i due.</p>
+      <p>Quella gerarchia è l'unica differenza strutturale tra un team che costruisce le funzionalità giuste e uno che costruisce molto bene le funzionalità sbagliate. Non è una distinzione di metodo o di processo: è una distinzione di domanda. Chi parte da "cosa costruiamo?" e chi parte da "quale lavoro dobbiamo risolvere?" producono backlog diversi, prodotti diversi e, su un orizzonte abbastanza lungo, aziende diverse.</p>
+
+      <div class="callout">
+        <p>Il job viene prima. Sempre.</p>
+      </div>
+
+      <div style="margin-top:48px;padding:28px 32px;background:rgba(14,116,144,0.04);border:1px solid rgba(14,116,144,0.15);border-radius:14px;">
+        <div style="font-size:0.68rem;font-weight:800;letter-spacing:0.12em;text-transform:uppercase;color:#0E7490;margin-bottom:14px;">NOTA · Il job che l'analisi non vede</div>
+        <p style="font-size:0.85rem;color:var(--muted);margin-bottom:12px;">C'è un paradosso nell'uso degli strumenti di analisi nel lavoro di prodotto che vale la pena nominare.</p>
+        <p style="font-size:0.85rem;color:var(--muted);margin-bottom:12px;">Il job dichiarato è lavorare più in fretta. Il job reale, nella maggior parte dei casi, è un altro: non affrontare la pagina bianca, delegare la parte che mette a disagio come la struttura, il framework, la forma, per concentrarsi su quello che si sa già fare. Il segnale è nel comportamento a valle: si passa tempo significativo a correggere l'output perché in testa si ha già un'idea precisa di cosa si vuole. Il lavoro cognitivo lo si fa comunque, solo dopo invece che prima.</p>
+        <p style="font-size:0.85rem;color:var(--muted);margin:0;">Se si applicasse il JTBD all'adozione degli strumenti nello stesso modo in cui lo si applica ai prodotti, la domanda non sarebbe "questo strumento mi aiuta a lavorare meglio?" ma "quale attrito specifico sto cercando di risolvere quando lo uso, e questa è davvero la soluzione migliore per quel job?" La risposta cambia quello che si decide di delegare. E quello che vale la pena tenere per sé.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="contact-section">
+  <div class="container">
+    <h2 class="contact-title">Stai definendo la tua discovery?</h2>
+    <p class="contact-desc">Posso aiutarti a strutturare il processo: dal job mapping alle User Stories pronte per il backlog.</p>
+    <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
+    <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Contattami &rarr;</a>
+      <a href="../index.html#articles" class="btn btn-outline">Altri articoli</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">Gabriele Albanese</div>
+      <ul class="footer-links">
+        <li><a href="../index.html#about">Chi Sono</a></li>
+        <li><a href="../index.html#works">Progetti</a></li>
+        <li><a href="../index.html#articles">Articoli</a></li>
+        <li><a href="../index.html#contact">Contatti</a></li>
+      </ul>
+      <div class="footer-copy">&copy; 2025 Gabriele Albanese</div>
+    </div>
+  </div>
+</footer>
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>
