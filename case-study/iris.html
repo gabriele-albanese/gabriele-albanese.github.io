@@ -64,7 +64,7 @@
     /* ── App Mockups ── */
     .mockup-section-title { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
     .mockup-section-h2 { font-size: clamp(1.4rem,2.5vw,1.9rem); font-weight: 800; color: var(--primary); letter-spacing: -0.03em; margin-bottom: 12px; }
-    .mockup-section-sub { font-size: 0.92rem; color: var(--text-muted); line-height: 1.75; margin-bottom: 40px; max-width: 580px; }
+    .mockup-section-sub { font-size: 0.92rem; color: var(--text-muted); line-height: 1.75; margin-bottom: 40px; }
 
     /* Dashboard Mockup */
     .app-shell { background: #0d1117; border-radius: 16px; overflow: hidden; box-shadow: 0 24px 64px rgba(0,0,0,0.32); border: 1px solid #21262d; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
@@ -88,7 +88,7 @@
     .app-msg-row { background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 14px 18px; display: flex; align-items: center; gap: 16px; }
     .app-msg-avatar { width: 38px; height: 38px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.78rem; font-weight: 800; flex-shrink: 0; }
     .app-msg-body { flex: 1; min-width: 0; }
-    .app-msg-name { font-size: 0.82rem; font-weight: 700; color: #e6edf3; margin-bottom: 3px; }
+    .app-msg-name { font-size: 0.82rem; font-weight: 700; color: #e6edf3; margin-bottom: 3px; filter: blur(4px); user-select: none; }
     .app-msg-preview { font-size: 0.75rem; color: #8b949e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     .app-msg-meta { text-align: right; flex-shrink: 0; }
     .app-msg-time { font-size: 0.7rem; color: #6e7681; margin-bottom: 5px; }
@@ -107,7 +107,7 @@
     .chat-left { width: 55%; border-right: 1px solid #2a3942; display: flex; flex-direction: column; }
     .chat-header { background: #202c33; padding: 14px 18px; display: flex; align-items: center; gap: 12px; border-bottom: 1px solid #2a3942; }
     .chat-avatar { width: 40px; height: 40px; border-radius: 50%; background: #25d366; display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 0.85rem; flex-shrink: 0; }
-    .chat-contact-name { font-size: 0.88rem; font-weight: 700; color: #e9edef; }
+    .chat-contact-name { font-size: 0.88rem; font-weight: 700; color: #e9edef; filter: blur(4px); user-select: none; }
     .chat-contact-status { font-size: 0.72rem; color: #8696a0; }
     .chat-messages { flex: 1; padding: 16px; background: #0b141a; display: flex; flex-direction: column; gap: 8px; background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.015'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
     .chat-bubble { max-width: 78%; padding: 9px 14px; border-radius: 8px; font-size: 0.8rem; line-height: 1.55; position: relative; }
@@ -974,7 +974,7 @@
         <div class="ai-panel">
           <div class="ai-panel-header">
             <div class="ai-panel-label">Iris · Analisi in corso</div>
-            <div class="ai-panel-title">Risposta da Marco Rossi · 10:23</div>
+            <div class="ai-panel-title">Risposta da <span style="filter:blur(4px);user-select:none;">Marco Rossi</span> · 10:23</div>
           </div>
           <div class="ai-panel-body">
             <div class="ai-intent-card">
@@ -1042,7 +1042,7 @@
         </div>
         <div class="action-card-body">
           <div class="action-card-event">
-            <div class="action-card-event-title">Meeting Marco Rossi · Proposta Commerciale</div>
+            <div class="action-card-event-title">Meeting <span style="filter:blur(4px);user-select:none;">Marco Rossi</span> · Proposta Commerciale</div>
             <div class="action-card-event-detail">
               Mercoledì 1 Luglio 2026<br>
               15:00 – 16:00 · Google Meet<br>
@@ -1067,7 +1067,7 @@
         </div>
         <div class="action-card-body">
           <div class="crm-record">
-            <div class="crm-record-name">Marco Rossi · Rossi Solutions S.r.l.</div>
+            <div class="crm-record-name"><span style="filter:blur(4px);user-select:none;">Marco Rossi</span> · Rossi Solutions S.r.l.</div>
             <div class="crm-field">
               <span class="crm-field-label">Stage</span>
               <span class="crm-field-value updated">Meeting Confermato ↑</span>
@@ -1099,7 +1099,7 @@
         </div>
         <div class="action-card-body">
           <div class="action-card-event" style="border-left-color:#25d366;">
-            <div class="action-card-event-title">Messaggio inviato a Marco Rossi</div>
+            <div class="action-card-event-title">Messaggio inviato a <span style="filter:blur(4px);user-select:none;">Marco Rossi</span></div>
             <div class="action-card-event-detail" style="color:#8b949e;font-style:italic;">
               "Perfetto Marco! Confermo mercoledì alle 15:00. Ti invio il link Google Meet. A presto! 👋"
             </div>
@@ -1119,7 +1119,7 @@
         </div>
         <div class="action-card-body">
           <div class="crm-record" style="border-left-color:#a78bfa;">
-            <div class="crm-record-name">📄 Marco Rossi · Note cliente</div>
+            <div class="crm-record-name">📄 <span style="filter:blur(4px);user-select:none;">Marco Rossi</span> · Note cliente</div>
             <div class="crm-field"><span class="crm-field-label">Aggiunto</span><span class="crm-field-value updated">Budget confermato €12k</span></div>
             <div class="crm-field"><span class="crm-field-label">Aggiunto</span><span class="crm-field-value updated">Meeting mer 01/07 ore 15</span></div>
             <div class="crm-field"><span class="crm-field-label">Tag</span><span class="crm-field-value updated">hot-lead · Q3</span></div>
@@ -1139,7 +1139,7 @@
         </div>
         <div class="action-card-body">
           <div class="action-card-event" style="border-left-color:#db4035;">
-            <div class="action-card-event-title">Preparare deck per meeting Marco Rossi</div>
+            <div class="action-card-event-title">Preparare deck per meeting <span style="filter:blur(4px);user-select:none;">Marco Rossi</span></div>
             <div class="action-card-event-detail">
               Scadenza: Mer 01/07 · ore 14:00<br>
               Progetto: <span style="color:#db4035;">Clienti Attivi</span><br>
@@ -1163,7 +1163,7 @@
           <div class="action-card-event" style="border-left-color:#4a154b;">
             <div class="action-card-event-title">#sales · Update automatico Iris</div>
             <div class="action-card-event-detail" style="color:#8b949e;font-style:italic;">
-              "🎯 Marco Rossi (Rossi Solutions) ha confermato budget €12k. Meeting fissato per mer 01/07 ore 15:00. CRM e Notion aggiornati."
+              "🎯 <span style="filter:blur(4px);user-select:none;">Marco Rossi</span> (Rossi Solutions) ha confermato budget €12k. Meeting fissato per mer 01/07 ore 15:00. CRM e Notion aggiornati."
             </div>
           </div>
           <div style="margin-top:8px;font-size:0.7rem;color:#6e7681;">Canale: <span style="color:#a78bfa;">#sales</span> · 10:24</div>
@@ -1304,7 +1304,7 @@
           <div style="flex:1;min-width:155px;">
             <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#ef4444;margin-bottom:10px;text-align:center;">① Dato reale</div>
             <div style="background:#fff5f5;border:1.5px solid rgba(239,68,68,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:#374151;">
-              <div><b style="color:#ef4444;">Marco Rossi</b></div>
+              <div><b style="color:#ef4444;filter:blur(4px);user-select:none;">Marco Rossi</b></div>
               <div style="color:#6b7280;">+39 333 123 4567</div>
               <div style="margin-top:6px;font-style:italic;">"Budget a 12k. Mer pomeriggio ok?"</div>
             </div>
@@ -1344,7 +1344,7 @@
           <div style="flex:1;min-width:155px;">
             <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#f59e0b;margin-bottom:10px;text-align:center;">④ De-pseudonimizzazione</div>
             <div style="background:rgba(245,158,11,0.06);border:1.5px solid rgba(245,158,11,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:var(--text-muted);">
-              <div><code style="font-size:0.7rem;color:#f59e0b;">C_a7f2</code> → <b>Marco Rossi</b></div>
+              <div><code style="font-size:0.7rem;color:#f59e0b;">C_a7f2</code> → <b style="filter:blur(4px);user-select:none;">Marco Rossi</b></div>
               <div><code style="font-size:0.7rem;color:#f59e0b;">[V_01]</code> → <b>€ 12.000</b></div>
               <div style="margin-top:6px;font-size:0.7rem;color:var(--text-light);">Vault locale · mai in cloud</div>
             </div>
@@ -1357,10 +1357,10 @@
           <div style="flex:1;min-width:155px;">
             <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#10b981;margin-bottom:10px;text-align:center;">⑤ Azioni reali</div>
             <div style="background:rgba(16,185,129,0.06);border:1.5px solid rgba(16,185,129,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:var(--text-muted);">
-              <div>📅 Evento: <b>Marco Rossi</b></div>
+              <div>📅 Evento: <b style="filter:blur(4px);user-select:none;">Marco Rossi</b></div>
               <div>🗃️ CRM: budget <b>€12k</b></div>
-              <div>📓 Notion: note <b>Marco R.</b></div>
-              <div>💬 WA: risponde a <b>Marco</b></div>
+              <div>📓 Notion: note <b style="filter:blur(4px);user-select:none;">Marco R.</b></div>
+              <div>💬 WA: risponde a <b style="filter:blur(4px);user-select:none;">Marco</b></div>
             </div>
             <div style="margin-top:8px;font-size:0.68rem;color:#10b981;text-align:center;">✓ Dati reali solo nelle azioni finali</div>
           </div>
