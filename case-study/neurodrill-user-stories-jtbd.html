@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NeuroDrill Pro — User Stories & JTBD Analysis</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 40px 52px;
+    line-height: 1.55;
+  }
+
+  h1 {
+    font-size: 18pt;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: #0a0a0a;
+  }
+  .doc-meta {
+    font-size: 9pt;
+    color: #666;
+    margin-bottom: 36px;
+    padding-bottom: 14px;
+    border-bottom: 2px solid #0E7490;
+  }
+
+  /* SECTION TITLE */
+  .section-title {
+    font-size: 15pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin: 36px 0 20px 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  /* USER STORY BLOCK */
+  .story-block {
+    margin-bottom: 40px;
+    page-break-inside: avoid;
+  }
+  .story-header {
+    font-size: 11.5pt;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #0a0a0a;
+  }
+
+  /* COME / HO BISOGNO / COSI DA */
+  .story-format {
+    margin-bottom: 16px;
+  }
+  .story-format-row {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 4px 12px;
+    margin-bottom: 3px;
+  }
+  .story-label {
+    font-weight: 700;
+    text-decoration: underline;
+    font-size: 10.5pt;
+  }
+  .story-text {
+    font-size: 10.5pt;
+  }
+
+  /* JTBD BOX */
+  .jtbd-box {
+    background: #f0f8fb;
+    border: 1.5px solid #0E7490;
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin: 16px 0;
+  }
+  .jtbd-box-title {
+    font-size: 8.5pt;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0E7490;
+    margin-bottom: 12px;
+  }
+  .jtbd-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .jtbd-cell {
+    background: #fff;
+    border: 1px solid #b2dce8;
+    border-radius: 4px;
+    padding: 10px 12px;
+  }
+  .jtbd-cell-label {
+    font-size: 8pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #0E7490;
+    margin-bottom: 5px;
+  }
+  .jtbd-cell-text {
+    font-size: 9.5pt;
+    color: #2a2a2a;
+    line-height: 1.45;
+  }
+
+  .jtbd-questions {
+    border-top: 1px solid #c8e6ef;
+    padding-top: 12px;
+  }
+  .jtbd-questions-label {
+    font-size: 8pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #0E7490;
+    margin-bottom: 8px;
+  }
+  .jtbd-question-row {
+    display: grid;
+    grid-template-columns: 130px 1fr;
+    gap: 4px 10px;
+    margin-bottom: 4px;
+    font-size: 9.5pt;
+  }
+  .jtbd-q-label {
+    font-style: italic;
+    color: #555;
+    font-weight: 600;
+  }
+  .jtbd-q-text {
+    color: #1a1a1a;
+  }
+
+  /* ACCEPTANCE CRITERIA */
+  .criteria-title {
+    font-size: 10.5pt;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 14px;
+  }
+  .criteria-list {
+    list-style: disc;
+    padding-left: 20px;
+    font-size: 10.5pt;
+  }
+  .criteria-list li {
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+
+  /* DIVIDER */
+  .story-divider {
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    margin: 32px 0;
+  }
+
+  /* BACKLOG TABLE */
+  .backlog-title {
+    font-size: 13pt;
+    font-weight: 700;
+    margin: 40px 0 16px 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #ddd;
+    page-break-before: always;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9.5pt;
+    margin-bottom: 24px;
+  }
+  th {
+    background: #0E7490;
+    color: #fff;
+    padding: 8px 10px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 9pt;
+  }
+  td {
+    padding: 8px 10px;
+    border: 1px solid #d0d0d0;
+    vertical-align: top;
+    line-height: 1.45;
+  }
+  tr:nth-child(even) td { background: #f7f7f7; }
+  td:first-child { font-weight: 700; color: #0E7490; width: 42px; text-align: center; }
+  td:nth-child(2) { width: 20%; font-weight: 600; }
+  td:nth-child(3) { width: 37%; }
+  td:nth-child(4) { width: 37%; }
+
+  /* PRINT */
+  @media print {
+    body { padding: 20px 30px; font-size: 10pt; }
+    .jtbd-box { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .story-block { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<h1>NeuroDrill Pro — User Stories &amp; JTBD Analysis</h1>
+<div class="doc-meta">Product Management · Discovery Framework &nbsp;|&nbsp; Versione arricchita con analisi JTBD (Jobs To Be Done) per ciascuna User Story</div>
+
+<div class="section-title">User Stories</div>
+
+<!-- ============================================================ -->
+<!-- STORY 001 -->
+<!-- ============================================================ -->
+<div class="story-block">
+  <div class="story-header">User Story 001 &ndash; Emorragia cerebrale in sede tipica, da aneurisma &ndash; Intervento in Urgenza</div>
+
+  <div class="story-format">
+    <div class="story-format-row">
+      <span class="story-label">Come</span>
+      <span class="story-text">Primo operatore, in E.R. in un caso del genere</span>
+    </div>
+    <div class="story-format-row">
+      <span class="story-label">ho bisogno</span>
+      <span class="story-text">di aprire molto rapidamente, per arrivare alla zona del circuito di Willis</span>
+    </div>
+    <div class="story-format-row">
+      <span class="story-label">così da</span>
+      <span class="story-text">clampare prima che la rottura del grappolo/sacca sia totale</span>
+    </div>
+  </div>
+
+  <div class="jtbd-box">
+    <div class="jtbd-box-title">Analisi JTBD &mdash; Il lavoro che il chirurgo sta davvero cercando di fare</div>
+    <div class="jtbd-grid">
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Funzionale</div>
+        <div class="jtbd-cell-text">Aprire il cranio e raggiungere il circolo di Willis prima che l'aneurisma si rompa completamente. Il tempo è la variabile critica: ogni secondo di ritardo aumenta il rischio di danno neurologico irreversibile.</div>
+      </div>
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Emotivo</div>
+        <div class="jtbd-cell-text">Mantenere il controllo della situazione in una delle emergenze più ad alto rischio in sala operatoria. Non sentirsi rallentato dallo strumento nel momento in cui ogni secondo conta. Il trapano non deve diventare una fonte di ansia aggiuntiva.</div>
+      </div>
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Sociale</div>
+        <div class="jtbd-cell-text">Essere percepito dal team come il chirurgo che gestisce l'urgenza con decisione e competenza tecnica. Il comportamento dello strumento in urgenza si riflette direttamente sulla percezione del primo operatore da parte del team.</div>
+      </div>
+    </div>
+    <div class="jtbd-questions">
+      <div class="jtbd-questions-label">Le tre domande di Christensen (dal punto di vista del chirurgo)</div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Aiutami a..."</span>
+        <span class="jtbd-q-text">aprire il cranio e arrivare al campo operatorio in meno di 3 minuti totali dall'incisione, senza interruzioni nel flusso chirurgico.</span>
+      </div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Aiutami a evitare..."</span>
+        <span class="jtbd-q-text">qualsiasi perdita di tempo nell'assemblaggio o nel cambio degli strumenti: in urgenza ogni secondi perso sullo strumento è un secondo perso sul paziente.</span>
+      </div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Ho bisogno di..."</span>
+        <span class="jtbd-q-text">uno strumento che risponda immediatamente, senza ritardi tra il comando e l'azione, e che io possa gestire in autonomia senza dover dipendere dall'assistente per la configurazione.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="criteria-title">Requisiti di Accettazione:</div>
+  <ul class="criteria-list">
+    <li>Praticare la perforazione cranica molto velocemente (perforazione in meno di 45 secondi) e con precisione. Fare una craniotomia veloce e rimuovere l'opercolo, senza bucare la dura.</li>
+    <li>Il perforatore deve rispondere in modo preciso e potente all'attività di perforazione. Il motore del craniotomo deve fare altrettanto. La lama triflangiata del craniotomo deve permettere tagli veloci (quindi essere molto aggressiva) consentendo la rimozione di un opercolo di medie dimensioni, in due movimenti fluidi, senza intoppi, e con non più di 50 secondi.</li>
+    <li>Il trapano e le sue parti funzionali devono essere assemblate velocemente in meno di 90 secondi.</li>
+  </ul>
+</div>
+
+<hr class="story-divider" />
+
+<!-- ============================================================ -->
+<!-- STORY 002 -->
+<!-- ============================================================ -->
+<div class="story-block">
+  <div class="story-header">User Story 002 &ndash; Rimozione tramite Cavitazione di Schwannoma del nervo ottico con Accesso Pterionale con ablazione dell'ala latero mediale sfenoidale e clinoidectomia in regime ordinario.</div>
+
+  <div class="story-format">
+    <div class="story-format-row">
+      <span class="story-label">Come</span>
+      <span class="story-text">Neurochirurgo</span>
+    </div>
+    <div class="story-format-row">
+      <span class="story-label">ho bisogno</span>
+      <span class="story-text">di perforare senza usare il perforatore, ma praticando un Burr Hole con estrema delicatezza e precisione; una volta fatto, eseguire una craniotomia delicata (con lama biflangiata) e, una volta esposte le strutture, eseguire un'ablazione sia dell'ala sfenoidale che del processo clinoideo</span>
+    </div>
+    <div class="story-format-row">
+      <span class="story-label">così da</span>
+      <span class="story-text">esporre le strutture nervose e poter intervenire.</span>
+    </div>
+  </div>
+
+  <div class="jtbd-box">
+    <div class="jtbd-box-title">Analisi JTBD &mdash; Il lavoro che il chirurgo sta davvero cercando di fare</div>
+    <div class="jtbd-grid">
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Funzionale</div>
+        <div class="jtbd-cell-text">Ablare strutture ossee complesse (ala sfenoidale, processo clinoideo) in prossimità di strutture nervose critiche, mantenendo la precisione millimetrica per tutta la durata di un intervento lungo. La leggerezza e il raffreddamento dello strumento sono requisiti funzionali primari, non accessori.</div>
+      </div>
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Emotivo</div>
+        <div class="jtbd-cell-text">Sentirsi in controllo assoluto dello strumento in una zona anatomica dove i margini di errore sono millimetrici. Un trapano pesante o che scalda trasmette incertezza nelle fasi di drilling più prolungate. La leggerezza riduce la fatica cognitiva oltre che fisica.</div>
+      </div>
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Sociale</div>
+        <div class="jtbd-cell-text">Eseguire un accesso pterionale con clinoidectomia dimostra padronanza di una delle tecniche avanzate della neurochirurgia cranica. Uno strumento che non impone compromessi tecnici consente al chirurgo di esprimere pienamente la propria competenza.</div>
+      </div>
+    </div>
+    <div class="jtbd-questions">
+      <div class="jtbd-questions-label">Le tre domande di Christensen (dal punto di vista del chirurgo)</div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Aiutami a..."</span>
+        <span class="jtbd-q-text">ablare le strutture dello sfenoide con precisione millimetrica per tutta la durata dell'intervento, senza che la fatica fisica comprometta la qualità del drilling nelle fasi finali.</span>
+      </div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Aiutami a evitare..."</span>
+        <span class="jtbd-q-text">CSF leakage, lacerazioni durali e surriscaldamento del campo operatorio: sono le tre complicazioni che trasformano un intervento programmato in una gestione dell'emergenza.</span>
+      </div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Ho bisogno di..."</span>
+        <span class="jtbd-q-text">uno strumento leggero con raffreddamento integrato che liberi il primo assistente dall'irrigazione manuale, consentendogli di dedicarsi ad attività chirurgicamente rilevanti.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="criteria-title">Requisiti di Accettazione:</div>
+  <ul class="criteria-list">
+    <li>Trapano per il drilling leggero e maneggevole, con una diamantata media, permette la visibilità delle sottostrutture. Craniotomia non aggressiva. No lacerazioni durali.</li>
+    <li>Una fase di drilling leggera ma leggermente più aggressiva (diamantata forte) sulle strutture dello sfenoide, permettendo di praticare la clinoidectomia, senza CSF leakage.</li>
+  </ul>
+</div>
+
+<hr class="story-divider" />
+
+<!-- ============================================================ -->
+<!-- STORY 003 -->
+<!-- ============================================================ -->
+<div class="story-block">
+  <div class="story-header">User Story 003 &ndash; Key Hole Surgery, per rimozione di adenoma Ipofisario, in approccio MIV transfenoidale.</div>
+
+  <div class="story-format">
+    <div class="story-format-row">
+      <span class="story-label">Come</span>
+      <span class="story-text">ORL / Neurochirurgo</span>
+    </div>
+    <div class="story-format-row">
+      <span class="story-label">ho bisogno</span>
+      <span class="story-text">di ablare il setto per ampliare il rostrum, per poi passare all'ablazione della sella turcica, facendo attenzione e rimuovendo delicatamente le strutture sovraturciche</span>
+    </div>
+    <div class="story-format-row">
+      <span class="story-label">così da</span>
+      <span class="story-text">lavorare in un canale che porta direttamente all'adenoma.</span>
+    </div>
+  </div>
+
+  <div class="jtbd-box">
+    <div class="jtbd-box-title">Analisi JTBD &mdash; Il lavoro che il chirurgo sta davvero cercando di fare</div>
+    <div class="jtbd-grid">
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Funzionale</div>
+        <div class="jtbd-cell-text">Raggiungere l'adenoma ipofisario attraverso un corridoio anatomico di 4mm di diametro massimo, con modulazioni continue della velocità di ablazione, senza deviare dall'asse del canale e senza surriscaldare le strutture soprasellari critiche.</div>
+      </div>
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Emotivo</div>
+        <div class="jtbd-cell-text">Sentirsi in controllo completo dello strumento in un canale anatomico dove qualsiasi deviazione di pochi millimetri può causare complicazioni gravi. La precisione in questo contesto non è solo tecnica: è una condizione psicologica che lo strumento deve sostenere, non ostacolare.</div>
+      </div>
+      <div class="jtbd-cell">
+        <div class="jtbd-cell-label">Job Sociale</div>
+        <div class="jtbd-cell-text">L'approccio transfenoidale mininvasivo è una delle tecniche più sofisticate in neurochirurgia. Eseguirlo con il minimo trauma per il paziente e il massimo controllo tecnico dice qualcosa sul livello del chirurgo davanti all'equipe e alla struttura.</div>
+      </div>
+    </div>
+    <div class="jtbd-questions">
+      <div class="jtbd-questions-label">Le tre domande di Christensen (dal punto di vista del chirurgo)</div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Aiutami a..."</span>
+        <span class="jtbd-q-text">mantenere l'hit point entro 4mm di diametro durante tutta la fase di ablazione della sella, con modulazioni di velocità continue e precise senza dover dipendere da personale di supporto per le impostazioni.</span>
+      </div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Aiutami a evitare..."</span>
+        <span class="jtbd-q-text">il surriscaldamento delle strutture soprasellari e qualsiasi perdita di controllo nelle variazioni di velocità: in un corridoio di 4mm non esiste margine di correzione.</span>
+      </div>
+      <div class="jtbd-question-row">
+        <span class="jtbd-q-label">"Ho bisogno di..."</span>
+        <span class="jtbd-q-text">uno strumento che io possa gestire in autonomia completa, impostando e modificando i parametri operativi in tempo reale senza interrompere il flusso chirurgico e senza dover coinvolgere il personale non sterile.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="criteria-title">Requisiti:</div>
+  <ul class="criteria-list">
+    <li>Massima stabilità di fresatura anche sacrificando potenza o capacità di ablazione: l'hit point deve rimanere in un diametro di 4mm.</li>
+    <li>Il tagliente non deve essere caldo a contatto con le lamelle sopra la sella (Tmax 55°).</li>
+    <li>L'ablazione della sella turcica deve essere precisa con continue modulazioni della velocità (con le variazioni di velocità deve rimanere nei 4mm).</li>
+  </ul>
+</div>
+
+<!-- ============================================================ -->
+<!-- PRODUCT BACKLOG -->
+<!-- ============================================================ -->
+<div class="backlog-title">Product Backlog Overview</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story</th>
+      <th>Requisiti</th>
+      <th>Attualmente il mercato</th>
+      <th>Il nostro sistema</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>001</td>
+      <td>Perforazione Veloce</td>
+      <td>8.2 Nm con 40K-RPM dell'attuale leader di mercato vengono reputati al limite della sufficienti. L'operazione di perforazione dura circa 35 secondi.</td>
+      <td><strong>BEE:</strong> 11 Nm con 100K RPM per un tempo di perforazione inferiore a 45 s.</td>
+    </tr>
+    <tr>
+      <td>001</td>
+      <td>Craniotomo potente e veloce</td>
+      <td>7.8 Nm con 70K-RPM dell'attuale leader di mercato viene ritenuto troppo lento. Dall'inserimento del peduncolo alla rimozione dell'opercolo circa 60-80 secondi.</td>
+      <td><strong>VECTOR:</strong> 10.1 Nm con 100K RPM. Dall'inserimento del peduncolo alla rimozione dell'opercolo devono intercorrere meno di 60 s.</td>
+    </tr>
+    <tr>
+      <td>001</td>
+      <td>Assemblaggio rapido delle parti funzionali del trapano</td>
+      <td>Al momento per passare dal perforatore al drill, bisogna smontare dal motore un accessorio e montarne un altro su cui poi va montato il manipolo del craniotomo. Operazione che richiede almeno 40-50 secondi.</td>
+      <td>La velocità nel cambio da perforatore a craniotomo deve essere immediata. L'irrigazione permette di liberare la mano dell'assistente che può nel mentre caricare la clip per aneurisma.</td>
+    </tr>
+    <tr>
+      <td>001</td>
+      <td>Nessuna rottura accidentale della dura madre</td>
+      <td>Eccessivi movimenti per velocizzare la craniotomia aumentano il rischio di fistolazione.</td>
+      <td>Casi di fistola durale da peduncolo devono essere vicini allo zero. (Se non nei casi di adesione come in alcuni meningiomi)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story</th>
+      <th>Requisiti</th>
+      <th>Attualmente il mercato</th>
+      <th>Il nostro sistema</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>002</td>
+      <td>Accesso con tecnica Burr Hole</td>
+      <td>8.2 Nm con 70K-RPM dell'attuale leader di mercato vengono reputati troppo potenti e quindi usano frese a diamantatura leggera, che favoriscono però il surriscaldamento.</td>
+      <td><strong>SIL:</strong> 7 Nm con 100K RPM offrono un approccio più delicato, potendo quindi utilizzare frese a diamantatura media. Il sistema di raffreddamento garantisce che non surriscaldi il tagliente.</td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>Craniotomia delicata</td>
+      <td>7.8 Nm con 70K-RPM dell'attuale leader di mercato viene ritenuto troppo, visto il pavimento sottile in quel punto.</td>
+      <td><strong>SIL:</strong> 7 Nm con 100K RPM con una lama triflangiata più veloce o con una biflangiata più delicata.</td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>Visibilità</td>
+      <td>Il primo assistente viene dedicato all'irrigazione del campo operatorio.</td>
+      <td>Con tutti i motori è possibile avere l'irrigazione integrata, liberando il primo assistente che può dedicarsi così ad altre attività.</td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>Drilling dello sfenoide</td>
+      <td>Gli attuali trapani sono in difficoltà scaldando, e risultano pesanti per drilling delicati e prolungati.</td>
+      <td><strong>SIL:</strong> con meno di 100 grammi risulta più comodo e meno stancante. Il sistema di irrigazione permette di reggere meglio il drilling prolungato, garantendo una temperatura minore di 55° nei primi 10 minuti di utilizzo. <strong>VECTOR:</strong> con il suo peso inferiore rispetto al competitor migliore risulta comunque migliorativo in termini di comfort.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story</th>
+      <th>Requisiti</th>
+      <th>Attualmente il mercato</th>
+      <th>Il nostro sistema</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>003</td>
+      <td>Massima stabilità di fresatura anche sacrificando potenza o capacità di ablazione</td>
+      <td>L'attuale leader di mercato vibra molto e risulta difficoltoso il controllo.</td>
+      <td><strong>SIL:</strong> con il suo meccanismo di contro-rotazione permette assoluta stabilità. Nel test "di rollio" il trapano rimane assolutamente immobile.</td>
+    </tr>
+    <tr>
+      <td>003</td>
+      <td>Il tagliente non deve essere caldo a contatto con le lamelle sopra la sella</td>
+      <td>I trapani attualmente tendono a surriscaldare.</td>
+      <td>L'irrigazione permette di mantenere una temperatura inferiore ai 55 gradi dopo 10 minuti di utilizzo.</td>
+    </tr>
+    <tr>
+      <td>003</td>
+      <td>L'ablazione della sella turcica deve essere precisa con continue modulazioni della velocità</td>
+      <td>Le modulazioni degli attuali trapani richiedono personale che imposti le velocità massime.</td>
+      <td>La centralina consente di impostare autonomamente la velocità massima, e di modificarla continuamente potendo gestire in quel range anche il motore in modalità digitale o analogica.</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
