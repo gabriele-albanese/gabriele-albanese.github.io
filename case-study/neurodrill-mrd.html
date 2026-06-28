@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NeuroDrill Pro — Market Requirements Document (MRD)</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 40px 52px;
+    line-height: 1.55;
+  }
+
+  h1 {
+    font-size: 17pt;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #0a0a0a;
+    line-height: 1.3;
+  }
+
+  .doc-meta {
+    font-size: 9pt;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  .doc-disclaimer {
+    font-size: 9pt;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid #0E7490;
+  }
+
+  .intro-box {
+    background: #f0f8fb;
+    border-left: 3px solid #0E7490;
+    padding: 14px 20px;
+    margin-bottom: 36px;
+    font-size: 10.5pt;
+    line-height: 1.6;
+  }
+
+  .section-block {
+    margin-bottom: 36px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .section-block:last-of-type { border-bottom: none; }
+
+  .section-h2 {
+    font-size: 14pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #0E7490;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .section-num {
+    font-size: 8pt;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0E7490;
+    background: #e8f5f9;
+    padding: 2px 7px;
+    border-radius: 3px;
+  }
+
+  .section-h3 {
+    font-size: 12pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin: 24px 0 12px 0;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  /* TABLES */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+    font-size: 10pt;
+  }
+  thead th {
+    background: #0E7490;
+    color: #fff;
+    font-weight: 700;
+    padding: 9px 12px;
+    text-align: left;
+    font-size: 9.5pt;
+  }
+  tbody tr:nth-child(even) { background: #f5fbfd; }
+  tbody td {
+    padding: 8px 12px;
+    vertical-align: top;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  td.bold { font-weight: 700; }
+  .mvp-col { color: #0E7490; font-weight: 700; }
+
+  /* MARKET DATA TABLE */
+  .market-size-table thead th { background: #1a5f6e; }
+
+  /* PROBLEM BLOCKS */
+  .problem-block {
+    margin-bottom: 20px;
+  }
+  .problem-title {
+    font-size: 11pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .problem-num {
+    display: inline-block;
+    background: #0E7490;
+    color: #fff;
+    font-size: 9pt;
+    font-weight: 800;
+    padding: 1px 7px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+
+  /* LISTS */
+  ul.doc-list {
+    padding-left: 20px;
+    margin-top: 8px;
+  }
+  ul.doc-list li {
+    margin-bottom: 7px;
+    font-size: 10.5pt;
+  }
+
+  /* SUBSECTION */
+  .sub-label {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #0E7490;
+    margin: 16px 0 8px 0;
+  }
+
+  /* KEY METRICS */
+  .metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin: 16px 0;
+  }
+  .metric-card {
+    background: #f0f8fb;
+    border: 1.5px solid #0E7490;
+    border-radius: 6px;
+    padding: 12px 16px;
+    text-align: center;
+  }
+  .metric-value {
+    font-size: 16pt;
+    font-weight: 800;
+    color: #0E7490;
+    line-height: 1.2;
+  }
+  .metric-label {
+    font-size: 8.5pt;
+    color: #555;
+    margin-top: 4px;
+    line-height: 1.3;
+  }
+
+  /* RATIONALE */
+  .rationale-item {
+    margin-bottom: 16px;
+    padding-left: 16px;
+    border-left: 3px solid #0E7490;
+  }
+  .rationale-item-title {
+    font-weight: 700;
+    font-size: 10.5pt;
+    margin-bottom: 4px;
+  }
+  .rationale-item p {
+    font-size: 10pt;
+    color: #333;
+  }
+
+  /* SIGNIFICANCE BADGES */
+  .sig-high { color: #c0392b; font-weight: 700; font-size: 9.5pt; }
+  .sig-med { color: #e67e22; font-weight: 700; font-size: 9.5pt; }
+  .sig-low { color: #27ae60; font-weight: 700; font-size: 9.5pt; }
+
+  /* COUNTRY TABLE */
+  .country-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 24px;
+  }
+
+  /* BACK LINK */
+  .back-link {
+    display: inline-block;
+    margin-bottom: 28px;
+    font-size: 9.5pt;
+    color: #0E7490;
+    text-decoration: none;
+    border: 1px solid #0E7490;
+    padding: 4px 12px;
+    border-radius: 4px;
+  }
+  .back-link:hover { background: #0E7490; color: #fff; }
+
+  @media (max-width: 640px) {
+    body { padding: 20px 16px; }
+    .metrics-grid { grid-template-columns: 1fr 1fr; }
+    .country-grid { grid-template-columns: 1fr; }
+    table { font-size: 9pt; }
+    thead th, tbody td { padding: 6px 8px; }
+  }
+</style>
+</head>
+<body>
+
+<a href="trapano-chirurgico.html" class="back-link">← Case Study NeuroDrill Pro</a>
+
+<h1>Market Requirements Document (MRD)</h1>
+<div class="doc-meta">NeuroDrill Pro &mdash; Neurosurgical Drill MVP &nbsp;|&nbsp; Market Research &amp; Competitive Analysis</div>
+<div class="doc-disclaimer">Document for demonstrative purposes. Some identifying data has been omitted to protect business confidentiality.</div>
+
+<div class="intro-box">
+  <strong>Objective of the MRD:</strong> The purpose of this Market Requirements Document is to translate market needs &mdash; identified through market research and competitive analysis &mdash; into concrete requirements for the development of the neurosurgical drill. This document serves as the foundation for the subsequent creation of the Product Requirements Document (PRD).
+</div>
+
+<!-- 1. MARKET SEGMENT DEFINITION -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">01</span> Market Segment Definition</div>
+
+  <p style="font-size:10.5pt; margin-bottom:10px;">The target segment for the Neurosurgical Drill includes:</p>
+  <ul class="doc-list">
+    <li><strong>Neurosurgery</strong> &ndash; Procedures on the upper middle third and spinal column.</li>
+    <li><strong>Otorhinolaryngology (ENT)</strong> &ndash; Mastoidectomy, endoscopic surgery, sphenoidal floor surgery, procedures on the middle third, and inner ear interventions.</li>
+  </ul>
+
+  <div class="section-h3">Total Neurosurgery Market Size &mdash; U.S.A. and Europe</div>
+  <table class="market-size-table">
+    <thead>
+      <tr><th>Surgical Sector</th><th>Market Value (Mrd $)</th><th>Annual Growth (CAGR %)</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="bold">Neurosurgery</td><td>7.2</td><td>8%</td></tr>
+      <tr><td class="bold">Otorhinolaryngology (ENT)</td><td>5.4</td><td>7%</td></tr>
+    </tbody>
+  </table>
+
+  <div class="section-h3" style="margin-top:24px;">Market Location &amp; Geographic Priority</div>
+  <p style="font-size:10.5pt; margin-bottom:10px;">While market problems and challenges are largely consistent across North America, Europe, and Asia, the initial development focuses on <strong>Europe</strong>. A subsequent adaptation will be planned for North America. Following SWOT and PEST analyses, the potential for further adaptation to the Asian market will be reassessed.</p>
+
+  <div class="sub-label">Justification for European Market Priority:</div>
+  <ul class="doc-list">
+    <li><strong>Regulatory Differences</strong> &ndash; The European regulatory framework provides a more familiar approval pathway compared to FDA requirements. The FDA process requires more extensive clinical validation and longer timelines, making Europe a more strategic starting point.</li>
+    <li><strong>Stronger Presence of Key Partners</strong> &ndash; Europe offers an established network of strategic partners, including leading neurosurgical and ENT specialists, medical institutions, and distribution channels.</li>
+    <li><strong>Variations in Intraoperative Device Management</strong> &ndash; Certain operational and procedural differences in the handling of medical devices during surgery require specific adaptations for different markets.</li>
+  </ul>
+
+  <div class="section-h3" style="margin-top:24px;">Total Neurosurgery Market Overview</div>
+
+  <div class="metrics-grid">
+    <div class="metric-card">
+      <div class="metric-value">715</div>
+      <div class="metric-label">Total neurosurgery centers<br>across analyzed European countries</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">653</div>
+      <div class="metric-label">Centers in EU member states<br>(university hospitals, specialized clinics)</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-value">1,650,000</div>
+      <div class="metric-label">Estimated drill bits used<br>annually in Europe (2.2 avg/procedure)</div>
+    </div>
+  </div>
+
+  <p style="font-size:10pt; color:#555; margin: 8px 0 16px;">Estimated average incidence: 1,000 neurosurgical cases per million people/year &nbsp;&bull;&nbsp; Total European population (EU + Norway, Switzerland, UK): 750 million.</p>
+
+  <div class="sub-label">Neurosurgery Centers by Country (Europe):</div>
+  <table>
+    <thead>
+      <tr><th>Country</th><th style="text-align:center;">N&deg; NCH</th><th>Country</th><th style="text-align:center;">N&deg; NCH</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Austria</td><td style="text-align:center;">11</td><td>Italy</td><td style="text-align:center;">76</td></tr>
+      <tr><td>Belgium</td><td style="text-align:center;">43</td><td>Latvia</td><td style="text-align:center;">6</td></tr>
+      <tr><td>Bulgaria</td><td style="text-align:center;">18</td><td>Lithuania</td><td style="text-align:center;">7</td></tr>
+      <tr><td>Croatia</td><td style="text-align:center;">12</td><td>Luxembourg</td><td style="text-align:center;">TBD</td></tr>
+      <tr><td>Cyprus</td><td style="text-align:center;">6</td><td>Malta</td><td style="text-align:center;">TBD</td></tr>
+      <tr><td>Czech Republic</td><td style="text-align:center;">15</td><td>Netherlands</td><td style="text-align:center;">21</td></tr>
+      <tr><td>Denmark</td><td style="text-align:center;">4</td><td>Poland</td><td style="text-align:center;">54</td></tr>
+      <tr><td>Estonia</td><td style="text-align:center;">2</td><td>Portugal</td><td style="text-align:center;">14</td></tr>
+      <tr><td>Finland</td><td style="text-align:center;">5</td><td>Romania</td><td style="text-align:center;">53</td></tr>
+      <tr><td>France</td><td style="text-align:center;">47</td><td>Slovakia</td><td style="text-align:center;">TBD</td></tr>
+      <tr><td>Germany</td><td style="text-align:center;">142</td><td>Slovenia</td><td style="text-align:center;">2</td></tr>
+      <tr><td>Greece</td><td style="text-align:center;">41</td><td>Spain</td><td style="text-align:center;">76</td></tr>
+      <tr><td>Hungary</td><td style="text-align:center;">16</td><td>Sweden</td><td style="text-align:center;">6</td></tr>
+      <tr><td>Ireland</td><td style="text-align:center;">2</td><td></td><td></td></tr>
+    </tbody>
+  </table>
+  <div class="sub-label" style="margin-top:16px;">Non-EU Countries:</div>
+  <table style="max-width:320px;">
+    <thead>
+      <tr><th>Country</th><th style="text-align:center;">N&deg; NCH</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Norway</td><td style="text-align:center;">6</td></tr>
+      <tr><td>Switzerland</td><td style="text-align:center;">18</td></tr>
+      <tr><td>United Kingdom</td><td style="text-align:center;">38</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 2. MARKET PROBLEM -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">02</span> Market Problem</div>
+  <p style="font-size:10.5pt; margin-bottom:16px;">The market analysis has identified the following key challenges that the product must address:</p>
+
+  <div class="problem-block">
+    <div class="problem-title"><span class="problem-num">1</span> Overheating and Stability of the Burs</div>
+    <ul class="doc-list">
+      <li>Current motors heat up quickly, compromising both surgeon comfort and patient safety.</li>
+      <li>Excessive bouncing and vibration of the burs reduce cutting and abrasion precision.</li>
+    </ul>
+  </div>
+
+  <div class="problem-block">
+    <div class="problem-title"><span class="problem-num">2</span> Modularity Based on Surgical Needs</div>
+    <ul class="doc-list">
+      <li>Different procedures require specific torque, speed, and acceleration.</li>
+      <li>Existing drills are not optimized for all surgical applications (craniotomy, mastoidectomy, and bone drilling).</li>
+    </ul>
+  </div>
+
+  <div class="problem-block">
+    <div class="problem-title"><span class="problem-num">3</span> Need for a Quieter Drill</div>
+    <ul class="doc-list">
+      <li>Awake Surgery techniques require low-noise instruments to minimize patient discomfort.</li>
+      <li>Drill noise interferes with team communication during surgery.</li>
+    </ul>
+  </div>
+
+  <div class="problem-block">
+    <div class="problem-title"><span class="problem-num">4</span> The Drill Must Not Slow Down on Bone Contact</div>
+    <ul class="doc-list">
+      <li>Competitor products experience speed reduction due to bone friction.</li>
+      <li>The new drill must ensure high torque for a more efficient and precise cut.</li>
+    </ul>
+  </div>
+
+  <div class="problem-block">
+    <div class="problem-title"><span class="problem-num">5</span> Limited Visibility in the Surgical Field</div>
+    <ul class="doc-list">
+      <li>Bone dust mixed with blood reduces visibility, slowing down the procedure.</li>
+      <li>An improved solution must minimize debris and optimize irrigation flow.</li>
+    </ul>
+  </div>
+
+  <div class="problem-block">
+    <div class="problem-title"><span class="problem-num">6</span> Surgeon-Controlled Drill Management</div>
+    <ul class="doc-list">
+      <li>In emergency situations, surgical staff may be occupied, requiring the surgeon to adjust drill settings independently.</li>
+      <li>If the scrub nurse is engaged, the drill must allow quick and intuitive accessory changes and adjustments.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- 3. MARKET REQUIREMENT -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">03</span> Market Requirements</div>
+
+  <div class="sub-label">Functional Requirements (User Interaction Required)</div>
+  <table>
+    <thead>
+      <tr><th style="width:22%">Requirement</th><th style="width:42%">Description</th><th>Success Measurement</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Surgeon Autonomous Control</td>
+        <td>The surgeon must be able to use the drill in all its functions independently, without external assistance.</td>
+        <td>Once assembled on the surgical table, the drill must be operable without the need for additional personnel.</td>
+      </tr>
+      <tr>
+        <td class="bold">Improved Cooling System</td>
+        <td>The drill must maintain an optimal temperature even during prolonged use.</td>
+        <td>The handpiece must not exceed <strong>55&deg;C</strong> after 10 minutes of continuous operation.</td>
+      </tr>
+      <tr>
+        <td class="bold">Speed and Torque Flexibility</td>
+        <td>The drill must adapt to different surgical requirements.</td>
+        <td>Minimum <strong>100,000 RPM</strong>, adjustable in 1% increments.</td>
+      </tr>
+      <tr>
+        <td class="bold">Handpiece Modularity</td>
+        <td>The drill must be compatible with handpieces and burs of various lengths without requiring a tool change.</td>
+        <td>Modularity test: ability to drill at variable depths without changing instruments.</td>
+      </tr>
+      <tr>
+        <td class="bold">Comfort</td>
+        <td>The drill must be ergonomic and comfortable to hold, preventing hand fatigue during use.</td>
+        <td>Positive user feedback on ergonomics.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="sub-label" style="margin-top:20px;">Non-Functional Requirements (Quality and Constraints)</div>
+  <table>
+    <thead>
+      <tr><th style="width:22%">Requirement</th><th style="width:42%">Description</th><th>Success Measurement</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Noise Reduction</td>
+        <td>The drill's noise level must be reduced compared to current industry standards.</td>
+        <td>Maximum noise level of <strong>10 dB</strong>.</td>
+      </tr>
+      <tr>
+        <td class="bold">Drilling Stability</td>
+        <td>The drill must eliminate excessive vibrations and unintended movements.</td>
+        <td><strong>40% reduction</strong> in vibration frequency compared to current drills. Counter-rotation system tested.</td>
+      </tr>
+      <tr>
+        <td class="bold">Minimization of Field Visibility Reduction</td>
+        <td>Handpieces must be thin enough not to obstruct the surgical field. The system must minimize bone dust interference.</td>
+        <td>Significantly improved visibility, allowing clear sight of underlying structures.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 3.1 BENCHMARK -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">3.1</span> Benchmark &mdash; Competing Products vs NeuroDrill MVP</div>
+  <p style="font-size:10.5pt; margin-bottom:16px;">Comparison of key technical parameters of existing neurosurgical drills with the MVP, highlighting competitive advantages and areas for improvement.</p>
+
+  <div class="section-h3">1. Technical Specifications</div>
+  <table>
+    <thead>
+      <tr><th>Parameter</th><th>Comp. 1</th><th>Comp. 2</th><th>Comp. 3</th><th>Comp. 4</th><th class="mvp-col">Our MVP</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Maximum Speed (RPM)</td>
+        <td>70,000</td><td>75,000</td><td>70,000</td><td>80,000</td>
+        <td class="mvp-col">100,000 (adjustable in 1% increments)</td>
+      </tr>
+      <tr>
+        <td class="bold">Maximum Torque (N&middot;m)</td>
+        <td>8.2</td><td>5.8</td><td>7.1</td><td>6.5</td>
+        <td class="mvp-col">&ge; 10</td>
+      </tr>
+      <tr>
+        <td class="bold">Time to Max RPM</td>
+        <td>0.2 sec</td><td>0.8 sec</td><td>1.5 sec</td><td>1.3 sec</td>
+        <td class="mvp-col">TBD (Engineering)</td>
+      </tr>
+      <tr>
+        <td class="bold">Cutting Max Deviation (mm)</td>
+        <td>2.5 mm</td><td>4 mm</td><td>3.7 mm</td><td>6 mm</td>
+        <td class="mvp-col">&lt; 2.5 mm</td>
+      </tr>
+      <tr>
+        <td class="bold">Drill Stability</td>
+        <td>Low Instable</td><td>High Instable</td><td>Moderate Instable</td><td>High Instable</td>
+        <td class="mvp-col">Counter-rotation system</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="section-h3" style="margin-top:20px;">2. Cooling and Thermal Performance</div>
+  <table>
+    <thead>
+      <tr><th>Parameter</th><th>Comp. 1</th><th>Comp. 2</th><th>Comp. 3</th><th>Comp. 4</th><th class="mvp-col">Our MVP</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Temperature after 180 sec</td>
+        <td>62&deg;C</td><td>55&deg;C</td><td>58&deg;C</td><td>60&deg;C</td>
+        <td class="mvp-col">&lt; 40&deg;C</td>
+      </tr>
+      <tr>
+        <td class="bold">Cooling Time to 30&deg;C</td>
+        <td>4.5 min</td><td>5.2 min</td><td>4.8 min</td><td>6.0 min</td>
+        <td class="mvp-col">&lt; 2 min</td>
+      </tr>
+      <tr>
+        <td class="bold">Cooling Technology</td>
+        <td>Passive</td><td>Ventilation</td><td>Heat exchanger</td><td>Air-cooled</td>
+        <td class="mvp-col">TBD (Engineering)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="section-h3" style="margin-top:20px;">3. Ergonomics and Usability</div>
+  <table>
+    <thead>
+      <tr><th>Parameter</th><th>Comp. 1</th><th>Comp. 2</th><th>Comp. 3</th><th>Comp. 4</th><th class="mvp-col">Our MVP</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Total Weight (g)</td>
+        <td>760 g</td><td>800 g</td><td>750 g</td><td>780 g</td>
+        <td class="mvp-col">&lt; 500 g</td>
+      </tr>
+      <tr>
+        <td class="bold">Weight Distribution</td>
+        <td>Rear-loaded</td><td>Centered</td><td>Front-heavy</td><td>Not Balanced</td>
+        <td class="mvp-col">Balanced</td>
+      </tr>
+      <tr>
+        <td class="bold">Ergonomic Grip</td>
+        <td>Medium</td><td>High</td><td>High</td><td>Medium</td>
+        <td class="mvp-col">Optimized for prolonged use</td>
+      </tr>
+      <tr>
+        <td class="bold">Compatibility with perforator</td>
+        <td>Hudson</td><td>Hudson</td><td>Hudson</td><td>Hudson</td>
+        <td class="mvp-col">Hudson</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="section-h3" style="margin-top:20px;">4. Noise Levels and Stability</div>
+  <table>
+    <thead>
+      <tr><th>Parameter</th><th>Comp. 1</th><th>Comp. 2</th><th>Comp. 3</th><th>Comp. 4</th><th class="mvp-col">Our MVP</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Noise at Full Speed (dB)</td>
+        <td>19 dB</td><td>16 dB</td><td>16 dB</td><td>18 dB</td>
+        <td class="mvp-col">&le; 15 dB</td>
+      </tr>
+      <tr>
+        <td class="bold">Perceived Vibration Effect</td>
+        <td>Medium</td><td>High</td><td>Medium</td><td>Medium</td>
+        <td class="mvp-col">Low (counter-rotation system)</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="section-h3" style="margin-top:20px;">5. Modularity and Autonomous Control</div>
+  <table>
+    <thead>
+      <tr><th>Parameter</th><th>Comp. 1</th><th>Comp. 2</th><th>Comp. 3</th><th>Comp. 4</th><th class="mvp-col">Our MVP</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Surgeon-Operated Control</td>
+        <td>Partial</td><td>Partial</td><td>Partial</td><td>Partial</td>
+        <td class="mvp-col">100% Autonomous</td>
+      </tr>
+      <tr>
+        <td class="bold">Handpiece Modularity</td>
+        <td>Low</td><td>Low</td><td>High</td><td>Medium</td>
+        <td class="mvp-col">High (angled &amp; straight handpieces)</td>
+      </tr>
+      <tr>
+        <td class="bold">Quick Bur Change System</td>
+        <td>3 steps, 2 Hands</td><td>2 steps, 2 Hands</td><td>3 steps, 1 Hand</td><td>2 steps, 2 Hands</td>
+        <td class="mvp-col">2-step, 1 Hand</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 3.2 PRIORITIZATION -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">3.2</span> Prioritization of Market Characteristics</div>
+
+  <div class="sub-label">Functional Requirements</div>
+  <table>
+    <thead>
+      <tr><th style="width:20%">Requirement</th><th style="width:25%">Market Issue</th><th style="width:14%">Dissatisfaction</th><th style="width:18%">Significance</th><th>Success Measurement</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Surgeon Autonomous Control</td>
+        <td>Surgeons need to adjust settings autonomously.</td>
+        <td style="text-align:center;">70%</td>
+        <td><span class="sig-med">p = 0.04 (Borderline significant)</span></td>
+        <td>Drill operable without external assistance.</td>
+      </tr>
+      <tr>
+        <td class="bold">Improved Cooling System</td>
+        <td>Drill overheats quickly, affecting precision.</td>
+        <td style="text-align:center;">80%</td>
+        <td><span class="sig-high">p &lt; 0.01 (Highly significant)</span></td>
+        <td>Handpiece must not exceed 55&deg;C after 10 min of continuous use.</td>
+      </tr>
+      <tr>
+        <td class="bold">Speed and Torque Flexibility</td>
+        <td>Many drills slow down upon contact with bone resistance.</td>
+        <td style="text-align:center;">75%</td>
+        <td><span class="sig-high">p = 0.02 (Statistically significant)</span></td>
+        <td>Min 100,000 RPM, adjustable with 1% increments.</td>
+      </tr>
+      <tr>
+        <td class="bold">Handpiece Modularity</td>
+        <td>Lack of modularity for different surgical techniques.</td>
+        <td style="text-align:center;">65%</td>
+        <td><span class="sig-med">p = 0.05 (Statistically significant)</span></td>
+        <td>Ability to drill at variable depths without changing the tool.</td>
+      </tr>
+      <tr>
+        <td class="bold">Comfort &amp; Ergonomics</td>
+        <td>Hand fatigue and suboptimal balance.</td>
+        <td style="text-align:center;">N/A</td>
+        <td><span class="sig-low">N/A</span></td>
+        <td>Positive feedback from surgeons on ergonomics.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="sub-label" style="margin-top:20px;">Non-Functional Requirements</div>
+  <table>
+    <thead>
+      <tr><th style="width:20%">Requirement</th><th style="width:25%">Market Issue</th><th style="width:14%">Dissatisfaction</th><th style="width:18%">Significance</th><th>Success Measurement</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Noise Reduction</td>
+        <td>Drill noise disturbs awake patients and the surgical team.</td>
+        <td style="text-align:center;">90%</td>
+        <td><span class="sig-high">p &lt; 0.001 (Extremely significant)</span></td>
+        <td>Maximum noise level &le; 10 dB.</td>
+      </tr>
+      <tr>
+        <td class="bold">Drilling Stability</td>
+        <td>Excessive vibrations and unstable performance.</td>
+        <td style="text-align:center;">90%</td>
+        <td><span class="sig-high">p &lt; 0.001 (Extremely significant)</span></td>
+        <td>40% vibration reduction compared to current drills.</td>
+      </tr>
+      <tr>
+        <td class="bold">Field Visibility Optimization</td>
+        <td>Bone dust and blood obstruct the field of view.</td>
+        <td style="text-align:center;">85%</td>
+        <td><span class="sig-high">p &lt; 0.01 (Highly significant)</span></td>
+        <td>Handpiece must not obstruct visibility; dust removal must improve field clarity.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="section-h3" style="margin-top:24px;">Rationale for Prioritization</div>
+
+  <div class="rationale-item">
+    <div class="rationale-item-title">1. Surgeon Autonomous Control</div>
+    <p>Positioned first as it enhances <strong>workflow efficiency</strong> by reducing reliance on external assistance, a critical factor in emergency and complex surgeries. It represents a <strong>strategic differentiator</strong> from competitors and a key adoption driver in the market. Additionally, it improves <strong>intraoperative time and cost efficiency</strong>.</p>
+  </div>
+
+  <div class="rationale-item">
+    <div class="rationale-item-title">2. Improved Cooling System</div>
+    <p>Statistically significant (<strong>p &lt; 0.01, 80% dissatisfaction</strong>). Overheating contributes to <strong>power loss upon bone contact</strong>, making this improvement crucial for overall drill performance. Additionally, it <strong>accelerates surgical procedures</strong>, leading to shorter patient anesthesia times and lower hospital costs.</p>
+  </div>
+
+  <div class="rationale-item">
+    <div class="rationale-item-title">3. Speed and Torque Flexibility</div>
+    <p>Performance drop due to bone resistance (<strong>p = 0.02, 75% dissatisfaction</strong>). Consistent torque and cutting speed minimize surgical precision loss and enhance surgeon control, particularly in delicate procedures.</p>
+  </div>
+
+  <div class="rationale-item">
+    <div class="rationale-item-title">4. Handpiece Modularity</div>
+    <p>Addresses <strong>adaptability across different surgical techniques</strong> (p = 0.05, 65% dissatisfaction). Reducing the need for frequent tool changes improves <strong>workflow efficiency</strong>, decreases setup times, and increases procedure versatility.</p>
+  </div>
+
+  <div class="rationale-item">
+    <div class="rationale-item-title">5. Comfort &amp; Ergonomics</div>
+    <p>While not statistically prioritized, <strong>surgeon fatigue and handling balance</strong> play a critical role in long-term usability and adoption. Enhancing ergonomic design ensures <strong>greater user satisfaction</strong> and market preference.</p>
+  </div>
+</div>
+
+</body>
+</html>
