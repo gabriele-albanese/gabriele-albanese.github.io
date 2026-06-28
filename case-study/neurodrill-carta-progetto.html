@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NeuroDrill Pro — Carta del Progetto Preliminare</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 40px 52px;
+    line-height: 1.55;
+  }
+
+  h1 {
+    font-size: 17pt;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #0a0a0a;
+    line-height: 1.3;
+  }
+
+  .doc-meta {
+    font-size: 9pt;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  .doc-disclaimer {
+    font-size: 9pt;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 32px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid #0E7490;
+  }
+
+  .section-block {
+    margin-bottom: 36px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .section-block:last-of-type { border-bottom: none; }
+
+  .section-h2 {
+    font-size: 14pt;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #0E7490;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .section-num {
+    font-size: 8pt;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0E7490;
+    background: #e8f5f9;
+    padding: 2px 7px;
+    border-radius: 3px;
+  }
+
+  /* TABLES */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+    font-size: 10.5pt;
+  }
+  thead th {
+    background: #0E7490;
+    color: #fff;
+    font-weight: 700;
+    padding: 9px 14px;
+    text-align: left;
+    font-size: 10pt;
+  }
+  tbody tr:nth-child(even) { background: #f5fbfd; }
+  tbody td {
+    padding: 9px 14px;
+    vertical-align: top;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  td.bold { font-weight: 700; }
+
+  /* RISK TABLE */
+  .risk-alto { color: #c0392b; font-weight: 700; }
+  .risk-medio { color: #e67e22; font-weight: 700; }
+  .risk-basso { color: #27ae60; font-weight: 700; }
+
+  /* LISTS */
+  ul.doc-list {
+    padding-left: 20px;
+    margin-top: 8px;
+  }
+  ul.doc-list li {
+    margin-bottom: 7px;
+    font-size: 10.5pt;
+  }
+
+  /* SUBSECTION */
+  .sub-label {
+    font-size: 10.5pt;
+    font-weight: 700;
+    color: #0E7490;
+    margin: 16px 0 8px 0;
+  }
+
+  /* BUDGET BOX */
+  .budget-box {
+    background: #f0f8fb;
+    border: 1.5px solid #0E7490;
+    border-radius: 6px;
+    padding: 14px 20px;
+    margin-top: 12px;
+  }
+  .budget-box ul { padding-left: 18px; }
+  .budget-box li { margin-bottom: 6px; font-size: 10.5pt; }
+
+  /* BACK LINK */
+  .back-link {
+    display: inline-block;
+    margin-bottom: 28px;
+    font-size: 9.5pt;
+    color: #0E7490;
+    text-decoration: none;
+    border: 1px solid #0E7490;
+    padding: 4px 12px;
+    border-radius: 4px;
+  }
+  .back-link:hover { background: #0E7490; color: #fff; }
+
+  @media (max-width: 600px) {
+    body { padding: 20px 16px; }
+    table { font-size: 9.5pt; }
+    thead th, tbody td { padding: 7px 9px; }
+  }
+</style>
+</head>
+<body>
+
+<a href="trapano-chirurgico.html" class="back-link">← Case Study NeuroDrill Pro</a>
+
+<h1>Carta del Progetto Preliminare</h1>
+<div class="doc-meta">NeuroDrill Pro &mdash; Micromotori Neurochirurgici ad Alte Prestazioni &nbsp;|&nbsp; Prodotti: BEE, VECTOR, SIL</div>
+<div class="doc-disclaimer">Documento a scopo dimostrativo. Alcuni dati identificativi sono stati omessi per tutela della riservatezza aziendale.</div>
+
+<!-- 1. COMPOSIZIONE DELLA SQUADRA -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">01</span> Composizione della Squadra</div>
+  <p style="font-size:10.5pt; margin-bottom:12px;"><strong>Team principale e ruoli chiave:</strong></p>
+  <table>
+    <thead>
+      <tr><th style="width:35%">Ruolo</th><th>Responsabilita'</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="bold">Product Manager Team</td><td></td></tr>
+      <tr><td class="bold">Senior Project Manager</td><td>Supervisione generale del completamento delle fasi di progetto</td></tr>
+      <tr><td class="bold">R&amp;D</td><td>Raccolta dati, Sviluppo tecnico, progettazione e validazione dei micromotori.</td></tr>
+      <tr><td class="bold">Esperti Clinici (Neurochirurghi, ORL, Maxillo-Facciale)</td><td>Test pilota, feedback clinico, validazione dell'usabilita' in sala operatoria.</td></tr>
+      <tr><td class="bold">Validation Team</td><td>Certificazioni CE e normative MDR per il mercato europeo.</td></tr>
+      <tr><td class="bold">Benchmark Team</td><td>Conduzione di attivita' di Benchmarking</td></tr>
+      <tr><td class="bold">Marketing Team</td><td>Raccolta dati Marketing, Produzione di documentazione sulle ricerche, costante aggiornamento delle ricerche a supporto delle decisioni.</td></tr>
+      <tr><td class="bold">Responsabile Marketing</td><td>Strategia di lancio, posizionamento e relazioni con distributori.</td></tr>
+      <tr><td class="bold">Distributori &amp; Importatori</td><td>Rete commerciale per la distribuzione nei mercati target.</td></tr>
+      <tr><td class="bold">Analisti di Mercato</td><td>Analisi competitor, trend di crescita, strategia di pricing.</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 2. SCOPO DEL TEAM -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">02</span> Scopo del Team</div>
+  <p style="font-size:10.5pt; margin-bottom:10px;"><strong>Obiettivi principali:</strong></p>
+  <ul class="doc-list">
+    <li><strong>Sviluppare e validare</strong> i micromotori chirurgici BEE, VECTOR e SIL, la loro unita' di controllo e i loro accessori, come definito nel PRD in costante aggiornamento.</li>
+    <li><strong>Garantire la certificazione MDR/CE per il mercato europeo</strong> e preparare la documentazione clinica necessaria alle attivita' di certificazione.</li>
+    <li><strong>Affidare la distribuzione a importatori e grossisti selezionati</strong> per una rapida espansione commerciale.</li>
+    <li><strong>Garantire una gestione del marketing efficace</strong> in ogni fase del progetto e del prodotto stesso.</li>
+  </ul>
+</div>
+
+<!-- 3. OBIETTIVI DEL PROGETTO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">03</span> Obiettivi del Progetto</div>
+  <p style="font-size:10.5pt; margin-bottom:10px;"><strong>Risultati attesi:</strong></p>
+  <ul class="doc-list">
+    <li>Creare una gamma di micromotori neurochirurgici innovativi conforme a quanto previsto nel PRD.</li>
+    <li>Ottenere certificazioni europee (CE, MDR) necessarie nei tempi previsti per non ritardare le fasi di lancio sul mercato.</li>
+    <li>Stabilire partnership con distributori chiave dei principali mercati europei. Raggiungere un volume di vendite tra <strong>€6M–8M</strong> nel primo anno dal lancio.</li>
+  </ul>
+
+  <div class="sub-label">Incluso nel progetto:</div>
+  <ul class="doc-list">
+    <li>Sviluppo <strong>hardware e software</strong> della centralina di controllo.</li>
+    <li>Validazione tramite test clinici in ospedali. Raccolta dei dati necessari alle certificazioni.</li>
+    <li>Onboarding dei distributori con formazione tecnica dedicata.</li>
+    <li>Attivita' di marketing mirate.</li>
+  </ul>
+
+  <div class="sub-label">Escluso dal progetto:</div>
+  <ul class="doc-list">
+    <li>Espansione fuori dall'Europa nei primi 2 anni.</li>
+    <li>Certificazioni FDA per il mercato USA (fase successiva).</li>
+    <li>Eventuali "fasi future" previste nel PRD.</li>
+  </ul>
+</div>
+
+<!-- 4. KPI -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">04</span> Indicatori Chiave di Prestazione (KPI)</div>
+  <table>
+    <thead>
+      <tr><th style="width:35%">KPI</th><th>Obiettivo</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Tempo chirurgico medio</td>
+        <td>Riduzione rispetto ai trapani tradizionali.</td>
+      </tr>
+      <tr>
+        <td class="bold">Autonomia d'uso</td>
+        <td>Il chirurgo riesce a compiere tutte le operazioni necessarie riguardanti l'uso dei trapani durante i test pilota.</td>
+      </tr>
+      <tr>
+        <td class="bold">Temperatura massima manipolo</td>
+        <td>Aumenta di almeno 180 secondi (rispetto ai competitor) l'uso continuativo prima che la temperatura sul motore aumenti di 10 gradi. L'asticella e' oggi del competitor 1 a 5 min 13 sec. <strong>&le; 55°C dopo 10 minuti di utilizzo continuo.</strong></td>
+      </tr>
+      <tr>
+        <td class="bold">Livello di rumorosita' (SIL)</td>
+        <td><strong>&le; 12 dB</strong> in condizioni operative.</td>
+      </tr>
+      <tr>
+        <td class="bold">Irrigazione del campo</td>
+        <td>Migliorare la visibilita' del campo.</td>
+      </tr>
+      <tr>
+        <td class="bold">Conversione distributori</td>
+        <td>Onboarding di almeno <strong>5 distributori</strong> nei primi 12 mesi dall'inizio del progetto.</td>
+      </tr>
+      <tr>
+        <td class="bold">Soddisfazione sistema di modularita', StepPersonal e Aggancio rapido manipoli</td>
+        <td>Almeno <strong>90% di feedback positivi</strong> durante i test beta e pilota. Il sistema deve dimostrarsi ottimale in tutte le situazioni, raggiungere ogni profondita' necessaria, essere pratico nelle operazioni d'uso comune.</td>
+      </tr>
+      <tr>
+        <td class="bold">Feedback clinico</td>
+        <td><strong>85%</strong> di soddisfazione totale nei test pilota.</td>
+      </tr>
+      <tr>
+        <td class="bold">Feedback UX</td>
+        <td><strong>85%</strong> di soddisfazione totale per il software centralina.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 5. SPONSOR E STAKEHOLDER -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">05</span> Sponsor e Stakeholder</div>
+  <p style="font-size:10.5pt; margin-bottom:10px;"><strong>Principali attori coinvolti:</strong></p>
+  <ul class="doc-list">
+    <li><strong>Azienda produttrice</strong> e il suo VP, Sponsor e Responsabili della supervisione strategica.</li>
+    <li><strong>Team di prodotto</strong> (tutti gli stakeholder interni ed esterni definiti nella Checklist Formazione Team).</li>
+    <li><strong>Importatori e grossisti medicali</strong> (canale di vendita).</li>
+  </ul>
+</div>
+
+<!-- 6. MILESTONE -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">06</span> Scadenze del Progetto (Milestone)</div>
+  <p style="font-size:10.5pt; margin-bottom:12px;"><strong>Timeline indicativa per i primi 18 mesi di sviluppo:</strong></p>
+  <table>
+    <thead>
+      <tr><th style="width:8%">Fase</th><th style="width:28%">Periodo</th><th>Obiettivo</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Q1</td>
+        <td>Progettazione</td>
+        <td>Progettazione del sistema e delle sue componenti, prototipazione, test preliminari (alpha) in laboratorio.</td>
+      </tr>
+      <tr>
+        <td class="bold">Q2</td>
+        <td>Pre-marketing e Test Beta</td>
+        <td>Pre-marketing, individuazione delle aree da affidare ai distributori, Test Beta. Preparazione documentazione legale per il Test Pilota (ultima fase dei test clinici).</td>
+      </tr>
+      <tr>
+        <td class="bold">Q3</td>
+        <td>Inizio Q3: Sviluppo &mdash; Fine Q3: Certificazioni</td>
+        <td>Realizzazione dei Prototipi. Avvio del processo di Normalizzazione legislativa.</td>
+      </tr>
+      <tr>
+        <td class="bold">Q4</td>
+        <td>Processo di Normalizzazione</td>
+        <td>Ottenute le autorizzazioni ai test (fine prima parte di normalizzazione). Test pilota in 6 ospedali leader. Individuazione dei distributori e accordi. Produzione del materiale di marketing.</td>
+      </tr>
+      <tr>
+        <td class="bold">Q5</td>
+        <td>Fine della Normalizzazione</td>
+        <td>Ultime documentazioni da dare agli enti Regolatori per le certificazioni, relativamente ai test negli ospedali. Avvio delle fasi di Marketing. Ottenimento delle autorizzazioni alla commercializzazione.</td>
+      </tr>
+      <tr>
+        <td class="bold">Q6</td>
+        <td>Lancio</td>
+        <td>Lancio definitivo.</td>
+      </tr>
+      <tr>
+        <td class="bold">Q7</td>
+        <td>Espansione</td>
+        <td>Ottimizzazione vendite, valutazione performance distributori.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 7. RISORSE E BUDGET -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">07</span> Risorse e Budget</div>
+
+  <div class="budget-box">
+    <div class="sub-label" style="margin-top:0">Vincoli e allocazione delle risorse:</div>
+    <ul>
+      <li><strong>Budget iniziale per prototipi &amp; test:</strong> €2,5 &ndash; 3 M</li>
+      <li><strong>Costo stimato per certificazioni MDR/CE:</strong> €500K &ndash; 700K</li>
+      <li><strong>Investimenti in marketing e formazione distributori:</strong> €1,5 M</li>
+      <li><strong>Produzione e logistica (primo lotto):</strong> €5 M</li>
+    </ul>
+  </div>
+
+  <div class="sub-label">Ipotesi chiave:</div>
+  <ul class="doc-list">
+    <li>Ottenimento delle Certificazioni legali.</li>
+    <li>I test Beta e Pilota confermeranno i molti vantaggi del prodotto.</li>
+    <li>I distributori selezionati avranno capacita' di penetrazione nei mercati target.</li>
+  </ul>
+</div>
+
+<!-- 8. PIANO DI GESTIONE DEL RISCHIO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">08</span> Piano di Gestione del Rischio</div>
+  <p style="font-size:10.5pt; margin-bottom:12px;"><strong>Rischi principali e strategie di mitigazione:</strong></p>
+  <table>
+    <thead>
+      <tr><th style="width:28%">Rischio</th><th style="width:10%">Livello</th><th>Strategia di Mitigazione</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Ritardi nelle certificazioni CE/MDR/Sterrad</td>
+        <td><span class="risk-alto">Alto</span></td>
+        <td>Pianificazione anticipata e collaborazione con enti regolatori. Il rischio burocratico ha componenti non dipendenti dalle nostre azioni: e' stato considerato un ritardo conforme al tempo medio dell'Ente. Disposti piani per l'eventualita' di un non ritardo. Individuare eventuali facilitatori di processo.</td>
+      </tr>
+      <tr>
+        <td class="bold">Ritardi fasi di sviluppo</td>
+        <td><span class="risk-medio">Medio</span></td>
+        <td>Gia' adottate contromisure di mitigazione e stimato un tempo di ritardo "standard". La complessita' del sistema potrebbe favorire piccoli problemi tecnici. Il team di Project Management e' responsabile di attuare checkpoint tecnici e operativi settimanali con un protocollo di escalation in concerto con l'operation team.</td>
+      </tr>
+      <tr>
+        <td class="bold">Scarsa adozione da parte dei chirurghi</td>
+        <td><span class="risk-medio">Medio</span></td>
+        <td>Formazione mirata e partnership con Key Opinion Leaders. Marketing fisico (fiere EEANS/AANS) e online. Supporto per la pubblicazione di letteratura scientifica. Sul medio-lungo termine, il segmento delle scuole di specializzazione mitiga notevolmente questo rischio.</td>
+      </tr>
+      <tr>
+        <td class="bold">Difficolta' di onboarding dei distributori</td>
+        <td><span class="risk-medio">Medio</span></td>
+        <td>Incentivi e supporto marketing per i primi partner. Arrivare a loro quando il mercato sente i primi rumors sul prodotto e inizia a muoversi in tal direzione.</td>
+      </tr>
+      <tr>
+        <td class="bold">Aumento dei costi dei test</td>
+        <td><span class="risk-medio">Medio</span></td>
+        <td>L'imprevedibilita' di alcune variabili (es. gestione dei comitati etici) puo' far oscillare i prezzi dei test pilota. Per mitigare: tenere aperte piu' strade con piu' strutture sanitarie. Nella peggiore delle previsioni l'impatto massimo e' un incremento del 5% sul budget Prototipi e Test.</td>
+      </tr>
+      <tr>
+        <td class="bold">Analisi PESTL: difficolta' approvvigionamento materie prime</td>
+        <td><span class="risk-medio">Medio</span></td>
+        <td>Dare mandato al responsabile Supply Chain di valutare fornitori alternativi, assieme alla Business Unit. Adottare preventivamente accordi con piu' fornitori secondari. Mantenere scorte per 5 mesi di produzione (cut-off emerso dall'analisi Porter e PESTL).</td>
+      </tr>
+      <tr>
+        <td class="bold">Aumento costi generali</td>
+        <td><span class="risk-basso">Basso</span></td>
+        <td>Il product team si avvale della Business Unit e di revisori che controllano sistematicamente tutte le voci di spesa e sono co-responsabili dell'approvazione di ogni scelta. Le eventuali variazioni non saranno imputabili all'organizzazione interna.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 9. PIANO DI GESTIONE DELLE COMUNICAZIONI -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">09</span> Piano di Gestione delle Comunicazioni</div>
+  <p style="font-size:10.5pt; margin-bottom:12px;"><strong>Strategia di comunicazione interna ed esterna:</strong></p>
+  <table>
+    <thead>
+      <tr><th style="width:32%">Attivita'</th><th style="width:22%">Frequenza</th><th>Partecipanti</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Meeting di Progettazione</td>
+        <td>Settimanale</td>
+        <td>Project Manager, R&amp;D, Unita' Validazione Legale, Business Strategy, Production</td>
+      </tr>
+      <tr>
+        <td class="bold">Meeting Team di Prodotto</td>
+        <td>Mensile</td>
+        <td>Tutti gli stakeholder interni, Team Clinico</td>
+      </tr>
+      <tr>
+        <td class="bold">Aggiornamenti con distributori (post-lancio)</td>
+        <td>Mensile, poi trimestrale</td>
+        <td>Team Marketing e Vendite</td>
+      </tr>
+      <tr>
+        <td class="bold">Operativita'</td>
+        <td>Mensile, poi ogni due settimane</td>
+        <td>Project Manager, Team di Sviluppo, Produzione</td>
+      </tr>
+      <tr>
+        <td class="bold">Report finanziari e KPI</td>
+        <td>Trimestrale</td>
+        <td>Stakeholder aziendali</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="sub-label" style="margin-top:20px">Note operative:</div>
+  <ul class="doc-list">
+    <li><strong>Meeting di Progettazione (settimanale):</strong> Riunione operativa per aggiornare, correggere e valutare il progetto in tutte le sue fasi, assicurando che lo sviluppo segua la roadmap stabilita.</li>
+    <li><strong>Meeting Team di Prodotto (mensile):</strong> Coinvolge tutti gli stakeholder per fare il punto della situazione, allineare i team sulle aree di pertinenza, valutare i progressi e identificare eventuali correzioni. Una conoscenza approfondita di tutti gli aspetti e' fondamentale per portare a termine bene il proprio lavoro.</li>
+    <li><strong>Aggiornamenti con Distributori (post-lancio):</strong> Frequenza mensile nei primi 6 mesi per garantire supporto e ottimizzazione, poi trimestrale per ridurre il carico amministrativo sui partner commerciali.</li>
+    <li><strong>Operativita' (mensile, poi ogni due settimane):</strong> Riunione focalizzata sugli aspetti tecnici e produttivi. La frequenza passa a bisettimanale nelle fasi di sviluppo e produzione.</li>
+    <li>Una tabella RACI dettagliata con gli aspetti comunicativi e' depositata nella checklist di creazione del team.</li>
+  </ul>
+</div>
+
+</body>
+</html>
