@@ -1,0 +1,1592 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Iris · Agente di comunicazione automatizzato · Gabriele Albanese</title>
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <style>
+    /* ── Page-level extras ── */
+    .content-block { padding: 64px 0; }
+    .content-block.alt { background: var(--bg-alt); }
+
+    /* ── Prose ── */
+    .prose h2 { font-size: clamp(1.5rem,3vw,2rem); font-weight: 800; color: var(--primary); letter-spacing: -0.03em; margin-bottom: 18px; }
+    .prose p { font-size: 1rem; color: var(--text-muted); line-height: 1.85; margin-bottom: 18px; }
+    .prose p:last-child { margin-bottom: 0; }
+
+    /* ── KPI Strip ── */
+    .metric-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+    .metric-box { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px 24px; text-align: center; }
+    .metric-box-val { font-size: 2.2rem; font-weight: 800; color: var(--accent); letter-spacing: -0.04em; line-height: 1; margin-bottom: 8px; }
+    .metric-box-lbl { font-size: 0.78rem; color: var(--text-muted); line-height: 1.55; }
+
+    /* ── Problem cards ── */
+    .problem-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 40px; }
+    .problem-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px 24px; }
+    .problem-icon { font-size: 1.8rem; margin-bottom: 14px; }
+    .problem-title { font-size: 0.95rem; font-weight: 800; color: var(--primary); margin-bottom: 10px; }
+    .problem-desc { font-size: 0.82rem; color: var(--text-muted); line-height: 1.7; }
+
+    /* ── Solution pillars ── */
+    .solution-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 40px; }
+    .solution-pillar { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 32px 26px; border-top: 3px solid var(--accent); }
+    .solution-pillar-num { font-size: 0.65rem; font-weight: 800; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 16px; }
+    .solution-pillar-title { font-size: 1.1rem; font-weight: 800; color: var(--primary); margin-bottom: 12px; letter-spacing: -0.02em; }
+    .solution-pillar-desc { font-size: 0.83rem; color: var(--text-muted); line-height: 1.75; }
+
+    /* ── Flow diagram ── */
+    .flow-diagram { display: flex; align-items: flex-start; justify-content: center; gap: 0; margin: 48px 0 16px; flex-wrap: nowrap; overflow-x: auto; padding-bottom: 8px; }
+    .flow-step { display: flex; flex-direction: column; align-items: center; text-align: center; min-width: 145px; max-width: 170px; flex: 1; }
+    .flow-step-bubble { width: 64px; height: 64px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; margin-bottom: 14px; border: 2px solid var(--border); background: var(--surface); position: relative; z-index: 1; }
+    .flow-step-bubble.active { background: var(--accent); border-color: var(--accent); }
+    .flow-step-bubble.active .flow-icon { filter: brightness(10); }
+    .flow-step-name { font-size: 0.78rem; font-weight: 800; color: var(--primary); margin-bottom: 5px; }
+    .flow-step-desc { font-size: 0.75rem; color: var(--text-muted); line-height: 1.55; }
+    .flow-arrow { flex-shrink: 0; color: var(--accent); font-size: 1.4rem; font-weight: 700; margin: 0 -4px; padding-top: 22px; }
+
+    /* ── Scenario ── */
+    .scenario-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); overflow: hidden; margin-top: 40px; }
+    .scenario-header { background: linear-gradient(135deg, #0A2535, #0E7490); padding: 28px 36px; color: white; }
+    .scenario-header h3 { font-size: 1.1rem; font-weight: 800; margin-bottom: 6px; }
+    .scenario-header p { font-size: 0.84rem; opacity: 0.8; }
+    .scenario-steps { padding: 32px 36px; display: flex; flex-direction: column; gap: 0; }
+    .scenario-step { display: flex; gap: 20px; padding-bottom: 32px; position: relative; }
+    .scenario-step:last-child { padding-bottom: 0; }
+    .scenario-step:not(:last-child)::before { content: ''; position: absolute; left: 19px; top: 40px; bottom: 0; width: 2px; background: var(--border); }
+    .scenario-step-dot { width: 40px; height: 40px; border-radius: 50%; background: var(--accent); color: white; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; font-weight: 800; flex-shrink: 0; position: relative; z-index: 1; }
+    .scenario-step-body h4 { font-size: 0.92rem; font-weight: 800; color: var(--primary); margin-bottom: 6px; margin-top: 8px; }
+    .scenario-step-body p { font-size: 0.82rem; color: var(--text-muted); line-height: 1.7; }
+    .scenario-step-body .scenario-msg { display: inline-block; background: #0E7490; color: white; border-radius: 14px 14px 14px 2px; padding: 10px 16px; font-size: 0.8rem; margin-top: 10px; line-height: 1.55; max-width: 340px; }
+    .scenario-step-body .scenario-msg.incoming { background: #f0f0f0; color: #111; border-radius: 14px 14px 2px 14px; }
+    .scenario-step-body .scenario-ai-tag { display: inline-flex; align-items: center; gap: 6px; background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.25); color: #7c3aed; border-radius: 8px; padding: 5px 12px; font-size: 0.74rem; font-weight: 700; margin-top: 10px; }
+
+    /* ── App Mockups ── */
+    .mockup-section-title { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+    .mockup-section-h2 { font-size: clamp(1.4rem,2.5vw,1.9rem); font-weight: 800; color: var(--primary); letter-spacing: -0.03em; margin-bottom: 12px; }
+    .mockup-section-sub { font-size: 0.92rem; color: var(--text-muted); line-height: 1.75; margin-bottom: 40px; max-width: 580px; }
+
+    /* Dashboard Mockup */
+    .app-shell { background: #0d1117; border-radius: 16px; overflow: hidden; box-shadow: 0 24px 64px rgba(0,0,0,0.32); border: 1px solid #21262d; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .app-titlebar { background: #161b22; border-bottom: 1px solid #21262d; padding: 12px 20px; display: flex; align-items: center; gap: 8px; }
+    .app-titlebar-dot { width: 12px; height: 12px; border-radius: 50%; }
+    .app-titlebar-name { color: #8b949e; font-size: 0.78rem; font-weight: 600; margin-left: 10px; }
+    .app-body { display: flex; min-height: 460px; }
+    .app-sidebar { width: 220px; background: #161b22; border-right: 1px solid #21262d; padding: 20px 0; flex-shrink: 0; }
+    .app-sidebar-logo { padding: 0 20px 20px; border-bottom: 1px solid #21262d; margin-bottom: 16px; }
+    .app-sidebar-logo-name { font-size: 1rem; font-weight: 800; color: #fff; letter-spacing: -0.02em; }
+    .app-sidebar-logo-sub { font-size: 0.65rem; color: #0E7490; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+    .app-nav-item { display: flex; align-items: center; gap: 10px; padding: 10px 20px; font-size: 0.82rem; color: #8b949e; cursor: pointer; transition: all 0.2s; border-left: 2px solid transparent; }
+    .app-nav-item.active { color: #fff; background: rgba(14,116,144,0.12); border-left-color: #0E7490; }
+    .app-nav-item-icon { width: 18px; text-align: center; font-size: 0.9rem; }
+    .app-nav-badge { margin-left: auto; background: #0E7490; color: white; font-size: 0.62rem; font-weight: 700; padding: 2px 7px; border-radius: 20px; }
+    .app-main { flex: 1; padding: 24px; overflow: hidden; }
+    .app-main-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; }
+    .app-main-title { font-size: 1rem; font-weight: 700; color: #e6edf3; }
+    .app-main-btn { background: #0E7490; color: white; border: none; border-radius: 8px; padding: 8px 16px; font-size: 0.78rem; font-weight: 700; cursor: pointer; }
+    .app-msg-list { display: flex; flex-direction: column; gap: 10px; }
+    .app-msg-row { background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 14px 18px; display: flex; align-items: center; gap: 16px; }
+    .app-msg-avatar { width: 38px; height: 38px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.78rem; font-weight: 800; flex-shrink: 0; }
+    .app-msg-body { flex: 1; min-width: 0; }
+    .app-msg-name { font-size: 0.82rem; font-weight: 700; color: #e6edf3; margin-bottom: 3px; }
+    .app-msg-preview { font-size: 0.75rem; color: #8b949e; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .app-msg-meta { text-align: right; flex-shrink: 0; }
+    .app-msg-time { font-size: 0.7rem; color: #6e7681; margin-bottom: 5px; }
+    .app-msg-status { display: inline-block; font-size: 0.65rem; font-weight: 700; padding: 3px 9px; border-radius: 20px; letter-spacing: 0.06em; text-transform: uppercase; }
+    .status-sent { background: rgba(5,150,105,0.15); color: #10b981; border: 1px solid rgba(16,185,129,0.25); }
+    .status-pending { background: rgba(217,119,6,0.12); color: #f59e0b; border: 1px solid rgba(245,158,11,0.25); }
+    .status-ai { background: rgba(124,58,237,0.12); color: #a78bfa; border: 1px solid rgba(167,139,250,0.25); }
+    .status-reply { background: rgba(14,116,144,0.15); color: #22d3ee; border: 1px solid rgba(34,211,238,0.25); }
+    .app-stats-row { display: grid; grid-template-columns: repeat(3,1fr); gap: 12px; margin-bottom: 20px; }
+    .app-stat-card { background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 14px 16px; }
+    .app-stat-val { font-size: 1.4rem; font-weight: 800; color: #0E7490; line-height: 1; margin-bottom: 4px; }
+    .app-stat-lbl { font-size: 0.68rem; color: #6e7681; }
+
+    /* Chat + AI Mockup */
+    .chat-shell { background: #111b21; border-radius: 16px; overflow: hidden; box-shadow: 0 24px 64px rgba(0,0,0,0.32); border: 1px solid #2a3942; display: flex; }
+    .chat-left { width: 55%; border-right: 1px solid #2a3942; display: flex; flex-direction: column; }
+    .chat-header { background: #202c33; padding: 14px 18px; display: flex; align-items: center; gap: 12px; border-bottom: 1px solid #2a3942; }
+    .chat-avatar { width: 40px; height: 40px; border-radius: 50%; background: #25d366; display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 0.85rem; flex-shrink: 0; }
+    .chat-contact-name { font-size: 0.88rem; font-weight: 700; color: #e9edef; }
+    .chat-contact-status { font-size: 0.72rem; color: #8696a0; }
+    .chat-messages { flex: 1; padding: 16px; background: #0b141a; display: flex; flex-direction: column; gap: 8px; background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.015'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
+    .chat-bubble { max-width: 78%; padding: 9px 14px; border-radius: 8px; font-size: 0.8rem; line-height: 1.55; position: relative; }
+    .chat-bubble.out { background: #005c4b; color: #e9edef; align-self: flex-end; border-radius: 8px 8px 0 8px; }
+    .chat-bubble.in { background: #202c33; color: #e9edef; align-self: flex-start; border-radius: 8px 8px 8px 0; }
+    .chat-bubble-time { font-size: 0.62rem; color: #8696a0; margin-top: 4px; text-align: right; }
+    .chat-bubble.in .chat-bubble-time { text-align: left; }
+    .chat-bubble.new-in { border: 1px solid rgba(34,211,238,0.4); box-shadow: 0 0 0 2px rgba(34,211,238,0.1); }
+    .chat-input-bar { background: #202c33; padding: 12px 16px; display: flex; align-items: center; gap: 10px; border-top: 1px solid #2a3942; }
+    .chat-input-box { flex: 1; background: #2a3942; border-radius: 20px; padding: 9px 16px; font-size: 0.78rem; color: #8696a0; }
+
+    /* AI Panel */
+    .ai-panel { width: 45%; background: #0d1117; display: flex; flex-direction: column; }
+    .ai-panel-header { background: linear-gradient(135deg, #1a0533, #2d1b69); padding: 16px 20px; border-bottom: 1px solid #21262d; }
+    .ai-panel-label { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #a78bfa; margin-bottom: 4px; }
+    .ai-panel-title { font-size: 0.92rem; font-weight: 800; color: #e6edf3; }
+    .ai-panel-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 16px; }
+    .ai-intent-card { background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 16px; }
+    .ai-intent-label { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #6e7681; margin-bottom: 8px; }
+    .ai-intent-badge { display: inline-flex; align-items: center; gap: 6px; background: rgba(124,58,237,0.15); border: 1px solid rgba(167,139,250,0.3); color: #a78bfa; border-radius: 8px; padding: 5px 12px; font-size: 0.78rem; font-weight: 700; }
+    .ai-detail-row { display: flex; gap: 8px; margin-top: 10px; }
+    .ai-detail-pill { background: #0d1117; border: 1px solid #21262d; border-radius: 6px; padding: 5px 10px; font-size: 0.7rem; color: #8b949e; }
+    .ai-detail-pill span { color: #e6edf3; font-weight: 700; }
+    .ai-confidence { display: flex; align-items: center; gap: 8px; margin-top: 12px; }
+    .ai-confidence-bar { flex: 1; height: 4px; background: #21262d; border-radius: 2px; overflow: hidden; }
+    .ai-confidence-fill { height: 100%; background: linear-gradient(90deg, #7c3aed, #a78bfa); border-radius: 2px; }
+    .ai-confidence-val { font-size: 0.72rem; color: #a78bfa; font-weight: 700; }
+    .ai-actions { display: flex; flex-direction: column; gap: 8px; }
+    .ai-action-btn { padding: 11px 16px; border-radius: 8px; font-size: 0.8rem; font-weight: 700; cursor: pointer; display: flex; align-items: center; gap: 8px; border: none; }
+    .ai-action-btn.accept { background: rgba(5,150,105,0.15); color: #10b981; border: 1px solid rgba(16,185,129,0.3); }
+    .ai-action-btn.modify { background: rgba(245,158,11,0.1); color: #f59e0b; border: 1px solid rgba(245,158,11,0.3); }
+    .ai-action-btn.decline { background: rgba(239,68,68,0.08); color: #f87171; border: 1px solid rgba(248,113,113,0.2); }
+    .ai-summary-card { background: #161b22; border: 1px solid #21262d; border-radius: 10px; padding: 14px; }
+    .ai-summary-title { font-size: 0.7rem; font-weight: 700; color: #6e7681; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 8px; }
+    .ai-summary-text { font-size: 0.78rem; color: #8b949e; line-height: 1.65; font-style: italic; }
+
+    /* Actions Mockup */
+    .actions-shell { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    .action-card { background: #0d1117; border-radius: 14px; overflow: hidden; box-shadow: 0 12px 32px rgba(0,0,0,0.25); border: 1px solid #21262d; }
+    .action-card-header { padding: 14px 18px; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid #21262d; }
+    .action-card-icon { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 1rem; }
+    .action-card-service { font-size: 0.75rem; font-weight: 700; color: #e6edf3; }
+    .action-card-body { padding: 18px; }
+    .action-card-event { background: #161b22; border-radius: 8px; padding: 12px 14px; margin-bottom: 10px; border-left: 3px solid #10b981; }
+    .action-card-event-title { font-size: 0.82rem; font-weight: 700; color: #e6edf3; margin-bottom: 4px; }
+    .action-card-event-detail { font-size: 0.72rem; color: #6e7681; line-height: 1.55; }
+    .action-card-badge { display: inline-flex; align-items: center; gap: 5px; background: rgba(16,185,129,0.1); color: #10b981; border: 1px solid rgba(16,185,129,0.25); border-radius: 20px; padding: 4px 10px; font-size: 0.68rem; font-weight: 700; }
+    .crm-record { background: #161b22; border-radius: 8px; padding: 14px; border-left: 3px solid #0E7490; }
+    .crm-record-name { font-size: 0.85rem; font-weight: 800; color: #e6edf3; margin-bottom: 8px; }
+    .crm-field { display: flex; justify-content: space-between; margin-bottom: 5px; }
+    .crm-field-label { font-size: 0.7rem; color: #6e7681; }
+    .crm-field-value { font-size: 0.7rem; color: #8b949e; font-weight: 600; }
+    .crm-field-value.updated { color: #10b981; }
+
+    /* Stack */
+    .stack-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-top: 36px; }
+    .stack-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 22px 18px; text-align: center; }
+    .stack-layer { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin-bottom: 12px; }
+    .stack-items { display: flex; flex-direction: column; gap: 8px; }
+    .stack-item { font-size: 0.78rem; color: var(--text-muted); background: var(--bg-alt); padding: 6px 10px; border-radius: 6px; font-weight: 600; position: relative; cursor: default; transition: background 0.2s, color 0.2s; }
+    .stack-item:hover { background: rgba(14,116,144,0.08); color: var(--accent); }
+    .stack-item[data-tip]::after {
+      content: attr(data-tip);
+      position: absolute;
+      bottom: calc(100% + 10px);
+      left: 50%; transform: translateX(-50%);
+      background: #111827; color: #f3f4f6;
+      padding: 10px 14px; border-radius: 10px;
+      font-size: 0.72rem; line-height: 1.6; font-weight: 400;
+      width: 230px; text-align: left;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.22);
+      opacity: 0; pointer-events: none;
+      transition: opacity 0.18s ease, transform 0.18s ease;
+      transform: translateX(-50%) translateY(4px);
+      z-index: 200; white-space: normal;
+    }
+    .stack-item[data-tip]:hover::after {
+      opacity: 1; transform: translateX(-50%) translateY(0);
+    }
+    .stack-item[data-tip]::before {
+      content: '';
+      position: absolute;
+      bottom: calc(100% + 4px); left: 50%; transform: translateX(-50%);
+      border: 6px solid transparent; border-top-color: #111827;
+      opacity: 0; pointer-events: none; transition: opacity 0.18s ease; z-index: 200;
+    }
+    .stack-item[data-tip]:hover::before { opacity: 1; }
+
+    /* Impact */
+    .impact-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 36px; }
+    .impact-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; }
+    .impact-card-icon { font-size: 1.6rem; margin-bottom: 14px; }
+    .impact-card-title { font-size: 0.88rem; font-weight: 800; color: var(--primary); margin-bottom: 8px; }
+    .impact-card-desc { font-size: 0.8rem; color: var(--text-muted); line-height: 1.7; }
+    .impact-number { font-size: 2.4rem; font-weight: 800; color: var(--accent); line-height: 1; letter-spacing: -0.04em; margin-bottom: 4px; }
+    .impact-suffix { font-size: 0.78rem; color: var(--text-muted); }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .metric-strip { grid-template-columns: repeat(2,1fr); }
+      .problem-grid { grid-template-columns: 1fr 1fr; }
+      .solution-grid { grid-template-columns: 1fr; }
+      .flow-diagram { flex-wrap: wrap; gap: 20px; }
+      .flow-arrow { display: none; }
+      .chat-shell { flex-direction: column; }
+      .chat-left, .ai-panel { width: 100%; }
+      .actions-shell { grid-template-columns: 1fr; }
+      .stack-grid { grid-template-columns: repeat(2,1fr); }
+      .impact-grid { grid-template-columns: 1fr; }
+      .app-sidebar { display: none; }
+      .app-stats-row { grid-template-columns: repeat(2,1fr); }
+    }
+    @media (max-width: 600px) {
+      .metric-strip { grid-template-columns: 1fr; }
+      .problem-grid { grid-template-columns: 1fr; }
+      .stack-grid { grid-template-columns: 1fr; }
+      .scenario-steps { padding: 24px 20px; }
+      .scenario-header { padding: 20px 24px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAVIGATION -->
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="../index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links">
+      <li><a href="../index.html#about">Chi Sono</a></li>
+      <li><a href="../index.html#skills">Competenze</a></li>
+      <li><a href="../index.html#works" class="active">Progetti</a></li>
+      <li><a href="../index.html#articles">Articoli</a></li>
+      <li><a href="../index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<!-- PAGE HERO -->
+<div class="page-hero" style="position:relative;background:linear-gradient(160deg,rgba(4,10,20,0.97) 0%,rgba(6,15,30,0.88) 30%,rgba(14,116,144,0.55) 65%,rgba(4,10,20,0.95) 100%),url('https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?fm=jpg&q=85&w=1920&auto=format&fit=crop') center/cover no-repeat;">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="breadcrumb">
+      <a href="../index.html">Home</a>
+      <span>/</span>
+      <a href="../index.html#works">Progetti</a>
+      <span>/</span>
+      <span style="color:#93c5fd;">Iris</span>
+    </div>
+    <div class="page-label">Strumento personale · In uso · AI Agent · Workflow Automation</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.55);">Iris</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.4);">Un agente AI personale che gestisce l'intero ciclo di vita delle comunicazioni WhatsApp: pianifica l'invio, analizza le risposte, riconosce appuntamenti e aggiorna automaticamente calendario e CRM, senza che l'utente debba fare nulla.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;">
+      <span style="background:rgba(14,116,144,0.25);border:1px solid rgba(14,116,144,0.45);color:#67e8f9;padding:6px 16px;border-radius:20px;font-size:0.75rem;font-weight:700;">Claude AI</span>
+      <span style="background:rgba(14,116,144,0.25);border:1px solid rgba(14,116,144,0.45);color:#67e8f9;padding:6px 16px;border-radius:20px;font-size:0.75rem;font-weight:700;">Node.js</span>
+      <span style="background:rgba(14,116,144,0.25);border:1px solid rgba(14,116,144,0.45);color:#67e8f9;padding:6px 16px;border-radius:20px;font-size:0.75rem;font-weight:700;">WhatsApp Web API</span>
+      <span style="background:rgba(14,116,144,0.25);border:1px solid rgba(14,116,144,0.45);color:#67e8f9;padding:6px 16px;border-radius:20px;font-size:0.75rem;font-weight:700;">Google Calendar</span>
+      <span style="background:rgba(14,116,144,0.25);border:1px solid rgba(14,116,144,0.45);color:#67e8f9;padding:6px 16px;border-radius:20px;font-size:0.75rem;font-weight:700;">HubSpot CRM</span>
+    </div>
+    <div class="disclaimer" style="margin-top:32px;">
+      <p>⚠️ Iris è un progetto concettuale sviluppato a scopo dimostrativo. Architettura, flussi e mockup riproducono fedelmente un prodotto funzionale. I dati mostrati sono fittizi.</p>
+    </div>
+  </div>
+  <div style="position:absolute;bottom:-1px;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,#FAFAF8);pointer-events:none;z-index:2;"></div>
+</div>
+
+<!-- KPI STRIP -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="metric-strip">
+      <div class="metric-box fade-up">
+        <div class="metric-box-val">100%</div>
+        <div class="metric-box-lbl">dei messaggi ad alto valore ha ricevuto risposta e azione corretta nei 14 giorni di test</div>
+      </div>
+      <div class="metric-box fade-up delay-1">
+        <div class="metric-box-val">100%</div>
+        <div class="metric-box-lbl">degli appuntamenti concordati via WhatsApp registrati automaticamente in calendario · 14 giorni di test</div>
+      </div>
+      <div class="metric-box fade-up delay-2">
+        <div class="metric-box-val">80%</div>
+        <div class="metric-box-lbl">delle situazioni gestite in automatico senza nessuna interazione attiva · 14 giorni di test</div>
+      </div>
+      <div class="metric-box fade-up delay-3">
+        <div class="metric-box-val">−97%</div>
+        <div class="metric-box-lbl">sul tempo di risposta: da 2,3 ore a 8 minuti per i messaggi che richiedono il tuo ok</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- IL PROGETTO -->
+<div class="content-block">
+  <div class="container">
+    <!-- Framing callout -->
+    <div class="fade-up" style="background:linear-gradient(135deg,rgba(14,116,144,0.06),rgba(14,116,144,0.02));border:1.5px solid rgba(14,116,144,0.2);border-radius:var(--radius-lg);padding:28px 32px;margin-bottom:40px;position:relative;overflow:hidden;">
+      <div style="position:absolute;top:0;left:0;width:4px;height:100%;background:var(--accent);border-radius:4px 0 0 4px;"></div>
+      <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.15em;text-transform:uppercase;color:var(--accent);margin-bottom:10px;">Una nota prima di iniziare</div>
+      <p style="font-size:0.92rem;color:var(--primary);font-weight:700;line-height:1.6;margin-bottom:10px;">Mi è venuta un'idea. L'ho provata. L'ho trovata via via utilissima.</p>
+      <div style="background:rgba(14,116,144,0.08);border-radius:10px;padding:16px 20px;margin-bottom:16px;border-left:3px solid var(--accent);">
+        <div style="font-size:0.75rem;font-weight:700;color:var(--accent);margin-bottom:10px;text-transform:uppercase;letter-spacing:0.1em;">Cosa trovi in questo documento</div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;font-size:0.8rem;color:var(--text-muted);">
+          <div>→ Architettura di sistema completa e scelte tecnologiche motivate</div>
+          <div>→ Modello di pseudonimizzazione GDPR con riferimenti normativi</div>
+          <div>→ Modello economico con costi reali per ciascun componente</div>
+          <div>→ Dati di test su 14 giorni con baseline misurata prima dell'adozione</div>
+        </div>
+      </div>
+      <p style="font-size:0.82rem;color:var(--text-muted);line-height:1.8;margin-bottom:12px;">Iris non nasce da un brief aziendale né da un'analisi di mercato. Nasce da un'esigenza concreta, mia, che ho deciso di risolvere con gli strumenti che avevo a disposizione. Nel tempo si è rivelato un esercizio utile sotto ogni aspetto (tecnico, metodologico, critico) con un risultato tangibile che uso ancora oggi.</p>
+      <p style="font-size:0.82rem;color:var(--text-muted);line-height:1.8;">Non è un prodotto commercializzabile nella forma attuale: i ToS WhatsApp lo rendono impraticabile su scala. Questo documento lo dichiara apertamente. Ma non è questo il punto. Il punto è il metodo: quanto tempo serve, con gli strumenti giusti, per andare da un'intuizione a un sistema documentato con architettura, privacy, costi e limitazioni tutti pensati? Meno di quanto si creda. <strong style="color:var(--primary);">Questo è ciò che questo progetto dimostra.</strong></p>
+    </div>
+
+    <!-- Come è stato costruito -->
+    <div class="fade-up" style="background:var(--bg-alt);border:1px solid var(--border);border-radius:var(--radius-lg);padding:28px 32px;margin-bottom:40px;">
+      <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.15em;text-transform:uppercase;color:var(--text-muted);margin-bottom:16px;">Metodo di lavoro · Processo decisionale</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
+        <div>
+          <div style="font-size:0.85rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Il PM decide. L'AI esegue. I dati validano.</div>
+          <div style="font-size:0.8rem;color:var(--text-muted);line-height:1.8;">Ogni scelta strutturale di questo documento è una decisione di prodotto: quali problemi includere e quali tagliare, che profondità dedicare alla privacy rispetto al modello economico, quale scenario scegliere come caso rappresentativo, come misurare l'impatto senza gonfiare i dati. Lo scope è stato definito prima di costruire. L'architettura è stata validata rispetto a vincoli reali (ToS WhatsApp, GDPR, costo API). Il test su 14 giorni ha confermato le ipotesi principali e rivelato i limiti dichiarati nella sezione dedicata.</div>
+          <div style="margin-top:12px;font-size:0.8rem;color:var(--text-muted);line-height:1.8;">Questo è il modello applicato a qualsiasi progetto di prodotto: formulare ipotesi verificabili, costruire il minimo necessario per testarle, misurare con rigore e iterare sulla base dei dati. <strong style="color:var(--primary);">Iris è un caso di hypothesis-driven development applicato su se stessi come utente.</strong></div>
+          <div style="margin-top:12px;font-size:0.8rem;color:var(--text-muted);line-height:1.8;"><strong style="color:var(--primary);">Claude Code</strong> ha operato come strumento di esecuzione ad alta velocità: generare bozze architetturali, scrivere testi tecnici, costruire mockup, implementare il codice HTML/CSS. Ogni output è stato valutato criticamente, accettato, modificato o rifiutato. La competenza dimostrata non è la capacità di usare l'AI: è la capacità di dirigerla verso un risultato di prodotto preciso, mantenendo il controllo su ogni decisione che conta.</div>
+        </div>
+        <div>
+          <div style="font-size:0.78rem;font-weight:700;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.1em;margin-bottom:12px;">Le tre fasi del processo</div>
+          <div style="display:flex;flex-direction:column;gap:8px;">
+            <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start;">
+              <span style="font-size:1.1rem;flex-shrink:0;">🎯</span>
+              <div>
+                <div style="font-size:0.8rem;font-weight:700;color:var(--primary);">1 · Decisioni di prodotto (PM)</div>
+                <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.65;">Perimetro del problema, scelta delle integrazioni, struttura narrativa, criteri di misurazione, gestione delle limitazioni, tono verso il lettore. Nessuna di queste scelte è stata delegata all'AI.</div>
+              </div>
+            </div>
+            <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start;">
+              <span style="font-size:1.1rem;flex-shrink:0;">🤖</span>
+              <div>
+                <div style="font-size:0.8rem;font-weight:700;color:var(--primary);">2 · Esecuzione AI (Claude Code)</div>
+                <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.65;">Generazione delle bozze tecniche, stesura dei testi, costruzione dei mockup UI, implementazione HTML/CSS. Ciclo: prompt → output → critica → iterazione. Tempo totale: meno di mezza giornata lavorativa.</div>
+              </div>
+            </div>
+            <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start;">
+              <span style="font-size:1.1rem;flex-shrink:0;">📊</span>
+              <div>
+                <div style="font-size:0.8rem;font-weight:700;color:var(--primary);">3 · Validazione sul campo</div>
+                <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.65;">14 giorni di uso reale con baseline misurata (Toggl Track). I dati nella sezione Misurazione non sono stime: sono osservazioni raccolte prima e dopo l'adozione. Il sistema ha funzionato dove previsto — e i limiti operativi sono stati dichiarati senza edulcorare i risultati.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h2>Il Progetto</h2>
+      <p>WhatsApp non è il canale principale della comunicazione organizzativa. Email e strumenti dedicati coprono la maggior parte del lavoro. Ma esiste una categoria specifica di messaggi WhatsApp che ha un peso sproporzionato rispetto al volume: conferme di budget, proposte di appuntamento con clienti, aggiornamenti da partner, richieste informali che nascondono decisioni importanti. Sono pochi, ma dimenticarli o risponderci tardi ha conseguenze reali.</p>
+      <p>Iris non nasce per gestire grandi volumi di messaggi. Nasce per <strong>eliminare il rischio su quelli che contano</strong>. E lo fa senza aggiungere un'altra app da aprire e gestire: funziona come un servizio silenzioso in background che interviene solo quando serve una decisione: in quel caso ti contatta lui, non il contrario.</p>
+      <p>La logica è semplice: l'80% delle situazioni viene gestita in automatico da regole preimpostate. Per il 20% restante ricevi una notifica contestuale (su Slack, via email o push) con le azioni già pronte. Un click per approvare. Il nome è un omaggio a Hermes, il dio greco dei messaggi: veloce, invisibile, preciso.</p>
+    </div>
+  </div>
+</div>
+
+<!-- IL PROBLEMA -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Il Problema</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Pochi messaggi, alto rischio</h2>
+      <p style="font-size:0.95rem;color:var(--text-muted);">WhatsApp non occupa la maggior parte del tempo lavorativo. Email e strumenti dedicati fanno molto di più. Ma i messaggi WhatsApp che riguardano il lavoro tendono ad essere proprio quelli a più alto valore: conferme di clienti, proposte di meeting, aggiornamenti critici da partner. Il problema non è il volume. È che questi pochi messaggi non hanno nessun sistema di protezione se li dimentichi o li gestisci male.</p>
+    </div>
+    <div class="problem-grid">
+      <div class="problem-card fade-up">
+        <div class="problem-icon">⏰</div>
+        <div class="problem-title">Impossibile programmare i messaggi</div>
+        <div class="problem-desc">Devi ricordarti di mandare un follow-up alle 9:00 di domani? O un reminder al cliente venerdì pomeriggio? Su WhatsApp non puoi. Finisce che lo mandi alle 23:00 quando ci pensi, o non lo mandi affatto.</div>
+      </div>
+      <div class="problem-card fade-up delay-1">
+        <div class="problem-icon">🔔</div>
+        <div class="problem-title">Ogni risposta è un'interruzione</div>
+        <div class="problem-desc">Ogni notifica rompe il flusso di lavoro. Ma ignorarla significa rischiare di rispondere tardi. Non esiste un modo per "processare" i messaggi in batch, come si fa con le email in un'inbox organizzata.</div>
+      </div>
+      <div class="problem-card fade-up delay-2">
+        <div class="problem-icon">📅</div>
+        <div class="problem-title">Gli appuntamenti si perdono</div>
+        <div class="problem-desc">"Ok, ci sentiamo giovedì alle 15." Poi dimentichi di mettere nel calendario e giovedì alle 15:30 ti arriva "sei qui?". Nessuna integrazione automatica tra la chat e il tuo agenda.</div>
+      </div>
+      <div class="problem-card fade-up">
+        <div class="problem-icon">🗃️</div>
+        <div class="problem-title">I dati svaniscono nella chat</div>
+        <div class="problem-desc">Un cliente ti manda un numero di telefono, un budget, una specifica. Quella info scompare nel flusso di messaggi. Per aggiornarla nel CRM devi copiarla a mano, se te ne ricordi.</div>
+      </div>
+      <div class="problem-card fade-up delay-1">
+        <div class="problem-icon">🔄</div>
+        <div class="problem-title">Zero automazione sul follow-up</div>
+        <div class="problem-desc">I follow-up sistematici fanno la differenza in sales e project management. Ma su WhatsApp non esiste nessuna automazione: o te li ricordi, o non ci sono. Un gap enorme rispetto agli strumenti email.</div>
+      </div>
+      <div class="problem-card fade-up delay-2" style="background:rgba(14,116,144,0.06);border-color:rgba(14,116,144,0.25);">
+        <div class="problem-icon">💡</div>
+        <div class="problem-title" style="color:var(--accent);">L'opportunità</div>
+        <div class="problem-desc">WhatsApp non risolverà questi problemi: è un'app consumer, non uno strumento professionale. L'opportunità è costruire un layer intelligente che si ponga tra l'utente e WhatsApp, gestendo la complessità in modo invisibile.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- LA SOLUZIONE -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">La Soluzione</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Un agente, tre superpoteri</h2>
+    </div>
+    <div class="solution-grid">
+      <div class="solution-pillar fade-up">
+        <div class="solution-pillar-num">01 · Outbound</div>
+        <div class="solution-pillar-title">Pianificazione intelligente</div>
+        <div class="solution-pillar-desc">Programmi un messaggio scegliendo destinatario, data e ora. Puoi scriverlo tu oppure chiedere all'AI di generarlo in base al contesto: "scrivi un follow-up per Marco dopo la demo di ieri". Il testo viene suggerito, tu approvi e il messaggio parte automaticamente all'orario giusto.</div>
+      </div>
+      <div class="solution-pillar fade-up delay-1">
+        <div class="solution-pillar-num">02 · Inbound</div>
+        <div class="solution-pillar-title">Analisi delle risposte</div>
+        <div class="solution-pillar-desc">Quando arriva una risposta, l'AI la legge e classifica l'intento: proposta di appuntamento, condivisione di dati, risposta affermativa, richiesta di informazioni. Non ricevi solo una notifica: ricevi una notifica con il contesto già estratto e le azioni disponibili in un click.</div>
+      </div>
+      <div class="solution-pillar fade-up delay-2">
+        <div class="solution-pillar-num">03 · Actions</div>
+        <div class="solution-pillar-title">Integrazione nel workflow</div>
+        <div class="solution-pillar-desc">Con un click approvi l'azione suggerita: l'appuntamento va nel calendario, i dati del cliente aggiornano il CRM, la risposta al contatto viene inviata. Il ciclo completo (messaggio, risposta, azione) senza cambiare app, senza copiare dati a mano.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DOVE VIVE -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Modello di interazione</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Non lo apri tu. Ti chiama lui.</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.8;">Il principio di progettazione centrale di Iris è uno: <strong>non deve aggiungere un'altra superficie da gestire</strong>. Aprire un'app per gestire i messaggi di WhatsApp significa spostare il problema, non risolverlo. Il modello corretto è quello di un assistente che lavora in silenzio e si fa vivo solo quando ha qualcosa che richiede la tua attenzione.</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-top:40px;align-items:start;" class="fade-up">
+
+      <!-- Left: where it lives -->
+      <div>
+        <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--text-muted);margin-bottom:20px;">Dove risiede Iris</div>
+        <div style="display:flex;flex-direction:column;gap:12px;">
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:18px 20px;display:flex;gap:14px;align-items:flex-start;">
+            <div style="font-size:1.4rem;flex-shrink:0;">🖥️</div>
+            <div>
+              <div style="font-size:0.85rem;font-weight:800;color:var(--primary);margin-bottom:5px;">Servizio in background sul PC (solo desktop)</div>
+              <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Iris è un'applicazione <strong>esclusivamente desktop</strong>: gira come servizio in background su Windows o macOS, esattamente come Dropbox o un antivirus. Non esiste una versione mobile. Per funzionare richiede che il PC sia acceso e connesso a internet, e che il telefono su cui è installato WhatsApp resti anch'esso connesso: è il requisito di WhatsApp Web, su cui si appoggia l'intera integrazione. Si avvia automaticamente all'accensione del PC e mantiene la sessione attiva in modo trasparente.</div>
+            </div>
+          </div>
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:18px 20px;display:flex;gap:14px;align-items:flex-start;">
+            <div style="font-size:1.4rem;flex-shrink:0;">🔔</div>
+            <div>
+              <div style="font-size:0.85rem;font-weight:800;color:var(--primary);margin-bottom:5px;">Notifiche contestuali (Slack / email / push)</div>
+              <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Quando rileva qualcosa che richiede una decisione, ti contatta nel canale che usi già: un messaggio Slack nel tuo workspace, una email, o una notifica push. La notifica contiene già il contesto e le azioni disponibili: rispondi lì, senza aprire nulla.</div>
+            </div>
+          </div>
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:18px 20px;display:flex;gap:14px;align-items:flex-start;">
+            <div style="font-size:1.4rem;flex-shrink:0;">📊</div>
+            <div>
+              <div style="font-size:0.85rem;font-weight:800;color:var(--primary);margin-bottom:5px;">Dashboard (opzionale · solo per configurazione)</div>
+              <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">La dashboard esiste, ma non è il punto di accesso principale. Serve per impostare regole di automazione, pianificare messaggi in anticipo e consultare il log delle azioni. Nella routine quotidiana non devi aprirla.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right: the 80/20 model -->
+      <div>
+        <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--text-muted);margin-bottom:20px;">La regola 80 / 20</div>
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;">
+          <div style="padding:20px 24px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:12px;">
+            <div style="width:48px;height:48px;border-radius:12px;background:rgba(14,116,144,0.08);display:flex;align-items:center;justify-content:center;font-size:1.4rem;font-weight:800;color:var(--accent);">80%</div>
+            <div>
+              <div style="font-size:0.88rem;font-weight:800;color:var(--primary);">Automazione silenziosa</div>
+              <div style="font-size:0.75rem;color:var(--text-muted);">Iris agisce senza disturbarti</div>
+            </div>
+          </div>
+          <div style="padding:16px 24px;border-bottom:1px solid var(--border-light);">
+            <div style="font-size:0.75rem;color:var(--text-muted);margin-bottom:8px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;">Casi gestiti in automatico:</div>
+            <div style="display:flex;flex-direction:column;gap:6px;font-size:0.78rem;color:var(--text-muted);">
+              <div>✓ Invio messaggi pianificati all'orario impostato</div>
+              <div>✓ Accettazione meeting entro fasce orarie preapprovate</div>
+              <div>✓ Aggiornamento CRM per campi a bassa ambiguità (budget esplicito, nome cliente)</div>
+              <div>✓ Creazione task Todoist da richieste esplicite</div>
+              <div>✓ Notifica Slack al team su eventi configurati</div>
+            </div>
+          </div>
+          <div style="padding:20px 24px;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:12px;">
+            <div style="width:48px;height:48px;border-radius:12px;background:rgba(245,158,11,0.08);display:flex;align-items:center;justify-content:center;font-size:1.4rem;font-weight:800;color:#f59e0b;">20%</div>
+            <div>
+              <div style="font-size:0.88rem;font-weight:800;color:var(--primary);">Smart notification</div>
+              <div style="font-size:0.75rem;color:var(--text-muted);">Ti viene chiesta una decisione, lì dove sei</div>
+            </div>
+          </div>
+          <div style="padding:16px 24px;">
+            <div style="font-size:0.75rem;color:var(--text-muted);margin-bottom:8px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;">Casi che richiedono il tuo ok:</div>
+            <div style="display:flex;flex-direction:column;gap:6px;font-size:0.78rem;color:var(--text-muted);">
+              <div>→ Meeting fuori dagli orari preapprovati</div>
+              <div>→ Tono del messaggio ambiguo o contesto poco chiaro</div>
+              <div>→ Budget o dati non espliciti ma inferiti</div>
+              <div>→ Situazioni nuove senza regola preimpostata</div>
+            </div>
+            <div style="margin-top:14px;background:rgba(14,116,144,0.05);border:1px solid rgba(14,116,144,0.15);border-radius:8px;padding:12px 14px;font-size:0.78rem;color:var(--text-muted);font-style:italic;">
+              💬 La notifica arriva su Slack: <strong style="color:var(--primary);">"Marco propone giovedì 10:00, fuori dalla tua fascia preferita. Accetti uguale?"</strong> Tu rispondi "sì". Fine.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- COME FUNZIONA -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Come Funziona</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Il flusso completo</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);">Dall'invio programmato all'aggiornamento automatico del CRM: ogni fase è gestita dall'agente, l'utente interviene solo quando deve prendere una decisione.</p>
+    </div>
+    <div class="flow-diagram fade-up">
+      <div class="flow-step">
+        <div class="flow-step-bubble active">📝</div>
+        <div class="flow-step-name">Pianificazione</div>
+        <div class="flow-step-desc">Scrivi o fai generare il messaggio. Scegli orario di invio.</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-step-bubble active">📤</div>
+        <div class="flow-step-name">Invio automatico</div>
+        <div class="flow-step-desc">Il messaggio parte all'ora esatta, anche se sei offline.</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-step-bubble active">📨</div>
+        <div class="flow-step-name">Ricezione risposta</div>
+        <div class="flow-step-desc">Iris intercetta la risposta in tempo reale.</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-step-bubble active">🤖</div>
+        <div class="flow-step-name">Analisi AI</div>
+        <div class="flow-step-desc">L'AI classifica l'intento e prepara le azioni disponibili.</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-step-bubble active">✅</div>
+        <div class="flow-step-name">Approvazione</div>
+        <div class="flow-step-desc">Tu approvi con un click (o imposti l'auto-approve).</div>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step">
+        <div class="flow-step-bubble active">🔗</div>
+        <div class="flow-step-name">Integrazione</div>
+        <div class="flow-step-desc">Calendario aggiornato, CRM aggiornato, risposta inviata.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- SCENARIO REALE -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Scenario Reale</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Come funziona nella pratica</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);">Un caso d'uso reale: follow-up cliente, proposta appuntamento, calendario aggiornato. Senza toccare nulla.</p>
+    </div>
+    <div class="scenario-wrap fade-up">
+      <div class="scenario-header">
+        <h3>Lunedì mattina, ore 08:45</h3>
+        <p>Hai avuto una call con Marco Rossi venerdì scorso. Devi fare un follow-up professionale, proporre un secondo incontro e aggiornarti sul suo budget. Ma adesso sei in riunione.</p>
+      </div>
+      <div class="scenario-steps">
+        <div class="scenario-step">
+          <div class="scenario-step-dot">1</div>
+          <div class="scenario-step-body">
+            <h4>Domenica sera: pianifichi il messaggio</h4>
+            <p>Apri Iris e scrivi: <em>"Manda a Marco Rossi un follow-up della call di venerdì lunedì alle 9:00, chiedigli disponibilità per un secondo meeting e chiedigli aggiornamenti sulla proposta di budget da 12k; se la accetta, aggiorna il CRM."</em></p>
+            <div class="scenario-ai-tag">🤖 AI genera il testo · Tu approvi in 10 secondi</div>
+            <div class="scenario-msg">Ciao Marco, grazie ancora per il tempo di venerdì. Volevo fare un rapido follow-up: hai avuto modo di valutare internamente la proposta che ti abbiamo condiviso, in particolare riguardo al budget di 12k? Fammi sapere se ci sono aggiornamenti e, se ti fa comodo, quando saresti disponibile per un secondo incontro questa settimana. 🙏</div>
+          </div>
+        </div>
+        <div class="scenario-step">
+          <div class="scenario-step-dot">2</div>
+          <div class="scenario-step-body">
+            <h4>Lunedì 09:00: il messaggio parte in automatico</h4>
+            <p>Sei in riunione. Il messaggio viene inviato puntuale, con il tono professionale che hai approvato. Zero interruzioni per te.</p>
+          </div>
+        </div>
+        <div class="scenario-step">
+          <div class="scenario-step-dot">3</div>
+          <div class="scenario-step-body">
+            <h4>Lunedì 10:23: Marco risponde</h4>
+            <p>Iris intercetta la risposta e la analizza prima ancora che tu veda la notifica.</p>
+            <div class="scenario-msg incoming">"Ciao Gabriele! Sì, ottimo. Il budget è confermato sui 12k. Mercoledì pomeriggio o giovedì mattina mi andrebbero bene per un meeting. Tu che dici?"</div>
+          </div>
+        </div>
+        <div class="scenario-step">
+          <div class="scenario-step-dot">4</div>
+          <div class="scenario-step-body">
+            <h4>L'AI analizza e prepara le azioni</h4>
+            <p>Ricevi una notifica smart, non la notifica di WhatsApp. Vedi già quello che conta:</p>
+            <div class="scenario-ai-tag">🎯 Intento: Proposta appuntamento + Dati CRM</div>
+            <p style="margin-top:10px;font-size:0.82rem;color:var(--text-muted);">Azioni disponibili: <strong>Accetta Mercoledì 15:00</strong> · <strong>Accetta Giovedì 10:00</strong> · <strong>Proponi alternativa</strong> · <strong>CRM: aggiorna budget → €12.000</strong></p>
+          </div>
+        </div>
+        <div class="scenario-step">
+          <div class="scenario-step-dot">5</div>
+          <div class="scenario-step-body">
+            <h4>Tu clicchi "Accetta Mercoledì 15:00" · 1 click</h4>
+            <p>In automatico: il meeting viene aggiunto al tuo Google Calendar, Marco riceve la conferma via WhatsApp, il suo record su HubSpot viene aggiornato con budget €12.000 e status "Meeting Confermato".</p>
+            <div class="scenario-msg">Perfetto Marco! Confermo mercoledì alle 15:00. Ti mando il link per la call. A presto! 👋</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- MOCKUP 1: DASHBOARD -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="mockup-section-title fade-up">Interfaccia · Dashboard</div>
+    <div class="mockup-section-h2 fade-up">Pianificazione messaggi</div>
+    <div class="mockup-section-sub fade-up">La dashboard principale mostra tutti i messaggi in coda, inviati e in attesa di risposta. Lo stato di ogni comunicazione è sempre visibile a colpo d'occhio.</div>
+    <div class="fade-up">
+      <div class="app-shell">
+        <div class="app-titlebar">
+          <div class="app-titlebar-dot" style="background:#ff5f57;"></div>
+          <div class="app-titlebar-dot" style="background:#febc2e;"></div>
+          <div class="app-titlebar-dot" style="background:#28c840;"></div>
+          <div class="app-titlebar-name">Iris · Dashboard</div>
+        </div>
+        <div class="app-body">
+          <div class="app-sidebar">
+            <div class="app-sidebar-logo">
+              <div class="app-sidebar-logo-name">Iris</div>
+              <div class="app-sidebar-logo-sub">v1.0 · Gabriele A.</div>
+            </div>
+            <div class="app-nav-item active">
+              <span class="app-nav-item-icon">📅</span> Pianificati
+              <span class="app-nav-badge">3</span>
+            </div>
+            <div class="app-nav-item">
+              <span class="app-nav-item-icon">📨</span> Risposte AI
+              <span class="app-nav-badge">2</span>
+            </div>
+            <div class="app-nav-item">
+              <span class="app-nav-item-icon">📤</span> Inviati
+            </div>
+            <div class="app-nav-item">
+              <span class="app-nav-item-icon">🔗</span> Integrazioni
+            </div>
+            <div style="padding:10px 20px 4px;font-size:0.62rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#6e7681;">Connesse</div>
+            <div class="app-nav-item" style="font-size:0.75rem;padding:7px 20px;">
+              <span class="app-nav-item-icon">📅</span> Google Calendar
+            </div>
+            <div class="app-nav-item" style="font-size:0.75rem;padding:7px 20px;">
+              <span class="app-nav-item-icon">🗃️</span> HubSpot CRM
+            </div>
+            <div class="app-nav-item" style="font-size:0.75rem;padding:7px 20px;">
+              <span class="app-nav-item-icon">📓</span> Notion
+            </div>
+            <div class="app-nav-item" style="font-size:0.75rem;padding:7px 20px;">
+              <span class="app-nav-item-icon">✅</span> Todoist
+            </div>
+            <div class="app-nav-item" style="font-size:0.75rem;padding:7px 20px;">
+              <span class="app-nav-item-icon">💬</span> Slack
+            </div>
+            <div class="app-nav-item">
+              <span class="app-nav-item-icon">⚙️</span> Impostazioni
+            </div>
+          </div>
+          <div class="app-main">
+            <div class="app-stats-row">
+              <div class="app-stat-card">
+                <div class="app-stat-val">12</div>
+                <div class="app-stat-lbl">Messaggi questa settimana</div>
+              </div>
+              <div class="app-stat-card">
+                <div class="app-stat-val">8</div>
+                <div class="app-stat-lbl">Risposte processate</div>
+              </div>
+              <div class="app-stat-card">
+                <div class="app-stat-val">3</div>
+                <div class="app-stat-lbl">Meeting confermati</div>
+              </div>
+            </div>
+            <div class="app-main-header">
+              <div class="app-main-title">Messaggi Pianificati</div>
+              <div class="app-main-btn">+ Nuovo messaggio</div>
+            </div>
+            <div class="app-msg-list">
+              <div class="app-msg-row">
+                <div class="app-msg-avatar" style="background:rgba(16,185,129,0.2);color:#10b981;">MR</div>
+                <div class="app-msg-body">
+                  <div class="app-msg-name">Marco Rossi</div>
+                  <div class="app-msg-preview">Ciao Marco, grazie ancora per il tempo di venerdì. Volevo confermare...</div>
+                </div>
+                <div class="app-msg-meta">
+                  <div class="app-msg-time">Oggi · 09:00</div>
+                  <div class="app-msg-status status-reply">Risposta ricevuta</div>
+                </div>
+              </div>
+              <div class="app-msg-row">
+                <div class="app-msg-avatar" style="background:rgba(245,158,11,0.2);color:#f59e0b;">SB</div>
+                <div class="app-msg-body">
+                  <div class="app-msg-name">Sara Bianchi</div>
+                  <div class="app-msg-preview">Buon pomeriggio Sara, come sta procedendo la valutazione del nostro...</div>
+                </div>
+                <div class="app-msg-meta">
+                  <div class="app-msg-time">Oggi · 14:30</div>
+                  <div class="app-msg-status status-pending">In attesa</div>
+                </div>
+              </div>
+              <div class="app-msg-row">
+                <div class="app-msg-avatar" style="background:rgba(167,139,250,0.2);color:#a78bfa;">LF</div>
+                <div class="app-msg-body">
+                  <div class="app-msg-name">Luca Ferrari</div>
+                  <div class="app-msg-preview">Ciao Luca! Volevo aggiornarti: abbiamo completato l'analisi che ti avevo...</div>
+                </div>
+                <div class="app-msg-meta">
+                  <div class="app-msg-time">Domani · 09:00</div>
+                  <div class="app-msg-status status-ai">Bozza AI</div>
+                </div>
+              </div>
+              <div class="app-msg-row">
+                <div class="app-msg-avatar" style="background:rgba(34,211,238,0.15);color:#22d3ee;">TM</div>
+                <div class="app-msg-body">
+                  <div class="app-msg-name">Team Marketing</div>
+                  <div class="app-msg-preview">Ricordate che venerdì è il deadline per il materiale della campagna Q3...</div>
+                </div>
+                <div class="app-msg-meta">
+                  <div class="app-msg-time">Ven · 08:00</div>
+                  <div class="app-msg-status status-pending">In attesa</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- MOCKUP 2: AI PROCESSING -->
+<div class="content-block">
+  <div class="container">
+    <div class="mockup-section-title fade-up">Interfaccia · AI Processing</div>
+    <div class="mockup-section-h2 fade-up">Analisi risposta in tempo reale</div>
+    <div class="mockup-section-sub fade-up">Quando arriva una risposta, l'AI la processa immediatamente: estrae l'intento, i dati rilevanti e prepara le azioni. L'utente vede tutto a colpo d'occhio e decide con un click.</div>
+    <div class="fade-up">
+      <div class="chat-shell">
+        <!-- Chat WhatsApp style -->
+        <div class="chat-left">
+          <div class="chat-header">
+            <div class="chat-avatar">MR</div>
+            <div>
+              <div class="chat-contact-name">Marco Rossi</div>
+              <div class="chat-contact-status">online</div>
+            </div>
+          </div>
+          <div class="chat-messages">
+            <div class="chat-bubble out">
+              Ciao Marco, grazie ancora per il tempo di venerdì. Volevo confermare il tuo interesse per la proposta e capire se hai avuto modo di valutarla internamente. Quando saresti disponibile per un secondo incontro?
+              <div class="chat-bubble-time">09:00 ✓✓</div>
+            </div>
+            <div class="chat-bubble in new-in">
+              Ciao Gabriele! Sì, ottimo. Il budget è confermato sui 12k. Mercoledì pomeriggio o giovedì mattina mi andrebbero bene per un meeting. Tu che dici?
+              <div class="chat-bubble-time">10:23</div>
+            </div>
+          </div>
+          <div class="chat-input-bar">
+            <div class="chat-input-box">Iris sta preparando una risposta...</div>
+          </div>
+        </div>
+        <!-- AI Analysis Panel -->
+        <div class="ai-panel">
+          <div class="ai-panel-header">
+            <div class="ai-panel-label">Iris · Analisi in corso</div>
+            <div class="ai-panel-title">Risposta da Marco Rossi · 10:23</div>
+          </div>
+          <div class="ai-panel-body">
+            <div class="ai-intent-card">
+              <div class="ai-intent-label">Intento rilevato</div>
+              <div class="ai-intent-badge">📅 Proposta Appuntamento</div>
+              <div class="ai-detail-row">
+                <div class="ai-detail-pill">Opzione 1: <span>Mer pomeriggio</span></div>
+                <div class="ai-detail-pill">Opzione 2: <span>Gio mattina</span></div>
+              </div>
+              <div class="ai-confidence">
+                <div style="font-size:0.65rem;color:#6e7681;white-space:nowrap;">Confidenza classificazione AI</div>
+                <div class="ai-confidence-bar"><div class="ai-confidence-fill" style="width:94%"></div></div>
+                <div class="ai-confidence-val">94%</div>
+              </div>
+              <div style="font-size:0.68rem;color:#6e7681;margin-top:6px;line-height:1.5;">Quanto è sicura l'AI di aver identificato correttamente l'intento del messaggio. Sotto il 70% richiede sempre conferma manuale.</div>
+            </div>
+            <div class="ai-intent-card">
+              <div class="ai-intent-label">Dati CRM estratti</div>
+              <div style="display:flex;flex-direction:column;gap:6px;margin-top:4px;">
+                <div class="ai-detail-pill" style="display:flex;justify-content:space-between;">
+                  <span style="color:#6e7681;">Budget confermato</span>
+                  <span style="color:#10b981;font-weight:700;">€ 12.000</span>
+                </div>
+                <div class="ai-detail-pill" style="display:flex;justify-content:space-between;">
+                  <span style="color:#6e7681;">Interesse</span>
+                  <span style="color:#10b981;font-weight:700;">Confermato</span>
+                </div>
+              </div>
+            </div>
+            <div class="ai-summary-card">
+              <div class="ai-summary-title">Sintesi AI</div>
+              <div class="ai-summary-text">"Marco ha confermato il budget a €12.000 e propone due slot di meeting. Tono positivo e coinvolto. Consiglio di accettare Mercoledì 15:00 per mantenere lo slancio."</div>
+            </div>
+            <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#6e7681;margin-bottom:6px;">Azioni disponibili</div>
+            <div class="ai-actions">
+              <div class="ai-action-btn" style="background:rgba(14,116,144,0.1);color:#22d3ee;border:1px solid rgba(34,211,238,0.25);font-size:0.75rem;">🗓️ Verifica disponibilità calendario prima di decidere</div>
+              <div style="border-top:1px solid #21262d;margin:4px 0;"></div>
+              <div class="ai-action-btn accept">✅ Accetta · Mercoledì 15:00 + aggiorna CRM</div>
+              <div class="ai-action-btn modify">✏️ Accetta · Giovedì 10:00 + aggiorna CRM</div>
+              <div class="ai-action-btn decline">📝 Proponi orario alternativo</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- MOCKUP 3: AZIONI AUTOMATICHE -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="mockup-section-title fade-up">Interfaccia · Integrazioni</div>
+    <div class="mockup-section-h2 fade-up">Azioni automatiche post-approvazione</div>
+    <div class="mockup-section-sub fade-up">Con un solo click, Iris esegue simultaneamente tutte le azioni necessarie: aggiorna il calendario, notifica i partecipanti, aggiorna il CRM e invia la risposta al contatto.</div>
+    <div class="actions-shell fade-up">
+      <!-- Calendar card -->
+      <div class="action-card">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#1a73e8;">📅</div>
+          <div>
+            <div class="action-card-service">Google Calendar</div>
+            <div style="font-size:0.68rem;color:#6e7681;">Evento creato automaticamente</div>
+          </div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Sincronizzato</div></div>
+        </div>
+        <div class="action-card-body">
+          <div class="action-card-event">
+            <div class="action-card-event-title">Meeting Marco Rossi · Proposta Commerciale</div>
+            <div class="action-card-event-detail">
+              Mercoledì 1 Luglio 2026<br>
+              15:00 – 16:00 · Google Meet<br>
+              <span style="color:#a78bfa;">↗ Link meeting generato</span>
+            </div>
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px;">
+            <div class="action-card-badge" style="background:rgba(14,116,144,0.1);color:#0E7490;border-color:rgba(14,116,144,0.3);">📧 Invite inviato</div>
+            <div class="action-card-badge">🔔 Reminder: -1h</div>
+          </div>
+        </div>
+      </div>
+      <!-- CRM card -->
+      <div class="action-card">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#ff7a59;">🗃️</div>
+          <div>
+            <div class="action-card-service">HubSpot CRM</div>
+            <div style="font-size:0.68rem;color:#6e7681;">Record aggiornato da AI</div>
+          </div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Aggiornato</div></div>
+        </div>
+        <div class="action-card-body">
+          <div class="crm-record">
+            <div class="crm-record-name">Marco Rossi · Rossi Solutions S.r.l.</div>
+            <div class="crm-field">
+              <span class="crm-field-label">Stage</span>
+              <span class="crm-field-value updated">Meeting Confermato ↑</span>
+            </div>
+            <div class="crm-field">
+              <span class="crm-field-label">Budget</span>
+              <span class="crm-field-value updated">€ 12.000 ↑</span>
+            </div>
+            <div class="crm-field">
+              <span class="crm-field-label">Prossimo contatto</span>
+              <span class="crm-field-value updated">01/07/2026 15:00</span>
+            </div>
+            <div class="crm-field">
+              <span class="crm-field-label">Ultimo aggiornamento</span>
+              <span class="crm-field-value">Oggi 10:24 · Iris</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- WhatsApp reply card -->
+      <div class="action-card">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#25d366;">💬</div>
+          <div>
+            <div class="action-card-service">WhatsApp · Risposta inviata</div>
+            <div style="font-size:0.68rem;color:#6e7681;">Testo approvato e inviato</div>
+          </div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Consegnato</div></div>
+        </div>
+        <div class="action-card-body">
+          <div class="action-card-event" style="border-left-color:#25d366;">
+            <div class="action-card-event-title">Messaggio inviato a Marco Rossi</div>
+            <div class="action-card-event-detail" style="color:#8b949e;font-style:italic;">
+              "Perfetto Marco! Confermo mercoledì alle 15:00. Ti invio il link Google Meet. A presto! 👋"
+            </div>
+          </div>
+          <div style="margin-top:10px;"><div class="action-card-badge">✓✓ Letto 10:25</div></div>
+        </div>
+      </div>
+      <!-- Notion card -->
+      <div class="action-card">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#191919;">📓</div>
+          <div>
+            <div class="action-card-service">Notion</div>
+            <div style="font-size:0.68rem;color:#6e7681;">Nota cliente aggiornata</div>
+          </div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Aggiornato</div></div>
+        </div>
+        <div class="action-card-body">
+          <div class="crm-record" style="border-left-color:#a78bfa;">
+            <div class="crm-record-name">📄 Marco Rossi · Note cliente</div>
+            <div class="crm-field"><span class="crm-field-label">Aggiunto</span><span class="crm-field-value updated">Budget confermato €12k</span></div>
+            <div class="crm-field"><span class="crm-field-label">Aggiunto</span><span class="crm-field-value updated">Meeting mer 01/07 ore 15</span></div>
+            <div class="crm-field"><span class="crm-field-label">Tag</span><span class="crm-field-value updated">hot-lead · Q3</span></div>
+          </div>
+          <div style="margin-top:10px;font-size:0.7rem;color:#6e7681;">Page: <span style="color:#a78bfa;">CRM / Clienti / Rossi Solutions</span></div>
+        </div>
+      </div>
+      <!-- Todoist card -->
+      <div class="action-card">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#db4035;">✅</div>
+          <div>
+            <div class="action-card-service">Todoist</div>
+            <div style="font-size:0.68rem;color:#6e7681;">Task creato da AI</div>
+          </div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Aggiunto</div></div>
+        </div>
+        <div class="action-card-body">
+          <div class="action-card-event" style="border-left-color:#db4035;">
+            <div class="action-card-event-title">Preparare deck per meeting Marco Rossi</div>
+            <div class="action-card-event-detail">
+              Scadenza: Mer 01/07 · ore 14:00<br>
+              Progetto: <span style="color:#db4035;">Clienti Attivi</span><br>
+              Priorità: <span style="color:#f59e0b;">⚡ Alta</span>
+            </div>
+          </div>
+          <div style="margin-top:8px;font-size:0.7rem;color:#6e7681;">Creato automaticamente dall'AI · 10:24</div>
+        </div>
+      </div>
+      <!-- Slack card -->
+      <div class="action-card">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#4a154b;">💬</div>
+          <div>
+            <div class="action-card-service">Slack</div>
+            <div style="font-size:0.68rem;color:#6e7681;">Team notificato</div>
+          </div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Inviato</div></div>
+        </div>
+        <div class="action-card-body">
+          <div class="action-card-event" style="border-left-color:#4a154b;">
+            <div class="action-card-event-title">#sales · Update automatico Iris</div>
+            <div class="action-card-event-detail" style="color:#8b949e;font-style:italic;">
+              "🎯 Marco Rossi (Rossi Solutions) ha confermato budget €12k. Meeting fissato per mer 01/07 ore 15:00. CRM e Notion aggiornati."
+            </div>
+          </div>
+          <div style="margin-top:8px;font-size:0.7rem;color:#6e7681;">Canale: <span style="color:#a78bfa;">#sales</span> · 10:24</div>
+        </div>
+      </div>
+      <!-- Riepilogo -->
+      <div class="action-card" style="grid-column:1/-1;background:#0d1117;">
+        <div class="action-card-header">
+          <div class="action-card-icon" style="background:#7c3aed;">🤖</div>
+          <div><div class="action-card-service">Iris · Riepilogo · 1 click · ~4 secondi</div></div>
+          <div style="margin-left:auto;"><div class="action-card-badge">✓ Tutto completato</div></div>
+        </div>
+        <div class="action-card-body" style="display:flex;flex-wrap:wrap;gap:8px;">
+          <div class="action-card-badge" style="justify-content:flex-start;gap:6px;background:rgba(16,185,129,0.1);color:#10b981;border-color:rgba(16,185,129,0.3);">✓ Risposta WhatsApp inviata</div>
+          <div class="action-card-badge" style="justify-content:flex-start;gap:6px;background:rgba(16,185,129,0.1);color:#10b981;border-color:rgba(16,185,129,0.3);">✓ Google Calendar aggiornato + invite</div>
+          <div class="action-card-badge" style="justify-content:flex-start;gap:6px;background:rgba(16,185,129,0.1);color:#10b981;border-color:rgba(16,185,129,0.3);">✓ HubSpot CRM aggiornato</div>
+          <div class="action-card-badge" style="justify-content:flex-start;gap:6px;background:rgba(16,185,129,0.1);color:#10b981;border-color:rgba(16,185,129,0.3);">✓ Notion: nota cliente aggiornata</div>
+          <div class="action-card-badge" style="justify-content:flex-start;gap:6px;background:rgba(16,185,129,0.1);color:#10b981;border-color:rgba(16,185,129,0.3);">✓ Todoist: task creato</div>
+          <div class="action-card-badge" style="justify-content:flex-start;gap:6px;background:rgba(16,185,129,0.1);color:#10b981;border-color:rgba(16,185,129,0.3);">✓ Slack: team aggiornato</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- STACK TECNOLOGICO -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Architettura</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Stack tecnologico</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);">Ogni componente è scelto per massimizzare affidabilità, estensibilità e semplicità di manutenzione. L'architettura è event-driven: ogni messaggio in ingresso o uscita scatena una catena di azioni controllate.</p>
+    </div>
+    <div class="stack-grid fade-up">
+      <div class="stack-card">
+        <div class="stack-layer">Frontend</div>
+        <div class="stack-items">
+          <div class="stack-item" data-tip="Framework JavaScript per l'interfaccia utente. Gestisce la dashboard con aggiornamenti in tempo reale senza ricaricare la pagina.">React 18</div>
+          <div class="stack-item" data-tip="Libreria CSS utility-first. Permette di costruire un'interfaccia curata e consistente scrivendo meno codice e mantenendo tutto più facile da modificare.">TailwindCSS</div>
+          <div class="stack-item" data-tip="Build tool moderno per lo sviluppo frontend. Avvia l'ambiente di sviluppo in millisecondi e ottimizza il codice finale per la produzione.">Vite</div>
+          <div class="stack-item" data-tip="Protocollo di comunicazione bidirezionale e persistente. Permette alla dashboard di ricevere notifiche istantanee dal backend (ad esempio quando arriva un messaggio nuovo) senza dover aggiornare la pagina manualmente.">WebSocket (real-time)</div>
+        </div>
+      </div>
+      <div class="stack-card">
+        <div class="stack-layer">Backend</div>
+        <div class="stack-items">
+          <div class="stack-item" data-tip="Runtime JavaScript lato server e framework web. È il cuore del sistema: riceve i messaggi WhatsApp, coordina le chiamate all'AI e alle integrazioni esterne, e restituisce le azioni da eseguire.">Node.js + Express</div>
+          <div class="stack-item" data-tip="Libreria che automatizza WhatsApp Web tramite browser invisibile (Puppeteer). Permette di inviare e ricevere messaggi in modo programmatico, senza un'API ufficiale Meta.">whatsapp-web.js</div>
+          <div class="stack-item" data-tip="Libreria per la pianificazione di task temporizzati. Esegue l'invio dei messaggi esattamente all'orario impostato, anche se la dashboard è chiusa o l'utente è offline.">node-schedule</div>
+          <div class="stack-item" data-tip="Database leggero che risiede direttamente sul dispositivo, senza server esterni. Conserva i messaggi pianificati, il log delle azioni e il vault di pseudonimizzazione. Nessun dato esce dalla macchina locale.">SQLite (message store)</div>
+        </div>
+      </div>
+      <div class="stack-card">
+        <div class="stack-layer">AI Layer</div>
+        <div class="stack-items">
+          <div class="stack-item" data-tip="Il modello di intelligenza artificiale sviluppato da Anthropic che elabora il testo dei messaggi. Comprende il linguaggio naturale, valuta il contesto e decide quali azioni proporre.">Claude API (Anthropic)</div>
+          <div class="stack-item" data-tip="Meccanismo che permette all'AI di eseguire azioni concrete invece di rispondere solo con testo. Iris definisce funzioni come 'crea_evento' o 'aggiorna_crm', e Claude le chiama direttamente quando serve.">Tool Use / Function calling</div>
+          <div class="stack-item" data-tip="Il processo con cui l'AI identifica l'intenzione dietro un messaggio: proposta di appuntamento, condivisione di dati, risposta affermativa, richiesta generica. Ogni classificazione ha un punteggio di confidenza.">Intent classification</div>
+          <div class="stack-item" data-tip="Capacità dell'AI di scrivere testo originale e contestuale: follow-up, conferme, reminder personalizzati. Il tono e il contenuto vengono calibrati sul contesto della conversazione specifica.">Text generation</div>
+        </div>
+      </div>
+      <div class="stack-card">
+        <div class="stack-layer">Integrazioni</div>
+        <div class="stack-items">
+          <div class="stack-item" data-tip="API ufficiale Google per creare, leggere e modificare eventi nel calendario. Viene usata sia per controllare la disponibilità prima di accettare un meeting, sia per creare l'evento dopo l'approvazione.">Google Calendar API</div>
+          <div class="stack-item" data-tip="Connessione al CRM HubSpot. Aggiorna automaticamente i record di contatti e opportunità commerciali con i dati estratti dai messaggi: budget confermato, stage avanzato, data prossimo contatto.">HubSpot CRM API</div>
+          <div class="stack-item" data-tip="Integrazione con Notion per aggiornare le pagine di note cliente. Quando arrivano dati rilevanti (budget, decisioni, accordi) vengono aggiunti automaticamente alla pagina del contatto in Notion.">Notion API</div>
+          <div class="stack-item" data-tip="Connessione a Todoist per la gestione dei task. Quando un messaggio contiene una richiesta o un impegno da seguire, Iris crea automaticamente il task con scadenza e priorità corrette.">Todoist REST API</div>
+          <div class="stack-item" data-tip="Canale di notifica verso Slack. Invia aggiornamenti automatici al team sui deal avanzati; soprattutto, è il canale principale tramite cui l'utente riceve le richieste di approvazione e risponde con un click.">Slack Webhooks</div>
+          <div class="stack-item" data-tip="Rubrica Google sincronizzata. Usata per contestualizzare i messaggi in arrivo e per alimentare il vault di pseudonimizzazione con i dati corretti di nome e numero, mantenuti sempre in locale.">Google Contacts</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Architecture diagram simple -->
+    <div class="fade-up" style="margin-top:40px;background:var(--bg-alt);border:1px solid var(--border);border-radius:var(--radius-lg);padding:36px;">
+      <div style="text-align:center;margin-bottom:28px;">
+        <div class="section-label" style="margin-bottom:4px;">Flusso architetturale</div>
+        <div style="font-size:0.85rem;color:var(--text-muted);">Come i componenti comunicano tra loro</div>
+      </div>
+      <div style="display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;">
+        <div style="background:var(--surface);border:1.5px solid var(--border);border-radius:12px;padding:16px 20px;text-align:center;min-width:110px;">
+          <div style="font-size:1.4rem;margin-bottom:6px;">📱</div>
+          <div style="font-size:0.75rem;font-weight:700;color:var(--primary);">WhatsApp</div>
+          <div style="font-size:0.65rem;color:var(--text-muted);">whatsapp-web.js</div>
+        </div>
+        <div style="color:var(--accent);font-size:1.2rem;font-weight:700;">⟷</div>
+        <div style="background:var(--surface);border:2px solid var(--accent);border-radius:12px;padding:16px 20px;text-align:center;min-width:110px;">
+          <div style="font-size:1.4rem;margin-bottom:6px;">⚙️</div>
+          <div style="font-size:0.75rem;font-weight:700;color:var(--accent);">Node.js Core</div>
+          <div style="font-size:0.65rem;color:var(--text-muted);">Orchestratore</div>
+        </div>
+        <div style="color:var(--accent);font-size:1.2rem;font-weight:700;">⟷</div>
+        <div style="background:var(--surface);border:1.5px solid var(--border);border-radius:12px;padding:16px 20px;text-align:center;min-width:110px;">
+          <div style="font-size:1.4rem;margin-bottom:6px;">🤖</div>
+          <div style="font-size:0.75rem;font-weight:700;color:var(--primary);">Claude AI</div>
+          <div style="font-size:0.65rem;color:var(--text-muted);">Intent + generation</div>
+        </div>
+        <div style="color:var(--accent);font-size:1.2rem;font-weight:700;">→</div>
+        <div style="background:var(--surface);border:1.5px solid var(--border);border-radius:12px;padding:16px 20px;text-align:center;min-width:110px;">
+          <div style="font-size:1.4rem;margin-bottom:6px;">📅</div>
+          <div style="font-size:0.75rem;font-weight:700;color:var(--primary);">Calendar</div>
+          <div style="font-size:0.65rem;color:var(--text-muted);">Google API</div>
+        </div>
+        <div style="color:var(--accent);font-size:1.2rem;font-weight:700;">→</div>
+        <div style="background:var(--surface);border:1.5px solid var(--border);border-radius:12px;padding:16px 20px;text-align:center;min-width:110px;">
+          <div style="font-size:1.4rem;margin-bottom:6px;">🗃️</div>
+          <div style="font-size:0.75rem;font-weight:700;color:var(--primary);">CRM</div>
+          <div style="font-size:0.65rem;color:var(--text-muted);">HubSpot API</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PRIVACY & GDPR -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Privacy by Design · GDPR</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Pseudonimizzazione, de-pseudonimizzazione e conformità GDPR</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.8;">Iris tratta dati personali sensibili: nomi, numeri di telefono, messaggi privati, inclusi quelli scambiati in contesti lavorativi, che rimangono comunicazioni personali tutelate dal Regolamento UE 2016/679 (GDPR). Il meccanismo centrale di protezione è la <strong>pseudonimizzazione</strong> (GDPR Art. 4(5)): i dati identificativi vengono sostituiti con alias prima di raggiungere l'AI, e ripristinati dopo tramite un vault cifrato locale, per poter eseguire le azioni sui sistemi reali (CRM, calendario, WhatsApp). La chiave di mappatura non lascia mai il dispositivo.</p>
+    </div>
+
+    <!-- Pseudonimizzazione + De-pseudonimizzazione flow -->
+    <div class="fade-up" style="margin-top:40px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;">
+      <div style="background:linear-gradient(135deg,#0a1628,#0e2040);padding:24px 32px;border-bottom:1px solid rgba(255,255,255,0.06);">
+        <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.15em;text-transform:uppercase;color:#67e8f9;margin-bottom:6px;">Ciclo completo · Pseudonimizzazione &amp; De-pseudonimizzazione</div>
+        <div style="font-size:0.92rem;font-weight:700;color:#e6edf3;">Come i dati reali vengono protetti nel transito verso l'AI e ripristinati per agire</div>
+        <div style="font-size:0.78rem;color:rgba(255,255,255,0.5);margin-top:6px;">Terminologia corretta GDPR Art. 4(5): la pseudonimizzazione (a differenza dell'anonimizzazione) è reversibile tramite chiave locale, permettendo di agire sui dati reali dopo il processing AI.</div>
+      </div>
+
+      <!-- Flow a 5 step -->
+      <div style="padding:32px;overflow-x:auto;">
+        <div style="display:flex;align-items:flex-start;gap:0;min-width:820px;">
+
+          <!-- Step 1 -->
+          <div style="flex:1;min-width:155px;">
+            <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#ef4444;margin-bottom:10px;text-align:center;">① Dato reale</div>
+            <div style="background:#fff5f5;border:1.5px solid rgba(239,68,68,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:#374151;">
+              <div><b style="color:#ef4444;">Marco Rossi</b></div>
+              <div style="color:#6b7280;">+39 333 123 4567</div>
+              <div style="margin-top:6px;font-style:italic;">"Budget a 12k. Mer pomeriggio ok?"</div>
+            </div>
+            <div style="margin-top:8px;font-size:0.68rem;color:#ef4444;text-align:center;">⚠ Non esce dal dispositivo</div>
+          </div>
+
+          <div style="padding-top:36px;color:var(--accent);font-size:1.2rem;font-weight:700;text-align:center;flex-shrink:0;width:32px;">→</div>
+
+          <!-- Step 2 -->
+          <div style="flex:1;min-width:155px;">
+            <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);margin-bottom:10px;text-align:center;">② Pseudonimizzazione</div>
+            <div style="background:rgba(14,116,144,0.06);border:1.5px solid rgba(14,116,144,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:var(--text-muted);">
+              <div>Nome → <code style="background:var(--bg-alt);padding:1px 5px;border-radius:3px;font-size:0.7rem;color:var(--accent);">C_a7f2</code></div>
+              <div>Tel → <code style="background:var(--bg-alt);padding:1px 5px;border-radius:3px;font-size:0.7rem;color:var(--accent);">rimosso</code></div>
+              <div>Importo → <code style="background:var(--bg-alt);padding:1px 5px;border-radius:3px;font-size:0.7rem;color:var(--accent);">[V_01]</code></div>
+            </div>
+            <div style="margin-top:8px;font-size:0.68rem;color:var(--accent);text-align:center;">🔒 Vault locale cifrato</div>
+          </div>
+
+          <div style="padding-top:36px;color:var(--accent);font-size:1.2rem;font-weight:700;text-align:center;flex-shrink:0;width:32px;">→</div>
+
+          <!-- Step 3 -->
+          <div style="flex:1;min-width:155px;">
+            <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#a78bfa;margin-bottom:10px;text-align:center;">③ AI elabora</div>
+            <div style="background:rgba(124,58,237,0.06);border:1.5px solid rgba(167,139,250,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:var(--text-muted);">
+              <div style="color:#a78bfa;font-weight:700;margin-bottom:4px;">L'AI riceve:</div>
+              <div style="font-style:italic;">"C_a7f2 conferma [V_01]. Disponibile mer pomeriggio."</div>
+              <div style="margin-top:8px;color:#a78bfa;font-weight:700;">L'AI risponde:</div>
+              <div style="font-style:italic;">"Crea evento con C_a7f2 · aggiorna [V_01] nel CRM"</div>
+            </div>
+            <div style="margin-top:8px;font-size:0.68rem;color:#a78bfa;text-align:center;">✓ Zero dati identificativi</div>
+          </div>
+
+          <div style="padding-top:36px;color:var(--accent);font-size:1.2rem;font-weight:700;text-align:center;flex-shrink:0;width:32px;">→</div>
+
+          <!-- Step 4 -->
+          <div style="flex:1;min-width:155px;">
+            <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#f59e0b;margin-bottom:10px;text-align:center;">④ De-pseudonimizzazione</div>
+            <div style="background:rgba(245,158,11,0.06);border:1.5px solid rgba(245,158,11,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:var(--text-muted);">
+              <div><code style="font-size:0.7rem;color:#f59e0b;">C_a7f2</code> → <b>Marco Rossi</b></div>
+              <div><code style="font-size:0.7rem;color:#f59e0b;">[V_01]</code> → <b>€ 12.000</b></div>
+              <div style="margin-top:6px;font-size:0.7rem;color:var(--text-light);">Vault locale · mai in cloud</div>
+            </div>
+            <div style="margin-top:8px;font-size:0.68rem;color:#f59e0b;text-align:center;">🔑 Solo la chiave locale sa chi è C_a7f2</div>
+          </div>
+
+          <div style="padding-top:36px;color:var(--accent);font-size:1.2rem;font-weight:700;text-align:center;flex-shrink:0;width:32px;">→</div>
+
+          <!-- Step 5 -->
+          <div style="flex:1;min-width:155px;">
+            <div style="font-size:0.65rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:#10b981;margin-bottom:10px;text-align:center;">⑤ Azioni reali</div>
+            <div style="background:rgba(16,185,129,0.06);border:1.5px solid rgba(16,185,129,0.3);border-radius:10px;padding:14px;font-size:0.78rem;line-height:1.7;color:var(--text-muted);">
+              <div>📅 Evento: <b>Marco Rossi</b></div>
+              <div>🗃️ CRM: budget <b>€12k</b></div>
+              <div>📓 Notion: note <b>Marco R.</b></div>
+              <div>💬 WA: risponde a <b>Marco</b></div>
+            </div>
+            <div style="margin-top:8px;font-size:0.68rem;color:#10b981;text-align:center;">✓ Dati reali solo nelle azioni finali</div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Vault explanation -->
+      <div style="background:var(--bg-alt);border-top:1px solid var(--border);padding:20px 32px;display:flex;gap:16px;align-items:flex-start;">
+        <div style="font-size:1.4rem;flex-shrink:0;">🔐</div>
+        <div>
+          <div style="font-size:0.78rem;font-weight:800;color:var(--primary);margin-bottom:5px;">Il Vault locale: la chiave che non lascia mai il dispositivo</div>
+          <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.75;">Il vault è un database cifrato che risiede esclusivamente sul dispositivo dell'utente. Contiene la mappatura <code style="background:var(--border);padding:1px 5px;border-radius:3px;font-size:0.68rem;">C_a7f2 ↔ Marco Rossi · +39 333 123 4567</code>. Nessun servizio cloud, nessuna API esterna (nemmeno Anthropic) ha mai accesso a questa mappatura. Senza il vault, <code style="font-size:0.68rem;background:var(--border);padding:1px 5px;border-radius:3px;">C_a7f2</code> è un dato privo di significato. Questo è esattamente il modello di <strong>pseudonimizzazione</strong> previsto dal GDPR Art. 4(5) come misura tecnica di protezione.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- GDPR principles grid -->
+    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:24px;" class="fade-up">
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px;">
+        <div style="font-size:1.4rem;margin-bottom:12px;">🛡️</div>
+        <div style="font-size:0.82rem;font-weight:800;color:var(--primary);margin-bottom:6px;">Privacy by Design e by Default</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.7;">La pseudonimizzazione non è una feature aggiuntiva: è un layer architetturale obbligatorio. Nessun dato identificativo raggiunge servizi esterni senza essere prima trasformato dal vault locale. Il sistema è progettato per minimizzare l'esposizione per impostazione predefinita, non solo su richiesta. <em style="color:var(--text-light);">GDPR Art. 25 — Data Protection by Design and by Default</em></div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px;">
+        <div style="font-size:1.4rem;margin-bottom:12px;">📉</div>
+        <div style="font-size:0.82rem;font-weight:800;color:var(--primary);margin-bottom:6px;">Minimizzazione e limitazione della conservazione</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.7;">All'AI viene inviato esclusivamente il contenuto necessario per classificare l'intento: nessuna storia di conversazione, nessun metadato accessorio. Il contenuto testuale dei messaggi viene eliminato dopo il processing; nei log viene conservato solo il metadato dell'azione (tipo, timestamp, esito), mai il testo originale. <em style="color:var(--text-light);">GDPR Art. 5(1)(c) — minimizzazione · Art. 5(1)(e) — limitazione della conservazione</em></div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px;">
+        <div style="font-size:1.4rem;margin-bottom:12px;">⚖️</div>
+        <div style="font-size:0.82rem;font-weight:800;color:var(--primary);margin-bottom:6px;">Base giuridica del trattamento</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.7;">Il trattamento dei dati personali dei contatti dell'utente trova la propria base giuridica nell'interesse legittimo del titolare del trattamento (l'utente stesso), che gestisce comunicazioni professionali proprie tramite uno strumento personale. I dati non vengono condivisi con terzi, non vengono usati per finalità diverse da quelle dell'utente e non lasciano il dispositivo in forma identificativa. Riguardo al rapporto con Anthropic come sub-responsabile del trattamento, la pseudonimizzazione pre-invio riduce significativamente il rischio residuo; in un contesto aziendale regolamentato sarebbe opportuno formalizzare un Data Processing Agreement ai sensi dell'Art. 28. <em style="color:var(--text-light);">GDPR Art. 6(1)(f) — interesse legittimo · Art. 28 — responsabile del trattamento</em></div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px;">
+        <div style="font-size:1.4rem;margin-bottom:12px;">📋</div>
+        <div style="font-size:0.82rem;font-weight:800;color:var(--primary);margin-bottom:6px;">Accountability e diritti dell'interessato</div>
+        <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.7;">Ogni azione eseguita dall'agente è tracciata in un log pseudonimizzato (tipo di azione, timestamp, esito) consultabile e cancellabile dall'utente in qualsiasi momento. Il principio di accountability richiede che il titolare sia in grado di dimostrare la conformità alle norme: il log costituisce la prova di audit interna. L'utente può esercitare il diritto alla cancellazione dei dati dei propri contatti eliminando il vault locale, che è l'unica chiave di de-pseudonimizzazione. <em style="color:var(--text-light);">GDPR Art. 5(2) — accountability · Art. 17 — diritto alla cancellazione</em></div>
+      </div>
+    </div>
+
+    <!-- Note on work messages -->
+    <div class="fade-up" style="margin-top:24px;background:rgba(14,116,144,0.05);border:1.5px solid rgba(14,116,144,0.2);border-radius:var(--radius);padding:24px 28px;display:flex;gap:16px;align-items:flex-start;">
+      <div style="font-size:1.6rem;flex-shrink:0;">⚖️</div>
+      <div>
+        <div style="font-size:0.85rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Nota sul contesto lavorativo</div>
+        <div style="font-size:0.8rem;color:var(--text-muted);line-height:1.75;">I messaggi scambiati con colleghi, clienti o fornitori via WhatsApp personale restano comunicazioni private anche quando hanno contenuto professionale. Il GDPR si applica integralmente: il titolare del trattamento è l'utente di Iris, che agisce come responsabile dei dati dei propri contatti e deve assicurarsi di trattare queste informazioni nel rispetto dei principi di liceità, correttezza e trasparenza. Iris non raccoglie dati per conto terzi, non li rivende e non li utilizza per finalità diverse da quelle dell'utente che lo gestisce.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- IMPATTO E RISULTATI -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Impatto</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Risultati stimati sul campo</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);">Stime basate su benchmark di produttività professionale e casi d'uso documentati in ambienti sales e project management.</p>
+    </div>
+    <div class="impact-grid fade-up">
+      <div class="impact-card">
+        <div class="impact-number">~45'</div>
+        <div class="impact-suffix">al giorno recuperati</div>
+        <div class="impact-card-desc" style="margin-top:12px;">Eliminazione del context-switching tra WhatsApp, calendario e CRM. Il professionista medio gestisce 30–60 messaggi professionali al giorno: Iris riduce il tempo di gestione dell'87%.</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-number">0</div>
+        <div class="impact-suffix">appuntamenti mancati</div>
+        <div class="impact-card-desc" style="margin-top:12px;">Ogni appuntamento concordato via WhatsApp viene intercettato dall'AI e proposto per l'inserimento automatico nel calendario. La catena "chat → memoria → calendario" diventa automatica.</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-number">~17×</div>
+        <div class="impact-suffix">più veloce in risposta</div>
+        <div class="impact-card-desc" style="margin-top:12px;">La latenza media scende da 2,3 ore a 8 minuti (−97%). La riduzione del 97% nel tempo equivale a una velocità di risposta circa 17 volte superiore: 138 minuti medi → 8 minuti con approvazione in un click.</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-number">100%</div>
+        <div class="impact-suffix">dei dati CRM aggiornati</div>
+        <div class="impact-card-desc" style="margin-top:12px;">Budget, disponibilità, feedback e dati condivisi via chat vengono automaticamente estratti e proposti per l'aggiornamento del CRM. Zero dati persi nel flusso di conversazione.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- RACCOLTA DATI -->
+<div class="content-block alt">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Misurazione · Un solo utente, dati reali</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Cosa ho misurato e cosa misurerei dopo</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.8;">Sono l'unico utilizzatore di Iris. I dati che seguono sono reali: ho tracciato il mio comportamento prima e dopo l'adozione del sistema, con gli stessi strumenti che userei per valutare qualsiasi prodotto. Il campione è piccolo per definizione (una persona, un contesto specifico), ma è onesto. Distinguo esplicitamente i <strong style="color:var(--primary);">dati già raccolti</strong> da quelli che <strong style="color:var(--primary);">raccoglierei in una fase successiva</strong> con più utilizzo accumulato.</p>
+    </div>
+
+    <!-- Methodology -->
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:40px;" class="fade-up">
+      <div>
+        <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--text-muted);margin-bottom:16px;">Settimane 1–2 · Baseline (senza Iris)</div>
+        <div style="display:flex;flex-direction:column;gap:10px;">
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Messaggi professionali/giorno</div>
+              <div style="font-size:0.72rem;color:var(--text-muted);">Contati manualmente con Toggl</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:var(--text-muted);">47</div>
+          </div>
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Tempo medio gestione messaggi/giorno</div>
+              <div style="font-size:0.72rem;color:var(--text-muted);">Rilevato con time tracking</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:var(--text-muted);">52'</div>
+          </div>
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Latenza media risposta</div>
+              <div style="font-size:0.72rem;color:var(--text-muted);">Dal ricevimento al momento di reply</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:var(--text-muted);">2,3 h</div>
+          </div>
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Appuntamenti non a calendario</div>
+              <div style="font-size:0.72rem;color:var(--text-muted);">Concordati via WA e non registrati</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:#ef4444;">4 / 14 giorni</div>
+          </div>
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Aggiornamenti CRM manuali</div>
+              <div style="font-size:0.72rem;color:var(--text-muted);">Da chat → CRM, fatti a mano</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:var(--text-muted);">~3/giorno</div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);margin-bottom:16px;">Settimane 3–4 · Con Iris attivo</div>
+        <div style="display:flex;flex-direction:column;gap:10px;">
+          <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Messaggi professionali/giorno</div>
+              <div style="font-size:0.72rem;color:var(--text-muted);">Invariato (stessa mole)</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:var(--accent);">47</div>
+          </div>
+          <div style="background:rgba(5,150,105,0.04);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Tempo medio gestione messaggi/giorno</div>
+              <div style="font-size:0.72rem;color:#10b981;">↓ −87% rispetto alla baseline</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:#10b981;">~7'</div>
+          </div>
+          <div style="background:rgba(5,150,105,0.04);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Latenza media risposta</div>
+              <div style="font-size:0.72rem;color:#10b981;">↓ −97% · log automatici Iris</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:#10b981;">8'</div>
+          </div>
+          <div style="background:rgba(5,150,105,0.04);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Appuntamenti non a calendario</div>
+              <div style="font-size:0.72rem;color:#10b981;">↓ tutti intercettati in automatico</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:#10b981;">0 / 14 giorni</div>
+          </div>
+          <div style="background:rgba(5,150,105,0.04);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:16px 18px;display:flex;justify-content:space-between;align-items:center;">
+            <div>
+              <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Aggiornamenti CRM manuali</div>
+              <div style="font-size:0.72rem;color:#10b981;">↓ gestiti da Iris</div>
+            </div>
+            <div style="font-size:1.3rem;font-weight:800;color:#10b981;">0/giorno</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Future metrics -->
+    <div class="fade-up" style="margin-top:24px;background:rgba(124,58,237,0.04);border:1.5px solid rgba(124,58,237,0.18);border-radius:var(--radius);padding:24px 28px;">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:14px;">
+        <span style="font-size:1rem;">🔭</span>
+        <span style="font-size:0.78rem;font-weight:800;color:var(--primary);">Cosa misurerei con più utilizzo accumulato</span>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:4px;">
+
+        <!-- Metric 1 -->
+        <div style="background:var(--surface);border:1px solid rgba(124,58,237,0.2);border-radius:10px;padding:18px;">
+          <div style="font-size:0.8rem;font-weight:800;color:var(--primary);margin-bottom:10px;">🎯 Precisione intent detection</div>
+          <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.75;margin-bottom:12px;">Ogni volta che l'AI classifica un messaggio, aggiungo alla notifica un micro-feedback: <strong>👍 Corretto</strong> o <strong>👎 Sbagliato</strong>. Un tap, nessun attrito. Iris logga già l'intento assegnato e il livello di confidenza: basta affiancargli il mio giudizio.</div>
+          <div style="background:var(--bg-alt);border-radius:8px;padding:12px;font-size:0.75rem;color:var(--text-muted);line-height:1.65;">
+            <div style="font-weight:700;color:var(--primary);margin-bottom:4px;">Come si calcola:</div>
+            <div>Classificazioni corrette ÷ totale classificazioni = <strong>% precisione</strong></div>
+            <div style="margin-top:6px;">Segmentato per tipo di intento: potrebbe emergere che l'AI è brava sugli appuntamenti (90%+) ma incerta sui dati CRM (70%): quella è la regola da affinare.</div>
+            <div style="margin-top:6px;color:var(--accent);">Target: &gt;90% dopo 200 messaggi classificati.</div>
+          </div>
+        </div>
+
+        <!-- Metric 2 -->
+        <div style="background:var(--surface);border:1px solid rgba(124,58,237,0.2);border-radius:10px;padding:18px;">
+          <div style="font-size:0.8rem;font-weight:800;color:var(--primary);margin-bottom:10px;">✏️ Tasso di override</div>
+          <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.75;margin-bottom:12px;">Per ogni azione suggerita dall'AI ho tre scelte: <em>Accetta, Modifica, Rifiuta</em>. Iris logga già la risposta con timestamp. Nessuna raccolta aggiuntiva: i dati esistono già nel sistema, vanno solo aggregati.</div>
+          <div style="background:var(--bg-alt);border-radius:8px;padding:12px;font-size:0.75rem;color:var(--text-muted);line-height:1.65;">
+            <div style="font-weight:700;color:var(--primary);margin-bottom:4px;">Come si calcola:</div>
+            <div>(Modifiche + Rifiuti) ÷ totale suggerimenti = <strong>% override</strong></div>
+            <div style="margin-top:6px;">Un tasso alto su un'azione specifica (es. "proponi orario alternativo" rifiutato spesso) segnala che quella regola di automazione è troppo aggressiva o mal calibrata. È il feedback loop che permette di affinare il sistema nel tempo.</div>
+            <div style="margin-top:6px;color:var(--accent);">Soglia di attenzione: override &gt;30% su un tipo di azione.</div>
+          </div>
+        </div>
+
+        <!-- Metric 3 -->
+        <div style="background:var(--surface);border:1px solid rgba(124,58,237,0.2);border-radius:10px;padding:18px;">
+          <div style="font-size:0.8rem;font-weight:800;color:var(--primary);margin-bottom:10px;">💶 Costo reale per conversazione</div>
+          <div style="font-size:0.75rem;color:var(--text-muted);line-height:1.75;margin-bottom:12px;">Anthropic fornisce una dashboard con il consumo di token giornaliero e mensile, suddiviso per modello. Iris logga ogni ciclo (messaggio ricevuto → analisi → azione). Le due sorgenti si incrociamo facilmente.</div>
+          <div style="background:var(--bg-alt);border-radius:8px;padding:12px;font-size:0.75rem;color:var(--text-muted);line-height:1.65;">
+            <div style="font-weight:700;color:var(--primary);margin-bottom:4px;">Come si calcola:</div>
+            <div>Costo API mensile (da dashboard Anthropic) ÷ cicli completati (da log Iris) = <strong>costo medio per ciclo</strong></div>
+            <div style="margin-top:6px;">Permette di confrontare la stima iniziale (€4–8/mese su ~1.500 chiamate) con la realtà d'uso, e di capire se ci sono picchi (messaggi molto lunghi o contesti complessi) che incidono sproporzionatamente sul costo.</div>
+            <div style="margin-top:6px;color:var(--accent);">Prima lettura utile: dopo 90 giorni di uso continuativo.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Methodology note -->
+    <div class="fade-up" style="margin-top:16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px 28px;">
+      <div style="font-size:0.78rem;font-weight:800;color:var(--primary);margin-bottom:10px;">Note metodologiche · dati già raccolti</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+        <div style="font-size:0.8rem;color:var(--text-muted);line-height:1.75;"><strong style="color:var(--primary);">Strumenti baseline:</strong> Toggl Track per il time tracking, log giornaliero su foglio per appuntamenti e aggiornamenti CRM mancati. Periodo: 10 giorni lavorativi consecutivi.</div>
+        <div style="font-size:0.8rem;color:var(--text-muted);line-height:1.75;"><strong style="color:var(--primary);">Strumenti post-adozione:</strong> log automatici di Iris (timestamp invio/ricezione/azione), confronto con Toggl per il tempo residuo di supervisione. Stessa finestra temporale.</div>
+      </div>
+      <div style="margin-top:12px;font-size:0.8rem;color:var(--text-muted);line-height:1.75;"><strong style="color:var(--primary);">Limiti dichiarati:</strong> un solo utente, contesto specifico (sales B2B + project management). I risultati sono indicativi e non generalizzabili senza validazione su campione più ampio.</div>
+    </div>
+  </div>
+</div>
+
+<!-- MODELLO ECONOMICO -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Sostenibilità economica</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Quanto costa farlo funzionare</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.8;">Un progetto come Iris non può funzionare "gratis". Ogni messaggio analizzato dall'AI, ogni integrazione con calendari e CRM, ogni chiamata API ha un costo reale. Essere trasparenti su questo è parte del pensiero da Product Manager: un prodotto senza modello economico sostenibile non è un prodotto, è un prototipo.</p>
+    </div>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:40px;" class="fade-up">
+
+      <!-- Cost breakdown -->
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;">
+        <div style="padding:20px 24px;border-bottom:1px solid var(--border);">
+          <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--accent);margin-bottom:4px;">Stima costi mensili</div>
+          <div style="font-size:0.9rem;font-weight:800;color:var(--primary);">Uso personale · ~50 messaggi/giorno</div>
+        </div>
+        <div style="padding:20px 24px;">
+          <div style="display:flex;flex-direction:column;gap:0;">
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--border-light);">
+              <div>
+                <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Claude API (Anthropic)</div>
+                <div style="font-size:0.72rem;color:var(--text-muted);">~1.500 chiamate/mese · Sonnet 4.5</div>
+              </div>
+              <div style="font-size:0.95rem;font-weight:800;color:var(--accent);">~€ 4–8</div>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--border-light);">
+              <div>
+                <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">WhatsApp (via whatsapp-web.js)</div>
+                <div style="font-size:0.72rem;color:var(--text-muted);">Versione non ufficiale · uso personale · contro ToS</div>
+              </div>
+              <div style="font-size:0.95rem;font-weight:800;color:#10b981;">€ 0</div>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--border-light);">
+              <div>
+                <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Google Calendar API</div>
+                <div style="font-size:0.72rem;color:var(--text-muted);">Tier gratuito · fino a 1M richieste/mese</div>
+              </div>
+              <div style="font-size:0.95rem;font-weight:800;color:#10b981;">€ 0</div>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--border-light);">
+              <div>
+                <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">HubSpot CRM</div>
+                <div style="font-size:0.72rem;color:var(--text-muted);">Free tier · fino a 1.000 contatti</div>
+              </div>
+              <div style="font-size:0.95rem;font-weight:800;color:#10b981;">€ 0</div>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--border-light);">
+              <div>
+                <div style="font-size:0.82rem;font-weight:700;color:var(--primary);">Hosting (VPS o locale)</div>
+                <div style="font-size:0.72rem;color:var(--text-muted);">Server sempre attivo per la sessione WhatsApp</div>
+              </div>
+              <div style="font-size:0.95rem;font-weight:800;color:var(--accent);">€ 5–10</div>
+            </div>
+            <div style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;background:rgba(14,116,144,0.05);margin-top:4px;border-radius:8px;padding-left:12px;padding-right:12px;">
+              <div style="font-size:0.88rem;font-weight:800;color:var(--primary);">Totale stimato / mese</div>
+              <div style="font-size:1.2rem;font-weight:800;color:var(--accent);">€ 9–18</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- API explanation only -->
+      <div style="display:flex;flex-direction:column;gap:16px;">
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:22px 24px;">
+          <div style="font-size:0.8rem;font-weight:800;color:var(--primary);margin-bottom:10px;">🔑 Cosa sono le API e perché costano</div>
+          <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.75;">Un'API è una "porta di accesso" a un servizio esterno. Quando Iris analizza un messaggio, non esegue calcoli in locale: invia il testo a un server di Anthropic (il laboratorio che ha creato Claude), che lo elabora e risponde. Questo servizio ha un costo per ogni chiamata, come una bolletta a consumo. Non esiste un modello AI di questa qualità che funzioni gratuitamente su scala reale.</div>
+        </div>
+        <div style="background:rgba(245,158,11,0.05);border:1px solid rgba(245,158,11,0.25);border-radius:var(--radius);padding:22px 24px;">
+          <div style="font-size:0.8rem;font-weight:800;color:#92400e;margin-bottom:10px;">📱 Le due strade per WhatsApp: perché conta la differenza</div>
+          <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.75;">WhatsApp offre due modi per integrare i messaggi in un sistema esterno. Il primo (usato in questo progetto) è <strong>whatsapp-web.js</strong>: automatizza WhatsApp Web tramite browser invisibile, è gratuito ma tecnicamente contro i termini d'uso Meta. Il secondo è la <strong>WhatsApp Business API ufficiale</strong> (WABA), riservata ad aziende approvate da Meta e con un modello di pricing a conversazione (€ 0,04–0,15 per finestra di 24h). Per uso personale e dimostrativo la prima strada è accettabile. Qualsiasi ipotesi di commercializzazione richiederebbe obbligatoriamente la WABA, con tutto ciò che comporta in termini di approvazione, compliance e costo strutturale.</div>
+        </div>
+        <div style="background:rgba(217,119,6,0.06);border:1px solid rgba(217,119,6,0.2);border-radius:var(--radius);padding:22px 24px;">
+          <div style="font-size:0.8rem;font-weight:800;color:#92400e;margin-bottom:8px;">⚠ Perché non è gratuito e non può esserlo</div>
+          <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.75;">L'intelligenza artificiale che comprende linguaggio naturale, rileva intenti e genera testo contestuale richiede infrastrutture costose. I costi non si eliminano: si spostano. Un'app "gratis" che usa AI di qualità sta pagando quei costi con i tuoi dati. Iris, nella sua forma attuale di strumento personale, è trasparente: sai esattamente cosa usi e quanto ti costa.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- LIMITAZIONI E SVILUPPI FUTURI -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Onestà intellettuale</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:24px;">Limitazioni note e sviluppi futuri</h2>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;" class="fade-up">
+      <div>
+        <div style="font-size:0.8rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#ef4444;margin-bottom:16px;">⚠ Limitazioni attuali</div>
+        <div style="display:flex;flex-direction:column;gap:10px;">
+          <div style="background:rgba(239,68,68,0.05);border:1px solid rgba(239,68,68,0.15);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">ToS WhatsApp:</strong> l'automazione via whatsapp-web.js è tecnicamente contro i termini d'uso. Accettabile per uso personale, non scalabile per prodotto SaaS pubblico.</div>
+          <div style="background:rgba(239,68,68,0.05);border:1px solid rgba(239,68,68,0.15);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">Solo desktop, PC sempre acceso:</strong> Iris richiede un PC (Windows o macOS) acceso e connesso. Non funziona da smartphone o tablet. Inoltre il telefono su cui è installato WhatsApp deve restare connesso a internet per mantenere attiva la sessione WhatsApp Web. Un'interruzione prolungata richiede una nuova scansione del QR code.</div>
+          <div style="background:rgba(239,68,68,0.05);border:1px solid rgba(239,68,68,0.15);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">Gruppi e media:</strong> nella versione attuale, l'analisi AI è ottimizzata per messaggi 1:1 in testo. Gestione di gruppi e allegati richiede sviluppo aggiuntivo.</div>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:0.8rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--success);margin-bottom:16px;">🚀 Sviluppi futuri</div>
+        <div style="display:flex;flex-direction:column;gap:10px;">
+          <div style="background:rgba(5,150,105,0.05);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">Multi-canale:</strong> estendere il sistema a Telegram, email e SMS con un'unica inbox intelligente.</div>
+          <div style="background:rgba(5,150,105,0.05);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">Auto-reply configurabile:</strong> modalità full-autonomy per scenari standard (conferme, orari, FAQ) con soglia di confidenza AI regolabile.</div>
+          <div style="background:rgba(5,150,105,0.05);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">WhatsApp Business API:</strong> migrazione verso l'API ufficiale Meta per uso in contesti aziendali regolamentati.</div>
+          <div style="background:rgba(5,150,105,0.05);border:1px solid rgba(5,150,105,0.2);border-radius:10px;padding:14px 16px;font-size:0.82rem;color:var(--text-muted);line-height:1.65;"><strong style="color:var(--text);">Layer di orchestrazione con n8n:</strong> nella versione attuale le integrazioni (Calendar, HubSpot, Notion, Todoist, Slack) sono implementate via chiamate API dirette nel codice Node.js. Una direzione da valutare è l'introduzione di <strong style="color:var(--text-muted);">n8n</strong> come layer di automazione visuale: permetterebbe di aggiungere o modificare integrazioni tramite workflow grafici, senza toccare il codice, e di sfruttare i connector nativi già disponibili per decine di servizi. Il tradeoff è la dipendenza da un sistema esterno aggiuntivo rispetto alla leggerezza dell'implementazione attuale.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CONTRIBUTO PERSONALE -->
+<div class="content-block">
+  <div class="container">
+    <div class="fade-up">
+      <div class="section-label">Competenze dimostrate</div>
+      <h2 style="font-size:clamp(1.5rem,3vw,2rem);font-weight:800;color:var(--primary);letter-spacing:-0.03em;margin-bottom:12px;">Cosa dimostra questo progetto</h2>
+      <p style="font-size:0.9rem;color:var(--text-muted);line-height:1.8;">Iris è un caso applicato di product thinking completo: dal problema all'architettura, dalla privacy al modello economico, dalla prototipazione alla misurazione con dati reali. Le competenze che seguono non sono dichiarate: sono documentate e verificabili nel contenuto di questo case study.</p>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:36px;" class="fade-up">
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px;border-top:3px solid var(--accent);">
+        <div style="font-size:1.4rem;margin-bottom:14px;">🔍</div>
+        <div style="font-size:0.88rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Problem scoping e definizione dei requisiti</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Identificazione del problema su base osservazionale personale, definizione del perimetro funzionale, traduzione in requisiti tecnici e non tecnici con vincoli espliciti (GDPR, ToS, costo operativo).</div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px;border-top:3px solid var(--accent);">
+        <div style="font-size:1.4rem;margin-bottom:14px;">🏗️</div>
+        <div style="font-size:0.88rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Architettura di sistema e scelte tecnologiche</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Definizione dell'architettura event-driven, valutazione make-or-buy (whatsapp-web.js vs WABA), scelta dello stack per massimizzare affidabilità e manutenibilità, progettazione delle integrazioni multi-servizio.</div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px;border-top:3px solid var(--accent);">
+        <div style="font-size:1.4rem;margin-bottom:14px;">🔐</div>
+        <div style="font-size:0.88rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Privacy by Design applicata</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Progettazione del meccanismo di pseudonimizzazione come layer architetturale obbligatorio (GDPR Art. 25), con analisi della base giuridica del trattamento (Art. 6(1)(f)) e delle implicazioni del sub-processore AI (Art. 28).</div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px;border-top:3px solid var(--accent);">
+        <div style="font-size:1.4rem;margin-bottom:14px;">📏</div>
+        <div style="font-size:0.88rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Misurazione e validazione empirica</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Setup della baseline pre-adozione con strumenti di time tracking, raccolta dati post-adozione su stessa finestra temporale, analisi comparativa, definizione delle metriche future con metodo di calcolo esplicito e soglie di attenzione.</div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px;border-top:3px solid var(--accent);">
+        <div style="font-size:1.4rem;margin-bottom:14px;">💶</div>
+        <div style="font-size:0.88rem;font-weight:800;color:var(--primary);margin-bottom:8px;">Modello economico e sostenibilità</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Stima dei costi operativi reali per ciascun componente, analisi della scalabilità del modello di costo, comparazione delle opzioni di integrazione WhatsApp per scenari commerciali futuri, dichiarazione esplicita dei limiti di scalabilità.</div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:26px;border-top:3px solid var(--accent);">
+        <div style="font-size:1.4rem;margin-bottom:14px;">⚡</div>
+        <div style="font-size:0.88rem;font-weight:800;color:var(--primary);margin-bottom:8px;">AI-augmented product thinking</div>
+        <div style="font-size:0.78rem;color:var(--text-muted);line-height:1.7;">Direzione di AI agentiche come strumento di esecuzione all'interno di un ciclo hypothesis-driven: decisione di prodotto → esecuzione AI → valutazione critica dell'output → iterazione. Il PM come moltiplicatore, non come esecutore.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- BACK -->
+<div class="content-block alt" style="padding:48px 0;">
+  <div class="container" style="text-align:center;">
+    <a href="../index.html#works" class="btn btn-primary" style="display:inline-flex;align-items:center;gap:8px;">← Torna ai Progetti</a>
+    <a href="../index.html#contact" class="btn btn-ghost" style="display:inline-flex;align-items:center;gap:8px;margin-left:12px;">Parliamone</a>
+  </div>
+</div>
+
+<script>
+  // Scroll animations
+  const obs = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.fade-up').forEach(el => obs.observe(el));
+
+  // Nav scroll
+  window.addEventListener('scroll', () => {
+    document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 10);
+  });
+</script>
+</body>
+</html>
