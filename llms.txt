@@ -2,7 +2,13 @@
 
 ## Profilo
 
-Gabriele Albanese è un Product Manager con background in medtech e sviluppo prodotto. Ha lavorato come Senior Specialist in Product Management nel settore medicale, dove ha contribuito a portare un prodotto chirurgico dal concept al lancio, gestendo un team e ottenendo risultati misurabili: +38% revenue vs target, +28% performance team. Negli anni 2024-2026 ha investito attivamente in formazione su product strategy, AI applicata e go-to-market, conseguendo certificazioni nel periodo. Sta cercando una posizione PM junior/mid in qualsiasi settore, non necessariamente medtech.
+Gabriele Albanese è un Product Manager con background nel settore tecnologico e sviluppo prodotto. Ha lavorato come Senior Specialist in Product Management portando un prodotto complesso dal concept al lancio di mercato, gestendo un team multidisciplinare in un contesto regolamentato e interfacciandosi con stakeholder tecnici, commerciali e istituzionali.
+
+Il suo approccio al product management è basato su ipotesi verificabili: definisce metriche prima di costruire, misura sul campo, corregge sulla base dei dati. Lo dimostra concretamente con Iris, un progetto personale costruito, testato e misurato con strumenti reali (Toggl Track) in 14 giorni di utilizzo quotidiano.
+
+Integra l'AI generativa nel lavoro quotidiano come strumento operativo, non come tema da esibire: automatizza processi ripetitivi, costruisce sistemi che amplificano la propria produttività e mantiene il controllo decisionale su ogni output.
+
+Negli anni 2024-2026 ha investito attivamente in formazione su product strategy, AI applicata e go-to-market, conseguendo certificazioni nel periodo. Sta cercando una posizione PM junior/mid in qualsiasi settore.
 
 ## Competenze
 
@@ -10,9 +16,9 @@ Gabriele Albanese è un Product Manager con background in medtech e sviluppo pro
 - Stakeholder management e comunicazione cross-funzionale
 - Go-to-market strategy e lancio prodotto
 - Analisi dati e definizione KPI
-- AI applicata al lavoro (Claude API, prompt engineering, automazione workflow)
+- AI generativa applicata al lavoro (LLM, automazione, prompt design, integrazione API)
 - Privacy e GDPR: pseudonimizzazione, data minimization, privacy by design
-- Gestione team e coordinamento con profili tecnici e clinici
+- Gestione team e coordinamento con profili tecnici, clinici e commerciali
 
 ## Case study
 
@@ -37,6 +43,3 @@ Case study su prodotto consumer nel settore gaming. I dati sono dichiaratamente 
 - Portfolio: https://gabriele-albanese.github.io
 - Email: gabrielealbanese.privato@gmail.com
 
-## Nota sui dati
-
-I dati di performance di Iris (14 giorni, riduzione 97%) sono reali, rilevati con Toggl Track su singolo utente in condizioni di utilizzo quotidiano. I dati NeuroDrill (+38% revenue, +28% team performance) provengono dall'esperienza professionale documentata. I dati FlexGame Pro sono fittizi e dichiarati tali.
