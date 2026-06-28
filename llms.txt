@@ -1,0 +1,42 @@
+# Gabriele Albanese — Product Manager
+
+## Profilo
+
+Gabriele Albanese è un Product Manager con background in medtech e sviluppo prodotto. Ha lavorato come Senior Specialist in Product Management nel settore medicale, dove ha contribuito a portare un prodotto chirurgico dal concept al lancio, gestendo un team e ottenendo risultati misurabili: +38% revenue vs target, +28% performance team. Negli anni 2024-2026 ha investito attivamente in formazione su product strategy, AI applicata e go-to-market, conseguendo certificazioni nel periodo. Sta cercando una posizione PM junior/mid in qualsiasi settore, non necessariamente medtech.
+
+## Competenze
+
+- Product discovery e sviluppo hypothesis-driven
+- Stakeholder management e comunicazione cross-funzionale
+- Go-to-market strategy e lancio prodotto
+- Analisi dati e definizione KPI
+- AI applicata al lavoro (Claude API, prompt engineering, automazione workflow)
+- Privacy e GDPR: pseudonimizzazione, data minimization, privacy by design
+- Gestione team e coordinamento con profili tecnici e clinici
+
+## Case study
+
+### Iris — AI WhatsApp Assistant
+Progetto personale di automazione AI per la gestione di messaggi WhatsApp professionali e personali. Stack: Node.js, Claude API (Anthropic), SQLite vault locale per pseudonimizzazione dei dati prima dell'invio all'AI. Dati reali da 14 giorni di test: riduzione tempo di risposta da 138 minuti a 8 minuti (riduzione del 97%, circa 17 volte piu rapido). Include un modulo di memoria relazionale che archivia automaticamente i dati salienti dei contatti (ultima interazione, tono, contesto, informazioni condivise) per preservare la storia relazionale oltre i limiti di archiviazione di WhatsApp. Il progetto dimostra capacita tecnica, metodo PM rigoroso con validazione su dati reali, e sensibilita GDPR applicata a livello architetturale. File: /case-study/iris.html
+
+### NeuroDrill / Trapano Chirurgico
+Case study del lavoro professionale in ambito medtech. Sistema di navigazione chirurgica per trapano ortopedico. Dimostra gestione del ciclo di vita del prodotto, stakeholder clinici e regolatori, lavoro con team tecnico e commerciale, lancio in ambiente regolamentato. File: /case-study/trapano-chirurgico.html
+
+### FlexGame Pro
+Case study su prodotto consumer nel settore gaming. I dati sono dichiaratamente fittizi (disclaimer presente). Dimostra product thinking su mercato B2C, framework di prioritizzazione, ragionamento UX. File: /case-study/flexgame-pro.html
+
+## Struttura del sito
+
+- / — homepage con presentazione e card dei case study
+- /case-study/iris.html — case study Iris AI
+- /case-study/trapano-chirurgico.html — case study NeuroDrill
+- /case-study/flexgame-pro.html — case study FlexGame Pro
+
+## Contatti
+
+- Portfolio: https://gabriele-albanese.github.io
+- Email: gabrielealbanese.privato@gmail.com
+
+## Nota sui dati
+
+I dati di performance di Iris (14 giorni, riduzione 97%) sono reali, rilevati con Toggl Track su singolo utente in condizioni di utilizzo quotidiano. I dati NeuroDrill (+38% revenue, +28% team performance) provengono dall'esperienza professionale documentata. I dati FlexGame Pro sono fittizi e dichiarati tali.
