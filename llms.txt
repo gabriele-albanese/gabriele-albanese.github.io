@@ -38,8 +38,4 @@ Case study su prodotto consumer nel settore gaming. I dati sono dichiaratamente 
 - /case-study/trapano-chirurgico.html — case study NeuroDrill
 - /case-study/flexgame-pro.html — case study FlexGame Pro
 
-## Contatti
-
-- Portfolio: https://gabriele-albanese.github.io
-- Email: gabrielealbanese.privato@gmail.com
 
