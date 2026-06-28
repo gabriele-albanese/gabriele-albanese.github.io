@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NeuroDrill Pro — Documento Concettuale del Prodotto</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 11pt;
+    color: #1a1a1a;
+    background: #fff;
+    padding: 40px 52px;
+    line-height: 1.55;
+  }
+
+  h1 { font-size: 17pt; font-weight: 700; margin-bottom: 6px; color: #0a0a0a; line-height: 1.3; }
+
+  .doc-meta { font-size: 9pt; color: #666; margin-bottom: 10px; }
+  .doc-disclaimer {
+    font-size: 9pt; color: #888; font-style: italic;
+    margin-bottom: 32px; padding-bottom: 16px; border-bottom: 2px solid #0E7490;
+  }
+
+  .section-block { margin-bottom: 36px; padding-bottom: 30px; border-bottom: 1px solid #e8e8e8; }
+  .section-block:last-of-type { border-bottom: none; }
+
+  .section-h2 {
+    font-size: 14pt; font-weight: 700; color: #0a0a0a;
+    margin-bottom: 16px; padding-bottom: 6px; border-bottom: 2px solid #0E7490;
+    display: flex; align-items: baseline; gap: 10px;
+  }
+  .section-num {
+    font-size: 8pt; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #0E7490; background: #e8f5f9; padding: 2px 7px; border-radius: 3px;
+  }
+  .section-h3 {
+    font-size: 11.5pt; font-weight: 700; color: #0a0a0a;
+    margin: 20px 0 10px 0; padding-bottom: 4px; border-bottom: 1px solid #ddd;
+  }
+
+  .sub-label { font-size: 10.5pt; font-weight: 700; color: #0E7490; margin: 14px 0 8px 0; }
+
+  ul.doc-list { padding-left: 20px; margin-top: 8px; }
+  ul.doc-list li { margin-bottom: 7px; font-size: 10.5pt; }
+  ul.doc-list ul { padding-left: 16px; margin-top: 4px; }
+  ul.doc-list ul li { margin-bottom: 4px; font-size: 10pt; color: #333; }
+
+  /* FINANCIAL METRICS */
+  .finance-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; margin: 14px 0;
+  }
+  .finance-card {
+    background: #f0f8fb; border: 1.5px solid #0E7490; border-radius: 6px; padding: 14px 18px;
+  }
+  .finance-label { font-size: 8.5pt; color: #555; margin-bottom: 4px; }
+  .finance-value { font-size: 14pt; font-weight: 800; color: #0E7490; line-height: 1.2; }
+
+  /* PRICE TABLE */
+  table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 10.5pt; }
+  thead th {
+    background: #0E7490; color: #fff; font-weight: 700;
+    padding: 9px 14px; text-align: left; font-size: 10pt;
+  }
+  tbody tr:nth-child(even) { background: #f5fbfd; }
+  tbody td { padding: 9px 14px; vertical-align: top; border-bottom: 1px solid #e0e0e0; }
+  td.bold { font-weight: 700; }
+  td.mvp { color: #0E7490; font-weight: 700; }
+
+  /* FEATURES TABLE */
+  .feat-table thead th { background: #1a5f6e; }
+
+  /* DIFFERENTIATORS */
+  .diff-list { padding-left: 0; list-style: none; margin-top: 10px; }
+  .diff-list li {
+    padding: 10px 14px 10px 42px; margin-bottom: 8px;
+    background: #f5fbfd; border-left: 3px solid #0E7490; border-radius: 0 6px 6px 0;
+    font-size: 10.5pt; position: relative;
+  }
+  .diff-list li::before {
+    content: "★"; position: absolute; left: 14px; color: #0E7490; font-size: 11pt;
+  }
+
+  /* LAUNCH STEPS */
+  .launch-step {
+    display: flex; gap: 14px; margin-bottom: 14px; align-items: flex-start;
+  }
+  .launch-q {
+    flex-shrink: 0; background: #0E7490; color: #fff;
+    font-size: 9pt; font-weight: 800; padding: 3px 9px; border-radius: 4px;
+    min-width: 32px; text-align: center;
+  }
+  .launch-text { font-size: 10.5pt; }
+
+  /* COMPETITOR BOX */
+  .comp-box {
+    background: #f0f8fb; border: 1.5px solid #0E7490; border-radius: 6px;
+    padding: 14px 20px; margin-top: 12px;
+  }
+
+  .back-link {
+    display: inline-block; margin-bottom: 28px; font-size: 9.5pt;
+    color: #0E7490; text-decoration: none; border: 1px solid #0E7490;
+    padding: 4px 12px; border-radius: 4px;
+  }
+  .back-link:hover { background: #0E7490; color: #fff; }
+
+  @media (max-width: 640px) {
+    body { padding: 20px 16px; }
+    .finance-grid { grid-template-columns: 1fr; }
+    table { font-size: 9pt; }
+    thead th, tbody td { padding: 6px 9px; }
+  }
+</style>
+</head>
+<body>
+
+<a href="trapano-chirurgico.html" class="back-link">← Case Study NeuroDrill Pro</a>
+
+<h1>Documento Concettuale del Prodotto</h1>
+<div class="doc-meta">NeuroDrill Pro &mdash; Micromotori Neurochirurgici ad Alte Prestazioni &nbsp;|&nbsp; BEE &middot; VECTOR &middot; SIL</div>
+<div class="doc-disclaimer">Documento a scopo dimostrativo. Alcuni dati identificativi sono stati omessi per tutela della riservatezza aziendale.</div>
+
+<!-- 1. PROBLEMI DI MERCATO E OPPORTUNITA' -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">01</span> Problemi di Mercato e Opportunita'</div>
+  <p style="font-size:10.5pt; margin-bottom:12px;">L'attuale panorama dei trapani neurochirurgici presenta <strong>diverse limitazioni</strong> che influenzano la <strong>precisione, l'efficienza del team e il comfort chirurgico</strong>:</p>
+  <ul class="doc-list">
+    <li><strong>Instabilita' e vibrazioni</strong>, che compromettono l'accuratezza chirurgica.</li>
+    <li><strong>Livelli di rumore elevati</strong>, causando disagio, soprattutto nelle Awake Surgery.</li>
+    <li><strong>Surriscaldamento del motore e della fresa</strong>, portando a perdite di efficienza, maggiori rischi per il paziente e rallentamento dei processi chirurgici.
+      <ul>
+        <li>Aumento del tempo di anestesia del paziente.</li>
+        <li>Costi maggiori e problemi logistici dovuti all'uso prolungato della sala operatoria.</li>
+        <li>Sale operatorie occupate per piu' tempo.</li>
+      </ul>
+    </li>
+    <li><strong>Perdita di velocita' e potenza durante il contatto con l'osso</strong>, proprio quando servirebbe la massima potenza e velocita'.</li>
+    <li><strong>Mancanza di modularita'</strong>, con strumenti troppo o troppo poco potenti per tutte le tipologie di intervento.</li>
+    <li><strong>Miglioramento della risposta del motore</strong> alla pressione del pedale.</li>
+    <li><strong>Gestione complessa del personale di sala:</strong>
+      <ul>
+        <li>La quantita' di accessori e la complessita' di montaggio richiedono molte manovre dello strumentista.</li>
+        <li>Il personale "non lavato" deve gestire manualmente i parametri e collegare accessori alla centralina.</li>
+        <li>Gli accessori risultano spesso dispersivi e inutili, creando inefficienza operativa.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <div class="section-h3">1.1 Opportunita'</div>
+  <p style="font-size:10.5pt; margin-bottom:10px;">L'introduzione di una <strong>nuova generazione di micromotori neurochirurgici</strong> con:</p>
+  <ul class="doc-list">
+    <li><strong>Migliore stabilita'</strong> grazie a girostabilizzazione interna.</li>
+    <li><strong>Maggiore potenza e velocita'</strong>, con regolazioni precise.</li>
+    <li><strong>Riduzione del rumore</strong>, migliorando il comfort chirurgico.</li>
+    <li><strong>Sistema di raffreddamento innovativo</strong>, prevenendo il surriscaldamento.</li>
+    <li><strong>Gestione completamente autonoma da parte del chirurgo</strong>, senza necessita' di supporto esterno. Grazie alla Unita' di controllo che migliora anche il feedback del pedale (migliorando accelerazione del motore e sensibilita' del controllo via software).</li>
+  </ul>
+</div>
+
+<!-- 2. SEGMENTO DI MERCATO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">02</span> Segmento di Mercato Target</div>
+  <ul class="doc-list">
+    <li><strong>Neurochirurgia</strong> &ndash; Craniotomie, drilling profondo, chirurgia della base cranica.
+      <ul><li>Crescita prevista: <strong>5&ndash;7% annuo</strong>, con crescente domanda di precisione, riduzione dell'affaticamento chirurgico e modularita'.</li></ul>
+    </li>
+  </ul>
+
+  <div class="section-h3">2.2 Mercati Secondari</div>
+  <ul class="doc-list">
+    <li><strong>Otorinolaringoiatria (ORL)</strong> &ndash; Mastoidectomia, chirurgia dell'orecchio medio.</li>
+    <li><strong>Chirurgia Maxillo-Facciale</strong> &ndash; Osteotomie craniche e facciali.</li>
+  </ul>
+</div>
+
+<!-- 3. DATI FINANZIARI -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">03</span> Dati Finanziari Chiave &mdash; Europa</div>
+
+  <div class="finance-grid">
+    <div class="finance-card">
+      <div class="finance-label">Dimensione mercato neurochirurgia stimata</div>
+      <div class="finance-value">&euro;700 M</div>
+    </div>
+    <div class="finance-card">
+      <div class="finance-label">Ricavi previsti Anno 1</div>
+      <div class="finance-value">&euro;6&ndash;8 M</div>
+    </div>
+    <div class="finance-card">
+      <div class="finance-label">Break-even atteso</div>
+      <div class="finance-value">3&ndash;4 anni</div>
+    </div>
+    <div class="finance-card">
+      <div class="finance-label">ROI stimato post-adozione</div>
+      <div class="finance-value">20&ndash;25% / anno</div>
+    </div>
+  </div>
+
+  <div class="sub-label">Prezzi di vendita:</div>
+  <table>
+    <thead><tr><th>Prodotto</th><th>Prezzo (EUR)</th></tr></thead>
+    <tbody>
+      <tr><td class="bold">BEE</td><td>&euro; 5.000 &ndash; 7.000</td></tr>
+      <tr><td class="bold">VECTOR</td><td>&euro; 8.000 &ndash; 12.000</td></tr>
+      <tr><td class="bold">SIL</td><td>&euro; 10.000 &ndash; 14.000</td></tr>
+      <tr><td class="bold">Unita' di Controllo</td><td>&euro; 5.000</td></tr>
+      <tr><td class="bold">Accessori &amp; Frese</td><td>&euro; 1.500 &ndash; 5.000</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 4. FINESTRA DI MERCATO & SCENARIO COMPETITIVO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">04</span> Finestra di Mercato &amp; Scenario Competitivo</div>
+
+  <div class="sub-label">Finestra di lancio ideale:</div>
+  <p style="font-size:10.5pt; margin-bottom:14px;">Non vi sono finestre di lancio migliori rispetto ad altre. Il termine massimo e' <strong>due anni</strong>.</p>
+
+  <div class="sub-label">Analisi della Concorrenza:</div>
+  <ul class="doc-list">
+    <li><strong>Competitor 1:</strong> Alta rumorosita', instabilita', troppo potente, molto surriscaldabile.</li>
+    <li><strong>Competitor 2:</strong> Potente, ma con vibrazioni elevate e scarsa modularita'.</li>
+    <li><strong>Competitor 3:</strong> Stabile, ma meno versatile, poco potente.</li>
+  </ul>
+
+  <div class="comp-box">
+    <div class="sub-label" style="margin-top:0; margin-bottom:10px;">Vantaggi Competitivi:</div>
+    <ul class="doc-list" style="margin-top:0;">
+      <li>Miglior torque, stabilita' superiore e riduzione del rumore.</li>
+      <li>Sistema modulare, riducendo i costi di inventario e dotazione.</li>
+      <li>Tecnologia di raffreddamento avanzata, permettendo un drilling prolungato senza surriscaldamento.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- 5. CARATTERISTICHE E FUNZIONALITA' -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">05</span> Caratteristiche e Funzionalita' (Approccio MVP)</div>
+  <table class="feat-table">
+    <thead>
+      <tr><th style="width:28%">Caratteristica</th><th style="width:36%">Funzionalita'</th><th>Vantaggio Competitivo</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="bold">Stabilizzazione con giroscopio</td>
+        <td>Elimina le vibrazioni per un drilling ultra-preciso.</td>
+        <td class="mvp">Riduzione vibrazioni del <strong>40%</strong> rispetto ai competitor.</td>
+      </tr>
+      <tr>
+        <td class="bold">Sistema di Irrigazione</td>
+        <td>Previene il surriscaldamento del motore e della fresa. Pulizia del sito operatorio.</td>
+        <td class="mvp">Aumenta di almeno <strong>180 secondi</strong> l'uso continuativo prima che la temperatura aumenti di 10 gradi (competitor 1: 5 min 13 sec). Migliora la visibilita' del campo.</td>
+      </tr>
+      <tr>
+        <td class="bold">Sistema Modulare Handpiece &amp; Frese Stepersonal</td>
+        <td>Riduce il numero di strumenti necessari. Massima adattabilita'.</td>
+        <td class="mvp">Meno cambi di strumenti in sala operatoria, maggiore efficienza.</td>
+      </tr>
+      <tr>
+        <td class="bold">Controllo Multi-Velocita'</td>
+        <td>Permette la massima adattabilita' chirurgica.</td>
+        <td class="mvp">Regolabile con incrementi dell'<strong>1%</strong> fino a <strong>100.000 RPM</strong>.</td>
+      </tr>
+      <tr>
+        <td class="bold">Riduzione del Rumore</td>
+        <td>Migliora il comfort del chirurgo e del paziente.</td>
+        <td class="mvp"><strong>&le; 12 dB</strong> per il modello SIL &ndash; il piu' silenzioso del mercato.</td>
+      </tr>
+      <tr>
+        <td class="bold">Motori potenti</td>
+        <td>Torque power maggiore del mercato.</td>
+        <td class="mvp">Maggiore adattabilita' chirurgica e capacita' di lavoro.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 6. PRINCIPALI FATTORI DI DIFFERENZIAZIONE -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">06</span> Principali Fattori di Differenziazione</div>
+  <ul class="diff-list">
+    <li>Primo trapano con <strong>giroscopio interno</strong> per massima precisione.</li>
+    <li>Trapano neurochirurgico <strong>piu' silenzioso al mondo</strong> (SIL &lt;12 dB).</li>
+    <li><strong>Sistema modulare</strong> che riduce la complessita', i costi di inventario e il tempo di intervento.</li>
+    <li><strong>Sistema di raffreddamento avanzato</strong>, prevenendo il surriscaldamento del motore.</li>
+    <li><strong>Operativita' autonoma</strong>, con pieno controllo del chirurgo senza necessita' di assistenza.</li>
+  </ul>
+</div>
+
+<!-- 7. STRATEGIA DI ACCESSO AL MERCATO -->
+<div class="section-block">
+  <div class="section-h2"><span class="section-num">07</span> Strategia di Accesso al Mercato &amp; Modello di Business</div>
+
+  <ul class="doc-list">
+    <li><strong>Affidamento a Importatori e Grossisti:</strong> Il prodotto sara' distribuito attraverso importatori e grossisti specializzati nel settore medicale, evitando la vendita diretta e sfruttando reti gia' consolidate.</li>
+    <li><strong>Programma di Leasing per Partner Commerciali:</strong> Offerta di formule di leasing per grossisti e distributori, permettendo loro di fornire soluzioni aggiornabili agli ospedali senza un acquisto immediato.</li>
+    <li><strong>Formazione e Supporto per Distributori:</strong> Creazione di programmi di training personalizzati per gli importatori e i loro clienti finali, garantendo un utilizzo corretto e un supporto continuo.</li>
+    <li><strong>Ampia campagna marketing</strong> altamente mirata, per attirare l'attenzione degli utilizzatori.</li>
+  </ul>
+
+  <div class="sub-label" style="margin-top:20px;">Esecuzione del Lancio:</div>
+  <div class="launch-step">
+    <span class="launch-q">Q2</span>
+    <span class="launch-text">Selezione di distributori e importatori strategici nei principali paesi europei e avvio dei test pilota in <strong>tre ospedali leader</strong> per validare il prodotto.</span>
+  </div>
+  <div class="launch-step">
+    <span class="launch-q">Q5</span>
+    <span class="launch-text">Contrattualizzazione e onboarding dei distributori, formazione tecnica per la rete di vendita e supporto alle prime installazioni. Video dimostrativi, case study sui test pilota, testimonianze di chirurghi: devono essere pronti per rafforzare la comunicazione con distributori e clienti finali.</span>
+  </div>
+  <div class="launch-step">
+    <span class="launch-q">Q6</span>
+    <span class="launch-text">Partecipazione a fiere mediche internazionali, rafforzamento della rete commerciale con nuovi accordi di distribuzione, aumento della desiderabilita' del prodotto tra i chirurghi e lancio commerciale.</span>
+  </div>
+  <div class="launch-step">
+    <span class="launch-q">Q7</span>
+    <span class="launch-text">Espansione sul mercato europeo con tutte le certificazioni necessarie. Valutazione dell'efficienza del modello organizzativo intrapreso.</span>
+  </div>
+</div>
+
+</body>
+</html>
