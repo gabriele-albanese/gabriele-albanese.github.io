@@ -89,7 +89,7 @@
     {
       "id": "c15",
       "title": "Registered Scrum Basics",
-      "provider": "Atlassian + Accenture",
+      "provider": "Atlassian",
       "topic": "pm",
       "level": "Base",
       "duration": "~2 ore",
@@ -98,7 +98,7 @@
       "free": true,
       "cert_free": true,
       "new": false,
-      "description": "Fondamenti di Scrum e metodologie agile sviluppato da Atlassian in collaborazione con Accenture. Badge gratuito incluso al completamento. Standard di riferimento per PM che lavorano in ambienti agile."
+      "description": "Fondamenti di Scrum e metodologie agile sviluppato da Atlassian. Badge gratuito incluso al completamento. Standard di riferimento per PM che lavorano in ambienti agile."
     },
     {
       "id": "c10",
