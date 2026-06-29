@@ -87,6 +87,20 @@
       "description": "Livello avanzato del percorso IBM Design Thinking: facilitazione di workshop, Hills, Playbacks e Sponsor Users. Badge IBM incluso. Per PM che guidano team cross-funzionali."
     },
     {
+      "id": "c15",
+      "title": "Registered Scrum Basics",
+      "provider": "Atlassian + Accenture",
+      "topic": "pm",
+      "level": "Base",
+      "duration": "~2 ore",
+      "year": "2024",
+      "url": "https://community.atlassian.com/learning/course/learn-agile-fundamentals",
+      "free": true,
+      "cert_free": true,
+      "new": false,
+      "description": "Fondamenti di Scrum e metodologie agile sviluppato da Atlassian in collaborazione con Accenture. Badge gratuito incluso al completamento. Standard di riferimento per PM che lavorano in ambienti agile."
+    },
+    {
       "id": "c10",
       "title": "AI for Everyone",
       "provider": "DeepLearning.ai",

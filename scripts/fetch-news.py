@@ -61,6 +61,10 @@ ALLOWLIST = [
     "business strategy", "revenue growth", "market share", "competitive advantage",
     "leadership", "management", "enterprise", "b2b", "scaling",
     "organizational", "executive", "ceo", "cto", "chief product",
+    # Nuovi corsi gratuiti (rileva annunci da IBM, Google, Anthropic, Atlassian, ecc.)
+    "free course", "free certification", "free training", "launch course",
+    "new course", "learn for free", "free certificate", "free badge",
+    "ibm training", "google learning", "anthropic learn", "atlassian university",
 ]
 
 BLOCKLIST = [
