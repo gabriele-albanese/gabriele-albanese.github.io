@@ -483,15 +483,13 @@
 
   function applyFilter(topic){
     currentTopic=topic;
-    const sortBtn=document.getElementById('ih-sort-btn');
     if(topic==='corsi'){
-      if(sortBtn) sortBtn.style.display='none';
       const q=searchQuery.toLowerCase();
-      const filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):allCourses;
+      let filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):[...allCourses];
+      if(!sortDesc) filtered=filtered.reverse();
       renderCourses(filtered);
       return;
     }
-    if(sortBtn) sortBtn.style.display='';
     const f=getFiltered();
     f.length?renderArticles(f):showEmpty();
   }

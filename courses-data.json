@@ -111,6 +111,18 @@
       "description": "Corso accelerato di Google sul machine learning. Fondamenta teoriche + esercizi pratici. Consigliato per PM tecnici che vogliono capire i modelli predittivi."
     },
     {
+      "id": "c10",
+      "title": "AI for Everyone",
+      "provider": "DeepLearning.ai",
+      "topic": "pm",
+      "level": "Base",
+      "duration": "~6 ore",
+      "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+      "free": true,
+      "new": false,
+      "description": "Il corso di Andrew Ng per non tecnici. Pensato per manager e PM che vogliono capire l'AI senza scrivere codice. Accesso gratuito ai contenuti."
+    },
+    {
       "id": "c12",
       "title": "CS50 AI with Python",
       "provider": "Harvard",
