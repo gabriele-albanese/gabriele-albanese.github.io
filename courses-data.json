@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29",
-  "note": "Lista curata manualmente. Per aggiungere un corso: vedi CLAUDE_intelligence_hub.md in Documenti.",
+  "updated": "2026-06-30",
+  "note": "Lista curata manualmente. Per aggiungere un corso: modifica questo file JSON seguendo la struttura esistente e salva.",
   "courses": [
     {
       "id": "c01",
@@ -27,7 +27,7 @@
       "url": "https://grow.google/ai-essentials/",
       "free": true,
       "cert_free": true,
-      "new": true,
+      "new": false,
       "description": "Corso certificato Google sull'uso pratico dell'AI nel lavoro quotidiano. Nessun prerequisito tecnico, focus su produttivita e workflow professionali. Certificato Google incluso."
     },
     {
@@ -43,6 +43,20 @@
       "cert_free": true,
       "new": false,
       "description": "Corso breve di Google Cloud su cos'e la GenAI, come funziona e come si differenzia dai modelli ML tradizionali. Badge Google Cloud incluso al completamento."
+    },
+    {
+      "id": "c19",
+      "title": "Introduction to Large Language Models",
+      "provider": "Google Cloud",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~45 min",
+      "year": "2023",
+      "url": "https://www.cloudskillsboost.google/course_templates/539",
+      "free": true,
+      "cert_free": true,
+      "new": false,
+      "description": "Cosa sono gli LLM, come funzionano, come si usano e come si ottimizzano con tecniche come il prompt tuning. Badge Google Cloud incluso. Complementare al corso sulla GenAI."
     },
     {
       "id": "c12",
@@ -125,50 +139,22 @@
       "url": "https://anthropic.skilljar.com/ai-fluency-framework-foundations",
       "free": true,
       "cert_free": true,
-      "new": true,
-      "description": "Corso ufficiale Anthropic: cosa e l'AI, come funziona Claude, principi di utilizzo responsabile. Punto di partenza per qualsiasi profilo professionale. Certificato di completamento gratuito."
+      "new": false,
+      "description": "Corso ufficiale Anthropic su cosa e l'AI, come funziona Claude e principi di utilizzo responsabile. Punto di partenza per qualsiasi profilo professionale. Certificato gratuito incluso."
     },
     {
-      "id": "c03",
-      "title": "AI Fluency per Studenti",
+      "id": "c20",
+      "title": "Claude Platform 101",
       "provider": "Anthropic",
       "topic": "ai",
       "level": "Base",
       "duration": "~1 ora",
       "year": "2025",
-      "url": "https://anthropic.skilljar.com/ai-fluency-for-students",
+      "url": "https://anthropic.skilljar.com/claude-platform-101",
       "free": true,
       "cert_free": true,
       "new": true,
-      "description": "Corso Anthropic per studenti universitari: sviluppare competenze AI per lo studio, la carriera e la collaborazione responsabile con i modelli linguistici. Certificato gratuito."
-    },
-    {
-      "id": "c16",
-      "title": "AI Fluency per Educatori",
-      "provider": "Anthropic",
-      "topic": "ai",
-      "level": "Base",
-      "duration": "~2 ore",
-      "year": "2025",
-      "url": "https://anthropic.skilljar.com/ai-fluency-for-educators",
-      "free": true,
-      "cert_free": true,
-      "new": true,
-      "description": "Per docenti e progettisti didattici: integrare l'AI nella didattica, progettare valutazioni autentiche, preparare gli studenti a un ambiente di lavoro AI-first. Certificato gratuito."
-    },
-    {
-      "id": "c17",
-      "title": "AI Fluency per Nonprofit",
-      "provider": "Anthropic",
-      "topic": "ai",
-      "level": "Base",
-      "duration": "~1 ora",
-      "year": "2025",
-      "url": "https://anthropic.skilljar.com/ai-fluency-for-nonprofits",
-      "free": true,
-      "cert_free": true,
-      "new": true,
-      "description": "Corso Anthropic per professionisti del terzo settore: sviluppare competenze AI per aumentare l'impatto organizzativo mantenendo la coerenza con la missione. Realizzato con GivingTuesday. Certificato gratuito."
+      "description": "Introduzione alla piattaforma sviluppatori di Anthropic: API, modelli disponibili, casi d'uso e architetture. Utile per PM che collaborano con team tecnici che usano Claude. Certificato gratuito."
     },
     {
       "id": "c18",
@@ -178,11 +164,11 @@
       "level": "Intermedio",
       "duration": "~2 ore",
       "year": "2025",
-      "url": "https://docs.anthropic.com/en/docs/resources/courses",
+      "url": "https://anthropic.skilljar.com/claude-with-the-anthropic-api",
       "free": true,
       "cert_free": true,
       "new": false,
-      "description": "Come integrare Claude nelle applicazioni tramite API. Utile per PM che vogliono capire cosa e tecnicamente fattibile con gli LLM. Certificato di completamento gratuito."
+      "description": "Come integrare Claude nelle applicazioni tramite API: operazioni base, prompt avanzati, tool integration. Utile per PM che vogliono capire cosa e tecnicamente fattibile con gli LLM. Certificato gratuito."
     },
     {
       "id": "c04",
