@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Prompt Engineering: Output migliori con le LLM — Gabriele Albanese</title>
+  <title>Prompt Engineering per Product Manager: dalla tecnica alla pratica — Gabriele Albanese</title>
   <link rel="stylesheet" href="../assets/css/style.css" />
   <style>
     @keyframes livepulse {
@@ -248,10 +248,16 @@
       <a href="../index.html#articles">Articoli</a><span>/</span>
       <span style="color:#93c5fd;">Prompt Engineering</span>
     </div>
-    <div class="page-label">AI · Prompt Engineering · LLM</div>
-    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Aprile 2024</div>
-    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Come ottenere output migliori<br>con le LLM</h1>
-    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Come scrivere prompt efficaci per ottenere risposte migliori dai modelli di linguaggio: principi, tecniche e casi d'uso reali.</p>
+    <div class="page-label">AI · Product Management · Workflow</div>
+    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Gennaio 2026 · 12 min</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Prompt Engineering per Product Manager:<br>dalla tecnica alla pratica</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Come strutturare le richieste ai modelli AI per accelerare discovery, analisi competitiva e decisioni di prodotto. Con esempi concreti dal lavoro reale.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px;">
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Product Manager</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">AI Workflow</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Prompt Engineering</span>
+      <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Tool Adoption</span>
+    </div>
   </div>
   <div style="position:absolute;bottom:-1px;left:0;right:0;height:80px;background:linear-gradient(to bottom,transparent,#FAFAF8);pointer-events:none;z-index:2;"></div>
 </div>
@@ -261,23 +267,23 @@
   <div class="container">
     <div class="metric-strip">
       <div class="metric-box fade-up">
-        <div class="metric-box-val">40%</div>
-        <div class="metric-box-lbl">Riduzione dei tempi di elaborazione dei task</div>
+        <div class="metric-box-val">-97%</div>
+        <div class="metric-box-lbl">Riduzione tempo su task ripetitivi di analisi e comunicazione</div>
       </div>
       <div class="metric-box fade-up delay-1">
-        <div class="metric-box-val">35%</div>
-        <div class="metric-box-lbl">Aumento della produttività dei team AI</div>
+        <div class="metric-box-val">138→8</div>
+        <div class="metric-box-lbl">Minuti per ciclo di analisi e risposta, prima e dopo l'integrazione AI</div>
       </div>
       <div class="metric-box fade-up delay-2">
-        <div class="metric-box-val">75%</div>
-        <div class="metric-box-lbl">Grandi aziende con team dedicati entro il 2026</div>
+        <div class="metric-box-val">+40%</div>
+        <div class="metric-box-lbl">Produttività stimata nei team che adottano AI nei workflow di prodotto</div>
       </div>
       <div class="metric-box fade-up delay-3">
         <div class="metric-box-val">60%</div>
-        <div class="metric-box-lbl">Professioni che richiederanno AI skills entro il 2030</div>
+        <div class="metric-box-lbl">Professioni che richiederanno competenze AI entro il 2030</div>
       </div>
     </div>
-    <p style="font-size:0.74rem;color:var(--text-light);font-style:italic;text-align:center;margin-top:4px;">Fonti: McKinsey &amp; Company (2023), Gartner (2024), World Economic Forum (2023)</p>
+    <p style="font-size:0.74rem;color:var(--text-light);font-style:italic;text-align:center;margin-top:4px;">Dati personali raccolti su 30+ giorni di utilizzo · McKinsey &amp; Company (2023) · World Economic Forum (2023)</p>
   </div>
 </div>
 
@@ -285,66 +291,65 @@
   <div class="container">
     <div class="prose fade-up">
 
-      <h2>Introduzione</h2>
-      <p>Negli ultimi anni, l'intelligenza artificiale generativa ha fatto passi da gigante, e con essa l'importanza di saper interagire con i modelli linguistici (LLM) nel modo più efficace possibile. Il prompt engineering, ovvero la scienza di scrivere richieste precise e strutturate per ottenere risultati di qualità, è diventato una competenza chiave per chiunque debba approcciarsi a questi strumenti.</p>
-      <p>Ma esistono regole universali per scrivere prompt efficaci? In genere questa è la domanda che viene fatta da chi si approccia per la prima volta a questa disciplina. La risposta è sì, anche se il livello di sofisticazione può variare a seconda dell'esperienza dell'utente e dell'obiettivo specifico. In questo articolo esploreremo i principi fondamentali del prompt engineering, senza ovviamente addentrarci in tecniche avanzate che richiedono una conoscenza approfondita del processo di modulazione della risposta e dei meccanismi interni dei modelli di elaborazione.</p>
-      <p>Prima di partire però bisogna fare due chiacchiere circa questa nuova disciplina sempre più oggetto di studio accademico.</p>
-
-      <h2>Arte, Scienza o entrambe?</h2>
-
-      <div class="callout">
-        <p>"Il prompt engineering è l'arte e la scienza della progettazione e dell'ottimizzazione dei prompt per guidare i modelli di AI, in particolare gli LLM, verso la generazione delle risposte desiderate. Creando con cura i prompt, fornisci al modello contesto, istruzioni ed esempi che lo aiutano a comprendere le tue intenzioni e a rispondere in modo significativo. Consideralo come una roadmap per l'AI, indirizzandola verso i risultati specifici che hai in mente."<br><span style="font-size:0.82rem;font-style:normal;font-weight:600;color:var(--accent);display:block;margin-top:10px;">Fonte: Google Cloud</span></p>
-      </div>
-
-      <p>È ricorrente definirla come "un incrocio di Arte e Scienza" ma per quale motivo?</p>
+      <h2>Il problema del prompting "da tutorial"</h2>
+      <p>Il prompt engineering viene di solito insegnato come una disciplina tecnica astratta: tecniche, acronimi, framework generici. Il risultato è che la maggior parte delle persone impara a scrivere prompt migliori per esempi didattici che non usa mai nel lavoro reale.</p>
+      <p>Questo articolo parte da una premessa diversa: le cinque strutture di prompting che descrivo qui non vengono dalla letteratura accademica. Vengono dal mio lavoro quotidiano come Product Manager, dalla gestione di prodotti hardware e software complessi, e da anni di integrazione degli strumenti AI nei processi di discovery, analisi e decisione.</p>
+      <p>La tesi è semplice: un PM che sa strutturare un buon prompt sta esercitando la stessa capacità che usa per scrivere un brief efficace, una domanda di discovery precisa o un PRD chiaro. Non è una competenza separata. È la stessa competenza applicata a uno strumento diverso.</p>
 
     </div>
 
     <div class="science-art-grid fade-up delay-1">
       <div class="science-card science-card--science">
-        <div class="science-card-label">Perché è una scienza</div>
+        <div class="science-card-label">Dove il prompting aiuta davvero un PM</div>
         <ul>
-          <li>Si basa su principi logici e tecnici per ottimizzare l'interazione con i modelli di IA.</li>
-          <li>Richiede sperimentazione e analisi per capire quali strutture funzionano meglio.</li>
-          <li>Implica la comprensione dei modelli linguistici, delle loro limitazioni e delle migliori pratiche per ottenere risultati precisi.</li>
+          <li>Analisi di grandi volumi di dati (feedback utenti, ticket di supporto, note di campo, trascrizioni)</li>
+          <li>Mappatura competitiva: aggregazione e confronto rapido di fonti eterogenee</li>
+          <li>Simulazioni (scenari di mercato, punti di vista di stakeholder, comportamenti utente, rischi di prodotto)</li>
+          <li>Replicazione di task ripetitivi ad alta frequenza: classificazioni, report ricorrenti, template di documenti</li>
         </ul>
       </div>
       <div class="science-card science-card--art">
-        <div class="science-card-label" style="color:#7C6F5A;">Perché è un'arte</div>
+        <div class="science-card-label" style="color:#7C6F5A;">Dove il prompting non sostituisce il PM</div>
         <ul>
-          <li>Saper formulare il prompt in modo efficace non è solo una questione tecnica, ma anche creativa.</li>
-          <li>Le sfumature linguistiche, il tono e la struttura influenzano fortemente la risposta dell'IA.</li>
-          <li>Serve intuizione per trovare il giusto equilibrio tra brevità, chiarezza e dettaglio.</li>
+          <li>Anche nelle analisi, aggregazioni e simulazioni: la qualità dipende dalla chiarezza degli intenti e dalla qualità del contesto fornito. Chi non sa cosa cercare, o non porta i dati giusti, non ottiene risposte utili.</li>
+          <li>Tutte le decisioni che implicano responsabilità diretta, giudizio contestuale e conseguenze reali non possono essere delegate all'AI, indipendentemente dalla qualità del prompting. Lo stesso vale per ogni documento prodotto con supporto AI: la responsabilità del contenuto, della correttezza e dell'utilizzo rimane sempre e comunque in capo al PM. Il modello supporta, non sottoscrive.</li>
+          <li>La validazione qualitativa con utenti reali</li>
+          <li>Il giudizio finale su trade-off complessi, relazioni con stakeholder, strategia di prodotto</li>
         </ul>
       </div>
     </div>
 
     <div class="prose fade-up">
-      <p>Ma come si scrivono quindi i prompt che massimizzano il potenziale di un modello di linguaggio? Di seguito esploreremo alcune delle migliori metodiche generali, fornendo strategie pratiche e applicabili fin da subito.</p>
+      <p>Con questa distinzione in mente, ecco le cinque strutture che uso sistematicamente.</p>
     </div>
 
     <!-- TECNICA 1 -->
     <div class="technique-block fade-up">
       <div class="technique-header">
         <div class="technique-num">1</div>
-        <h2 class="technique-title">Dare il giusto contesto</h2>
+        <h2 class="technique-title">Contesto di prodotto specifico</h2>
       </div>
       <div class="prose">
-        <p>Uno degli errori più comuni quando si interagisce con un LLM è supporre che "capisca" immediatamente il contesto della richiesta. In realtà, questi modelli lavorano meglio quando ricevono informazioni dettagliate. Ecco alcuni elementi da includere sempre:</p>
-        <ul>
-          <li><strong>Il pubblico di riferimento:</strong> a chi è destinata la risposta? Un esperto del settore o un principiante?</li>
-          <li><strong>L'obiettivo del task:</strong> cosa deve ottenere il modello? Una sintesi? Un testo creativo? Un elenco?</li>
-          <li><strong>Il formato desiderato:</strong> vuoi una tabella, un testo discorsivo, un elenco puntato?</li>
-        </ul>
+        <p>Il modello AI non conosce il tuo prodotto, il tuo mercato o i tuoi utenti. Se non fornisci questo contesto, ottieni risposte generiche. Per un PM, il contesto include sempre tre elementi: il tipo di prodotto, il profilo dell'utente finale e l'obiettivo specifico dell'analisi.</p>
+        <p>La differenza non è stilistica. È la differenza tra un output inutilizzabile e uno che puoi portare direttamente in una riunione di prodotto.</p>
+        <p>Ma il contesto non è solo quello che scrivi nel prompt in quel momento. Un approccio professionale prevede la costruzione di una cartella dati strutturata (feedback storici, profili utente, analisi competitive, documentazione di prodotto) che accompagna il prompt come input separato. Il modello può elaborare file, trascrizioni, tabelle: non deve lavorare dalla memoria, può lavorare dai tuoi dati.</p>
+        <p>Questo richiede un investimento iniziale: selezionare, strutturare e anonimizzare i materiali nel rispetto della riservatezza aziendale e delle normative sulla privacy. Ma una volta costruito, quello stack di contesto rimane disponibile e richiamabile ogni volta, garantendo coerenza e qualità stabile nel tempo.</p>
+        <p>Il prompt è la domanda. I dati sono il contesto senza cui la domanda resta generica. Fare prompting professionale significa lavorare su entrambi.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
           <div class="prompt-box-label">Prompt generico</div>
-          <p>"Scrivi un post su innovazione e AI"</p>
+          <p>"Analizza questi feedback degli utenti."</p>
         </div>
         <div class="prompt-box prompt-box--after">
-          <div class="prompt-box-label">Prompt efficace</div>
-          <p>"Scrivi un post LinkedIn informale di massimo 150 parole, rivolto a professionisti del settore tech, che possa spiegare come l'AI sta cambiando il mondo del lavoro. Usa un tono ottimista e chiudi con una domanda per stimolare l'interazione."</p>
+          <div class="prompt-box-label">Prompt con contesto di prodotto (chat + allegati)</div>
+          <p>"[Documenti allegati: PRD aggiornato, feedback utenti ultimi 3 mesi (anonimizzati), analisi competitiva Q1 2026, note di field]<br><br>Sei un PM senior che analizza i materiali allegati relativi a un dispositivo medicale B2B usato da professionisti specializzati in ambiente ospedaliero. Identifica i pattern di adozione, distingui le frizioni di UX dai problemi di product-market fit, e classifica ogni tema per frequenza e impatto stimato sulla retention. Formato: tabella con colonne Tema, Frequenza, Impatto, Azione suggerita."</p>
+        </div>
+      </div>
+      <div class="prompt-compare" style="margin-top:0;">
+        <div class="prompt-box prompt-box--after" style="grid-column:1/-1;">
+          <div class="prompt-box-label">Prompt agentivo (AI con accesso al file system)</div>
+          <p>"Leggi i documenti nella cartella /prodotto/contesto (PRD, feedback utenti anonimizzati, analisi competitive, note di field).<br><br>Sei un PM senior che valuta un dispositivo medicale B2B usato da professionisti in ambiente ospedaliero. Identifica i pattern di adozione, distingui le frizioni di UX dai problemi di product-market fit, classifica ogni tema per frequenza e impatto sulla retention. Formato: tabella con colonne Tema, Frequenza, Impatto, Azione suggerita."</p>
         </div>
       </div>
     </div>
@@ -353,23 +358,34 @@
     <div class="technique-block fade-up">
       <div class="technique-header">
         <div class="technique-num">2</div>
-        <h2 class="technique-title">Usare esempi per guidare il modello</h2>
+        <h2 class="technique-title">Few-shot per classificazione strutturata</h2>
       </div>
       <div class="prose">
-        <p>Una tecnica molto utile è il <strong>few-shot prompting</strong>, ovvero fornire esempi concreti di output desiderati. Questo aiuta l'LLM a cogliere il tono, la struttura e lo stile della risposta. L'aggiunta di esempi pratici di ciò che ci aspettiamo rende il risultato più coerente, accurato e in linea con le aspettative riguardo al risultato atteso.</p>
+        <p>Quando devo processare grandi volumi di dati eterogenei (feedback, ticket di supporto, note di field) uso il <strong>few-shot prompting</strong>: fornisco al modello due o tre esempi del formato di output atteso prima di dargli i dati reali. Il risultato è una classificazione coerente che posso importare direttamente in un foglio di analisi.</p>
+        <p>Questa tecnica è particolarmente utile nella fase di discovery, quando l'obiettivo è trovare pattern in materiale non strutturato.</p>
+        <p>La qualità degli esempi che fornisci è il vero differenziatore di questa tecnica. Il modello calibra il suo output esattamente sugli esempi ricevuti: se sono imprecisi o incoerenti, l'output lo sarà almeno altrettanto. È importante capire che la relazione non è lineare: un errore anche piccolo in un esempio -- un'ambiguità, una categoria mal definita, un caso limite trattato male -- non produce un errore proporzionale nell'output. Il modello generalizza quell'esempio su tutti i casi simili, trasformando un bias minimo in input in un errore sistematico su larga scala.</p>
+        <p>Gli esempi meritano quindi un investimento significativo in termini di tempo e sforzo. Il processo ideale è iterativo: si redige una prima versione, si testa con il modello, si valuta l'output e si affina -- integrando, dove necessario, il confronto con chi ha visibilità diretta sul contesto specifico. Il ciclo si ripete finché il risultato rispecchia esattamente lo standard qualitativo atteso.</p>
+        <p>Una volta validati, quegli esempi non sono più solo un prompt: diventano un template riusabile e un asset operativo. La base di partenza per ogni analisi successiva dello stesso tipo, che codifica conoscenza di dominio e standard di qualità e garantisce coerenza nel tempo e tra diversi utenti del team.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
           <div class="prompt-box-label">Senza esempi</div>
-          <p>"Analizza questi feedback dei clienti e classificali per sentiment e urgenza."</p>
+          <p>"Classifica questi feedback per tipo di problema e urgenza."</p>
         </div>
         <div class="prompt-box prompt-box--after">
-          <div class="prompt-box-label">Con esempi (few-shot)</div>
-          <p>"Analizza questi feedback e classificali per sentiment e urgenza.<br><br>
-          Esempio 1: 'Ho ricevuto il mio ordine oggi e sono molto soddisfatto.' → Sentiment: positivo, Urgenza: 1<br><br>
-          Esempio 2: 'Il mio ordine non è ancora arrivato, ho bisogno del prodotto per domani.' → Sentiment: negativo, Urgenza: 5<br><br>
-          Ora procedi con la classificazione di questi nuovi feedback."</p>
+          <div class="prompt-box-label">Few-shot con formato e ragionamento</div>
+          <p>"Classifica i seguenti feedback nel formato: [Categoria] | [Urgenza 1-5] | [Azione richiesta].<br><br>
+          Esempio 1: 'Il sistema si blocca durante la procedura'<br>
+          Ragionamento: blocco durante l'uso attivo, nessuna alternativa disponibile, impatto operativo immediato<br>
+          → [Bug critico] | [5] | [Fix immediato]<br><br>
+          Esempio 2: 'Sarebbe utile esportare i dati in PDF'<br>
+          Ragionamento: funzionalità aggiuntiva non bloccante, esiste workaround manuale, basso impatto sulla continuità operativa<br>
+          → [Feature request] | [2] | [Backlog valutazione]<br><br>
+          Ora classifica questi nuovi feedback con lo stesso formato e ragionamento."</p>
         </div>
+      </div>
+      <div class="prose" style="margin-top:32px;">
+        <p><em>Quando il ragionamento dietro un esempio diventa parte del prompt stesso, si entra in un territorio più potente: quello della Chain of Thought -- la tecnica che trasforma l'AI da esecutore di classificazioni a interlocutore di analisi.</em></p>
       </div>
     </div>
 
@@ -377,20 +393,21 @@
     <div class="technique-block fade-up">
       <div class="technique-header">
         <div class="technique-num">3</div>
-        <h2 class="technique-title">Chiedere il ragionamento passo dopo passo</h2>
+        <h2 class="technique-title">Chain of Thought e Clarification-Seeking Prompting</h2>
       </div>
       <div class="prose">
-        <p>Forse in assoluto la tecnica considerata "di base" più consigliata, tanto che è prevedibile che nel futuro sarà una funzione autonoma e integrata nei modelli LLM. Una strategia molto utile, chiamata <strong>Chain of Thought</strong>, consiste nel chiedere esplicitamente al modello di spiegare il suo ragionamento prima di fornire la risposta. Questo è particolarmente efficace per problemi complessi, in cui la trasparenza del processo è fondamentale. Questa tecnica non solo aiuta a ottenere risposte più precise e verificabili, ma permette di ricavare anche ulteriori spunti di argomentazione.</p>
+        <p>Per problemi complessi e multi-variabili, chiedere esplicitamente al modello di ragionare passo dopo passo prima di concludere produce analisi significativamente più solide. Questa tecnica, chiamata <strong>Chain of Thought</strong>, è particolarmente utile quando si vuole evitare che l'AI salti direttamente alla prima risposta plausibile senza esaminare le alternative.</p>
+        <p>Nel lavoro di prodotto, la uso sistematicamente per analisi di drop nelle metriche, anomalie nei dati di utilizzo e valutazione di scenari di rischio.</p>
+        <p>Una variante avanzata di questa tecnica prevede di istruire esplicitamente il modello a richiedere dati o chiarimenti aggiuntivi prima di concludere il ragionamento, qualora le informazioni disponibili non siano sufficienti. Questo approccio, definibile come chain-of-thought interattiva, evita che il modello colmi autonomamente i vuoti informativi con assunzioni implicite, che potrebbero invalidare l'output senza essere rilevabili a prima vista. Il modello diventa un interlocutore attivo che segnala i limiti dell'analisi prima di produrla, non dopo.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
-          <div class="prompt-box-label">Prompt base</div>
-          <p>"Qual è la capitale del Canada?"</p>
+          <div class="prompt-box-label">Prompt diretto</div>
+          <p>"Perché l'adozione del prodotto è calata del 18% nell'ultimo trimestre?"</p>
         </div>
         <div class="prompt-box prompt-box--after">
-          <div class="prompt-box-label">Chain of Thought</div>
-          <p>"Pensa passo dopo passo e spiega il tuo ragionamento prima di rispondere: qual è la capitale del Canada?"<br><br>
-          <span style="font-size:0.8rem;color:var(--accent);font-style:normal;">Risposta ottenuta: "Il Canada è uno stato del Nord America. La sua capitale non è la città più grande (Toronto), ma Ottawa, scelta per motivi strategici nel 1857."</span></p>
+          <div class="prompt-box-label">Chain of Thought interattiva</div>
+          <p>"Analizza passo dopo passo il calo di adozione del 18% nell'ultimo trimestre. Prima elenca tutte le possibili cause (almeno 5), poi per ciascuna indica quali dati permetterebbero di confermarla o escluderla, poi proponi le prime 3 azioni di verifica in ordine di priorità. Se nel corso dell'analisi identifichi informazioni mancanti o ambiguità che potrebbero alterare le conclusioni, segnalale esplicitamente e chiedimi i dati necessari prima di procedere. Non concludere prima di aver esaminato tutte le ipotesi."</p>
         </div>
       </div>
     </div>
@@ -399,33 +416,30 @@
     <div class="technique-block fade-up">
       <div class="technique-header">
         <div class="technique-num">4</div>
-        <h2 class="technique-title">Sfruttare i tag per organizzare i prompt</h2>
+        <h2 class="technique-title">Prompt per output strutturati e integrabili</h2>
       </div>
       <div class="prose">
-        <p>Per i task più complessi, è utile strutturare i prompt con tag simili a quelli usati nei file XML o JSON. Questo ne migliora notevolmente la leggibilità e l'elaborazione da parte del modello. Sono già state annunciate IA che elimineranno all'utente la necessità di scrivere prompt in questa forma, e che spiegando bene il contesto della richiesta saranno in grado di autogenerare il miglior prompt per garantire che il risultato sia in linea con la richiesta.</p>
+        <p>Un prompt efficace non specifica solo cosa analizzare, ma anche come deve essere strutturato l'output. I modelli attuali gestiscono il formato nativamente: tabelle importabili in Notion o Sheets, sezioni per PRD, strutture per report ricorrenti. Definire il formato a monte significa ricevere un output che non richiede riformattazione prima di essere utilizzato.</p>
+        <p>È importante precisare che "integrabile" non significa "da usare senza verifica". L'output strutturato riduce il tempo di lavorazione, non elimina la responsabilità del controllo. Ogni documento prodotto con supporto AI richiede revisione critica da parte del PM prima di entrare nel flusso di lavoro reale.</p>
+        <p>Ho standardizzato questa struttura per i template di lavoro più ricorrenti: ogni volta che devo produrre documentazione di prodotto, parto da un prompt con formato definito invece che dalla pagina bianca -- riducendo il tempo di redazione e mantenendo coerenza tra versioni successive dello stesso documento.</p>
       </div>
-      <div class="prompt-compare" style="grid-template-columns:1fr;">
+      <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
-          <div class="prompt-box-label">Prompt generico</div>
-          <p>"Scrivi una mail di scuse per un cliente che ha ricevuto un prodotto difettoso."</p>
+          <div class="prompt-box-label">Prompt senza formato</div>
+          <p>"Scrivi una User Story per questa feature."</p>
         </div>
-      </div>
-      <div class="code-block">
-        <div style="font-size:0.68rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#38BDF8;margin-bottom:16px;">Prompt strutturato con tag</div>
-        <div>
-          <span class="code-tag">&lt;cliente&gt;</span><br>
-          &nbsp;&nbsp;<span class="code-attr">&lt;nome&gt;</span><span class="code-val">Mario Rossi</span><span class="code-attr">&lt;/nome&gt;</span><br>
-          &nbsp;&nbsp;<span class="code-attr">&lt;tipo&gt;</span><span class="code-val">Business</span><span class="code-attr">&lt;/tipo&gt;</span><br>
-          &nbsp;&nbsp;<span class="code-attr">&lt;acquisto&gt;</span><span class="code-val">MacBook Pro 2023</span><span class="code-attr">&lt;/acquisto&gt;</span><br>
-          &nbsp;&nbsp;<span class="code-attr">&lt;problema&gt;</span><span class="code-val">Batteria difettosa</span><span class="code-attr">&lt;/problema&gt;</span><br>
-          <span class="code-tag">&lt;/cliente&gt;</span><br>
-          <span class="code-tag">&lt;istruzioni&gt;</span><br>
-          &nbsp;&nbsp;<span class="code-val">Scrivi una mail di scuse formale e proponi un rimborso o una sostituzione.</span><br>
-          <span class="code-tag">&lt;/istruzioni&gt;</span>
+        <div class="prompt-box prompt-box--after">
+          <div class="prompt-box-label">Prompt con output strutturato</div>
+          <p>"Produci una User Story nel formato seguente:<br><br>
+          TITOLO: [nome feature]<br>
+          COME: [profilo utente specifico]<br>
+          VOGLIO: [azione o bisogno]<br>
+          PERCHé: [valore atteso]<br>
+          CRITERI DI ACCETTAZIONE: [lista verificabile, minimo 3]<br>
+          CASI LIMITE: [scenari di errore o eccezione]<br>
+          DIPENDENZE: [sistemi o team coinvolti]<br><br>
+          Contesto: [inserire contesto prodotto]. Non aggiungere sezioni non richieste."</p>
         </div>
-      </div>
-      <div class="prose">
-        <p style="font-size:0.85rem;">Questa struttura aiuta sia il modello a comprendere meglio il contesto, sia l'utente a gestire e modificare facilmente il prompt nel tempo.</p>
       </div>
     </div>
 
@@ -433,145 +447,45 @@
     <div class="technique-block fade-up">
       <div class="technique-header">
         <div class="technique-num">5</div>
-        <h2 class="technique-title">Assegnare un ruolo al modello</h2>
+        <h2 class="technique-title">Stakeholder Persona Prompting</h2>
       </div>
       <div class="prose">
-        <p>Uno dei metodi più potenti per migliorare le risposte è l'<strong>Act as Prompting</strong>, ovvero dire esplicitamente al modello di assumere un certo ruolo e di rispondere come se fosse quella persona o figura professionale. Questo modello è alla base di molti GPTs e, come è facilmente intuibile, modula notevolmente la forma della risposta. Più il ruolo è ben definito e i suoi compiti chiari, più questa tecnica risulta efficace.</p>
+        <p>Nelle sezioni precedenti abbiamo già usato questa tecnica senza nominarla esplicitamente: "Sei un PM senior che analizza...", "Sei un professionista specializzato con 15 anni di esperienza...". È il momento di definirla correttamente.</p>
+        <p>Lo <strong>Stakeholder Persona Prompting</strong> consiste nell'assegnare al modello un ruolo specifico e dettagliato prima di formulare la richiesta. Il modello non risponde più come sistema generico, ma filtra l'analisi attraverso il punto di vista, le priorità e i criteri decisionali della persona che sta simulando. Questo permette di anticipare obiezioni, identificare lacune in una proposta e prepararsi a confronti con interlocutori reali -- senza sostituire la ricerca qualitativa, ma integrandola in modo efficace.</p>
+        <p>La variante più avanzata prevede la costruzione di un <strong>file persona</strong> dedicato: un documento strutturato che descrive in dettaglio il profilo dello stakeholder da simulare -- ruolo, anni di esperienza, contesto operativo, motivazioni principali, criteri decisionali, obiezioni tipiche, stile comunicativo. Questo file viene salvato in una cartella dedicata (es. <code>/stakeholder/personas/</code>) e caricato come contesto ogni volta che si vuole simulare quel punto di vista, garantendo coerenza tra sessioni diverse e affinamento progressivo del profilo nel tempo.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
-          <div class="prompt-box-label">Senza ruolo</div>
-          <p>"Spiegami perché ci sono le maree."</p>
+          <div class="prompt-box-label">Ruolo generico</div>
+          <p>"Valuta questa feature dal punto di vista dell'utente."</p>
         </div>
         <div class="prompt-box prompt-box--after">
-          <div class="prompt-box-label">Con ruolo definito</div>
-          <p>"Sei un docente universitario di fisica con 20 anni di esperienza. Spiega perché ci sono le maree a un pubblico di studenti di ingegneria, usando un linguaggio tecnico e dettagliato."</p>
-        </div>
-      </div>
-      <div class="prompt-compare" style="margin-top:0;">
-        <div class="prompt-box prompt-box--after" style="grid-column:1/-1;">
-          <div class="prompt-box-label">Stesso tema, ruolo diverso</div>
-          <p>"Sei un maestro di scienze delle elementari. Spiega perché ci sono le maree ai tuoi alunni usando un linguaggio semplice e coinvolgente."</p>
+          <div class="prompt-box-label">Stakeholder Persona con file di contesto</div>
+          <p>"[File caricato: /stakeholder/personas/specialista-senior.md]<br><br>
+          Interpreta il profilo descritto nel documento allegato. Stai valutando questa feature per la prima volta. Elenca le tue prime 3 obiezioni, le domande che porresti prima di adottarla e i criteri con cui giudicheresti il successo dopo 30 giorni di utilizzo. Se il profilo non contiene informazioni sufficienti per rispondere a un punto specifico, segnalalo esplicitamente."</p>
         </div>
       </div>
     </div>
-
-    <!-- TECNICA 6 -->
-    <div class="technique-block fade-up">
-      <div class="technique-header">
-        <div class="technique-num">6</div>
-        <h2 class="technique-title">Iterare e migliorare il prompt</h2>
-      </div>
-      <div class="prose">
-        <p>Una delle migliori pratiche nel prompt engineering è non fermarsi alla prima risposta, ma raffinare il prompt iterativamente. Se l'output non è quello desiderato, si può migliorare il prompt appena dato in modo che lo rigeneri, o con una nuova richiesta che chieda di modificare la risposta aggiungendo, togliendo o specificando determinate informazioni.</p>
-      </div>
-      <div class="prompt-chain">
-        <div style="font-size:0.68rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:#38BDF8;margin-bottom:18px;">Esempio di iterazione progressiva</div>
-        <div class="prompt-chain-item">
-          <div class="prompt-chain-tag">Prompt 1</div>
-          <div class="prompt-chain-text">"Scrivi un post LinkedIn motivazionale per i neolaureati in cerca di lavoro."</div>
-        </div>
-        <div class="prompt-chain-item">
-          <div class="prompt-chain-tag iteration">Iter. 1</div>
-          <div class="prompt-chain-text">"Riduci l'enfasi e rendi il tono più informale."</div>
-        </div>
-        <div class="prompt-chain-item">
-          <div class="prompt-chain-tag iteration">Iter. 2</div>
-          <div class="prompt-chain-text">"Passa dal 'lei' al 'tu' per rendere il messaggio più personale."</div>
-        </div>
-        <div class="prompt-chain-item" style="margin-bottom:0;">
-          <div class="prompt-chain-tag iteration">Iter. 3</div>
-          <div class="prompt-chain-text">"Sostituisci il termine 'resilienza' con 'antifragilità'."</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ROI -->
-    <div class="prose fade-up" style="margin-top:64px;">
-      <h2>Il ROI del Prompt Engineering: Dati Concreti</h2>
-      <p>Secondo un rapporto di McKinsey del 2023, le aziende che implementano efficacemente strategie di prompt engineering possono ottenere risultati misurabili e significativi:</p>
-    </div>
-
-    <div class="metric-strip fade-up delay-1" style="margin-bottom:8px;">
-      <div class="metric-box">
-        <div class="metric-box-val">40%</div>
-        <div class="metric-box-lbl">Riduzione dei tempi di elaborazione dei task</div>
-      </div>
-      <div class="metric-box">
-        <div class="metric-box-val">35%</div>
-        <div class="metric-box-lbl">Aumento della produttività dei team AI</div>
-      </div>
-      <div class="metric-box">
-        <div class="metric-box-val">$6,5M</div>
-        <div class="metric-box-lbl">Risparmio minimo stimato annuale (aziende 1.000+ dipendenti)</div>
-      </div>
-      <div class="metric-box">
-        <div class="metric-box-val">$10,5M</div>
-        <div class="metric-box-lbl">Risparmio massimo stimato annuale (aziende 1.000+ dipendenti)</div>
-      </div>
-    </div>
-    <p class="roi-source fade-up">Fonte: McKinsey &amp; Company, "Generative AI: Realizing the Productivity Potential" (2023)</p>
-
-    <div class="prose fade-up" style="margin-top:40px;">
-      <p>Le stime di Gartner prevedono che entro il 2026:</p>
-      <ul>
-        <li>Il 75% delle grandi aziende globali avrà implementato team dedicati al prompt engineering.</li>
-        <li>Nasceranno nuove figure professionali specializzate nella "AI Interaction Design".</li>
-        <li>Gli investimenti in formazione sul prompt engineering cresceranno del 50% anno su anno.</li>
-      </ul>
-    </div>
-
-    <!-- CASE STUDIES -->
-    <div class="prose fade-up" style="margin-top:48px;">
-      <h2>Casi Studio Reali</h2>
-      <p>Due esempi italiani documentati dall'Osservatorio Artificial Intelligence del Politecnico di Milano mostrano l'impatto concreto del prompt engineering applicato a processi aziendali critici.</p>
-    </div>
-
-    <div class="case-grid fade-up delay-1">
-      <div class="case-card">
-        <div class="case-card-company">UniCredit</div>
-        <div class="case-card-context">Analisi del rischio di credito con LLM e prompt engineering avanzato</div>
-        <div class="case-result">
-          <div class="case-result-val">4h</div>
-          <div class="case-result-desc">Tempo di valutazione delle pratiche (era: 3 giorni)</div>
-        </div>
-        <div class="case-result">
-          <div class="case-result-val">+17%</div>
-          <div class="case-result-desc">Precisione delle valutazioni (dal 72% all'89%)</div>
-        </div>
-        <div class="case-result">
-          <div class="case-result-val">€2,3M</div>
-          <div class="case-result-desc">Risparmio stimato annuale</div>
-        </div>
-      </div>
-      <div class="case-card">
-        <div class="case-card-company">Telecom Italia</div>
-        <div class="case-card-context">Customer service con modelli LLM e prompt engineering per gestione richieste</div>
-        <div class="case-result">
-          <div class="case-result-val">-60%</div>
-          <div class="case-result-desc">Riduzione dei tempi di risposta</div>
-        </div>
-        <div class="case-result">
-          <div class="case-result-val">+45%</div>
-          <div class="case-result-desc">Soddisfazione clienti</div>
-        </div>
-        <div class="case-result">
-          <div class="case-result-val">-35%</div>
-          <div class="case-result-desc">Costi operativi</div>
-        </div>
-      </div>
-    </div>
-    <p class="roi-source fade-up">Fonte: Osservatorio Artificial Intelligence del Politecnico di Milano (2023)</p>
 
     <!-- CONCLUSIONE -->
-    <div class="prose fade-up" style="margin-top:56px;">
-      <h2>Conclusione</h2>
-      <p>Il prompt engineering è un'abilità essenziale per chiunque lavori con modelli LLM. Saper dare istruzioni chiare, strutturare i prompt in modo efficace e iterare per migliorare i risultati permette di ottenere risposte più precise, pertinenti e utili. Questa materia sempre più spesso sta diventando oggetto di studio universitario e parte dei programmi formativi, soprattutto per quei prompt complessi che richiedono l'integrazione di grandi quantità di dati con richieste di elaborazione molto sofisticate, dimostrando che il prompt engineering non è una moda passeggera, ma l'inizio di una rivoluzione nell'interazione uomo-macchina.</p>
-      <p>Secondo il World Economic Forum, entro il 2030 oltre il 60% delle professioni richiederanno competenze avanzate di interazione con sistemi di intelligenza artificiale.</p>
+    <div class="prose fade-up" style="margin-top:64px;">
+      <h2>La competenza che non si chiama prompting</h2>
+      <p>Cinque tecniche diverse, un filo conduttore unico: in nessun caso il valore sta nella tecnica in sé. Sta nella qualità del pensiero che la precede. La precisione del contesto che porti, la solidità degli esempi che costruisci, il rigore con cui definisci il formato dell'output, la profondità con cui modelli il punto di vista del tuo stakeholder. Non sono competenze di prompting. Sono competenze di Product Management applicate a uno strumento diverso.</p>
+      <p>Un principio trasversale a tutte e cinque: non fermarsi mai al primo output. Ogni risposta del modello è un punto di partenza, non un punto di arrivo. Aggiungere un vincolo, cambiare prospettiva, portare nuovi dati, chiedere una rivalutazione -- l'affinamento iterativo è la pratica che separa un output accettabile da uno genuinamente utile. Il modello non migliora da solo: migliora ogni volta che gli porti una domanda più precisa o un contesto più ricco. Vale per un prompt esattamente come vale per un brief, una domanda di discovery o una specifica tecnica.</p>
+      <p>Chi lavora bene con gli strumenti AI non ha imparato una nuova competenza. Ha applicato meglio una competenza che aveva già. E chi fatica con i modelli AI fatica per la stessa ragione per cui fatica a scrivere requisiti chiari: non perché non conosce lo strumento, ma perché il pensiero a monte non è abbastanza strutturato.</p>
 
       <div class="callout">
-        <p>Seguendo le strategie mostrate nell'articolo, è possibile iniziare ad avere un occhio critico sulla creazione dei propri prompt e intraprendere il percorso di apprendimento per sfruttare al meglio il potenziale dell'intelligenza artificiale, migliorando la qualità del lavoro e ottimizzando i processi dove le IA vengono implementate.</p>
+        <p>Il test più utile che conosco: se non riesci a spiegare chiaramente a un collega cosa vuoi ottenere e con quali criteri valuteresti il risultato, non riuscirai a ottenerlo nemmeno dall'AI. Il problema non è il prompt. È la specifica.</p>
       </div>
+
+      <h2 style="margin-top:52px;">Una nota sui costi: token optimization</h2>
+      <p>Il prompting professionale è anche prompting economicamente efficiente. Ogni interazione con un modello AI ha un costo in token -- l'unità di misura con cui i modelli elaborano e generano testo. Un prompt vago che richiede cinque round di correzione consuma molti più token di un prompt preciso che produce l'output giusto al primo tentativo.</p>
+      <p>Investire tempo nella costruzione di un contesto solido, di esempi validati e di un formato definito non è solo una pratica metodologica: è anche una scelta di efficienza economica. A livello individuale l'impatto è contenuto; a livello di team, su centinaia di sessioni mensili, diventa una variabile di costo rilevante da considerare nella governance degli strumenti AI.</p>
+      <p>Ma il tema va oltre il budget. L'efficienza nell'uso dei token è parte di una consapevolezza più ampia che sta emergendo sotto ogni profilo: economico, energetico, ambientale. I modelli AI su larga scala hanno un consumo di risorse computazionali e un impatto energetico reali e misurabili. Usare l'AI in modo preciso e intenzionale, invece di procedere per tentativi, non è solo una buona pratica professionale: è una responsabilità che chi lavora con questi strumenti ogni giorno non può ignorare. La token optimization, oggi ancora sottostimata nei percorsi formativi e nelle pratiche aziendali, è destinata a diventare una componente essenziale del background di chiunque integri l'AI nei propri flussi di lavoro.</p>
+
+      <p>Usare l'AI con questa precisione e intenzionalità non costruisce dipendenza: costruisce integrazione governata. La differenza non è nello strumento, è nel modo in cui ci si rapporta con esso.</p>
+
+      <p style="margin-top:40px;font-size:0.85rem;color:var(--muted);font-style:italic;">Questo articolo fa parte di una serie dedicata all'integrazione pratica degli strumenti AI nel lavoro di prodotto e alla gestione del rischio tecnologico nelle organizzazioni.</p>
     </div>
 
   </div>
@@ -579,11 +493,11 @@
 
 <section class="contact-section">
   <div class="container">
-    <h2 class="contact-title">Integri l'AI nei tuoi processi?</h2>
-    <p class="contact-desc">Posso supportarti nella definizione di strategie AI e nell'ottimizzazione dei workflow basati su LLM.</p>
+    <h2 class="contact-title">Stai integrando l'AI nel tuo lavoro di prodotto?</h2>
+    <p class="contact-desc">Posso aiutarti a strutturare un approccio che funzioni nel contesto reale del tuo team.</p>
     <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
     <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
-      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Contattami &rarr;</a>
+      <a href="mailto:gabrielealbanese.privato@gmail.com" class="btn btn-primary">Scrivimi &rarr;</a>
       <a href="../index.html#articles" class="btn btn-outline">Altri articoli</a>
     </div>
   </div>
