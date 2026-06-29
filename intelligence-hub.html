@@ -174,7 +174,7 @@
       <div>
         <div class="ih-label"><span class="ih-label-dot"></span>Radar Professionale &middot; Aggiornamento automatico</div>
         <h1 class="ih-title">Intelligence <em>Hub</em></h1>
-        <p class="ih-subtitle">Fonti elite su AI, Product Management, Tech e Business. Corsi gratuiti selezionati. Nessuna notizia dalla gazzettina: solo voci autorevoli, aggiornate ogni 6 ore.</p>
+        <p class="ih-subtitle">Quello che seguo per restare un passo avanti. AI, prodotto, business: solo le fonti che contano.</p>
       </div>
       <div class="ih-stats">
         <div class="ih-stat-row"><span>Articoli</span><span class="ih-stat-val" id="ih-count">--</span></div>
@@ -400,9 +400,8 @@
   function showEmpty() {
     const grid=document.getElementById('ih-grid');
     const msg=document.createElement('div'); msg.className='ih-empty';
-    msg.innerHTML='<div class="ih-empty-icon">&#9889;</div>'+
-      '<p>L\'Intelligence Hub e\' online.<br>Il primo aggiornamento automatico avverra\' nelle prossime ore.<br><br>'+
-      'Per popolare subito il feed: <strong>GitHub &rarr; Actions &rarr; "Aggiorna Intelligence Hub" &rarr; Run workflow</strong>.</p>';
+    msg.innerHTML='<div class="ih-empty-icon">&#128336;</div>'+
+      '<p>Aggiornamento in corso.<br>I contenuti saranno disponibili a breve.</p>';
     grid.appendChild(msg);
   }
 
