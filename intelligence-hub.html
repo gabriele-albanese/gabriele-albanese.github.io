@@ -179,7 +179,9 @@
     }
     .ih-badge-new  { background: rgba(5,150,105,0.1);  border: 1px solid rgba(5,150,105,0.3);  color: #059669; }
     .ih-badge-top  { background: rgba(217,119,6,0.08); border: 1px solid rgba(217,119,6,0.25); color: #B45309; }
-    .ih-badge-free { background: rgba(5,150,105,0.08); border: 1px solid rgba(5,150,105,0.25); color: #059669; }
+    .ih-badge-free      { background: rgba(100,116,139,0.07); border: 1px solid rgba(100,116,139,0.22); color: #64748B; }
+    .ih-badge-cert-free { background: rgba(5,150,105,0.1);   border: 1px solid rgba(5,150,105,0.35);  color: #059669; font-weight: 800; }
+    .ih-course-divider  { grid-column:1/-1; border:none; border-top:1px dashed var(--border); margin:8px 0 4px; }
 
     .ih-card-title {
       font-size: 0.94rem; font-weight: 700; color: var(--primary);
@@ -451,11 +453,24 @@
     title.textContent='Corsi gratuiti';
     grid.appendChild(title);
 
+    let shownDivider=false;
     courses.forEach(function(c){
+      if(!shownDivider && !c.cert_free){
+        shownDivider=true;
+        const div=document.createElement('hr'); div.className='ih-course-divider';
+        const lbl=document.createElement('div'); lbl.className='ih-section-title';
+        lbl.style.cssText='grid-column:1/-1;font-size:0.72rem;color:var(--text-light);margin-bottom:4px;';
+        lbl.textContent='Contenuto gratuito — certificazione a pagamento';
+        grid.appendChild(div); grid.appendChild(lbl);
+      }
+
       const card=document.createElement('article');
       card.className='ih-card ih-card-course';
-      const newB =c.new?'<span class="ih-badge-new">NUOVO</span>':'';
-      const topic=TOPIC_LABELS[c.topic]||c.topic;
+      const newB    =c.new?'<span class="ih-badge-new">NUOVO</span>':'';
+      const topic   =TOPIC_LABELS[c.topic]||c.topic;
+      const certBadge=c.cert_free
+        ?'<span class="ih-badge-cert-free">CERT. GRATUITA</span>'
+        :'<span class="ih-badge-free">CONTENUTO GRATUITO</span>';
 
       card.innerHTML=
         '<div class="ih-card-header">'+
@@ -463,7 +478,7 @@
             '<span class="ih-source">'+esc(c.provider)+'</span>'+
             '<span class="ih-chip ih-chip-'+esc(c.topic)+'">'+esc(topic)+'</span>'+
           '</div>'+
-          '<span class="ih-badge-free">GRATUITO</span>'+newB+
+          certBadge+newB+
         '</div>'+
         '<h2 class="ih-card-title">'+esc(c.title)+'</h2>'+
         (c.description?'<p class="ih-card-excerpt">'+esc(c.description)+'</p>':'')+

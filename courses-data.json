@@ -5,74 +5,15 @@
     {
       "id": "c01",
       "title": "Introduction to AI",
-      "provider": "Elements of AI",
+      "provider": "Elements of AI (Univ. Helsinki)",
       "topic": "ai",
       "level": "Base",
       "duration": "~6 settimane",
       "url": "https://www.elementsofai.com/",
       "free": true,
+      "cert_free": true,
       "new": false,
-      "description": "Corso dell'Universita di Helsinki. Zero prerequisiti tecnici, certificato incluso. Il punto di partenza migliore per chi non ha background tecnico."
-    },
-    {
-      "id": "c02",
-      "title": "Claude 101",
-      "provider": "Anthropic",
-      "topic": "ai",
-      "level": "Base",
-      "duration": "~1 ora",
-      "url": "https://www.anthropic.com/learn",
-      "free": true,
-      "new": true,
-      "description": "Introduzione ufficiale a Claude: capacita, limiti e casi d'uso principali. Punto di partenza consigliato da Anthropic."
-    },
-    {
-      "id": "c03",
-      "title": "Building with the Claude API",
-      "provider": "Anthropic",
-      "topic": "ai",
-      "level": "Intermedio",
-      "duration": "~2 ore",
-      "url": "https://www.anthropic.com/learn",
-      "free": true,
-      "new": true,
-      "description": "Come integrare Claude nelle applicazioni tramite API. Utile per PM che vogliono capire cosa e tecnicamente fattibile con gli LLM."
-    },
-    {
-      "id": "c04",
-      "title": "ChatGPT Prompt Engineering for Developers",
-      "provider": "DeepLearning.ai",
-      "topic": "ai",
-      "level": "Base",
-      "duration": "~1 ora",
-      "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
-      "free": true,
-      "new": false,
-      "description": "Corso di Andrew Ng e Isa Fulford (OpenAI). Prompt engineering applicato allo sviluppo prodotto. Conciso e molto pratico."
-    },
-    {
-      "id": "c05",
-      "title": "AI Agents in LangGraph",
-      "provider": "DeepLearning.ai",
-      "topic": "ai",
-      "level": "Avanzato",
-      "duration": "~2 ore",
-      "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
-      "free": true,
-      "new": false,
-      "description": "Architettura degli agenti AI con LangGraph. Per chi vuole capire come si costruiscono workflow multi-step con LLM."
-    },
-    {
-      "id": "c06",
-      "title": "Practical Deep Learning for Coders",
-      "provider": "fast.ai",
-      "topic": "ai",
-      "level": "Intermedio",
-      "duration": "~20 ore",
-      "url": "https://course.fast.ai/",
-      "free": true,
-      "new": false,
-      "description": "Il corso di Jeremy Howard: deep learning applicato con approccio top-down. Tra i piu apprezzati al mondo per qualita e metodo."
+      "description": "Corso dell'Universita di Helsinki. Zero prerequisiti tecnici, certificato incluso e riconosciuto. Il punto di partenza migliore per chi non ha background tecnico."
     },
     {
       "id": "c07",
@@ -83,44 +24,22 @@
       "duration": "~10 ore",
       "url": "https://grow.google/ai-essentials/",
       "free": true,
+      "cert_free": true,
       "new": true,
-      "description": "Corso certificato Google sull'uso pratico dell'AI nel lavoro quotidiano. Nessun prerequisito tecnico, focus su produttivita e workflow professionali."
+      "description": "Corso certificato Google sull'uso pratico dell'AI nel lavoro quotidiano. Nessun prerequisito tecnico, focus su produttivita e workflow professionali. Certificato Google incluso."
     },
     {
       "id": "c08",
       "title": "Introduction to Generative AI",
-      "provider": "Google",
+      "provider": "Google Cloud",
       "topic": "ai",
       "level": "Base",
       "duration": "~45 min",
       "url": "https://www.cloudskillsboost.google/course_templates/536",
       "free": true,
+      "cert_free": true,
       "new": false,
-      "description": "Corso breve di Google Cloud su cos'e la GenAI, come funziona e in che modo si differenzia dai modelli tradizionali di ML."
-    },
-    {
-      "id": "c09",
-      "title": "Machine Learning Crash Course",
-      "provider": "Google",
-      "topic": "ai",
-      "level": "Intermedio",
-      "duration": "~15 ore",
-      "url": "https://developers.google.com/machine-learning/crash-course",
-      "free": true,
-      "new": false,
-      "description": "Corso accelerato di Google sul machine learning. Fondamenta teoriche + esercizi pratici. Consigliato per PM tecnici che vogliono capire i modelli predittivi."
-    },
-    {
-      "id": "c10",
-      "title": "AI for Everyone",
-      "provider": "DeepLearning.ai",
-      "topic": "pm",
-      "level": "Base",
-      "duration": "~6 ore",
-      "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
-      "free": true,
-      "new": false,
-      "description": "Il corso di Andrew Ng per non tecnici. Pensato per manager e PM che vogliono capire l'AI senza scrivere codice. Accesso gratuito ai contenuti."
+      "description": "Corso breve di Google Cloud su cos'e la GenAI, come funziona e come si differenzia dai modelli ML tradizionali. Badge Google Cloud incluso al completamento."
     },
     {
       "id": "c12",
@@ -131,8 +50,100 @@
       "duration": "~7 settimane",
       "url": "https://cs50.harvard.edu/ai/",
       "free": true,
+      "cert_free": true,
       "new": false,
-      "description": "Il corso di Harvard sull'AI applicata: search, knowledge, uncertainty, neural networks e NLP. Uno standard assoluto per qualita del contenuto."
+      "description": "Il corso di Harvard sull'AI applicata: search, knowledge, uncertainty, neural networks e NLP. Certificato Harvard incluso gratuitamente. Uno standard assoluto per qualita del contenuto."
+    },
+    {
+      "id": "c10",
+      "title": "AI for Everyone",
+      "provider": "DeepLearning.ai",
+      "topic": "pm",
+      "level": "Base",
+      "duration": "~6 ore",
+      "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+      "free": true,
+      "cert_free": false,
+      "new": false,
+      "description": "Il corso di Andrew Ng per non tecnici. Pensato per manager e PM che vogliono capire l'AI senza scrivere codice. Contenuto gratuito, certificato a pagamento."
+    },
+    {
+      "id": "c02",
+      "title": "Claude 101",
+      "provider": "Anthropic",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~1 ora",
+      "url": "https://www.anthropic.com/learn",
+      "free": true,
+      "cert_free": false,
+      "new": true,
+      "description": "Introduzione ufficiale a Claude: capacita, limiti e casi d'uso principali. Punto di partenza consigliato da Anthropic. Nessun certificato formale."
+    },
+    {
+      "id": "c03",
+      "title": "Building with the Claude API",
+      "provider": "Anthropic",
+      "topic": "ai",
+      "level": "Intermedio",
+      "duration": "~2 ore",
+      "url": "https://www.anthropic.com/learn",
+      "free": true,
+      "cert_free": false,
+      "new": true,
+      "description": "Come integrare Claude nelle applicazioni tramite API. Utile per PM che vogliono capire cosa e tecnicamente fattibile con gli LLM. Nessun certificato formale."
+    },
+    {
+      "id": "c04",
+      "title": "ChatGPT Prompt Engineering for Developers",
+      "provider": "DeepLearning.ai",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~1 ora",
+      "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+      "free": true,
+      "cert_free": false,
+      "new": false,
+      "description": "Corso di Andrew Ng e Isa Fulford (OpenAI). Prompt engineering applicato allo sviluppo prodotto. Conciso e molto pratico. Nessun certificato formale."
+    },
+    {
+      "id": "c05",
+      "title": "AI Agents in LangGraph",
+      "provider": "DeepLearning.ai",
+      "topic": "ai",
+      "level": "Avanzato",
+      "duration": "~2 ore",
+      "url": "https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/",
+      "free": true,
+      "cert_free": false,
+      "new": false,
+      "description": "Architettura degli agenti AI con LangGraph. Per chi vuole capire come si costruiscono workflow multi-step con LLM. Nessun certificato formale."
+    },
+    {
+      "id": "c06",
+      "title": "Practical Deep Learning for Coders",
+      "provider": "fast.ai",
+      "topic": "ai",
+      "level": "Intermedio",
+      "duration": "~20 ore",
+      "url": "https://course.fast.ai/",
+      "free": true,
+      "cert_free": false,
+      "new": false,
+      "description": "Il corso di Jeremy Howard: deep learning applicato con approccio top-down. Tra i piu apprezzati al mondo per qualita e metodo. Nessun certificato formale, molto stimato nella community."
+    },
+    {
+      "id": "c09",
+      "title": "Machine Learning Crash Course",
+      "provider": "Google",
+      "topic": "ai",
+      "level": "Intermedio",
+      "duration": "~15 ore",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "free": true,
+      "cert_free": false,
+      "new": false,
+      "description": "Corso accelerato di Google sul machine learning. Fondamenta teoriche + esercizi pratici con TensorFlow. Consigliato per PM tecnici che vogliono capire i modelli predittivi."
     }
   ]
 }
