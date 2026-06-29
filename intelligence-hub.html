@@ -4,144 +4,218 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Intelligence Hub — Gabriele Albanese</title>
-  <meta name="description" content="Radar professionale: fonti elite su AI, Product Management, Tech e Business. Corsi gratuiti selezionati. Aggiornamento automatico ogni 6 ore." />
+  <meta name="description" content="Radar professionale: fonti elite su AI, Product Management, Tech e Business. Corsi gratuiti selezionati." />
   <link rel="stylesheet" href="assets/css/style.css" />
   <style>
-    /* ---- Intelligence Hub: dark magazine ---- */
-    body { background: #080E18; color: #E5E7EB; }
+    /* ---- Intelligence Hub — light theme, coerente col portfolio ---- */
 
-    .nav { background: rgba(8,14,24,0.96); border-color: rgba(14,116,144,0.2); }
-    .nav-logo { color: #F9FAFB; }
-    .nav-links a { color: #9CA3AF; }
-    .nav-links a:hover, .nav-links a.active { color: #22D3EE; }
-    .nav-links a::after { background: #22D3EE; }
-    .nav-cta { background: #0E7490 !important; color: white !important; }
-    .nav-cta:hover { background: #0C6478 !important; }
-    .hamburger span { background: #E5E7EB; }
-    .scroll-progress { background: linear-gradient(90deg, #0E7490, #22D3EE); }
-
-    /* ---- Hero ---- */
+    /* Hero */
     .ih-hero {
-      padding: calc(var(--nav-h) + 56px) 0 48px;
-      background: linear-gradient(160deg, #040810 0%, #080E18 40%, #0A1828 70%, #080E18 100%);
-      border-bottom: 1px solid rgba(14,116,144,0.18);
+      padding: calc(var(--nav-h) + 64px) 0 52px;
+      background: var(--bg);
       position: relative; overflow: hidden;
+      border-bottom: 1px solid var(--border);
     }
     .ih-hero::before {
-      content: ''; position: absolute; top: -40%; right: -10%;
-      width: 600px; height: 600px; border-radius: 50%;
-      background: radial-gradient(circle, rgba(14,116,144,0.07) 0%, transparent 65%);
-      pointer-events: none;
+      content: ''; position: absolute; inset: 0; pointer-events: none;
+      background:
+        radial-gradient(ellipse at 10% 60%, rgba(14,116,144,0.06) 0%, transparent 55%),
+        radial-gradient(ellipse at 90% 10%, rgba(8,145,178,0.04) 0%, transparent 55%);
     }
 
-    .breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 0.78rem; color: #4B5563; margin-bottom: 32px; }
-    .breadcrumb a { color: #6B7280; transition: color 0.2s; }
-    .breadcrumb a:hover { color: #22D3EE; }
-    .breadcrumb span { color: #374151; }
+    .ih-breadcrumb {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 0.78rem; color: var(--text-light); margin-bottom: 28px;
+    }
+    .ih-breadcrumb a { color: var(--text-muted); transition: color 0.2s; }
+    .ih-breadcrumb a:hover { color: var(--accent); }
 
-    .ih-hero-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 32px; margin-bottom: 36px; flex-wrap: wrap; }
+    .ih-hero-top {
+      display: flex; align-items: flex-start; justify-content: space-between;
+      gap: 32px; margin-bottom: 36px; flex-wrap: wrap;
+      position: relative; z-index: 1;
+    }
 
-    .ih-label { display: inline-flex; align-items: center; gap: 8px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #22D3EE; margin-bottom: 14px; }
-    .ih-label-dot { width: 7px; height: 7px; border-radius: 50%; background: #22D3EE; animation: ih-pulse 2s infinite; }
-    @keyframes ih-pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.4;transform:scale(1.4)} }
+    .ih-live-label {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: var(--accent-glow); border: 1px solid rgba(14,116,144,0.25);
+      color: var(--accent); font-size: 0.75rem; font-weight: 700;
+      letter-spacing: 0.08em; text-transform: uppercase;
+      padding: 5px 14px; border-radius: 100px; margin-bottom: 20px;
+    }
+    .ih-live-dot {
+      width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+      animation: ih-blink 2s infinite;
+    }
+    @keyframes ih-blink { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.4;transform:scale(1.3)} }
 
-    .ih-title { font-size: clamp(2rem,5vw,3.2rem); font-weight: 800; color: #F9FAFB; letter-spacing: -0.03em; line-height: 1.08; margin-bottom: 14px; }
-    .ih-title em { font-style: normal; color: #0E7490; }
-    .ih-subtitle { font-size: 1rem; color: #6B7280; line-height: 1.7; max-width: 560px; }
+    .ih-title {
+      font-size: clamp(2rem,4.5vw,3rem); font-weight: 800;
+      color: var(--primary); letter-spacing: -0.03em; line-height: 1.1; margin-bottom: 14px;
+    }
+    .ih-title em { font-style: normal; color: var(--accent); }
+    .ih-subtitle { font-size: 1.05rem; color: var(--text-muted); line-height: 1.75; max-width: 520px; }
 
-    .ih-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; min-width: 180px; }
-    .ih-stat-row { display: flex; align-items: center; gap: 10px; background: rgba(14,116,144,0.08); border: 1px solid rgba(14,116,144,0.18); border-radius: 10px; padding: 10px 16px; font-size: 0.8rem; color: #9CA3AF; white-space: nowrap; }
-    .ih-stat-val { font-weight: 700; color: #E5E7EB; font-size: 0.95rem; }
+    /* Stats card */
+    .ih-meta-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 20px 24px;
+      display: flex; flex-direction: column; gap: 14px;
+      min-width: 200px; box-shadow: var(--shadow-sm);
+    }
+    .ih-meta-row { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+    .ih-meta-label { font-size: 0.75rem; color: var(--text-light); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; }
+    .ih-meta-val { font-size: 0.9rem; font-weight: 700; color: var(--primary); }
+    .ih-meta-rule { height: 1px; background: var(--border); }
 
-    /* ---- Filtri ---- */
+    /* Filtri */
+    .ih-filters-row {
+      display: flex; align-items: center; justify-content: space-between;
+      gap: 16px; flex-wrap: wrap; position: relative; z-index: 1;
+    }
     .ih-filters { display: flex; gap: 8px; flex-wrap: wrap; }
-    .ih-filter { padding: 8px 18px; border-radius: 100px; font-size: 0.82rem; font-weight: 600; font-family: var(--font); cursor: pointer; transition: all 0.2s; border: 1.5px solid rgba(255,255,255,0.1); background: transparent; color: #6B7280; }
-    .ih-filter:hover { border-color: rgba(14,116,144,0.5); color: #22D3EE; }
-    .ih-filter.active { background: rgba(14,116,144,0.18); border-color: rgba(14,116,144,0.6); color: #22D3EE; }
-    .ih-filter[data-topic="corsi"].active { background: rgba(16,185,129,0.12); border-color: rgba(16,185,129,0.45); color: #6EE7B7; }
-    .ih-filter[data-topic="corsi"]:hover { border-color: rgba(16,185,129,0.4); color: #6EE7B7; }
+    .ih-filter {
+      padding: 7px 18px; border-radius: 100px;
+      font-size: 0.82rem; font-weight: 600; font-family: var(--font);
+      cursor: pointer; transition: var(--transition);
+      border: 1.5px solid var(--border); background: transparent; color: var(--text-muted);
+    }
+    .ih-filter:hover { border-color: var(--accent); color: var(--accent); }
+    .ih-filter.active { background: var(--accent-glow); border-color: var(--accent); color: var(--accent); }
+    .ih-filter[data-topic="corsi"].active { background: rgba(5,150,105,0.07); border-color: rgba(5,150,105,0.4); color: #059669; }
+    .ih-filter[data-topic="corsi"]:hover { border-color: rgba(5,150,105,0.4); color: #059669; }
 
-    /* ---- Body / Grid ---- */
-    .ih-body { padding: 48px 0 80px; min-height: 60vh; }
+    .ih-sort-label {
+      font-size: 0.75rem; color: var(--text-light); font-weight: 600;
+      white-space: nowrap; display: flex; align-items: center; gap: 6px;
+    }
+    .ih-sort-label::before { content: '↓'; font-size: 0.8rem; color: var(--accent); }
+
+    /* Body */
+    .ih-body { padding: 48px 0 96px; background: var(--bg-alt); min-height: 50vh; }
+
+    /* Grid */
     .ih-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; }
 
-    /* ---- Card news ---- */
-    .ih-card {
-      background: #0D1524; border: 1px solid rgba(14,116,144,0.12); border-radius: 14px;
-      padding: 22px 24px; display: flex; flex-direction: column; gap: 12px;
-      transition: border-color 0.22s, transform 0.22s, box-shadow 0.22s;
-      position: relative; overflow: hidden;
+    /* Separatore data */
+    .ih-date-sep {
+      grid-column: 1/-1;
+      font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em;
+      text-transform: uppercase; color: var(--text-light);
+      padding-bottom: 10px; border-bottom: 1px solid var(--border);
+      margin-top: 12px;
     }
-    .ih-card:hover { border-color: rgba(14,116,144,0.38); transform: translateY(-3px); box-shadow: 0 8px 32px rgba(0,0,0,0.35); }
-    .ih-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg,transparent,rgba(14,116,144,0.5),transparent); opacity: 0; transition: opacity 0.22s; }
+    .ih-date-sep:first-child { margin-top: 0; }
+
+    /* Card */
+    .ih-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 22px 24px;
+      display: flex; flex-direction: column; gap: 12px;
+      transition: var(--transition); position: relative; overflow: hidden;
+    }
+    .ih-card:hover { border-color: rgba(14,116,144,0.35); box-shadow: var(--shadow); transform: translateY(-2px); }
+    .ih-card::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, transparent, var(--accent), transparent);
+      opacity: 0; transition: opacity 0.22s;
+    }
     .ih-card:hover::before { opacity: 1; }
 
-    /* ---- Card corsi ---- */
-    .ih-card-course { border-left: 3px solid rgba(16,185,129,0.35); }
-    .ih-card-course::before { background: linear-gradient(90deg,transparent,rgba(16,185,129,0.4),transparent); }
-    .ih-card-course:hover { border-color: rgba(16,185,129,0.5); border-left-color: rgba(16,185,129,0.7); }
+    /* Card corsi */
+    .ih-card-course { border-left: 3px solid rgba(5,150,105,0.35); }
+    .ih-card-course:hover { border-color: rgba(5,150,105,0.5); border-left-color: #059669; }
+    .ih-card-course::before { background: linear-gradient(90deg,transparent,#059669,transparent); }
 
-    .ih-card-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+    .ih-card-header { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
     .ih-card-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-    .ih-source { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: #4B5563; }
 
-    /* Topic chips */
-    .ih-chip { font-size: 0.66rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 100px; }
-    .ih-chip-ai      { background: rgba(139,92,246,0.12); border: 1px solid rgba(139,92,246,0.35); color: #C4B5FD; }
-    .ih-chip-pm      { background: rgba(14,116,144,0.12); border: 1px solid rgba(14,116,144,0.35); color: #67E8F9; }
-    .ih-chip-tech    { background: rgba(59,130,246,0.12); border: 1px solid rgba(59,130,246,0.35); color: #93C5FD; }
-    .ih-chip-business{ background: rgba(245,158,11,0.12); border: 1px solid rgba(245,158,11,0.35); color: #FCD34D; }
+    .ih-source {
+      font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--text-light);
+    }
+
+    /* Chip topic */
+    .ih-chip {
+      font-size: 0.65rem; font-weight: 700; letter-spacing: 0.05em;
+      text-transform: uppercase; padding: 3px 9px; border-radius: 100px;
+    }
+    .ih-chip-ai       { background: rgba(124,58,237,0.08); border: 1px solid rgba(124,58,237,0.2); color: #7C3AED; }
+    .ih-chip-pm       { background: var(--accent-glow);    border: 1px solid rgba(14,116,144,0.25); color: var(--accent); }
+    .ih-chip-tech     { background: rgba(37,99,235,0.08);  border: 1px solid rgba(37,99,235,0.2);  color: #2563EB; }
+    .ih-chip-business { background: rgba(217,119,6,0.08);  border: 1px solid rgba(217,119,6,0.2);  color: #B45309; }
 
     /* Badge */
-    .ih-badge-new, .ih-badge-top, .ih-badge-free { font-size: 0.62rem; font-weight: 800; letter-spacing: 0.08em; padding: 2px 8px; border-radius: 4px; flex-shrink: 0; }
-    .ih-badge-new  { background: rgba(16,185,129,0.15); border: 1px solid rgba(16,185,129,0.4); color: #6EE7B7; }
-    .ih-badge-top  { background: rgba(245,158,11,0.12); border: 1px solid rgba(245,158,11,0.35); color: #FCD34D; }
-    .ih-badge-free { background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.3); color: #6EE7B7; }
+    .ih-badge-new, .ih-badge-top, .ih-badge-free {
+      font-size: 0.6rem; font-weight: 800; letter-spacing: 0.07em;
+      padding: 2px 7px; border-radius: 4px; flex-shrink: 0;
+    }
+    .ih-badge-new  { background: rgba(5,150,105,0.1);  border: 1px solid rgba(5,150,105,0.3);  color: #059669; }
+    .ih-badge-top  { background: rgba(217,119,6,0.08); border: 1px solid rgba(217,119,6,0.25); color: #B45309; }
+    .ih-badge-free { background: rgba(5,150,105,0.08); border: 1px solid rgba(5,150,105,0.25); color: #059669; }
 
-    .ih-card-title { font-size: 0.96rem; font-weight: 700; color: #E5E7EB; line-height: 1.45; letter-spacing: -0.01em; }
-    .ih-card-excerpt { font-size: 0.82rem; color: #6B7280; line-height: 1.65; flex: 1; }
+    .ih-card-title {
+      font-size: 0.94rem; font-weight: 700; color: var(--primary);
+      line-height: 1.45; letter-spacing: -0.01em;
+    }
+    .ih-card-excerpt { font-size: 0.82rem; color: var(--text-muted); line-height: 1.65; flex: 1; }
 
-    .ih-card-footer { display: flex; align-items: center; justify-content: space-between; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); margin-top: auto; }
-    .ih-date { font-size: 0.73rem; color: #374151; }
-    .ih-read-link { font-size: 0.8rem; font-weight: 600; color: #0E7490; transition: color 0.18s; }
-    .ih-read-link:hover { color: #22D3EE; }
+    .ih-card-footer {
+      display: flex; align-items: center; justify-content: space-between;
+      padding-top: 12px; border-top: 1px solid var(--border); margin-top: auto;
+    }
+    .ih-date { font-size: 0.72rem; color: var(--text-light); }
+    .ih-read-link { font-size: 0.8rem; font-weight: 600; color: var(--accent); transition: color 0.18s; }
+    .ih-read-link:hover { color: var(--accent-hover); }
 
-    /* Meta corso (level + duration) */
+    /* Meta corso */
     .ih-course-meta { display: flex; gap: 6px; align-items: center; }
-    .ih-level, .ih-duration { font-size: 0.7rem; color: #4B5563; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
+    .ih-level, .ih-duration {
+      font-size: 0.7rem; color: var(--text-muted);
+      background: var(--bg-alt); border: 1px solid var(--border);
+      padding: 2px 8px; border-radius: 4px; white-space: nowrap;
+    }
 
-    /* ---- Loading / Empty / Error ---- */
-    .ih-loading { grid-column: 1/-1; display: flex; flex-direction: column; align-items: center; gap: 18px; padding: 80px 0; color: #4B5563; font-size: 0.9rem; }
-    .ih-spinner { width: 36px; height: 36px; border: 3px solid rgba(14,116,144,0.15); border-top-color: #0E7490; border-radius: 50%; animation: ih-spin 0.8s linear infinite; }
+    /* Sezione corsi — titoletto */
+    .ih-section-title {
+      grid-column: 1/-1; font-size: 0.72rem; font-weight: 700;
+      letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-light);
+      margin-bottom: 4px;
+    }
+
+    /* Loading / empty / error */
+    .ih-loading {
+      grid-column: 1/-1; display: flex; flex-direction: column;
+      align-items: center; gap: 18px; padding: 80px 0;
+      color: var(--text-light); font-size: 0.9rem;
+    }
+    .ih-spinner {
+      width: 34px; height: 34px;
+      border: 3px solid var(--border); border-top-color: var(--accent);
+      border-radius: 50%; animation: ih-spin 0.8s linear infinite;
+    }
     @keyframes ih-spin { to { transform: rotate(360deg); } }
-    .ih-empty, .ih-error { grid-column: 1/-1; text-align: center; padding: 80px 0; color: #4B5563; }
-    .ih-empty-icon, .ih-error-icon { font-size: 2.5rem; margin-bottom: 16px; }
+
+    .ih-empty, .ih-error {
+      grid-column: 1/-1; text-align: center;
+      padding: 80px 0; color: var(--text-muted);
+    }
+    .ih-empty-icon, .ih-error-icon { font-size: 2.2rem; margin-bottom: 14px; }
     .ih-empty p, .ih-error p { font-size: 0.9rem; line-height: 1.7; }
-    .ih-offline-banner { background: rgba(217,119,6,0.1); border: 1px solid rgba(217,119,6,0.3); color: #FCD34D; font-size: 0.8rem; padding: 10px 18px; border-radius: 8px; margin-bottom: 24px; display: none; }
 
-    /* ---- Footer ---- */
-    footer { background: #040810; border-top: 1px solid rgba(14,116,144,0.12); }
-    .footer-logo { color: #6B7280; }
-    .footer-links a { color: #4B5563; }
-    .footer-links a:hover { color: #22D3EE; }
-    .footer-copy { color: #374151; }
+    .ih-offline-banner {
+      background: rgba(217,119,6,0.07); border: 1px solid rgba(217,119,6,0.25);
+      color: #B45309; font-size: 0.8rem; padding: 10px 18px;
+      border-radius: 8px; margin-bottom: 24px; display: none;
+    }
 
-    .ih-tech-note { text-align: center; padding: 24px 0 0; font-size: 0.73rem; color: #1F2937; letter-spacing: 0.04em; }
-    .ih-tech-note a { color: #374151; }
-    .ih-tech-note a:hover { color: #4B5563; }
-
-    /* ---- Sezione corsi — intestazione separata ---- */
-    .ih-section-title { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #374151; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid rgba(255,255,255,0.04); }
-
-    /* ---- Responsive ---- */
-    @media (max-width: 1024px) { .ih-grid { grid-template-columns: repeat(2,1fr); } .ih-stats { align-items: flex-start; } }
+    /* Responsive */
+    @media (max-width: 1024px) { .ih-grid { grid-template-columns: repeat(2,1fr); } }
     @media (max-width: 640px) {
       .ih-grid { grid-template-columns: 1fr; }
       .ih-hero-top { flex-direction: column; }
-      .ih-stats { flex-direction: row; flex-wrap: wrap; }
-      .ih-stat-row { flex: 1; min-width: 0; }
-      .nav-links { display: none; }
-      .nav-links.open { display: flex; flex-direction: column; position: absolute; top: var(--nav-h); left: 0; right: 0; background: #080E18; padding: 16px 24px 24px; border-bottom: 1px solid rgba(14,116,144,0.2); gap: 16px; z-index: 999; }
+      .ih-meta-card { min-width: 0; width: 100%; }
+      .ih-filters-row { flex-direction: column; align-items: flex-start; }
     }
   </style>
 </head>
@@ -149,10 +223,10 @@
 
 <div class="scroll-progress" id="scrollProgress"></div>
 
-<nav class="nav scrolled" id="navbar">
+<nav class="nav" id="navbar">
   <div class="nav-inner">
     <a href="index.html" class="nav-logo">Gabriele Albanese</a>
-    <ul class="nav-links" id="navLinks">
+    <ul class="nav-links">
       <li><a href="index.html#about">Chi Sono</a></li>
       <li><a href="index.html#works">Progetti</a></li>
       <li><a href="index.html#articles">Articoli</a></li>
@@ -161,37 +235,50 @@
       <li><a href="intelligence-hub.html" class="active">Radar</a></li>
       <li><a href="index.html#contact" class="nav-cta">Contattami</a></li>
     </ul>
-    <button class="hamburger" aria-label="Menu" id="hamburger"><span></span><span></span><span></span></button>
+    <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
   </div>
 </nav>
 
+<!-- HERO -->
 <div class="ih-hero">
-  <div class="container" style="position:relative;z-index:1;">
-    <div class="breadcrumb">
-      <a href="index.html">Home</a><span>/</span><span style="color:#374151;">Intelligence Hub</span>
+  <div class="container">
+    <div class="ih-breadcrumb">
+      <a href="index.html">Home</a><span>/</span><span>Intelligence Hub</span>
     </div>
     <div class="ih-hero-top">
       <div>
-        <div class="ih-label"><span class="ih-label-dot"></span>Radar Professionale &middot; Aggiornamento automatico</div>
+        <div class="ih-live-label"><span class="ih-live-dot"></span>Aggiornamento automatico</div>
         <h1 class="ih-title">Intelligence <em>Hub</em></h1>
         <p class="ih-subtitle">Quello che seguo per restare un passo avanti. AI, prodotto, business: solo le fonti che contano.</p>
       </div>
-      <div class="ih-stats">
-        <div class="ih-stat-row"><span>Articoli</span><span class="ih-stat-val" id="ih-count">--</span></div>
-        <div class="ih-stat-row"><span>Aggiornato</span><span class="ih-stat-val" id="ih-updated">--</span></div>
+      <div class="ih-meta-card fade-up delay-2">
+        <div class="ih-meta-row">
+          <span class="ih-meta-label">Articoli</span>
+          <span class="ih-meta-val" id="ih-count">--</span>
+        </div>
+        <div class="ih-meta-rule"></div>
+        <div class="ih-meta-row">
+          <span class="ih-meta-label">Aggiornato</span>
+          <span class="ih-meta-val" id="ih-updated">--</span>
+        </div>
       </div>
     </div>
-    <div class="ih-filters">
-      <button class="ih-filter active" data-topic="all">Tutti</button>
-      <button class="ih-filter" data-topic="ai">AI &amp; LLM</button>
-      <button class="ih-filter" data-topic="pm">Product Management</button>
-      <button class="ih-filter" data-topic="tech">Tech &amp; Innovazione</button>
-      <button class="ih-filter" data-topic="business">Business &amp; Leadership</button>
-      <button class="ih-filter" data-topic="corsi">Corsi Gratuiti</button>
+
+    <div class="ih-filters-row">
+      <div class="ih-filters">
+        <button class="ih-filter active" data-topic="all">Tutti</button>
+        <button class="ih-filter" data-topic="ai">AI &amp; LLM</button>
+        <button class="ih-filter" data-topic="pm">Product Management</button>
+        <button class="ih-filter" data-topic="tech">Tech &amp; Innovazione</button>
+        <button class="ih-filter" data-topic="business">Business &amp; Leadership</button>
+        <button class="ih-filter" data-topic="corsi">Corsi Gratuiti</button>
+      </div>
+      <span class="ih-sort-label">Dal piu recente</span>
     </div>
   </div>
 </div>
 
+<!-- GRID -->
 <div class="ih-body">
   <div class="container">
     <div class="ih-offline-banner" id="ih-offline">Modalita offline: stai visualizzando notizie dalla cache locale.</div>
@@ -201,6 +288,7 @@
   </div>
 </div>
 
+<!-- FOOTER -->
 <footer>
   <div class="container">
     <div class="footer-inner">
@@ -223,53 +311,70 @@
     var s=2022,n=new Date().getFullYear();
     document.getElementById('footer-year').textContent=n>s?s+'–'+n:s;
   })();
-  document.getElementById('hamburger').addEventListener('click',function(){
-    document.getElementById('navLinks').classList.toggle('open');
-  });
 </script>
 
 <script>
-  const TOPIC_LABELS = { ai:'AI & LLM', pm:'Product Management', tech:'Tech & Innovazione', business:'Business & Leadership' };
-  const LEVEL_COLORS = { 'Base':'rgba(16,185,129,0.08)', 'Intermedio':'rgba(59,130,246,0.08)', 'Avanzato':'rgba(245,158,11,0.08)' };
+  const TOPIC_LABELS = {
+    ai:'AI & LLM', pm:'Product Management',
+    tech:'Tech & Innovazione', business:'Business & Leadership'
+  };
 
   let allArticles = [];
   let allCourses  = [];
-  let currentMode = 'news'; // 'news' | 'corsi'
+  let currentMode = 'news';
 
-  function esc(str) {
-    const d = document.createElement('div');
+  function esc(str){
+    const d=document.createElement('div');
     d.appendChild(document.createTextNode(String(str||'')));
     return d.innerHTML;
   }
 
-  function fmtDate(iso) {
-    try { return new Date(iso).toLocaleDateString('it-IT',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}); }
+  function fmtDate(iso){
+    try{ return new Date(iso).toLocaleDateString('it-IT',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}); }
     catch(e){ return ''; }
   }
 
-  function isNew48h(ts) { return ts && (Date.now()-new Date(ts).getTime()) < 48*60*60*1000; }
+  function isNew48h(ts){ return ts&&(Date.now()-new Date(ts).getTime())<48*60*60*1000; }
 
-  /* ---- Render news ---- */
-  function renderArticles(articles) {
-    const grid = document.getElementById('ih-grid');
-    grid.querySelectorAll('.ih-card,.ih-empty,.ih-error,.ih-section-title').forEach(c=>c.remove());
+  function getDateGroup(ts){
+    if(!ts) return 'Prima';
+    const diff=(Date.now()-new Date(ts).getTime())/(1000*60*60*24);
+    if(diff<1)   return 'Oggi';
+    if(diff<2)   return 'Ieri';
+    if(diff<7)   return 'Ultimi 7 giorni';
+    if(diff<30)  return 'Ultimo mese';
+    return 'Prima';
+  }
 
-    if (!articles.length) {
+  /* ---- Render news con raggruppamento per data ---- */
+  function renderArticles(articles){
+    const grid=document.getElementById('ih-grid');
+    grid.querySelectorAll('.ih-card,.ih-empty,.ih-error,.ih-section-title,.ih-date-sep').forEach(c=>c.remove());
+
+    if(!articles.length){
       const msg=document.createElement('div'); msg.className='ih-empty';
-      msg.innerHTML='<div class="ih-empty-icon">&#128269;</div><p>Nessun articolo in questa categoria.<br>Il prossimo aggiornamento avverra\' nelle prossime ore.</p>';
+      msg.innerHTML='<div class="ih-empty-icon">&#128269;</div><p>Nessun articolo in questa categoria.<br>Il prossimo aggiornamento avverra\' a breve.</p>';
       grid.appendChild(msg); return;
     }
 
     const topIds=[...articles].sort((a,b)=>(b.score||0)-(a.score||0)).slice(0,3).map(a=>a.id);
+    let lastGroup='';
 
     articles.forEach(function(a){
-      const card=document.createElement('article');
-      card.className='ih-card'; card.dataset.topic=a.topic;
+      const group=getDateGroup(a.timestamp);
+      if(group!==lastGroup){
+        const sep=document.createElement('div'); sep.className='ih-date-sep';
+        sep.textContent=group; grid.appendChild(sep);
+        lastGroup=group;
+      }
 
-      const newB  = isNew48h(a.timestamp) ? '<span class="ih-badge-new">NEW</span>' : '';
-      const topB  = (!isNew48h(a.timestamp)&&topIds.includes(a.id)) ? '<span class="ih-badge-top">TOP</span>' : '';
-      const topic = TOPIC_LABELS[a.topic]||a.topic;
-      const exc   = a.summary ? a.summary.substring(0,150).trim()+(a.summary.length>150?'...':'') : '';
+      const card=document.createElement('article');
+      card.className='ih-card';
+
+      const newB  =isNew48h(a.timestamp)?'<span class="ih-badge-new">NEW</span>':'';
+      const topB  =(!isNew48h(a.timestamp)&&topIds.includes(a.id))?'<span class="ih-badge-top">TOP</span>':'';
+      const topic =TOPIC_LABELS[a.topic]||a.topic;
+      const exc   =a.summary?a.summary.substring(0,150).trim()+(a.summary.length>150?'...':''):'';
 
       card.innerHTML=
         '<div class="ih-card-header">'+
@@ -289,13 +394,13 @@
   }
 
   /* ---- Render corsi ---- */
-  function renderCourses(courses) {
-    const grid = document.getElementById('ih-grid');
-    grid.querySelectorAll('.ih-card,.ih-empty,.ih-error,.ih-section-title').forEach(c=>c.remove());
+  function renderCourses(courses){
+    const grid=document.getElementById('ih-grid');
+    grid.querySelectorAll('.ih-card,.ih-empty,.ih-error,.ih-section-title,.ih-date-sep').forEach(c=>c.remove());
 
-    if (!courses.length) {
+    if(!courses.length){
       const msg=document.createElement('div'); msg.className='ih-empty';
-      msg.innerHTML='<div class="ih-empty-icon">&#128218;</div><p>Nessun corso disponibile al momento.</p>';
+      msg.innerHTML='<div class="ih-empty-icon">&#128218;</div><p>Nessun corso disponibile.</p>';
       grid.appendChild(msg); return;
     }
 
@@ -307,9 +412,8 @@
     courses.forEach(function(c){
       const card=document.createElement('article');
       card.className='ih-card ih-card-course';
-
-      const newB  = c.new ? '<span class="ih-badge-new">NUOVO</span>' : '';
-      const topic = TOPIC_LABELS[c.topic]||c.topic;
+      const newB =c.new?'<span class="ih-badge-new">NUOVO</span>':'';
+      const topic=TOPIC_LABELS[c.topic]||c.topic;
 
       card.innerHTML=
         '<div class="ih-card-header">'+
@@ -332,97 +436,89 @@
     });
   }
 
-  /* ---- Filtra e visualizza ---- */
-  function applyFilter(topic) {
-    if (topic === 'corsi') {
-      renderCourses(allCourses);
-      return;
-    }
-    const filtered = topic==='all' ? allArticles : allArticles.filter(a=>a.topic===topic);
-    renderArticles(filtered);
+  function applyFilter(topic){
+    if(topic==='corsi'){ renderCourses(allCourses); return; }
+    const f=topic==='all'?allArticles:allArticles.filter(a=>a.topic===topic);
+    renderArticles(f);
   }
 
   /* ---- Carica news ---- */
-  async function loadNews() {
-    const CACHE_KEY='ih-news-data', CACHE_TIME='ih-news-time', MAX_AGE=60*60*1000;
+  async function loadNews(){
+    const CK='ih-news-data', CT='ih-news-time', MAX=60*60*1000;
 
-    function tryCache(offline) {
-      try {
-        const c=localStorage.getItem(CACHE_KEY);
-        if(c){ const d=JSON.parse(c); allArticles=d.articles||[]; renderMeta(d); if(currentMode==='news') applyFilter('all'); if(offline) document.getElementById('ih-offline').style.display='block'; return true; }
-      } catch(e){}
+    function tryCache(offline){
+      try{
+        const c=localStorage.getItem(CK);
+        if(c){
+          const d=JSON.parse(c); allArticles=d.articles||[];
+          renderMeta(d);
+          if(currentMode==='news'){ allArticles.length?applyFilter('all'):showEmpty(); }
+          if(offline) document.getElementById('ih-offline').style.display='block';
+          return true;
+        }
+      }catch(e){}
       return false;
     }
 
-    const age=Date.now()-parseInt(localStorage.getItem(CACHE_TIME)||'0');
-    if(age<MAX_AGE && tryCache(false)){ hideLoading(); return; }
+    if(Date.now()-parseInt(localStorage.getItem(CT)||'0')<MAX && tryCache(false)){ hideLoading(); return; }
 
-    try {
+    try{
       const res=await fetch('./news-data.json?_='+Date.now());
       if(!res.ok) throw new Error('HTTP '+res.status);
       const data=await res.json();
-      localStorage.setItem(CACHE_KEY,JSON.stringify(data));
-      localStorage.setItem(CACHE_TIME,Date.now().toString());
+      localStorage.setItem(CK,JSON.stringify(data));
+      localStorage.setItem(CT,Date.now().toString());
       allArticles=data.articles||[];
       renderMeta(data);
       hideLoading();
-      if(currentMode==='news'){
-        if(!allArticles.length){ showEmpty(); } else { applyFilter('all'); }
-      }
-    } catch(err) {
-      console.warn('Fetch news fallito:',err);
+      if(currentMode==='news'){ allArticles.length?applyFilter('all'):showEmpty(); }
+    }catch(err){
+      console.warn('Fetch news:',err);
       if(!tryCache(true)){ hideLoading(); showError(); }
-      else { hideLoading(); }
+      else hideLoading();
     }
   }
 
   /* ---- Carica corsi ---- */
-  async function loadCourses() {
-    try {
+  async function loadCourses(){
+    try{
       const res=await fetch('./courses-data.json?_='+Date.now());
-      if(!res.ok) throw new Error('HTTP '+res.status);
+      if(!res.ok) throw new Error();
       const data=await res.json();
       allCourses=data.courses||[];
-    } catch(err) {
-      console.warn('Fetch courses fallito:',err);
-      allCourses=[];
-    }
+    }catch(e){ allCourses=[]; }
   }
 
-  function renderMeta(data) {
-    const n=data.count||(data.articles||[]).length;
-    document.getElementById('ih-count').textContent=n;
+  function renderMeta(data){
+    document.getElementById('ih-count').textContent=data.count||(data.articles||[]).length;
     if(data.updated) document.getElementById('ih-updated').textContent=fmtDate(data.updated);
   }
 
-  function hideLoading() { const l=document.getElementById('ih-loading'); if(l) l.style.display='none'; }
+  function hideLoading(){ const l=document.getElementById('ih-loading'); if(l) l.style.display='none'; }
 
-  function showEmpty() {
+  function showEmpty(){
     const grid=document.getElementById('ih-grid');
     const msg=document.createElement('div'); msg.className='ih-empty';
-    msg.innerHTML='<div class="ih-empty-icon">&#128336;</div>'+
-      '<p>Aggiornamento in corso.<br>I contenuti saranno disponibili a breve.</p>';
+    msg.innerHTML='<div class="ih-empty-icon">&#128336;</div><p>Aggiornamento in corso.<br>I contenuti saranno disponibili a breve.</p>';
     grid.appendChild(msg);
   }
 
-  function showError() {
+  function showError(){
     const grid=document.getElementById('ih-grid');
     const msg=document.createElement('div'); msg.className='ih-error';
-    msg.innerHTML='<div class="ih-error-icon">&#9888;</div><p>Impossibile caricare gli articoli.<br>Controlla la connessione o riprova tra qualche minuto.</p>';
+    msg.innerHTML='<div class="ih-error-icon">&#9888;</div><p>Impossibile caricare gli articoli.<br>Riprova tra qualche minuto.</p>';
     grid.appendChild(msg);
   }
 
-  /* ---- Filtri ---- */
   document.querySelectorAll('.ih-filter').forEach(function(btn){
     btn.addEventListener('click',function(){
       document.querySelectorAll('.ih-filter').forEach(b=>b.classList.remove('active'));
       this.classList.add('active');
-      currentMode = this.dataset.topic==='corsi' ? 'corsi' : 'news';
+      currentMode=this.dataset.topic==='corsi'?'corsi':'news';
       applyFilter(this.dataset.topic);
     });
   });
 
-  /* ---- Avvio ---- */
   Promise.all([loadNews(), loadCourses()]);
 </script>
 
