@@ -111,30 +111,6 @@
       "description": "Corso accelerato di Google sul machine learning. Fondamenta teoriche + esercizi pratici. Consigliato per PM tecnici che vogliono capire i modelli predittivi."
     },
     {
-      "id": "c10",
-      "title": "AI for Everyone",
-      "provider": "DeepLearning.ai",
-      "topic": "pm",
-      "level": "Base",
-      "duration": "~6 ore",
-      "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
-      "free": true,
-      "new": false,
-      "description": "Il corso di Andrew Ng per non tecnici. Pensato per manager e PM che vogliono capire l'AI senza scrivere codice. Audit gratuito su Coursera."
-    },
-    {
-      "id": "c11",
-      "title": "AI & Data-Driven Product Management",
-      "provider": "Duke University",
-      "topic": "pm",
-      "level": "Avanzato",
-      "duration": "~30 ore",
-      "url": "https://www.coursera.org/learn/ai-data-driven-product-management",
-      "free": true,
-      "new": false,
-      "description": "PM data-driven con AI, analytics e modelli predittivi. Audit gratuito disponibile. Uno dei migliori corsi PM su Coursera."
-    },
-    {
       "id": "c12",
       "title": "CS50 AI with Python",
       "provider": "Harvard",

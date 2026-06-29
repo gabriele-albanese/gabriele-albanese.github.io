@@ -85,11 +85,33 @@
     .ih-filter[data-topic="corsi"].active { background: rgba(5,150,105,0.07); border-color: rgba(5,150,105,0.4); color: #059669; }
     .ih-filter[data-topic="corsi"]:hover { border-color: rgba(5,150,105,0.4); color: #059669; }
 
-    .ih-sort-label {
+    .ih-sort-btn {
       font-size: 0.75rem; color: var(--text-light); font-weight: 600;
       white-space: nowrap; display: flex; align-items: center; gap: 6px;
+      background: #fff; border: 1px solid var(--border); border-radius: 8px;
+      padding: 6px 14px; cursor: pointer; transition: all 0.18s; font-family: inherit;
     }
-    .ih-sort-label::before { content: '↓'; font-size: 0.8rem; color: var(--accent); }
+    .ih-sort-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .ih-sort-arrow { color: var(--accent); font-size: 0.9rem; display: inline-block; transition: transform 0.2s; }
+    .ih-sort-btn.asc .ih-sort-arrow { transform: rotate(180deg); }
+
+    .ih-controls-row {
+      display: flex; align-items: center; gap: 12px;
+      margin-top: 14px; flex-wrap: wrap;
+    }
+    .ih-search-wrap {
+      flex: 1; min-width: 180px; max-width: 340px;
+      position: relative; display: flex; align-items: center;
+    }
+    .ih-search-icon { position: absolute; left: 11px; color: var(--text-light); font-size: 0.95rem; pointer-events: none; }
+    .ih-search {
+      width: 100%; padding: 7px 12px 7px 32px;
+      border: 1px solid var(--border); border-radius: 8px;
+      background: #fff; font-family: inherit; font-size: 0.82rem;
+      color: var(--text); outline: none; transition: border-color 0.18s;
+    }
+    .ih-search:focus { border-color: var(--accent); }
+    .ih-search::placeholder { color: var(--text-muted); }
 
     /* Body */
     .ih-body { padding: 48px 0 96px; background: var(--bg-alt); min-height: 50vh; }
@@ -216,6 +238,8 @@
       .ih-hero-top { flex-direction: column; }
       .ih-meta-card { min-width: 0; width: 100%; }
       .ih-filters-row { flex-direction: column; align-items: flex-start; }
+      .ih-search-wrap { max-width: 100%; }
+      .ih-controls-row { flex-wrap: wrap; }
     }
   </style>
 </head>
@@ -273,7 +297,16 @@
         <button class="ih-filter" data-topic="business">Business &amp; Leadership</button>
         <button class="ih-filter" data-topic="corsi">Corsi Gratuiti</button>
       </div>
-      <span class="ih-sort-label">Dal piu recente</span>
+    </div>
+    <div class="ih-controls-row">
+      <div class="ih-search-wrap">
+        <span class="ih-search-icon">&#128269;</span>
+        <input type="text" id="ih-search" class="ih-search" placeholder="Cerca articoli e corsi..." autocomplete="off" />
+      </div>
+      <button id="ih-sort-btn" class="ih-sort-btn">
+        <span id="ih-sort-txt">Piu recenti</span>
+        <span class="ih-sort-arrow" id="ih-sort-arrow">&#8595;</span>
+      </button>
     </div>
   </div>
 </div>
@@ -319,9 +352,12 @@
     tech:'Tech & Innovazione', business:'Business & Leadership'
   };
 
-  let allArticles = [];
-  let allCourses  = [];
-  let currentMode = 'news';
+  let allArticles  = [];
+  let allCourses   = [];
+  let currentMode  = 'news';
+  let currentTopic = 'all';
+  let sortDesc     = true;
+  let searchQuery  = '';
 
   function esc(str){
     const d=document.createElement('div');
@@ -436,15 +472,35 @@
     });
   }
 
-  function applyFilter(topic){
-    if(topic==='corsi'){ renderCourses(allCourses); return; }
-    const f=topic==='all'?allArticles:allArticles.filter(a=>a.topic===topic);
-    renderArticles(f);
+  function getFiltered(){
+    const q=searchQuery.toLowerCase();
+    let arts=allArticles;
+    if(currentTopic!=='all') arts=arts.filter(a=>a.topic===currentTopic);
+    if(q) arts=arts.filter(a=>(a.title||'').toLowerCase().includes(q)||(a.source||'').toLowerCase().includes(q)||(a.summary||'').toLowerCase().includes(q));
+    if(!sortDesc) arts=[...arts].reverse();
+    return arts;
   }
+
+  function applyFilter(topic){
+    currentTopic=topic;
+    const sortBtn=document.getElementById('ih-sort-btn');
+    if(topic==='corsi'){
+      if(sortBtn) sortBtn.style.display='none';
+      const q=searchQuery.toLowerCase();
+      const filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):allCourses;
+      renderCourses(filtered);
+      return;
+    }
+    if(sortBtn) sortBtn.style.display='';
+    const f=getFiltered();
+    f.length?renderArticles(f):showEmpty();
+  }
+
+  function refreshView(){ applyFilter(currentTopic); }
 
   /* ---- Carica news ---- */
   async function loadNews(){
-    const CK='ih-news-data', CT='ih-news-time', MAX=60*60*1000;
+    const CK='ih-news-data', CT='ih-news-time', MAX=15*60*1000;
 
     function tryCache(offline){
       try{
@@ -518,6 +574,24 @@
       applyFilter(this.dataset.topic);
     });
   });
+
+  var searchInput=document.getElementById('ih-search');
+  if(searchInput){
+    searchInput.addEventListener('input',function(){
+      searchQuery=this.value.trim();
+      refreshView();
+    });
+  }
+
+  var sortBtn=document.getElementById('ih-sort-btn');
+  if(sortBtn){
+    sortBtn.addEventListener('click',function(){
+      sortDesc=!sortDesc;
+      this.classList.toggle('asc',!sortDesc);
+      document.getElementById('ih-sort-txt').textContent=sortDesc?'Piu recenti':'Piu vecchi';
+      refreshView();
+    });
+  }
 
   Promise.all([loadNews(), loadCourses()]);
 </script>
