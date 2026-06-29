@@ -59,6 +59,34 @@
       "description": "Il corso di Harvard sull'AI applicata: search, knowledge, uncertainty, neural networks e NLP. Certificato Harvard incluso gratuitamente. Uno standard assoluto per qualita del contenuto."
     },
     {
+      "id": "c13",
+      "title": "Enterprise Design Thinking Practitioner",
+      "provider": "IBM",
+      "topic": "pm",
+      "level": "Base",
+      "duration": "~1 ora",
+      "year": "2023",
+      "url": "https://www.ibm.com/training/badge/design-thinking-practitioner",
+      "free": true,
+      "cert_free": true,
+      "new": false,
+      "description": "Introduzione al Design Thinking applicato allo sviluppo prodotto: framing dei problemi, user research e prototipazione. Badge IBM incluso. Fondamentale per PM che lavorano in ambienti complessi."
+    },
+    {
+      "id": "c14",
+      "title": "Enterprise Design Thinking Co-Creator",
+      "provider": "IBM",
+      "topic": "pm",
+      "level": "Intermedio",
+      "duration": "~3 ore",
+      "year": "2023",
+      "url": "https://www.ibm.com/training/badge/enterprise-design-thinking-co-creator",
+      "free": true,
+      "cert_free": true,
+      "new": false,
+      "description": "Livello avanzato del percorso IBM Design Thinking: facilitazione di workshop, Hills, Playbacks e Sponsor Users. Badge IBM incluso. Per PM che guidano team cross-funzionali."
+    },
+    {
       "id": "c10",
       "title": "AI for Everyone",
       "provider": "DeepLearning.ai",
