@@ -81,3 +81,38 @@ const counterObserver = new IntersectionObserver((entries) => {
   entries.forEach(e => { if (e.isIntersecting) { animateCounter(e.target); counterObserver.unobserve(e.target); } });
 }, { threshold: 0.5 });
 counterEls.forEach(el => counterObserver.observe(el));
+
+// GA4 — eventi personalizzati
+(function() {
+  if (typeof gtag !== 'function') return;
+
+  // Case study aperti
+  document.querySelectorAll('a[href*="case-study/"]').forEach(function(link) {
+    link.addEventListener('click', function() {
+      var name = (link.getAttribute('href') || '').split('/').pop().replace('.html', '');
+      gtag('event', 'case_study_aperto', { nome: name });
+    });
+  });
+
+  // Articoli aperti
+  document.querySelectorAll('a[href*="articoli/"]').forEach(function(link) {
+    link.addEventListener('click', function() {
+      var name = (link.getAttribute('href') || '').split('/').pop().replace('.html', '');
+      gtag('event', 'articolo_aperto', { nome: name });
+    });
+  });
+
+  // Click email contatto
+  document.querySelectorAll('a[href^="mailto:"]').forEach(function(link) {
+    link.addEventListener('click', function() {
+      gtag('event', 'contatto_email');
+    });
+  });
+
+  // Apertura Radar Feed
+  document.querySelectorAll('a[href*="intelligence-hub"]').forEach(function(link) {
+    link.addEventListener('click', function() {
+      gtag('event', 'radar_feed_aperto');
+    });
+  });
+})();
