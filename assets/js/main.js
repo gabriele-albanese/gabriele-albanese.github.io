@@ -82,11 +82,11 @@ const counterObserver = new IntersectionObserver((entries) => {
 }, { threshold: 0.5 });
 counterEls.forEach(el => counterObserver.observe(el));
 
-// GA4 — eventi personalizzati
+// GA4 — tracking completo
 (function() {
   if (typeof gtag !== 'function') return;
 
-  // Case study aperti
+  // 1. Click su case study
   document.querySelectorAll('a[href*="case-study/"]').forEach(function(link) {
     link.addEventListener('click', function() {
       var name = (link.getAttribute('href') || '').split('/').pop().replace('.html', '');
@@ -94,7 +94,7 @@ counterEls.forEach(el => counterObserver.observe(el));
     });
   });
 
-  // Articoli aperti
+  // 2. Click su articoli
   document.querySelectorAll('a[href*="articoli/"]').forEach(function(link) {
     link.addEventListener('click', function() {
       var name = (link.getAttribute('href') || '').split('/').pop().replace('.html', '');
@@ -102,17 +102,68 @@ counterEls.forEach(el => counterObserver.observe(el));
     });
   });
 
-  // Click email contatto
+  // 3. Click email contatto
   document.querySelectorAll('a[href^="mailto:"]').forEach(function(link) {
     link.addEventListener('click', function() {
       gtag('event', 'contatto_email');
     });
   });
 
-  // Apertura Radar Feed
+  // 4. Click Radar Feed
   document.querySelectorAll('a[href*="intelligence-hub"]').forEach(function(link) {
     link.addEventListener('click', function() {
       gtag('event', 'radar_feed_aperto');
     });
+  });
+
+  // 5. Avanzamento lettura (25 / 50 / 75 / 100%) — su articoli e case study
+  var pagePath = window.location.pathname;
+  var isContentPage = pagePath.indexOf('articoli/') !== -1 || pagePath.indexOf('case-study/') !== -1;
+  if (isContentPage) {
+    var milestones = [25, 50, 75, 100];
+    var reached = {};
+    window.addEventListener('scroll', function() {
+      var scrolled = window.scrollY + window.innerHeight;
+      var total = document.documentElement.scrollHeight;
+      var pct = Math.round(scrolled / total * 100);
+      milestones.forEach(function(m) {
+        if (pct >= m && !reached[m]) {
+          reached[m] = true;
+          gtag('event', 'lettura_avanzamento', { percentuale: m, pagina: pagePath.split('/').pop() });
+        }
+      });
+    }, { passive: true });
+  }
+
+  // 6. Tempo nelle sezioni homepage (Chi Sono, Progetti, Articoli, Competenze, Formazione)
+  var sectionStart = {};
+  if (document.querySelectorAll('section[id]').length > 0) {
+    var secObserver = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        var id = e.target.id;
+        if (e.isIntersecting) {
+          sectionStart[id] = performance.now();
+        } else if (sectionStart[id]) {
+          var sec = Math.round((performance.now() - sectionStart[id]) / 1000);
+          if (sec >= 3) {
+            gtag('event', 'tempo_sezione', { sezione: id, secondi: sec });
+          }
+          delete sectionStart[id];
+        }
+      });
+    }, { threshold: 0.4 });
+    document.querySelectorAll('section[id]').forEach(function(s) { secObserver.observe(s); });
+  }
+
+  // 7. Tempo totale sulla pagina — inviato quando l'utente esce
+  var pageStart = performance.now();
+  var pageName = window.location.pathname.split('/').pop() || 'index';
+  document.addEventListener('visibilitychange', function() {
+    if (document.visibilityState === 'hidden') {
+      var sec = Math.round((performance.now() - pageStart) / 1000);
+      if (sec >= 5) {
+        gtag('event', 'tempo_pagina', { pagina: pageName, secondi: sec });
+      }
+    }
   });
 })();
