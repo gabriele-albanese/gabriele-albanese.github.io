@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Intelligence Hub — Gabriele Albanese</title>
+  <meta name="description" content="Radar professionale: fonti elite su AI, Product Management, Tech e Business. Corsi gratuiti selezionati. Aggiornamento automatico ogni 6 ore." />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <style>
+    /* ---- Intelligence Hub: dark magazine ---- */
+    body { background: #080E18; color: #E5E7EB; }
+
+    .nav { background: rgba(8,14,24,0.96); border-color: rgba(14,116,144,0.2); }
+    .nav-logo { color: #F9FAFB; }
+    .nav-links a { color: #9CA3AF; }
+    .nav-links a:hover, .nav-links a.active { color: #22D3EE; }
+    .nav-links a::after { background: #22D3EE; }
+    .nav-cta { background: #0E7490 !important; color: white !important; }
+    .nav-cta:hover { background: #0C6478 !important; }
+    .hamburger span { background: #E5E7EB; }
+    .scroll-progress { background: linear-gradient(90deg, #0E7490, #22D3EE); }
+
+    /* ---- Hero ---- */
+    .ih-hero {
+      padding: calc(var(--nav-h) + 56px) 0 48px;
+      background: linear-gradient(160deg, #040810 0%, #080E18 40%, #0A1828 70%, #080E18 100%);
+      border-bottom: 1px solid rgba(14,116,144,0.18);
+      position: relative; overflow: hidden;
+    }
+    .ih-hero::before {
+      content: ''; position: absolute; top: -40%; right: -10%;
+      width: 600px; height: 600px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(14,116,144,0.07) 0%, transparent 65%);
+      pointer-events: none;
+    }
+
+    .breadcrumb { display: flex; align-items: center; gap: 8px; font-size: 0.78rem; color: #4B5563; margin-bottom: 32px; }
+    .breadcrumb a { color: #6B7280; transition: color 0.2s; }
+    .breadcrumb a:hover { color: #22D3EE; }
+    .breadcrumb span { color: #374151; }
+
+    .ih-hero-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 32px; margin-bottom: 36px; flex-wrap: wrap; }
+
+    .ih-label { display: inline-flex; align-items: center; gap: 8px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #22D3EE; margin-bottom: 14px; }
+    .ih-label-dot { width: 7px; height: 7px; border-radius: 50%; background: #22D3EE; animation: ih-pulse 2s infinite; }
+    @keyframes ih-pulse { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:0.4;transform:scale(1.4)} }
+
+    .ih-title { font-size: clamp(2rem,5vw,3.2rem); font-weight: 800; color: #F9FAFB; letter-spacing: -0.03em; line-height: 1.08; margin-bottom: 14px; }
+    .ih-title em { font-style: normal; color: #0E7490; }
+    .ih-subtitle { font-size: 1rem; color: #6B7280; line-height: 1.7; max-width: 560px; }
+
+    .ih-stats { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; min-width: 180px; }
+    .ih-stat-row { display: flex; align-items: center; gap: 10px; background: rgba(14,116,144,0.08); border: 1px solid rgba(14,116,144,0.18); border-radius: 10px; padding: 10px 16px; font-size: 0.8rem; color: #9CA3AF; white-space: nowrap; }
+    .ih-stat-val { font-weight: 700; color: #E5E7EB; font-size: 0.95rem; }
+
+    /* ---- Filtri ---- */
+    .ih-filters { display: flex; gap: 8px; flex-wrap: wrap; }
+    .ih-filter { padding: 8px 18px; border-radius: 100px; font-size: 0.82rem; font-weight: 600; font-family: var(--font); cursor: pointer; transition: all 0.2s; border: 1.5px solid rgba(255,255,255,0.1); background: transparent; color: #6B7280; }
+    .ih-filter:hover { border-color: rgba(14,116,144,0.5); color: #22D3EE; }
+    .ih-filter.active { background: rgba(14,116,144,0.18); border-color: rgba(14,116,144,0.6); color: #22D3EE; }
+    .ih-filter[data-topic="corsi"].active { background: rgba(16,185,129,0.12); border-color: rgba(16,185,129,0.45); color: #6EE7B7; }
+    .ih-filter[data-topic="corsi"]:hover { border-color: rgba(16,185,129,0.4); color: #6EE7B7; }
+
+    /* ---- Body / Grid ---- */
+    .ih-body { padding: 48px 0 80px; min-height: 60vh; }
+    .ih-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; }
+
+    /* ---- Card news ---- */
+    .ih-card {
+      background: #0D1524; border: 1px solid rgba(14,116,144,0.12); border-radius: 14px;
+      padding: 22px 24px; display: flex; flex-direction: column; gap: 12px;
+      transition: border-color 0.22s, transform 0.22s, box-shadow 0.22s;
+      position: relative; overflow: hidden;
+    }
+    .ih-card:hover { border-color: rgba(14,116,144,0.38); transform: translateY(-3px); box-shadow: 0 8px 32px rgba(0,0,0,0.35); }
+    .ih-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg,transparent,rgba(14,116,144,0.5),transparent); opacity: 0; transition: opacity 0.22s; }
+    .ih-card:hover::before { opacity: 1; }
+
+    /* ---- Card corsi ---- */
+    .ih-card-course { border-left: 3px solid rgba(16,185,129,0.35); }
+    .ih-card-course::before { background: linear-gradient(90deg,transparent,rgba(16,185,129,0.4),transparent); }
+    .ih-card-course:hover { border-color: rgba(16,185,129,0.5); border-left-color: rgba(16,185,129,0.7); }
+
+    .ih-card-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+    .ih-card-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .ih-source { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: #4B5563; }
+
+    /* Topic chips */
+    .ih-chip { font-size: 0.66rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 100px; }
+    .ih-chip-ai      { background: rgba(139,92,246,0.12); border: 1px solid rgba(139,92,246,0.35); color: #C4B5FD; }
+    .ih-chip-pm      { background: rgba(14,116,144,0.12); border: 1px solid rgba(14,116,144,0.35); color: #67E8F9; }
+    .ih-chip-tech    { background: rgba(59,130,246,0.12); border: 1px solid rgba(59,130,246,0.35); color: #93C5FD; }
+    .ih-chip-business{ background: rgba(245,158,11,0.12); border: 1px solid rgba(245,158,11,0.35); color: #FCD34D; }
+
+    /* Badge */
+    .ih-badge-new, .ih-badge-top, .ih-badge-free { font-size: 0.62rem; font-weight: 800; letter-spacing: 0.08em; padding: 2px 8px; border-radius: 4px; flex-shrink: 0; }
+    .ih-badge-new  { background: rgba(16,185,129,0.15); border: 1px solid rgba(16,185,129,0.4); color: #6EE7B7; }
+    .ih-badge-top  { background: rgba(245,158,11,0.12); border: 1px solid rgba(245,158,11,0.35); color: #FCD34D; }
+    .ih-badge-free { background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.3); color: #6EE7B7; }
+
+    .ih-card-title { font-size: 0.96rem; font-weight: 700; color: #E5E7EB; line-height: 1.45; letter-spacing: -0.01em; }
+    .ih-card-excerpt { font-size: 0.82rem; color: #6B7280; line-height: 1.65; flex: 1; }
+
+    .ih-card-footer { display: flex; align-items: center; justify-content: space-between; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.05); margin-top: auto; }
+    .ih-date { font-size: 0.73rem; color: #374151; }
+    .ih-read-link { font-size: 0.8rem; font-weight: 600; color: #0E7490; transition: color 0.18s; }
+    .ih-read-link:hover { color: #22D3EE; }
+
+    /* Meta corso (level + duration) */
+    .ih-course-meta { display: flex; gap: 6px; align-items: center; }
+    .ih-level, .ih-duration { font-size: 0.7rem; color: #4B5563; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06); padding: 2px 8px; border-radius: 4px; white-space: nowrap; }
+
+    /* ---- Loading / Empty / Error ---- */
+    .ih-loading { grid-column: 1/-1; display: flex; flex-direction: column; align-items: center; gap: 18px; padding: 80px 0; color: #4B5563; font-size: 0.9rem; }
+    .ih-spinner { width: 36px; height: 36px; border: 3px solid rgba(14,116,144,0.15); border-top-color: #0E7490; border-radius: 50%; animation: ih-spin 0.8s linear infinite; }
+    @keyframes ih-spin { to { transform: rotate(360deg); } }
+    .ih-empty, .ih-error { grid-column: 1/-1; text-align: center; padding: 80px 0; color: #4B5563; }
+    .ih-empty-icon, .ih-error-icon { font-size: 2.5rem; margin-bottom: 16px; }
+    .ih-empty p, .ih-error p { font-size: 0.9rem; line-height: 1.7; }
+    .ih-offline-banner { background: rgba(217,119,6,0.1); border: 1px solid rgba(217,119,6,0.3); color: #FCD34D; font-size: 0.8rem; padding: 10px 18px; border-radius: 8px; margin-bottom: 24px; display: none; }
+
+    /* ---- Footer ---- */
+    footer { background: #040810; border-top: 1px solid rgba(14,116,144,0.12); }
+    .footer-logo { color: #6B7280; }
+    .footer-links a { color: #4B5563; }
+    .footer-links a:hover { color: #22D3EE; }
+    .footer-copy { color: #374151; }
+
+    .ih-tech-note { text-align: center; padding: 24px 0 0; font-size: 0.73rem; color: #1F2937; letter-spacing: 0.04em; }
+    .ih-tech-note a { color: #374151; }
+    .ih-tech-note a:hover { color: #4B5563; }
+
+    /* ---- Sezione corsi — intestazione separata ---- */
+    .ih-section-title { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #374151; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid rgba(255,255,255,0.04); }
+
+    /* ---- Responsive ---- */
+    @media (max-width: 1024px) { .ih-grid { grid-template-columns: repeat(2,1fr); } .ih-stats { align-items: flex-start; } }
+    @media (max-width: 640px) {
+      .ih-grid { grid-template-columns: 1fr; }
+      .ih-hero-top { flex-direction: column; }
+      .ih-stats { flex-direction: row; flex-wrap: wrap; }
+      .ih-stat-row { flex: 1; min-width: 0; }
+      .nav-links { display: none; }
+      .nav-links.open { display: flex; flex-direction: column; position: absolute; top: var(--nav-h); left: 0; right: 0; background: #080E18; padding: 16px 24px 24px; border-bottom: 1px solid rgba(14,116,144,0.2); gap: 16px; z-index: 999; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="scroll-progress" id="scrollProgress"></div>
+
+<nav class="nav scrolled" id="navbar">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-logo">Gabriele Albanese</a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html#about">Chi Sono</a></li>
+      <li><a href="index.html#works">Progetti</a></li>
+      <li><a href="index.html#articles">Articoli</a></li>
+      <li><a href="index.html#skills">Competenze</a></li>
+      <li><a href="index.html#formation">Formazione</a></li>
+      <li><a href="intelligence-hub.html" class="active">Radar</a></li>
+      <li><a href="index.html#contact" class="nav-cta">Contattami</a></li>
+    </ul>
+    <button class="hamburger" aria-label="Menu" id="hamburger"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<div class="ih-hero">
+  <div class="container" style="position:relative;z-index:1;">
+    <div class="breadcrumb">
+      <a href="index.html">Home</a><span>/</span><span style="color:#374151;">Intelligence Hub</span>
+    </div>
+    <div class="ih-hero-top">
+      <div>
+        <div class="ih-label"><span class="ih-label-dot"></span>Radar Professionale &middot; Aggiornamento automatico</div>
+        <h1 class="ih-title">Intelligence <em>Hub</em></h1>
+        <p class="ih-subtitle">Fonti elite su AI, Product Management, Tech e Business. Corsi gratuiti selezionati. Nessuna notizia dalla gazzettina: solo voci autorevoli, aggiornate ogni 6 ore.</p>
+      </div>
+      <div class="ih-stats">
+        <div class="ih-stat-row"><span>Articoli</span><span class="ih-stat-val" id="ih-count">--</span></div>
+        <div class="ih-stat-row"><span>Aggiornato</span><span class="ih-stat-val" id="ih-updated">--</span></div>
+      </div>
+    </div>
+    <div class="ih-filters">
+      <button class="ih-filter active" data-topic="all">Tutti</button>
+      <button class="ih-filter" data-topic="ai">AI &amp; LLM</button>
+      <button class="ih-filter" data-topic="pm">Product Management</button>
+      <button class="ih-filter" data-topic="tech">Tech &amp; Innovazione</button>
+      <button class="ih-filter" data-topic="business">Business &amp; Leadership</button>
+      <button class="ih-filter" data-topic="corsi">Corsi Gratuiti</button>
+    </div>
+  </div>
+</div>
+
+<div class="ih-body">
+  <div class="container">
+    <div class="ih-offline-banner" id="ih-offline">Modalita offline: stai visualizzando notizie dalla cache locale.</div>
+    <div class="ih-grid" id="ih-grid">
+      <div class="ih-loading" id="ih-loading"><div class="ih-spinner"></div><p>Caricamento...</p></div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-logo">Gabriele Albanese</div>
+      <ul class="footer-links">
+        <li><a href="index.html#about">Chi Sono</a></li>
+        <li><a href="index.html#works">Progetti</a></li>
+        <li><a href="index.html#articles">Articoli</a></li>
+        <li><a href="intelligence-hub.html">Radar</a></li>
+        <li><a href="index.html#contact">Contatti</a></li>
+      </ul>
+      <div class="footer-copy">&copy; <span id="footer-year"></span> Gabriele Albanese</div>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+<script>
+  (function(){
+    var s=2022,n=new Date().getFullYear();
+    document.getElementById('footer-year').textContent=n>s?s+'–'+n:s;
+  })();
+  document.getElementById('hamburger').addEventListener('click',function(){
+    document.getElementById('navLinks').classList.toggle('open');
+  });
+</script>
+
+<script>
+  const TOPIC_LABELS = { ai:'AI & LLM', pm:'Product Management', tech:'Tech & Innovazione', business:'Business & Leadership' };
+  const LEVEL_COLORS = { 'Base':'rgba(16,185,129,0.08)', 'Intermedio':'rgba(59,130,246,0.08)', 'Avanzato':'rgba(245,158,11,0.08)' };
+
+  let allArticles = [];
+  let allCourses  = [];
+  let currentMode = 'news'; // 'news' | 'corsi'
+
+  function esc(str) {
+    const d = document.createElement('div');
+    d.appendChild(document.createTextNode(String(str||'')));
+    return d.innerHTML;
+  }
+
+  function fmtDate(iso) {
+    try { return new Date(iso).toLocaleDateString('it-IT',{day:'2-digit',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}); }
+    catch(e){ return ''; }
+  }
+
+  function isNew48h(ts) { return ts && (Date.now()-new Date(ts).getTime()) < 48*60*60*1000; }
+
+  /* ---- Render news ---- */
+  function renderArticles(articles) {
+    const grid = document.getElementById('ih-grid');
+    grid.querySelectorAll('.ih-card,.ih-empty,.ih-error,.ih-section-title').forEach(c=>c.remove());
+
+    if (!articles.length) {
+      const msg=document.createElement('div'); msg.className='ih-empty';
+      msg.innerHTML='<div class="ih-empty-icon">&#128269;</div><p>Nessun articolo in questa categoria.<br>Il prossimo aggiornamento avverra\' nelle prossime ore.</p>';
+      grid.appendChild(msg); return;
+    }
+
+    const topIds=[...articles].sort((a,b)=>(b.score||0)-(a.score||0)).slice(0,3).map(a=>a.id);
+
+    articles.forEach(function(a){
+      const card=document.createElement('article');
+      card.className='ih-card'; card.dataset.topic=a.topic;
+
+      const newB  = isNew48h(a.timestamp) ? '<span class="ih-badge-new">NEW</span>' : '';
+      const topB  = (!isNew48h(a.timestamp)&&topIds.includes(a.id)) ? '<span class="ih-badge-top">TOP</span>' : '';
+      const topic = TOPIC_LABELS[a.topic]||a.topic;
+      const exc   = a.summary ? a.summary.substring(0,150).trim()+(a.summary.length>150?'...':'') : '';
+
+      card.innerHTML=
+        '<div class="ih-card-header">'+
+          '<div class="ih-card-meta">'+
+            '<span class="ih-source">'+esc(a.source)+'</span>'+
+            '<span class="ih-chip ih-chip-'+esc(a.topic)+'">'+esc(topic)+'</span>'+
+          '</div>'+newB+topB+
+        '</div>'+
+        '<h2 class="ih-card-title">'+esc(a.title)+'</h2>'+
+        (exc?'<p class="ih-card-excerpt">'+esc(exc)+'</p>':'')+
+        '<div class="ih-card-footer">'+
+          '<span class="ih-date">'+esc(a.date||'')+'</span>'+
+          '<a href="'+esc(a.url)+'" class="ih-read-link" target="_blank" rel="noopener">Leggi &rarr;</a>'+
+        '</div>';
+      grid.appendChild(card);
+    });
+  }
+
+  /* ---- Render corsi ---- */
+  function renderCourses(courses) {
+    const grid = document.getElementById('ih-grid');
+    grid.querySelectorAll('.ih-card,.ih-empty,.ih-error,.ih-section-title').forEach(c=>c.remove());
+
+    if (!courses.length) {
+      const msg=document.createElement('div'); msg.className='ih-empty';
+      msg.innerHTML='<div class="ih-empty-icon">&#128218;</div><p>Nessun corso disponibile al momento.</p>';
+      grid.appendChild(msg); return;
+    }
+
+    const title=document.createElement('div'); title.className='ih-section-title';
+    title.style.gridColumn='1/-1';
+    title.textContent=courses.length+' corsi gratuiti selezionati';
+    grid.appendChild(title);
+
+    courses.forEach(function(c){
+      const card=document.createElement('article');
+      card.className='ih-card ih-card-course';
+
+      const newB  = c.new ? '<span class="ih-badge-new">NUOVO</span>' : '';
+      const topic = TOPIC_LABELS[c.topic]||c.topic;
+
+      card.innerHTML=
+        '<div class="ih-card-header">'+
+          '<div class="ih-card-meta">'+
+            '<span class="ih-source">'+esc(c.provider)+'</span>'+
+            '<span class="ih-chip ih-chip-'+esc(c.topic)+'">'+esc(topic)+'</span>'+
+          '</div>'+
+          '<span class="ih-badge-free">GRATUITO</span>'+newB+
+        '</div>'+
+        '<h2 class="ih-card-title">'+esc(c.title)+'</h2>'+
+        (c.description?'<p class="ih-card-excerpt">'+esc(c.description)+'</p>':'')+
+        '<div class="ih-card-footer">'+
+          '<div class="ih-course-meta">'+
+            '<span class="ih-level">'+esc(c.level)+'</span>'+
+            '<span class="ih-duration">'+esc(c.duration)+'</span>'+
+          '</div>'+
+          '<a href="'+esc(c.url)+'" class="ih-read-link" target="_blank" rel="noopener">Vai al corso &rarr;</a>'+
+        '</div>';
+      grid.appendChild(card);
+    });
+  }
+
+  /* ---- Filtra e visualizza ---- */
+  function applyFilter(topic) {
+    if (topic === 'corsi') {
+      renderCourses(allCourses);
+      return;
+    }
+    const filtered = topic==='all' ? allArticles : allArticles.filter(a=>a.topic===topic);
+    renderArticles(filtered);
+  }
+
+  /* ---- Carica news ---- */
+  async function loadNews() {
+    const CACHE_KEY='ih-news-data', CACHE_TIME='ih-news-time', MAX_AGE=60*60*1000;
+
+    function tryCache(offline) {
+      try {
+        const c=localStorage.getItem(CACHE_KEY);
+        if(c){ const d=JSON.parse(c); allArticles=d.articles||[]; renderMeta(d); if(currentMode==='news') applyFilter('all'); if(offline) document.getElementById('ih-offline').style.display='block'; return true; }
+      } catch(e){}
+      return false;
+    }
+
+    const age=Date.now()-parseInt(localStorage.getItem(CACHE_TIME)||'0');
+    if(age<MAX_AGE && tryCache(false)){ hideLoading(); return; }
+
+    try {
+      const res=await fetch('./news-data.json?_='+Date.now());
+      if(!res.ok) throw new Error('HTTP '+res.status);
+      const data=await res.json();
+      localStorage.setItem(CACHE_KEY,JSON.stringify(data));
+      localStorage.setItem(CACHE_TIME,Date.now().toString());
+      allArticles=data.articles||[];
+      renderMeta(data);
+      hideLoading();
+      if(currentMode==='news'){
+        if(!allArticles.length){ showEmpty(); } else { applyFilter('all'); }
+      }
+    } catch(err) {
+      console.warn('Fetch news fallito:',err);
+      if(!tryCache(true)){ hideLoading(); showError(); }
+      else { hideLoading(); }
+    }
+  }
+
+  /* ---- Carica corsi ---- */
+  async function loadCourses() {
+    try {
+      const res=await fetch('./courses-data.json?_='+Date.now());
+      if(!res.ok) throw new Error('HTTP '+res.status);
+      const data=await res.json();
+      allCourses=data.courses||[];
+    } catch(err) {
+      console.warn('Fetch courses fallito:',err);
+      allCourses=[];
+    }
+  }
+
+  function renderMeta(data) {
+    const n=data.count||(data.articles||[]).length;
+    document.getElementById('ih-count').textContent=n;
+    if(data.updated) document.getElementById('ih-updated').textContent=fmtDate(data.updated);
+  }
+
+  function hideLoading() { const l=document.getElementById('ih-loading'); if(l) l.style.display='none'; }
+
+  function showEmpty() {
+    const grid=document.getElementById('ih-grid');
+    const msg=document.createElement('div'); msg.className='ih-empty';
+    msg.innerHTML='<div class="ih-empty-icon">&#9889;</div>'+
+      '<p>L\'Intelligence Hub e\' online.<br>Il primo aggiornamento automatico avverra\' nelle prossime ore.<br><br>'+
+      'Per popolare subito il feed: <strong>GitHub &rarr; Actions &rarr; "Aggiorna Intelligence Hub" &rarr; Run workflow</strong>.</p>';
+    grid.appendChild(msg);
+  }
+
+  function showError() {
+    const grid=document.getElementById('ih-grid');
+    const msg=document.createElement('div'); msg.className='ih-error';
+    msg.innerHTML='<div class="ih-error-icon">&#9888;</div><p>Impossibile caricare gli articoli.<br>Controlla la connessione o riprova tra qualche minuto.</p>';
+    grid.appendChild(msg);
+  }
+
+  /* ---- Filtri ---- */
+  document.querySelectorAll('.ih-filter').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      document.querySelectorAll('.ih-filter').forEach(b=>b.classList.remove('active'));
+      this.classList.add('active');
+      currentMode = this.dataset.topic==='corsi' ? 'corsi' : 'news';
+      applyFilter(this.dataset.topic);
+    });
+  });
+
+  /* ---- Avvio ---- */
+  Promise.all([loadNews(), loadCourses()]);
+</script>
+
+<script src="assets/js/gabriele-digitale.js"></script>
+</body>
+</html>

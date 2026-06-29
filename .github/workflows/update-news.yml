@@ -1,0 +1,35 @@
+name: Aggiorna Intelligence Hub
+
+on:
+  schedule:
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install feedparser
+
+      - name: Aggiorna news-data.json
+        run: python scripts/fetch-news.py
+
+      - name: Commit e push se ci sono cambiamenti
+        run: |
+          git config user.name "Intelligence Hub Bot"
+          git config user.email "actions@github.com"
+          git add news-data.json
+          git diff --staged --quiet || git commit -m "Aggiorna news [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
