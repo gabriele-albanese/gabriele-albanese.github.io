@@ -112,6 +112,11 @@
     }
     .ih-search:focus { border-color: var(--accent); }
     .ih-search::placeholder { color: var(--text-muted); }
+    .ih-result-count {
+      font-size: 0.75rem; color: var(--accent); font-weight: 600;
+      white-space: nowrap; background: rgba(14,116,144,0.07);
+      border: 1px solid rgba(14,116,144,0.2); border-radius: 20px; padding: 4px 10px;
+    }
 
     /* Body */
     .ih-body { padding: 48px 0 96px; background: var(--bg-alt); min-height: 50vh; }
@@ -303,6 +308,7 @@
         <span class="ih-search-icon">&#128269;</span>
         <input type="text" id="ih-search" class="ih-search" placeholder="Cerca articoli e corsi..." autocomplete="off" />
       </div>
+      <span id="ih-result-count" class="ih-result-count" style="display:none"></span>
       <button id="ih-sort-btn" class="ih-sort-btn">
         <span id="ih-sort-txt">Piu recenti</span>
         <span class="ih-sort-arrow" id="ih-sort-arrow">&#8595;</span>
@@ -442,7 +448,7 @@
 
     const title=document.createElement('div'); title.className='ih-section-title';
     title.style.gridColumn='1/-1';
-    title.textContent=courses.length+' corsi gratuiti selezionati';
+    title.textContent='Corsi gratuiti';
     grid.appendChild(title);
 
     courses.forEach(function(c){
@@ -481,16 +487,30 @@
     return arts;
   }
 
+  function updateResultCount(n, total){
+    const el=document.getElementById('ih-result-count');
+    if(!el) return;
+    const active=(currentTopic!=='all')||searchQuery;
+    if(active && currentMode!=='corsi'){
+      el.style.display='';
+      el.textContent=n+' risultat'+(n===1?'o':'i')+(n<total?' su '+total:'');
+    } else {
+      el.style.display='none';
+    }
+  }
+
   function applyFilter(topic){
     currentTopic=topic;
     if(topic==='corsi'){
       const q=searchQuery.toLowerCase();
-      let filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):[...allCourses];
+      let filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):allCourses.slice();
       if(!sortDesc) filtered=filtered.reverse();
       renderCourses(filtered);
+      updateResultCount(filtered.length, allCourses.length);
       return;
     }
     const f=getFiltered();
+    updateResultCount(f.length, allArticles.length);
     f.length?renderArticles(f):showEmpty();
   }
 
