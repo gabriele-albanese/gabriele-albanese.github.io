@@ -493,15 +493,6 @@
     });
   }
 
-  function getFiltered(){
-    const q=searchQuery.toLowerCase();
-    let arts=allArticles;
-    if(currentTopic!=='all') arts=arts.filter(a=>a.topic===currentTopic);
-    if(q) arts=arts.filter(a=>(a.title||'').toLowerCase().includes(q)||(a.source||'').toLowerCase().includes(q)||(a.summary||'').toLowerCase().includes(q));
-    if(!sortDesc) arts=[...arts].reverse();
-    return arts;
-  }
-
   function updateResultCount(n, total){
     const el=document.getElementById('ih-result-count');
     if(!el) return;
@@ -516,20 +507,37 @@
 
   function applyFilter(topic){
     currentTopic=topic;
+
     if(topic==='corsi'){
-      const q=searchQuery.toLowerCase();
-      let filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):allCourses.slice();
-      const withCert=filtered.filter(c=>c.cert_free);
-      const withoutCert=filtered.filter(c=>!c.cert_free);
+      var qc=searchQuery.toLowerCase();
+      var filtered=allCourses.slice();
+      if(qc) filtered=filtered.filter(function(c){
+        return (c.title||'').toLowerCase().indexOf(qc)!==-1
+            || (c.provider||'').toLowerCase().indexOf(qc)!==-1
+            || (c.description||'').toLowerCase().indexOf(qc)!==-1;
+      });
+      var withCert=filtered.filter(function(c){ return c.cert_free; });
+      var withoutCert=filtered.filter(function(c){ return !c.cert_free; });
       if(!sortDesc){ withCert.reverse(); withoutCert.reverse(); }
-      const ordered=[...withCert,...withoutCert];
+      var ordered=withCert.concat(withoutCert);
       renderCourses(ordered);
       updateResultCount(ordered.length, allCourses.length);
       return;
     }
-    const f=getFiltered();
-    updateResultCount(f.length, allArticles.length);
-    f.length?renderArticles(f):showEmpty();
+
+    var result=allArticles.slice();
+    if(topic!=='all') result=result.filter(function(a){ return a.topic===topic; });
+    if(searchQuery){
+      var qa=searchQuery.toLowerCase();
+      result=result.filter(function(a){
+        return (a.title||'').toLowerCase().indexOf(qa)!==-1
+            || (a.source||'').toLowerCase().indexOf(qa)!==-1
+            || (a.summary||'').toLowerCase().indexOf(qa)!==-1;
+      });
+    }
+    if(!sortDesc) result.reverse();
+    updateResultCount(result.length, allArticles.length);
+    result.length?renderArticles(result):showEmpty();
   }
 
   function refreshView(){ applyFilter(currentTopic); }
