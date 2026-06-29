@@ -519,9 +519,12 @@
     if(topic==='corsi'){
       const q=searchQuery.toLowerCase();
       let filtered=q?allCourses.filter(c=>(c.title||'').toLowerCase().includes(q)||(c.provider||'').toLowerCase().includes(q)||(c.description||'').toLowerCase().includes(q)):allCourses.slice();
-      if(!sortDesc) filtered=filtered.reverse();
-      renderCourses(filtered);
-      updateResultCount(filtered.length, allCourses.length);
+      const withCert=filtered.filter(c=>c.cert_free);
+      const withoutCert=filtered.filter(c=>!c.cert_free);
+      if(!sortDesc){ withCert.reverse(); withoutCert.reverse(); }
+      const ordered=[...withCert,...withoutCert];
+      renderCourses(ordered);
+      updateResultCount(ordered.length, allCourses.length);
       return;
     }
     const f=getFiltered();
