@@ -64,17 +64,13 @@
     .ih-title em { font-style: normal; color: var(--accent); }
     .ih-subtitle { font-size: 1.05rem; color: var(--text-muted); line-height: 1.75; }
 
-    /* Stats card */
-    .ih-meta-card {
-      background: var(--surface); border: 1px solid var(--border);
-      border-radius: var(--radius); padding: 20px 24px;
-      display: flex; flex-direction: column; gap: 14px;
-      min-width: 200px; box-shadow: var(--shadow-sm);
+    /* Stats inline */
+    .ih-meta-inline {
+      display: flex; align-items: center; gap: 16px;
+      font-size: 0.78rem; color: var(--text-muted); white-space: nowrap; flex-shrink: 0;
     }
-    .ih-meta-row { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
-    .ih-meta-label { font-size: 0.75rem; color: var(--text-light); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; }
-    .ih-meta-val { font-size: 0.9rem; font-weight: 700; color: var(--primary); }
-    .ih-meta-rule { height: 1px; background: var(--border); }
+    .ih-meta-inline span { font-weight: 700; color: var(--primary); }
+    .ih-meta-inline-sep { color: var(--border); }
 
     /* Filtri */
     .ih-filters-row {
@@ -251,7 +247,7 @@
     @media (max-width: 640px) {
       .ih-grid { grid-template-columns: 1fr; }
       .ih-hero-top { flex-direction: column; }
-      .ih-meta-card { min-width: 0; width: 100%; }
+      .ih-meta-inline { display: none; }
       .ih-filters-row { flex-direction: column; align-items: flex-start; }
       .ih-search-wrap { max-width: 100%; }
       .ih-controls-row { flex-wrap: wrap; }
@@ -290,17 +286,6 @@
         <h1 class="ih-title">Radar <em>Feed</em></h1>
         <p class="ih-subtitle">Selezione curata di articoli da pubblicazioni internazionali di riferimento in ambito di intelligenza artificiale, product management e strategia d'impresa. Contenuti aggiornati automaticamente ogni sei ore tramite integrazione con fonti primarie. La sezione include una raccolta di percorsi formativi gratuiti sui medesimi ambiti.</p>
       </div>
-      <div class="ih-meta-card fade-up delay-2">
-        <div class="ih-meta-row">
-          <span class="ih-meta-label">Articoli</span>
-          <span class="ih-meta-val" id="ih-count">--</span>
-        </div>
-        <div class="ih-meta-rule"></div>
-        <div class="ih-meta-row">
-          <span class="ih-meta-label">Aggiornato</span>
-          <span class="ih-meta-val" id="ih-updated">--</span>
-        </div>
-      </div>
     </div>
 
     <div class="ih-filters-row">
@@ -311,6 +296,11 @@
         <button class="ih-filter" data-topic="tech">Tech &amp; Innovazione</button>
         <button class="ih-filter" data-topic="business">Business &amp; Leadership</button>
         <button class="ih-filter" data-topic="corsi">Corsi Gratuiti</button>
+      </div>
+      <div class="ih-meta-inline">
+        <span id="ih-count">--</span> articoli
+        <span class="ih-meta-inline-sep">·</span>
+        Aggiornato <span id="ih-updated">--</span>
       </div>
     </div>
     <div class="ih-controls-row">
