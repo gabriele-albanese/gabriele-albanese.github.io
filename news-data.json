@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-30T11:27:11.975520+00:00",
-  "count": 54,
+  "updated": "2026-06-30T11:51:41.955585+00:00",
+  "count": 86,
   "articles": [
+    {
+      "id": "2288f9c7cb",
+      "title": "The Real Question to Ask About AI Governance",
+      "url": "https://sloanreview.mit.edu/article/the-real-question-to-ask-about-ai-governance/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images Leaders at literally every Fortune 500 company will tell you that they are governing their AI — every single one of them. Now ask those same leaders who’s responsible for shutting down an AI model that’s causing harm. Most people",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T11:00:22+00:00",
+      "score": 4
+    },
     {
       "id": "cdfa1091f4",
       "title": "Building tech in the world’s secret R&D hub",
@@ -223,6 +234,17 @@
       "score": 4
     },
     {
+      "id": "2e6cef4a2c",
+      "title": "The Lab Mistake That Might Revolutionize Computing",
+      "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+      "summary": "Today, you   probably asked  a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artif",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "29 Jun 2026",
+      "timestamp": "2026-06-29T13:00:01+00:00",
+      "score": 5
+    },
+    {
       "id": "fc76fc8f65",
       "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
       "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
@@ -232,6 +254,17 @@
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T12:03:38+00:00",
       "score": 5
+    },
+    {
+      "id": "d11a352b28",
+      "title": "Transforming Investing With AI at Franklin Templeton",
+      "url": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
+      "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be an early proponent of AI",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "29 Jun 2026",
+      "timestamp": "2026-06-29T11:00:37+00:00",
+      "score": 4
     },
     {
       "id": "cf723e6c9d",
@@ -256,6 +289,17 @@
       "score": 4
     },
     {
+      "id": "df49518d3b",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Jun 2026",
+      "timestamp": "2026-06-29T07:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "d3a6f5fe5d",
       "title": "Global Economics Intelligence executive summary, May 2026",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
@@ -265,6 +309,17 @@
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T00:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "178c1d5ae3",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "28 Jun 2026",
+      "timestamp": "2026-06-28T17:00:00+00:00",
+      "score": 5
     },
     {
       "id": "5d6f5b76b8",
@@ -289,6 +344,17 @@
       "score": 4
     },
     {
+      "id": "8462763bd7",
+      "title": "This Senior Member Solves Complex Product Lifecycle Challenges",
+      "url": "https://spectrum.ieee.org/product-lifecycle-ajay-prasad",
+      "summary": "What do an instinct to fix things and the 1999 global panic over whether computers would survive the date change to 2000, known as the  Y2K  bug, have in common? Both helped shape IEEE Senior Member  Ajay Prasad ’s career.  Prasad is an industry process director at  Dassault Syst",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "26 Jun 2026",
+      "timestamp": "2026-06-26T18:00:01+00:00",
+      "score": 4
+    },
+    {
       "id": "9ae9fea213",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
@@ -298,6 +364,17 @@
       "date": "26 Jun 2026",
       "timestamp": "2026-06-26T12:10:00+00:00",
       "score": 4
+    },
+    {
+      "id": "7843b9ea14",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "26 Jun 2026",
+      "timestamp": "2026-06-26T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "f4f4efa836",
@@ -319,6 +396,17 @@
       "topic": "ai",
       "date": "25 Jun 2026",
       "timestamp": "2026-06-25T14:22:59+00:00",
+      "score": 5
+    },
+    {
+      "id": "24d4c9543d",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "25 Jun 2026",
+      "timestamp": "2026-06-25T02:00:00+00:00",
       "score": 5
     },
     {
@@ -355,6 +443,83 @@
       "score": 4
     },
     {
+      "id": "24a3a92250",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "24 Jun 2026",
+      "timestamp": "2026-06-24T06:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "1948945ee9",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Jun 2026",
+      "timestamp": "2026-06-23T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4bdceb20b9",
+      "title": "Why the U.S. Uses Only Half of Its Grid Capacity",
+      "url": "https://spectrum.ieee.org/united-states-power-grid-capacity",
+      "summary": "By most accounts, the United States appears poised to fall woefully short of meeting new electricity demand over the next five years as  data centers  and  domestic manufacturing  proliferate.  Ian Magruder   Ian Magruder is the founder of Utilize Coalition and previously served ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "23 Jun 2026",
+      "timestamp": "2026-06-23T13:00:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "1b1b1aa40d",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Jun 2026",
+      "timestamp": "2026-06-23T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7ffb84ad27",
+      "title": "Three Approaches to Measuring and Managing AI ROI",
+      "url": "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/",
+      "summary": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a return — and what kinds of returns — are we getting from all of this AI investment? To many executives, AI ROI still oft",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "23 Jun 2026",
+      "timestamp": "2026-06-23T11:00:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "350becd7dc",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Jun 2026",
+      "timestamp": "2026-06-23T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d572a97f42",
+      "title": "Commemorating 70 Years of Artificial Intelligence",
+      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
+      "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when com",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "22 Jun 2026",
+      "timestamp": "2026-06-22T18:00:01+00:00",
+      "score": 4
+    },
+    {
       "id": "2843beaf19",
       "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
@@ -375,6 +540,50 @@
       "date": "22 Jun 2026",
       "timestamp": "2026-06-22T12:03:06+00:00",
       "score": 4
+    },
+    {
+      "id": "b49c96bc62",
+      "title": "Resolving Muddled Objectives in Corporate Venture Capital",
+      "url": "https://sloanreview.mit.edu/article/resolving-muddled-objectives-in-corporate-venture-capital/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units, including those owned by Intel, Cisco, General Electric, Siemens, NTT Docomo, Hitachi, Panasonic, and Sompo. They examined 59 of",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "22 Jun 2026",
+      "timestamp": "2026-06-22T11:00:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "5d9de7a5a9",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Jun 2026",
+      "timestamp": "2026-06-22T10:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "f601b26b22",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Jun 2026",
+      "timestamp": "2026-06-22T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "663d872622",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Jun 2026",
+      "timestamp": "2026-06-21T23:00:00+00:00",
+      "score": 6
     },
     {
       "id": "1137c04e03",
@@ -399,6 +608,28 @@
       "score": 4
     },
     {
+      "id": "5182dcb4c0",
+      "title": "Leaders at All Levels: How DBS Bank Makes Everyone an Innovator",
+      "url": "https://sloanreview.mit.edu/video/leaders-at-all-levels-how-dbs-bank-makes-everyone-an-innovator/",
+      "summary": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and individual’s performance review. In this episode of Leaders at All Levels, hosts Katherine W. Isaacs and Michele Zanini spea",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "18 Jun 2026",
+      "timestamp": "2026-06-18T11:00:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "0af1478cb0",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "17 Jun 2026",
+      "timestamp": "2026-06-17T15:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "f7279afb7b",
       "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
       "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
@@ -408,6 +639,17 @@
       "date": "17 Jun 2026",
       "timestamp": "2026-06-17T12:04:04+00:00",
       "score": 5
+    },
+    {
+      "id": "7f708bc90d",
+      "title": "Organizational Change is Exhausting - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/organizational-change-is-exhausting-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   Organizational change is exhausting &#x2014; so stop trying to force it. Petra and Teresa unpack why trying to fix the people and processes around you is almost always wasted energy, and what actually works instead. If you&",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "16 Jun 2026",
+      "timestamp": "2026-06-16T13:00:14+00:00",
+      "score": 4
     },
     {
       "id": "c6bc443d3d",
@@ -421,6 +663,83 @@
       "score": 5
     },
     {
+      "id": "6894b77006",
+      "title": "How to Grow Without Betting Big",
+      "url": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
+      "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 y",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "15 Jun 2026",
+      "timestamp": "2026-06-15T11:00:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "07dbfa050b",
+      "title": "Beyond Black Box Scores: How Musubi Trains Custom AI for Trust and Safety Teams",
+      "url": "https://www.producttalk.org/beyond-black-box-scores-how-musubi-trains-custom-ai-for-trust-and-safety-teams/",
+      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What do you do when off-the-shelf moderation scores aren&apos;t good enough&#x2014;and the alternative is paying human contractors to spend their days reviewing traumatizing content at scale?  In this episode of  Just Now P",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "11 Jun 2026",
+      "timestamp": "2026-06-11T13:00:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "6d550108a1",
+      "title": "Agentic AI: What Leaders Wish They Knew Sooner",
+      "url": "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/",
+      "summary": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover, are the humans? At the 2026 MIT Sloan CIO Symposium, we sought expert perspective and advice. We asked technology and bu",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "11 Jun 2026",
+      "timestamp": "2026-06-11T11:00:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "13855d2a35",
+      "title": "The AI Atrophy Problem: How CIOs Fight It",
+      "url": "https://sloanreview.mit.edu/video/the-ai-atrophy-problem-how-cios-fight-it/",
+      "summary": "AI tools can help teams become faster and more efficient. But as organizations race to integrate artificial intelligence into more workflows, a problem is taking shape: the erosion of the critical thinking skills that leaders value. At the 2026 MIT Sloan CIO Symposium, we asked t",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "09 Jun 2026",
+      "timestamp": "2026-06-09T11:00:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "461c567ff6",
+      "title": "What I Learned from the Recent Wave of Package Hacks (And Is Cowork Immune?)",
+      "url": "https://www.producttalk.org/package-hacks-cowork/",
+      "summary": "Share this article  |  Listen to this article ($)   I love being a builder. I feel like I have a new superpower and I can&apos;t get enough of it.  I enjoy tinkering with my  Claude Code  workflows to make my days more effortless. I&apos;m having a blast building",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "03 Jun 2026",
+      "timestamp": "2026-06-03T13:00:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "f560eb272d",
+      "title": "How Nespresso Builds Sustainability Into Its Business Model",
+      "url": "https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/",
+      "summary": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan. 1, 2026, after having served as global chief customer and technology officer. At the NYU Stern Center for Sustainable Bu",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "02 Jun 2026",
+      "timestamp": "2026-06-02T14:02:57+00:00",
+      "score": 5
+    },
+    {
+      "id": "4be3258869",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "01 Jun 2026",
+      "timestamp": "2026-06-01T16:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "ae4ea20221",
       "title": "Your Product Isn't Just SaaS: Monetisation's Other Faces",
       "url": "https://www.productcoalition.com/p/your-product-isnt-just-saas-monetisations",
@@ -432,6 +751,28 @@
       "score": 4
     },
     {
+      "id": "6aee6b02d3",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "summary": "Gemini Omni & Gemini 3.5 hero",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "29 May 2026",
+      "timestamp": "2026-05-29T17:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "168d5f9418",
+      "title": "Building Lorikeet: How AI Humility and a Dual-Agent Architecture Are Redefining Customer Support",
+      "url": "https://www.producttalk.org/building-lorikeet-how-ai-humility-and-a-dual-agent-architecture-are-redefining-customer-support/",
+      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What does it take to build an AI customer support agent that actually knows when it can&apos;t help &#x2014; and says so?  In this episode of  Just Now Possible , Teresa Torres talks with Jamie Hall (Co-founder &amp; CTO), ",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "28 May 2026",
+      "timestamp": "2026-05-28T13:00:44+00:00",
+      "score": 4
+    },
+    {
       "id": "eb4b674675",
       "title": "Predicting AI job exposure",
       "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
@@ -440,6 +781,17 @@
       "topic": "tech",
       "date": "24 May 2026",
       "timestamp": "2026-05-24T20:35:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "4dd1045a53",
+      "title": "My Team of Agents: How I Get Claude to Do Tasks While I'm Away from the Computer",
+      "url": "https://www.producttalk.org/my-team-of-agents/",
+      "summary": "Audio Version ($)   Every morning I wake up and  Claude  has already added several tasks to my to-do list.  If I have a podcast recording on the calendar, my podcast-manager agent (powered by Claude) prepares a podcast-interview-prep task with a summary of who I&apos;m interviewi",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "20 May 2026",
+      "timestamp": "2026-05-20T13:00:43+00:00",
       "score": 4
     },
     {
