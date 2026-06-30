@@ -24,22 +24,22 @@ SOURCES = [
     # AI & LLM
     {"url": "https://www.technologyreview.com/feed/",                    "topic": "ai",       "label": "MIT Technology Review"},
     {"url": "https://venturebeat.com/category/ai/feed/",                 "topic": "ai",       "label": "VentureBeat"},
-    {"url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml", "topic": "ai", "label": "The Verge"},
-    {"url": "https://www.anthropic.com/rss.xml",                         "topic": "ai",       "label": "Anthropic"},
+    {"url": "https://openai.com/blog/rss.xml",                           "topic": "ai",       "label": "OpenAI Blog"},
+    {"url": "https://blog.google/technology/ai/rss/",                    "topic": "ai",       "label": "Google AI Blog"},
     # Tech & Innovazione
     {"url": "https://www.wired.com/feed/rss",                            "topic": "tech",     "label": "Wired"},
     {"url": "https://feeds.arstechnica.com/arstechnica/index",           "topic": "tech",     "label": "Ars Technica"},
     {"url": "https://www.ben-evans.com/benedictevans?format=rss",        "topic": "tech",     "label": "Benedict Evans"},
     {"url": "https://techcrunch.com/feed/",                              "topic": "tech",     "label": "TechCrunch"},
+    {"url": "https://spectrum.ieee.org/feeds/feed.rss",                  "topic": "tech",     "label": "IEEE Spectrum"},
     # Product Management
     {"url": "https://www.lennysnewsletter.com/feed",                     "topic": "pm",       "label": "Lenny's Newsletter"},
     {"url": "https://www.mindtheproduct.com/feed/",                      "topic": "pm",       "label": "Mind the Product"},
     {"url": "https://productcoalition.com/feed",                         "topic": "pm",       "label": "Product Coalition"},
+    {"url": "https://www.producttalk.org/feed/",                         "topic": "pm",       "label": "Product Talk"},
     # Business & Leadership
-    {"url": "https://feeds.hbr.org/harvardbusiness",                     "topic": "business", "label": "Harvard Business Review"},
     {"url": "https://www.mckinsey.com/rss",                              "topic": "business", "label": "McKinsey"},
-    {"url": "https://knowledge.insead.edu/rss",                          "topic": "business", "label": "INSEAD Knowledge"},
-    {"url": "https://www.economist.com/business/rss.xml",                "topic": "business", "label": "The Economist"},
+    {"url": "https://sloanreview.mit.edu/feed/",                         "topic": "business", "label": "MIT Sloan Review"},
 ]
 
 ALLOWLIST = [
