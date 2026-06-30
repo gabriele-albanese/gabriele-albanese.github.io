@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-29T22:18:09.293874+00:00",
-  "count": 46,
+  "updated": "2026-06-30T10:06:38.917600+00:00",
+  "count": 53,
   "articles": [
+    {
+      "id": "b5ec53d600",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0c981188ab",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T02:28:41+00:00",
+      "score": 6
+    },
+    {
+      "id": "9dc63591d8",
+      "title": "Semiconductors: Etching the new map of strategic supply",
+      "url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "summary": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "690f90100e",
+      "title": "Solar power: From intermittent sunshine to reliable power",
+      "url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "summary": "Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable, higher-value electricity.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "15de554619",
+      "title": "Batteries: Scaling the engine of electrification",
+      "url": "https://www.mckinsey.com/mgi/our-research/batteries-scaling-the-engine-of-electrification",
+      "summary": "Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials, ramping up gigafactories, and building the local ecosystems needed to compete.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T00:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "ebdcd0078b",
+      "title": "From access to assets: How early-life wealth building can shape economic mobility",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility",
+      "summary": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump Accounts, highlight the factors that can shape its impact.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1c12b349a5",
+      "title": "Economic conditions outlook, June 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook",
+      "summary": "In early June, executives were more downbeat on the economy than they have been in years and reported divided expectations for the coming months. Energy prices loomed large, and companies have been making defensive changes in response.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jun 2026",
+      "timestamp": "2026-06-30T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "3c610c759a",
       "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
