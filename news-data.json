@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-01T14:01:12.097942+00:00",
-  "count": 117,
+  "updated": "2026-07-01T18:01:09.047143+00:00",
+  "count": 126,
   "articles": [
+    {
+      "id": "5833f14a6a",
+      "title": "Even Honda is pivoting to data centers",
+      "url": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+      "summary": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T17:13:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "8ae510773c",
+      "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
+      "url": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
+      "summary": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T16:11:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "919f597261",
+      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
+      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
+      "summary": "This article is brought to you by  Melbourne Convention Bureau (MCB)  supported by  Business Events Australia .    As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.   From hyperscale data centers to ele",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T16:01:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "05a77cd025",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "fc0b8d7e77",
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b7a1a19f77",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every t",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T14:35:16+00:00",
+      "score": 9
+    },
+    {
+      "id": "01aa095197",
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T14:25:23+00:00",
+      "score": 5
+    },
+    {
+      "id": "5d5a6e1dac",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T14:20:19+00:00",
+      "score": 4
+    },
     {
       "id": "482350f7f2",
       "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
@@ -55,6 +143,17 @@
       "topic": "tech",
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T02:04:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "d488225c53",
+      "title": "Lights, camera, algorithm: How AI is rewriting the rules of film and TV",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
+      "summary": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T00:00:00+00:00",
       "score": 4
     },
     {
