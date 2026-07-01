@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-01T02:01:07.989282+00:00",
-  "count": 110,
+  "updated": "2026-07-01T06:01:10.396910+00:00",
+  "count": 112,
   "articles": [
+    {
+      "id": "579fe9f94e",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T02:16:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "535fb06296",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T02:04:40+00:00",
+      "score": 4
+    },
     {
       "id": "86b7b987de",
       "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
