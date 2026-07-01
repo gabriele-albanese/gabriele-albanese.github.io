@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-01T10:01:14.372612+00:00",
-  "count": 112,
+  "updated": "2026-07-01T11:41:10.061540+00:00",
+  "count": 113,
   "articles": [
+    {
+      "id": "88634f28df",
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T10:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "579fe9f94e",
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
