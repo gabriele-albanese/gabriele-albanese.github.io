@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-01T18:32:50.928366+00:00",
-  "count": 128,
+  "updated": "2026-07-01T22:01:12.980348+00:00",
+  "count": 131,
   "articles": [
+    {
+      "id": "d9a4be5306",
+      "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+      "url": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+      "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T21:34:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "62c6a743b5",
+      "title": "Why Public Speaking Skills Are Worth Investing In",
+      "url": "https://spectrum.ieee.org/improve-public-speaking-skills",
+      "summary": "This article is crossposted from  IEEE Spectrum ’s careers newsletter.   Sign up now    to get insider tips, expert advice, and practical strategies,   written i n partnership with tech career development company  Parsity  and    delivered to your inbox for free!    You want to b",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T18:15:02+00:00",
+      "score": 4
+    },
     {
       "id": "d94a70a000",
       "title": "You Can Now Sound the Alarm on AI Behaving Badly",
@@ -34,6 +56,17 @@
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T17:13:45+00:00",
       "score": 4
+    },
+    {
+      "id": "c9c7dcaa7d",
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T16:44:18+00:00",
+      "score": 5
     },
     {
       "id": "8ae510773c",
