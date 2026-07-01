@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-01T18:01:09.047143+00:00",
-  "count": 126,
+  "updated": "2026-07-01T18:32:50.928366+00:00",
+  "count": 128,
   "articles": [
+    {
+      "id": "d94a70a000",
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T18:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b1020b9dd6",
+      "title": "Why Mentorship Is the Most Underrated Leadership Skill",
+      "url": "https://spectrum.ieee.org/mentorship-is-an-underrated-leadership-skill",
+      "summary": "I started my professional journey as an engineer before moving into product strategy and innovation leadership roles for several global technology organizations. Over the years, I have served as a mentor for a variety of programs including  Products That Count ’s strategic produc",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T18:00:02+00:00",
+      "score": 7
+    },
     {
       "id": "5833f14a6a",
       "title": "Even Honda is pivoting to data centers",
