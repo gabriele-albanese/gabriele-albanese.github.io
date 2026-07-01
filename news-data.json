@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-01T11:41:10.061540+00:00",
-  "count": 113,
+  "updated": "2026-07-01T14:01:12.097942+00:00",
+  "count": 117,
   "articles": [
+    {
+      "id": "482350f7f2",
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "714a5dcd7f",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T12:10:00+00:00",
+      "score": 6
+    },
     {
       "id": "88634f28df",
       "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
@@ -33,6 +55,28 @@
       "topic": "tech",
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T02:04:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "35e7334a9a",
+      "title": "Betsy Nabel on physicians and women in healthcare leadership roles",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles",
+      "summary": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting impact for medical students and patients.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "04cedcca2e",
+      "title": "Suphachai Chearavanont: Bold moves in innovation-driven transformation",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation",
+      "summary": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "01 Jul 2026",
+      "timestamp": "2026-07-01T00:00:00+00:00",
       "score": 4
     },
     {
