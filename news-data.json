@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-02T10:01:19.789783+00:00",
-  "count": 136,
+  "updated": "2026-07-02T10:19:44.155995+00:00",
+  "count": 137,
   "articles": [
+    {
+      "id": "fb2de1d3b7",
+      "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
+      "url": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline amid the suffocating presence of Big Tech.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "bc90409800",
       "title": "Why California’s carbon manure math doesn’t add up",
