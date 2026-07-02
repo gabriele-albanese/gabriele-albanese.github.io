@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-02T14:01:20.843668+00:00",
-  "count": 142,
+  "updated": "2026-07-02T18:01:14.142092+00:00",
+  "count": 149,
   "articles": [
+    {
+      "id": "664c411ead",
+      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+      "url": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+      "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T16:30:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "47a875ddb1",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-t",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T15:37:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "638b856bf5",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T15:20:51+00:00",
+      "score": 5
+    },
+    {
+      "id": "9f0e96eaeb",
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T15:14:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "8c93c6d701",
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T15:12:25+00:00",
+      "score": 4
+    },
+    {
+      "id": "8f779c343b",
+      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
+      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
+      "summary": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T14:53:39+00:00",
+      "score": 6
+    },
+    {
+      "id": "d3c711fc7e",
+      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
+      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T14:04:28+00:00",
+      "score": 4
+    },
     {
       "id": "86d2625439",
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
