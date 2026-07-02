@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-02T10:19:44.155995+00:00",
-  "count": 137,
+  "updated": "2026-07-02T14:01:20.843668+00:00",
+  "count": 142,
   "articles": [
+    {
+      "id": "86d2625439",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T13:53:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "76da70e4f3",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are p",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T12:51:44+00:00",
+      "score": 5
+    },
+    {
+      "id": "0c578b2b91",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gem",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T12:10:00+00:00",
+      "score": 9
+    },
+    {
+      "id": "cdac07352f",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T12:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "fb2de1d3b7",
       "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
@@ -45,6 +89,17 @@
       "date": "02 Jul 2026",
       "timestamp": "2026-07-02T05:30:00+00:00",
       "score": 4
+    },
+    {
+      "id": "ddbaf86455",
+      "title": "How Miro is redefining collaboration across the product development life cycle",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
+      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T00:00:00+00:00",
+      "score": 6
     },
     {
       "id": "26836c916d",
