@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-02T18:01:14.142092+00:00",
-  "count": 149,
+  "updated": "2026-07-02T18:17:55.291207+00:00",
+  "count": 150,
   "articles": [
+    {
+      "id": "abe11bc282",
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T18:01:20+00:00",
+      "score": 7
+    },
     {
       "id": "664c411ead",
       "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
