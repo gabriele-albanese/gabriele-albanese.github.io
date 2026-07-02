@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-02T18:17:55.291207+00:00",
-  "count": 150,
+  "updated": "2026-07-02T22:01:18.902132+00:00",
+  "count": 153,
   "articles": [
+    {
+      "id": "81736f187f",
+      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+      "summary": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T21:57:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "8a14d73f73",
+      "title": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
+      "url": "https://www.wired.com/story/love-island-usa-app/",
+      "summary": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T20:47:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "bb53a1477c",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T18:31:09+00:00",
+      "score": 5
+    },
     {
       "id": "abe11bc282",
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
