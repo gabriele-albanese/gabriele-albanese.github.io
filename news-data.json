@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-02T06:01:14.645286+00:00",
-  "count": 134,
+  "updated": "2026-07-02T10:01:19.789783+00:00",
+  "count": 136,
   "articles": [
+    {
+      "id": "bc90409800",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just poll",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T09:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "9ef78d2bad",
+      "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
+      "url": "https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/",
+      "summary": "Long hours outdoors, day drinking, and World Cup matches are among the factors raising the risks of heat-related illness, as hot weather spreads across the eastern US.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "f23d1aa63f",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
