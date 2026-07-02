@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-02T02:01:10.460975+00:00",
-  "count": 133,
+  "updated": "2026-07-02T06:01:14.645286+00:00",
+  "count": 134,
   "articles": [
+    {
+      "id": "f23d1aa63f",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T05:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "26836c916d",
       "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
