@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-03T18:01:11.555778+00:00",
-  "count": 162,
+  "updated": "2026-07-03T21:43:38.612102+00:00",
+  "count": 163,
   "articles": [
+    {
+      "id": "49e786a078",
+      "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
+      "url": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
+      "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T18:13:15+00:00",
+      "score": 5
+    },
     {
       "id": "cecf9e43b0",
       "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
