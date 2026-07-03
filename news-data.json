@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-03T14:01:15.886730+00:00",
-  "count": 160,
+  "updated": "2026-07-03T17:02:36.930327+00:00",
+  "count": 162,
   "articles": [
+    {
+      "id": "cecf9e43b0",
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T16:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9c171ea26c",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T13:55:35+00:00",
+      "score": 4
+    },
     {
       "id": "f661491647",
       "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
