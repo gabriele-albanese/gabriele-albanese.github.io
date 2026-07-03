@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-03T06:01:24.804803+00:00",
-  "count": 156,
+  "updated": "2026-07-03T10:01:18.222583+00:00",
+  "count": 158,
   "articles": [
+    {
+      "id": "9d2b09ebe7",
+      "title": "EP106 AI as a Powerful Teammate in Product Management",
+      "url": "https://www.productcoalition.com/p/ep106-ai-as-a-powerful-teammate-in",
+      "summary": "Summary\n\n In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
+      "source": "Product Coalition",
+      "topic": "pm",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T09:00:28+00:00",
+      "score": 5
+    },
+    {
+      "id": "5a9aa8817d",
+      "title": "The 11 Best TV Shows to Stream This Month (July 2026)",
+      "url": "https://www.wired.com/story/the-11-best-shows-to-stream-right-now/",
+      "summary": "House of the Dragon, Adventure Time: Side Quests, and The Man Will Burn are just a few of the TV shows you should be watching right now.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "afe54e244a",
       "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
