@@ -1497,7 +1497,7 @@
 new Chart(document.getElementById('surgicalChart'), {
   type: 'bar',
   data: {
-    labels: ['Odontoiatrià, 'Ortopedià, 'Maxillo-faccialè, 'Neurochirurgià, 'ORL'],
+    labels: ['Odontoiatria', 'Ortopedia', 'Maxillo-facciale', 'Neurochirurgia', 'ORL'],
     datasets: [
       {
         label: 'CAGR %',
@@ -1532,10 +1532,10 @@ new Chart(document.getElementById('surgicalChart'), {
   }
 });
 
-const bsChartMercato = new Chart(document.getElementById('chartMercatò).getContext('2d'), {
+const bsChartMercato = new Chart(document.getElementById('chartMercato').getContext('2d'), {
   type: 'bar',
   data: {
-    labels: ['Neurochirurgià, 'ORL', 'Ortopedià, 'Robotica chirurgicà, 'Imaging'],
+    labels: ['Neurochirurgia', 'ORL', 'Ortopedia', 'Robotica chirurgica', 'Imaging'],
     datasets: [{
       label: 'CAGR %',
       data: [8, 8, 6, 18, 12],
@@ -1563,10 +1563,10 @@ const bsChartMercato = new Chart(document.getElementById('chartMercatò).getCont
   }
 });
 
-const bsChartMargini = new Chart(document.getElementById('chartMarginì).getContext('2d'), {
+const bsChartMargini = new Chart(document.getElementById('chartMargini').getContext('2d'), {
   type: 'bar',
   data: {
-    labels: ['Neurochirurgià, 'ORL', 'Ortopedià],
+    labels: ['Neurochirurgia', 'ORL', 'Ortopedia'],
     datasets: [{
       label: 'Margine stimato (%)',
       data: [45, 42, 40],
@@ -1646,16 +1646,16 @@ let geoMap;
     subdomains: 'abcd', maxZoom: 19
   }).addTo(geoMap);
   const mapData = [
-    { name: 'Germanià,      lat: 51.165, lng: 10.451, centri: 142, market: '€1.8B', cagr: '8%'   },
-    { name: 'Francià,       lat: 46.227, lng:  2.213, centri:  95, market: '€1.2B', cagr: '7%'   },
-    { name: 'Regno Unitò,   lat: 54.378, lng: -2.366, centri:  88, market: '€1.1B', cagr: '6.5%' },
-    { name: 'Italià,        lat: 41.872, lng: 12.567, centri:  76, market: '€0.9B', cagr: '7.5%' },
-    { name: 'Spagnà,        lat: 40.463, lng: -3.749, centri:  61, market: '€0.7B', cagr: '7%'   },
-    { name: 'Polonià,       lat: 51.920, lng: 19.145, centri:  45, market: '€0.4B', cagr: '9%'   },
-    { name: 'Paesi Bassì,   lat: 52.133, lng:  5.291, centri:  38, market: '€0.5B', cagr: '6%'   },
-    { name: 'Svezià,        lat: 60.128, lng: 18.644, centri:  32, market: '€0.4B', cagr: '6%'   },
-    { name: 'Belgiò,        lat: 50.503, lng:  4.469, centri:  28, market: '€0.3B', cagr: '5.5%' },
-    { name: 'Svizzerà,      lat: 46.818, lng:  8.227, centri:  22, market: '€0.4B', cagr: '5%'   },
+    { name: 'Germania',      lat: 51.165, lng: 10.451, centri: 142, market: '€1.8B', cagr: '8%'   },
+    { name: 'Francia',       lat: 46.227, lng:  2.213, centri:  95, market: '€1.2B', cagr: '7%'   },
+    { name: 'Regno Unito',   lat: 54.378, lng: -2.366, centri:  88, market: '€1.1B', cagr: '6.5%' },
+    { name: 'Italia',        lat: 41.872, lng: 12.567, centri:  76, market: '€0.9B', cagr: '7.5%' },
+    { name: 'Spagna',        lat: 40.463, lng: -3.749, centri:  61, market: '€0.7B', cagr: '7%'   },
+    { name: 'Polonia',       lat: 51.920, lng: 19.145, centri:  45, market: '€0.4B', cagr: '9%'   },
+    { name: 'Paesi Bassi',   lat: 52.133, lng:  5.291, centri:  38, market: '€0.5B', cagr: '6%'   },
+    { name: 'Svezia',        lat: 60.128, lng: 18.644, centri:  32, market: '€0.4B', cagr: '6%'   },
+    { name: 'Belgio',        lat: 50.503, lng:  4.469, centri:  28, market: '€0.3B', cagr: '5.5%' },
+    { name: 'Svizzera',      lat: 46.818, lng:  8.227, centri:  22, market: '€0.4B', cagr: '5%'   },
   ];
   mapData.forEach(d => {
     L.circleMarker([d.lat, d.lng], {
@@ -1675,12 +1675,12 @@ let geoMap;
 
 /* ── Market issues — horizontal bar ── */
 const _issueLabels = [
-  'Rumore in chirurgia su paziente svegliò,
+  'Rumore in chirurgia su paziente sveglio',
   'Visibilità ridotta (polvere ossea e sangue)',
-  'Surriscaldamento e problemi di fresà,
-  'Rallentamento al contatto con l\'ossò,
+  'Surriscaldamento e problemi di fresa',
+  'Rallentamento al contatto con l\'osso',
   'Controllo autonomo (personale limitato)',
-  'Modularità per esigenze chirurgichè,
+  'Modularità per esigenze chirurgiche',
 ];
 const _issueDetails = [
   'Il rumore del trapano disturba il paziente sveglio e il team chirurgico.',
@@ -1691,12 +1691,12 @@ const _issueDetails = [
   'Scarsa modularità per adattarsi alle diverse tecniche chirurgiche.',
 ];
 const _issuePvals = [
-  'p < 0.001 — Estremamente significativò,
-  'p < 0.01 — Altamente significativò,
-  'p < 0.01 — Altamente significativò,
-  'p = 0.02 — Statisticamente significativò,
+  'p < 0.001 — Estremamente significativo',
+  'p < 0.01 — Altamente significativo',
+  'p < 0.01 — Altamente significativo',
+  'p = 0.02 — Statisticamente significativo',
   'p = 0.04 — Al limite della significatività',
-  'p = 0.05 — Statisticamente significativò,
+  'p = 0.05 — Statisticamente significativo',
 ];
 const chartMarketIssues = new Chart(document.getElementById('chartMarketIssues'), {
   type: 'bar',
@@ -1748,7 +1748,7 @@ const chartMarketIssues = new Chart(document.getElementById('chartMarketIssues')
 });
 
 /* ── Analisi costi e investimenti ── */
-const spesaLabels = ['Ricerca & Sviluppò, 'Certificazionì, 'Prototipazione & Test', 'Produzionè, 'Marketing & Lanciò];
+const spesaLabels = ['Ricerca & Sviluppo', 'Certificazioni', 'Prototipazione & Test', 'Produzione', 'Marketing & Lancio'];
 const spesaTotali = [3500000, 1200000, 2800000, 4000000, 2500000];
 const spesaColors = [
   'rgba(14,116,144,0.85)',
@@ -1766,7 +1766,7 @@ const barChart = new Chart(document.getElementById('barChart'), {
   data: {
     labels: spesaLabels,
     datasets: [{
-      label: 'Investimento totalè,
+      label: 'Investimento totale',
       data: spesaTotali,
       backgroundColor: spesaColors,
       borderRadius: 5, borderWidth: 0,
@@ -1807,11 +1807,11 @@ const pieChart = new Chart(document.getElementById('pieChart'), {
 
 /* linee — evoluzione spese totali per anno */
 const lineChart = new Chart(document.getElementById('lineChart'), {
-  type: 'linè,
+  type: 'line',
   data: {
     labels: ['Anno 1', 'Anno 2', 'Anno 3'],
     datasets: [{
-      label: 'Spese totalì,
+      label: 'Spese totali',
       data: [4200000, 5100000, 4700000],
       borderColor: 'rgba(239,68,68,0.85)',
       backgroundColor: 'rgba(239,68,68,0.08)',
@@ -1839,11 +1839,11 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
   data: {
     labels: ['Anno 1', 'Anno 2', 'Anno 3'],
     datasets: [
-      { label: 'Ricerca & Sviluppò,    data: [1000000, 1500000, 1000000], backgroundColor: spesaColors[0], borderWidth: 0 },
-      { label: 'Certificazionì,         data: [500000,  400000,  300000],  backgroundColor: spesaColors[1], borderWidth: 0 },
+      { label: 'Ricerca & Sviluppo',    data: [1000000, 1500000, 1000000], backgroundColor: spesaColors[0], borderWidth: 0 },
+      { label: 'Certificazioni',         data: [500000,  400000,  300000],  backgroundColor: spesaColors[1], borderWidth: 0 },
       { label: 'Prototipazione & Test', data: [800000,  1000000, 1000000], backgroundColor: spesaColors[2], borderWidth: 0 },
-      { label: 'Produzionè,             data: [1200000, 1400000, 1400000], backgroundColor: spesaColors[3], borderWidth: 0 },
-      { label: 'Marketing & Lanciò,    data: [700000,  800000,  1000000], backgroundColor: spesaColors[4], borderWidth: 0 },
+      { label: 'Produzione',             data: [1200000, 1400000, 1400000], backgroundColor: spesaColors[3], borderWidth: 0 },
+      { label: 'Marketing & Lancio',    data: [700000,  800000,  1000000], backgroundColor: spesaColors[4], borderWidth: 0 },
     ]
   },
   options: {
@@ -1864,47 +1864,47 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
   var root = document.getElementById('igtmRoot');
   if (!root) return;
 
-  var MOS = ['Gen','Feb','Mar','Apr','Mag','Giù,'Lug','Agò,'Set','Ott','Nov','Dic','Gen','Feb','Mar','Apr','Mag','Giù];
+  var MOS = ['Gen','Feb','Mar','Apr','Mag','Giu','Lug','Ago','Set','Ott','Nov','Dic','Gen','Feb','Mar','Apr','Mag','Giu'];
   var MS_COLS  = {3:1, 5:1, 6:1, 15:1, 18:1};
   var barReg = [];
 
   var LANES = [
     {
-      id:'dev', label:'Sviluppo & Ingegnerià, color:'#0E7490',
+      id:'dev', label:'Sviluppo & Ingegneria', color:'#0E7490',
       bars:[
-        {s:1, e:2, ms:false, lbl:'Progettazionè,           tasks:['Progettazione: Motori, Handpiece, Frese, Unità di controllò,'Lista componenti per prototipazionè,'Test Preliminare di integrazionè]},
-        {s:3, e:3, ms:true,  lbl:'Inizio Prototipì,        tasks:[{t:'Relazione di Progettò,ms:true},'Aggiornamento documentazionè,'Inizio realizzazione prototipì]},
-        {s:4, e:5, ms:true,  lbl:'Test Alphà,              tasks:['Primi prototipi: Test Funzionalità e Compatibilità','Test Alphà,'Revisioni di progetto eventualì]},
+        {s:1, e:2, ms:false, lbl:'Progettazione',           tasks:['Progettazione: Motori, Handpiece, Frese, Unità di controllo','Lista componenti per prototipazione','Test Preliminare di integrazione']},
+        {s:3, e:3, ms:true,  lbl:'Inizio Prototipi',        tasks:[{t:'Relazione di Progetto',ms:true},'Aggiornamento documentazione','Inizio realizzazione prototipi']},
+        {s:4, e:5, ms:true,  lbl:'Test Alpha',              tasks:['Primi prototipi: Test Funzionalità e Compatibilità','Test Alpha','Revisioni di progetto eventuali']},
         {s:6, e:8, ms:true,  lbl:'Beta Test',               tasks:['Beta Test','Modifiche feedback']},
-        {s:9, e:9, ms:false, lbl:'Aggiornamento Prototipì, tasks:['Prototipi aggiornati per test clinicì]}
+        {s:9, e:9, ms:false, lbl:'Aggiornamento Prototipi', tasks:['Prototipi aggiornati per test clinici']}
       ]
     },
     {
-      id:'clin', label:'Test Clinicì, color:'#059669',
+      id:'clin', label:'Test Clinici', color:'#059669',
       bars:[
-        {s:4,  e:5,  ms:false, lbl:'Selezione Strutturè,     tasks:['Individuazione strutture per test clinicì]},
-        {s:9,  e:9,  ms:false, lbl:'Preparazione Clinicà,    tasks:['Preparazione Test Clinici Pilotà]},
-        {s:10, e:12, ms:false, lbl:'Esecuzione Test Clinicì, tasks:['Esecuzione test clinicì,'Raccolta ed elaborazione datì]}
+        {s:4,  e:5,  ms:false, lbl:'Selezione Strutture',     tasks:['Individuazione strutture per test clinici']},
+        {s:9,  e:9,  ms:false, lbl:'Preparazione Clinica',    tasks:['Preparazione Test Clinici Pilota']},
+        {s:10, e:12, ms:false, lbl:'Esecuzione Test Clinici', tasks:['Esecuzione test clinici','Raccolta ed elaborazione dati']}
       ]
     },
     {
-      id:'reg', label:'Certificazionì, color:'#D97706',
+      id:'reg', label:'Certificazioni', color:'#D97706',
       bars:[
-        {s:1,  e:3,  ms:false, lbl:'Conformità & Validazionè,        tasks:['Check Conformità normativà,{t:'Controllo e validazione Medical Validation Team',ms:true}]},
-        {s:4,  e:7,  ms:false, lbl:'Documentazione & Normalizzazionè, tasks:['Prep. documentazione test clinici e certificazionì,'Raccolta dati per iter normativò,'Inizio normalizzazione e Richiesta Test']},
-        {s:9,  e:9,  ms:false, lbl:'Autorizzazionì,                   tasks:['Arrivo Autorizzazioni Preliminarì]},
-        {s:10, e:12, ms:false, lbl:'Iter Certificativò,       tasks:['Inizio ultima fase di certificazionè,'Completamento iter certificativò,'Validazione documenti finalì]},
-        {s:13, e:15, ms:true,  lbl:'Certificazioni Ufficialì, tasks:['Arrivo certificazioni e autorizzazioni ufficialì]}
+        {s:1,  e:3,  ms:false, lbl:'Conformità & Validazione',        tasks:['Check Conformità normativa',{t:'Controllo e validazione Medical Validation Team',ms:true}]},
+        {s:4,  e:7,  ms:false, lbl:'Documentazione & Normalizzazione', tasks:['Prep. documentazione test clinici e certificazioni','Raccolta dati per iter normativo','Inizio normalizzazione e Richiesta Test']},
+        {s:9,  e:9,  ms:false, lbl:'Autorizzazioni',                   tasks:['Arrivo Autorizzazioni Preliminari']},
+        {s:10, e:12, ms:false, lbl:'Iter Certificativo',       tasks:['Inizio ultima fase di certificazione','Completamento iter certificativo','Validazione documenti finali']},
+        {s:13, e:15, ms:true,  lbl:'Certificazioni Ufficiali', tasks:['Arrivo certificazioni e autorizzazioni ufficiali']}
       ]
     },
     {
-      id:'gtm', label:'GTM & Commercialè, color:'#7C3AED',
+      id:'gtm', label:'GTM & Commerciale', color:'#7C3AED',
       bars:[
-        {s:6,  e:8,  ms:false, lbl:'Setup Commercialè,   tasks:['Marketing–Vendite: individuazione aree distributori localì,'Lista fornitori locali e acquisizione datì]},
+        {s:6,  e:8,  ms:false, lbl:'Setup Commerciale',   tasks:['Marketing–Vendite: individuazione aree distributori locali','Lista fornitori locali e acquisizione dati']},
         {s:9,  e:9,  ms:false, lbl:'Logistica GTM',       tasks:['Strategie logistiche GoToMarket','Gestione Supply Chain']},
-        {s:10, e:12, ms:false, lbl:'Preparazione Lanciò, tasks:['Produzione materiali marketing','Preparazione lancio commercialè,'Finalizzazione rete distributivà]},
-        {s:13, e:15, ms:true,  lbl:'Marketing Pilotà,    tasks:['Avvio definitivo della produzionè,'Marketing lancio pilotà]},
-        {s:16, e:18, ms:true,  lbl:'Lancio & Espansionè, tasks:['Lancio Pilotà,'Raccolta feedback Early Adopter','Consolidamento strutture di distribuzionè,'Inizio espansione del mercatò]}
+        {s:10, e:12, ms:false, lbl:'Preparazione Lancio', tasks:['Produzione materiali marketing','Preparazione lancio commerciale','Finalizzazione rete distributiva']},
+        {s:13, e:15, ms:true,  lbl:'Marketing Pilota',    tasks:['Avvio definitivo della produzione','Marketing lancio pilota']},
+        {s:16, e:18, ms:true,  lbl:'Lancio & Espansione', tasks:['Lancio Pilota','Raccolta feedback Early Adopter','Consolidamento strutture di distribuzione','Inizio espansione del mercato']}
       ]
     }
   ];
@@ -1938,7 +1938,7 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
 
   var moHdr = MOS.map(function(m, i) {
     var c = i + 1, ms = !!MS_COLS[c];
-    return '<div class="igtm-mò + (ms ? ' ms' : '') + '" style="grid-column:' + c + '/' + (c+1) + '">'
+    return '<div class="igtm-mo' + (ms ? ' ms' : '') + '" style="grid-column:' + c + '/' + (c+1) + '">'
       + (ms ? '<span class="igtm-ms-diamond">&#9670;</span>' : '')
       + '<span>' + m + '</span></div>';
   }).join('');
@@ -1979,15 +1979,15 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
   var wrap       = root.querySelector('.igtm-wrap');
   var panel      = root.querySelector('#igtmPanel');
   var panelHdr   = root.querySelector('#igtmPanelHdr');
-  var panelLane  = root.querySelector('#igtmPanelLanè);
-  var panelTitle = root.querySelector('#igtmPanelTitlè);
+  var panelLane  = root.querySelector('#igtmPanelLane');
+  var panelTitle = root.querySelector('#igtmPanelTitle');
   var panelTasks = root.querySelector('#igtmPanelTasks');
   var activeBar  = null;
 
   function openPanel(bar) {
-    if (activeBar) activeBar.classList.remove('igtm-bar-activè);
+    if (activeBar) activeBar.classList.remove('igtm-bar-active');
     activeBar = bar;
-    bar.classList.add('igtm-bar-activè);
+    bar.classList.add('igtm-bar-active');
     var d = barReg[parseInt(bar.dataset.idx, 10)];
     panelLane.textContent  = d.lane;
     panelLane.style.color  = d.color;
@@ -2005,7 +2005,7 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
 
   function closePanel() {
     panel.classList.remove('igtm-panel-open');
-    if (activeBar) { activeBar.classList.remove('igtm-bar-activè); activeBar = null; }
+    if (activeBar) { activeBar.classList.remove('igtm-bar-active'); activeBar = null; }
   }
 
   root.querySelectorAll('.igtm-bar').forEach(function(b) {
@@ -2017,15 +2017,15 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
     });
   });
 
-  root.querySelector('#igtmPanelClosè).addEventListener('click', closePanel);
+  root.querySelector('#igtmPanelClose').addEventListener('click', closePanel);
 
   root.querySelectorAll('.igtm-leg[data-lane]').forEach(function(btn) {
     btn.addEventListener('click', function() {
-      var id = btn.dataset.lane, wasActive = btn.classList.contains('igtm-leg-activè);
-      root.querySelectorAll('.igtm-leg[data-lane]').forEach(function(b) { b.classList.remove('igtm-leg-activè); });
+      var id = btn.dataset.lane, wasActive = btn.classList.contains('igtm-leg-active');
+      root.querySelectorAll('.igtm-leg[data-lane]').forEach(function(b) { b.classList.remove('igtm-leg-active'); });
       root.querySelectorAll('.igtm-lane-row').forEach(function(r) { r.classList.remove('igtm-dimmed'); });
       if (!wasActive) {
-        btn.classList.add('igtm-leg-activè);
+        btn.classList.add('igtm-leg-active');
         root.querySelectorAll('.igtm-lane-row').forEach(function(r) {
           if (r.dataset.lane !== id) r.classList.add('igtm-dimmed');
         });
@@ -2042,7 +2042,7 @@ const stackedBarChart = new Chart(document.getElementById('stackedBarChart'), {
 
 /* ── Accordion: resize charts + map on open ── */
 document.querySelectorAll('.bc-item').forEach(el => {
-  el.addEventListener('togglè, () => {
+  el.addEventListener('toggle', () => {
     if (el.open) {
       setTimeout(() => {
         if (geoMap) geoMap.invalidateSize();
