@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-03T10:15:34.296280+00:00",
-  "count": 158,
+  "updated": "2026-07-03T14:01:15.886730+00:00",
+  "count": 160,
   "articles": [
+    {
+      "id": "f661491647",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T12:00:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "14b2c8aa36",
+      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+      "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem.  Data centers  are projected to consume a growing share of global electricity demand: The  International Energy Agency   estimates  they could account for 3 to 4 percent of tot",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T12:00:01+00:00",
+      "score": 4
+    },
     {
       "id": "9d2b09ebe7",
       "title": "EP106 AI as a Powerful Teammate in Product Management",
