@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-02T22:01:18.902132+00:00",
-  "count": 153,
+  "updated": "2026-07-03T02:01:20.338752+00:00",
+  "count": 156,
   "articles": [
+    {
+      "id": "afe54e244a",
+      "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
+      "url": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
+      "summary": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "77ac52eac6",
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Jul 2026",
+      "timestamp": "2026-07-03T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bbb33a2166",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Jul 2026",
+      "timestamp": "2026-07-02T23:38:10+00:00",
+      "score": 5
+    },
     {
       "id": "81736f187f",
       "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
