@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Prompt Engineering per Product Manager: dalla tecnica alla pratica · Gabriele Albanese</title>
+  <title>Prompt Engineering per Product Manager: la competenza che hai già · Gabriele Albanese</title>
   <link rel="stylesheet" href="../assets/css/style.css" />
   <style>
     @keyframes livepulse {
@@ -111,6 +111,7 @@
 
     .code-block {
       background: #0F172A;
+      color: #E2E8F0;
       border-radius: 12px;
       padding: 24px 28px;
       overflow-x: auto;
@@ -216,10 +217,43 @@
       border-top: 1px solid var(--border);
     }
 
+    .axis-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin: 28px 0 8px;
+    }
+    .axis-card {
+      background: rgba(14,116,144,0.05);
+      border: 1px solid rgba(14,116,144,0.2);
+      border-radius: 12px;
+      padding: 20px 22px;
+    }
+    .axis-card-label {
+      font-size: 0.65rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #0E7490;
+      margin-bottom: 8px;
+    }
+    .axis-card-lead {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+    .axis-card-desc {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin: 0;
+    }
+
     @media (max-width: 700px) {
       .prompt-compare { grid-template-columns: 1fr; }
       .science-art-grid { grid-template-columns: 1fr; }
       .case-grid { grid-template-columns: 1fr; }
+      .axis-grid { grid-template-columns: 1fr; }
       .technique-num { font-size: 1.5rem; }
       .technique-title { font-size: 1.2rem; }
     }
@@ -250,9 +284,9 @@
       <span style="color:#93c5fd;">Prompt Engineering</span>
     </div>
     <div class="page-label">AI · Product Management · Workflow</div>
-    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Gennaio 2026 · 12 min</div>
-    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Prompt Engineering per Product Manager:<br>dalla tecnica alla pratica</h1>
-    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Come strutturare le richieste ai modelli AI per accelerare discovery, analisi competitiva e decisioni di prodotto. Con esempi concreti dal lavoro reale.</p>
+    <div style="font-size:0.8rem;color:rgba(255,255,255,0.4);margin-bottom:12px;letter-spacing:0.06em;">Marzo 2025 · 20 min</div>
+    <h1 class="page-title" style="text-shadow:0 2px 24px rgba(0,0,0,0.50),0 1px 6px rgba(0,0,0,0.28);">Il prompt engineering non è una competenza nuova:<br>è quella che hai già</h1>
+    <p class="page-subtitle" style="text-shadow:0 1px 12px rgba(0,0,0,0.38);">Scrivere un buon prompt e scrivere un buon brief sono lo stesso esercizio mentale. Cinque strutture nate sul lavoro vero, non su un tutorial, per portarle dentro una decisione di prodotto.</p>
     <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px;">
       <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">Product Manager</span>
       <span style="background:rgba(14,116,144,0.28);border:1px solid rgba(14,116,144,0.5);color:#7dd3fc;font-size:0.72rem;font-weight:700;letter-spacing:0.06em;padding:4px 12px;border-radius:20px;text-transform:uppercase;">AI Workflow</span>
@@ -267,10 +301,10 @@
   <div class="container">
     <div class="prose fade-up">
 
-      <h2>Il problema del prompting "da tutorial"</h2>
-      <p>Il prompt engineering viene di solito insegnato come una disciplina tecnica astratta: tecniche, acronimi, framework generici. Il risultato è che la maggior parte delle persone impara a scrivere prompt migliori per esempi didattici che non usa mai nel lavoro reale.</p>
-      <p>Questo articolo parte da una premessa diversa: le cinque strutture di prompting che descrivo qui non vengono dalla letteratura accademica. Vengono dal mio lavoro quotidiano come Product Manager, dalla gestione di prodotti hardware e software complessi, e da anni di integrazione degli strumenti AI nei processi di discovery, analisi e decisione.</p>
-      <p>La tesi è semplice: un PM che sa strutturare un buon prompt sta esercitando la stessa capacità che usa per scrivere un brief efficace, una domanda di discovery precisa o un PRD chiaro. Non è una competenza separata. È la stessa competenza applicata a uno strumento diverso.</p>
+      <h2>Un buon prompt è un buon brief, scritto altrove</h2>
+      <p>Il prompt migliore che ho scritto questo mese non usava nessuna delle tecniche che si trovano nei corsi di prompt engineering. Era la stessa domanda che faccio a un ingegnere prima di dargli il via libera su una feature: cosa ti serve sapere per non sbagliare, e come faccio a spiegartelo senza lasciarti indovinare?</p>
+      <p>Il prompt engineering viene quasi sempre insegnato come una disciplina a sé: tecniche, acronimi, framework buoni per ogni caso e per nessun caso in particolare. Il risultato è prevedibile. La maggior parte delle persone impara a scrivere prompt eccellenti per gli esempi del corso, e poi torna al lavoro vero senza sapere da dove ricominciare.</p>
+      <p>Le cinque strutture che descrivo in questo articolo non vengono da un manuale. Vengono dal lavoro quotidiano di un Product Manager che gestisce prodotti hardware e software complessi, e da anni passati a integrare l'IA nei processi di discovery, analisi e decisione. La tesi è semplice, e più la ripeto più mi convinco che sia anche corretta: un PM che sa scrivere un buon prompt sta usando la stessa capacità con cui scrive un brief efficace o una domanda di discovery mirata. Non è una competenza nuova. È quella di sempre, applicata a uno strumento diverso.</p>
 
     </div>
 
@@ -278,25 +312,25 @@
       <div class="science-card science-card--science">
         <div class="science-card-label">Dove il prompting aiuta davvero un PM</div>
         <ul>
-          <li>Analisi di grandi volumi di dati (feedback utenti, ticket di supporto, note di campo, trascrizioni)</li>
-          <li>Mappatura competitiva: aggregazione e confronto rapido di fonti eterogenee</li>
-          <li>Simulazioni (scenari di mercato, punti di vista di stakeholder, comportamenti utente, rischi di prodotto)</li>
-          <li>Replicazione di task ripetitivi ad alta frequenza: classificazioni, report ricorrenti, template di documenti</li>
+          <li>Leggere grandi volumi di materiale non strutturato: feedback utenti, ticket di supporto, note di campo, trascrizioni</li>
+          <li>Mappare il competitivo: aggregare e confrontare in poco tempo fonti che normalmente richiederebbero giorni di lettura</li>
+          <li>Simulare scenari di mercato, punti di vista di uno stakeholder, comportamenti utente, rischi di prodotto</li>
+          <li>Replicare compiti ripetitivi ad alta frequenza: classificazioni, report ricorrenti, template di documenti</li>
         </ul>
       </div>
       <div class="science-card science-card--art">
         <div class="science-card-label" style="color:#7C6F5A;">Dove il prompting non sostituisce il PM</div>
         <ul>
-          <li>Anche nelle analisi, aggregazioni e simulazioni: la qualità dipende dalla chiarezza degli intenti e dalla qualità del contesto fornito. Chi non sa cosa cercare, o non porta i dati giusti, non ottiene risposte utili.</li>
-          <li>Tutte le decisioni che implicano responsabilità diretta, giudizio contestuale e conseguenze reali non possono essere delegate all'AI, indipendentemente dalla qualità del prompting. Lo stesso vale per ogni documento prodotto con supporto AI: la responsabilità del contenuto, della correttezza e dell'utilizzo rimane sempre e comunque in capo al PM. Il modello supporta, non sottoscrive.</li>
+          <li>Anche nelle analisi e nelle simulazioni, il risultato dipende dalla chiarezza di chi scrive il prompt. Chi non sa cosa cercare, o non porta i dati giusti, non ottiene risposte utili: ottiene solo risposte plausibili.</li>
+          <li>Ogni decisione che comporta responsabilità diretta, giudizio contestuale e conseguenze reali resta del PM, non del modello. Lo stesso vale per ogni documento prodotto con supporto dell'IA: la responsabilità del contenuto resta sempre di chi lo firma. Il modello aiuta a scriverlo, non lo sottoscrive.</li>
           <li>La validazione qualitativa con utenti reali</li>
-          <li>Il giudizio finale su trade-off complessi, relazioni con stakeholder, strategia di prodotto</li>
+          <li>Il giudizio finale su trade-off complessi, relazioni con gli stakeholder, strategia di prodotto</li>
         </ul>
       </div>
     </div>
 
     <div class="prose fade-up">
-      <p>Con questa distinzione in mente, ecco le cinque strutture che uso sistematicamente.</p>
+      <p>Con questa distinzione chiara, ecco le cinque strutture che uso ogni settimana.</p>
     </div>
 
     <!-- TECNICA 1 -->
@@ -306,11 +340,11 @@
         <h2 class="technique-title">Contesto di prodotto specifico</h2>
       </div>
       <div class="prose">
-        <p>Il modello AI non conosce il tuo prodotto, il tuo mercato o i tuoi utenti. Se non fornisci questo contesto, ottieni risposte generiche. Per un PM, il contesto include sempre tre elementi: il tipo di prodotto, il profilo dell'utente finale e l'obiettivo specifico dell'analisi.</p>
-        <p>La differenza non è stilistica. È la differenza tra un output inutilizzabile e uno che puoi portare direttamente in una riunione di prodotto.</p>
-        <p>Ma il contesto non è solo quello che scrivi nel prompt in quel momento. Un approccio professionale prevede la costruzione di una cartella dati strutturata (feedback storici, profili utente, analisi competitive, documentazione di prodotto) che accompagna il prompt come input separato. Il modello può elaborare file, trascrizioni, tabelle: non deve lavorare dalla memoria, può lavorare dai tuoi dati.</p>
-        <p>Questo richiede un investimento iniziale: selezionare, strutturare e anonimizzare i materiali nel rispetto della riservatezza aziendale e delle normative sulla privacy. Ma una volta costruito, quello stack di contesto rimane disponibile e richiamabile ogni volta, garantendo coerenza e qualità stabile nel tempo.</p>
-        <p>Il prompt è la domanda. I dati sono il contesto senza cui la domanda resta generica. Fare prompting professionale significa lavorare su entrambi.</p>
+        <p>Il modello non conosce il tuo prodotto, il tuo mercato o i tuoi utenti. Senza questo contesto, risponde in modo generico. Per un PM il contesto minimo comprende sempre tre elementi: il tipo di prodotto, il profilo dell'utente finale, l'obiettivo specifico dell'analisi.</p>
+        <p>La differenza non è di forma. È la differenza tra un output che scarti e uno che porti direttamente in riunione.</p>
+        <p>Il contesto non si esaurisce in quello che scrivi nel messaggio. Un approccio più maturo prevede una cartella dati strutturata (feedback storici, profili utente, analisi competitive, documentazione di prodotto) che accompagna il prompt come materiale a parte. Il modello può leggere file, trascrizioni, tabelle: non deve indovinare dalla propria memoria, può lavorare sui tuoi dati reali.</p>
+        <p>Questo richiede un investimento iniziale: selezionare, strutturare e anonimizzare i materiali nel rispetto della riservatezza aziendale e della normativa sulla privacy. Ma una volta costruito, quello stack di contesto resta disponibile ogni volta che serve, e la qualità delle risposte smette di dipendere dall'umore con cui hai scritto il prompt quel giorno.</p>
+        <p>Il prompt è la domanda. I dati sono il contesto senza cui la domanda resta generica. Fare prompting con criterio significa lavorare su entrambi.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
@@ -324,7 +358,7 @@
       </div>
       <div class="prompt-compare" style="margin-top:0;">
         <div class="prompt-box prompt-box--after" style="grid-column:1/-1;">
-          <div class="prompt-box-label">Prompt agentivo (AI con accesso al file system)</div>
+          <div class="prompt-box-label">Prompt agentivo (IA con accesso al file system)</div>
           <p>"Leggi i documenti nella cartella /prodotto/contesto (PRD, feedback utenti anonimizzati, analisi competitive, note di field).<br><br>Sei un PM senior che valuta un dispositivo medicale B2B usato da professionisti in ambiente ospedaliero. Identifica i pattern di adozione, distingui le frizioni di UX dai problemi di product-market fit, classifica ogni tema per frequenza e impatto sulla retention. Formato: tabella con colonne Tema, Frequenza, Impatto, Azione suggerita."</p>
         </div>
       </div>
@@ -337,11 +371,11 @@
         <h2 class="technique-title">Few-shot per classificazione strutturata</h2>
       </div>
       <div class="prose">
-        <p>Quando devo processare grandi volumi di dati eterogenei (feedback, ticket di supporto, note di field) uso il <strong>few-shot prompting</strong>: fornisco al modello due o tre esempi del formato di output atteso prima di dargli i dati reali. Il risultato è una classificazione coerente che posso importare direttamente in un foglio di analisi.</p>
-        <p>Questa tecnica è particolarmente utile nella fase di discovery, quando l'obiettivo è trovare pattern in materiale non strutturato.</p>
-        <p>La qualità degli esempi che fornisci è il vero differenziatore di questa tecnica. Il modello calibra il suo output esattamente sugli esempi ricevuti: se sono imprecisi o incoerenti, l'output lo sarà almeno altrettanto. È importante capire che la relazione non è lineare: un errore anche piccolo in un esempio -- un'ambiguità, una categoria mal definita, un caso limite trattato male -- non produce un errore proporzionale nell'output. Il modello generalizza quell'esempio su tutti i casi simili, trasformando un bias minimo in input in un errore sistematico su larga scala.</p>
-        <p>Gli esempi meritano quindi un investimento significativo in termini di tempo e sforzo. Il processo ideale è iterativo: si redige una prima versione, si testa con il modello, si valuta l'output e si affina -- integrando, dove necessario, il confronto con chi ha visibilità diretta sul contesto specifico. Il ciclo si ripete finché il risultato rispecchia esattamente lo standard qualitativo atteso.</p>
-        <p>Una volta validati, quegli esempi non sono più solo un prompt: diventano un template riusabile e un asset operativo. La base di partenza per ogni analisi successiva dello stesso tipo, che codifica conoscenza di dominio e standard di qualità e garantisce coerenza nel tempo e tra diversi utenti del team.</p>
+        <p>Quando devo lavorare su grandi volumi di dati eterogenei (feedback, ticket di supporto, note di field) uso il <strong>few-shot prompting</strong>: fornisco due o tre esempi del formato di output atteso prima di passare i dati veri. Il risultato è una classificazione coerente, pronta per un foglio di analisi.</p>
+        <p>È una tecnica particolarmente utile in discovery, quando l'obiettivo è trovare pattern in materiale non strutturato.</p>
+        <p>La qualità degli esempi è ciò che decide il risultato. Il modello calibra il proprio output su quegli esempi: se sono imprecisi, l'output non sarà solo impreciso allo stesso modo, sarà peggio. Un errore piccolo in un esempio, un'ambiguità, una categoria mal definita, un caso limite gestito male, non produce un errore proporzionato. Il modello generalizza quell'errore su tutti i casi simili, e un bias minimo in ingresso diventa un errore sistemico su larga scala.</p>
+        <p>Gli esempi meritano quindi tempo vero. Il processo corretto è iterativo: si scrive una prima versione, si testa, si valuta l'output, si corregge, confrontandosi quando serve con chi conosce il contesto meglio di te. Si ripete finché il risultato non rispecchia lo standard atteso, non quello accettabile.</p>
+        <p>Una volta validati, quegli esempi smettono di essere un prompt e diventano un template riusabile: la base di partenza per ogni analisi dello stesso tipo, che porta con sé conoscenza di dominio e garantisce coerenza nel tempo, anche tra persone diverse dello stesso team.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
@@ -361,7 +395,7 @@
         </div>
       </div>
       <div class="prose" style="margin-top:32px;">
-        <p><em>Quando il ragionamento dietro un esempio diventa parte del prompt stesso, si entra in un territorio più potente: quello della Chain of Thought -- la tecnica che trasforma l'AI da esecutore di classificazioni a interlocutore di analisi.</em></p>
+        <p><em>Quando il ragionamento dietro l'esempio entra nel prompt stesso, si passa a un registro più potente: la Chain of Thought, la tecnica che trasforma l'IA da esecutore di classificazioni a interlocutore di analisi.</em></p>
       </div>
     </div>
 
@@ -372,9 +406,9 @@
         <h2 class="technique-title">Chain of Thought e Clarification-Seeking Prompting</h2>
       </div>
       <div class="prose">
-        <p>Per problemi complessi e multi-variabili, chiedere esplicitamente al modello di ragionare passo dopo passo prima di concludere produce analisi significativamente più solide. Questa tecnica, chiamata <strong>Chain of Thought</strong>, è particolarmente utile quando si vuole evitare che l'AI salti direttamente alla prima risposta plausibile senza esaminare le alternative.</p>
-        <p>Nel lavoro di prodotto, la uso sistematicamente per analisi di drop nelle metriche, anomalie nei dati di utilizzo e valutazione di scenari di rischio.</p>
-        <p>Una variante avanzata di questa tecnica prevede di istruire esplicitamente il modello a richiedere dati o chiarimenti aggiuntivi prima di concludere il ragionamento, qualora le informazioni disponibili non siano sufficienti. Questo approccio, definibile come chain-of-thought interattiva, evita che il modello colmi autonomamente i vuoti informativi con assunzioni implicite, che potrebbero invalidare l'output senza essere rilevabili a prima vista. Il modello diventa un interlocutore attivo che segnala i limiti dell'analisi prima di produrla, non dopo.</p>
+        <p>Per i problemi complessi, con più variabili in gioco, chiedere al modello di ragionare passo dopo passo prima di concludere produce analisi molto più solide. Questa tecnica si chiama <strong>Chain of Thought</strong> ed è utile soprattutto a evitare che l'IA salti dritta alla prima risposta plausibile, senza controllare le alternative.</p>
+        <p>Nel lavoro di prodotto la uso soprattutto per i cali improvvisi nelle metriche, le anomalie nei dati di utilizzo, la valutazione di scenari di rischio.</p>
+        <p>Una variante più avanzata istruisce il modello a chiedere dati o chiarimenti aggiuntivi prima di concludere, se le informazioni disponibili non bastano. È una chain-of-thought interattiva: evita che il modello riempia da solo i vuoti informativi con assunzioni implicite, che possono invalidare l'output senza che tu te ne accorga a prima lettura. Il modello diventa un interlocutore che segnala i limiti dell'analisi prima di produrla, non dopo che l'hai già letta come definitiva.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
@@ -395,9 +429,9 @@
         <h2 class="technique-title">Prompt per output strutturati e integrabili</h2>
       </div>
       <div class="prose">
-        <p>Un prompt efficace non specifica solo cosa analizzare, ma anche come deve essere strutturato l'output. I modelli attuali gestiscono il formato nativamente: tabelle importabili in Notion o Sheets, sezioni per PRD, strutture per report ricorrenti. Definire il formato a monte significa ricevere un output che non richiede riformattazione prima di essere utilizzato.</p>
-        <p>È importante precisare che "integrabile" non significa "da usare senza verifica". L'output strutturato riduce il tempo di lavorazione, non elimina la responsabilità del controllo. Ogni documento prodotto con supporto AI richiede revisione critica da parte del PM prima di entrare nel flusso di lavoro reale.</p>
-        <p>Ho standardizzato questa struttura per i template di lavoro più ricorrenti: ogni volta che devo produrre documentazione di prodotto, parto da un prompt con formato definito invece che dalla pagina bianca -- riducendo il tempo di redazione e mantenendo coerenza tra versioni successive dello stesso documento.</p>
+        <p>Un prompt efficace non dice solo cosa analizzare, dice anche come deve essere l'output. I modelli attuali gestiscono il formato in modo nativo: tabelle pronte per Notion o Sheets, sezioni per un PRD, strutture per un report ricorrente. Definire il formato a monte significa ricevere un output che non va riformattato prima di poterlo usare.</p>
+        <p>Vale la pena essere precisi: "integrabile" non vuol dire "da usare senza controllo". L'output strutturato riduce il tempo di lavorazione, non la responsabilità della verifica. Ogni documento scritto con supporto dell'IA va riletto con occhio critico dal PM prima di entrare nel flusso di lavoro reale.</p>
+        <p>Ho standardizzato questa struttura per i documenti che scrivo più spesso: ogni volta che serve produrre documentazione di prodotto, parto da un prompt con formato già definito invece che dalla pagina bianca. Il tempo di stesura si riduce, e le versioni successive dello stesso documento restano coerenti tra loro.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
@@ -410,7 +444,7 @@
           TITOLO: [nome feature]<br>
           COME: [profilo utente specifico]<br>
           VOGLIO: [azione o bisogno]<br>
-          PERCHé: [valore atteso]<br>
+          PERCHÉ: [valore atteso]<br>
           CRITERI DI ACCETTAZIONE: [lista verificabile, minimo 3]<br>
           CASI LIMITE: [scenari di errore o eccezione]<br>
           DIPENDENZE: [sistemi o team coinvolti]<br><br>
@@ -426,9 +460,9 @@
         <h2 class="technique-title">Stakeholder Persona Prompting</h2>
       </div>
       <div class="prose">
-        <p>Nelle sezioni precedenti abbiamo già usato questa tecnica senza nominarla esplicitamente: "Sei un PM senior che analizza...", "Sei un professionista specializzato con 15 anni di esperienza...". È il momento di definirla correttamente.</p>
-        <p>Lo <strong>Stakeholder Persona Prompting</strong> consiste nell'assegnare al modello un ruolo specifico e dettagliato prima di formulare la richiesta. Il modello non risponde più come sistema generico, ma filtra l'analisi attraverso il punto di vista, le priorità e i criteri decisionali della persona che sta simulando. Questo permette di anticipare obiezioni, identificare lacune in una proposta e prepararsi a confronti con interlocutori reali -- senza sostituire la ricerca qualitativa, ma integrandola in modo efficace.</p>
-        <p>La variante più avanzata prevede la costruzione di un <strong>file persona</strong> dedicato: un documento strutturato che descrive in dettaglio il profilo dello stakeholder da simulare -- ruolo, anni di esperienza, contesto operativo, motivazioni principali, criteri decisionali, obiezioni tipiche, stile comunicativo. Questo file viene salvato in una cartella dedicata (es. <code>/stakeholder/personas/</code>) e caricato come contesto ogni volta che si vuole simulare quel punto di vista, garantendo coerenza tra sessioni diverse e affinamento progressivo del profilo nel tempo.</p>
+        <p>Nelle sezioni precedenti questa tecnica è già comparsa senza essere nominata: "Sei un PM senior che analizza...", "Sei un professionista con quindici anni di esperienza...". È il momento di definirla per bene.</p>
+        <p>Lo <strong>Stakeholder Persona Prompting</strong> consiste nell'assegnare al modello un ruolo preciso prima di fargli la domanda. Il modello smette di rispondere come sistema generico e filtra l'analisi attraverso il punto di vista, le priorità, i criteri decisionali della persona che sta simulando. Serve ad anticipare obiezioni, trovare i punti deboli di una proposta, prepararsi a un confronto con interlocutori reali: non sostituisce la ricerca qualitativa, la completa.</p>
+        <p>La versione più matura di questa tecnica prevede un <strong>file persona</strong> dedicato: un documento che descrive nel dettaglio lo stakeholder da simulare, il ruolo, gli anni di esperienza, il contesto operativo, le motivazioni principali, i criteri con cui decide, le obiezioni tipiche, lo stile con cui comunica. Salvato in una cartella dedicata (per esempio <code>/stakeholder/personas/</code>) e caricato ogni volta che serve simulare quel punto di vista, garantisce coerenza tra una sessione e l'altra, e permette di affinare il profilo nel tempo invece di riscriverlo ogni volta da zero.</p>
       </div>
       <div class="prompt-compare">
         <div class="prompt-box prompt-box--before">
@@ -446,22 +480,128 @@
     <!-- CONCLUSIONE -->
     <div class="prose fade-up" style="margin-top:64px;">
       <h2>La competenza che non si chiama prompting</h2>
-      <p>Cinque tecniche diverse, un filo conduttore unico: in nessun caso il valore sta nella tecnica in sé. Sta nella qualità del pensiero che la precede. La precisione del contesto che porti, la solidità degli esempi che costruisci, il rigore con cui definisci il formato dell'output, la profondità con cui modelli il punto di vista del tuo stakeholder. Non sono competenze di prompting. Sono competenze di Product Management applicate a uno strumento diverso.</p>
-      <p>Un principio trasversale a tutte e cinque: non fermarsi mai al primo output. Ogni risposta del modello è un punto di partenza, non un punto di arrivo. Aggiungere un vincolo, cambiare prospettiva, portare nuovi dati, chiedere una rivalutazione -- l'affinamento iterativo è la pratica che separa un output accettabile da uno genuinamente utile. Il modello non migliora da solo: migliora ogni volta che gli porti una domanda più precisa o un contesto più ricco. Vale per un prompt esattamente come vale per un brief, una domanda di discovery o una specifica tecnica.</p>
-      <p>Chi lavora bene con gli strumenti AI non ha imparato una nuova competenza. Ha applicato meglio una competenza che aveva già. E chi fatica con i modelli AI fatica per la stessa ragione per cui fatica a scrivere requisiti chiari: non perché non conosce lo strumento, ma perché il pensiero a monte non è abbastanza strutturato.</p>
+      <p>Cinque tecniche diverse, un filo conduttore unico: il valore non sta mai nella tecnica in sé. Sta nella qualità del pensiero che la precede: la precisione del contesto che porti, la solidità degli esempi che costruisci, il rigore con cui definisci il formato dell'output, la profondità con cui modelli il punto di vista del tuo stakeholder. Non sono competenze di prompting. Sono competenze di Product Management, applicate a uno strumento diverso da quello a cui sei abituato.</p>
+      <p>C'è un principio che attraversa tutte e cinque: non fermarsi mai al primo output. Ogni risposta del modello è un punto di partenza, non un punto di arrivo. Aggiungere un vincolo, cambiare prospettiva, portare un dato nuovo, chiedere una rivalutazione: l'affinamento iterativo è quello che separa un output accettabile da uno davvero utile. Il modello non migliora da solo. Migliora ogni volta che gli porti una domanda più precisa o un contesto più ricco. Vale per un prompt come vale per un brief, una domanda di discovery, una specifica tecnica.</p>
+      <p>Chi lavora bene con l'IA non ha imparato una competenza nuova. Ha applicato meglio una competenza che aveva già. E chi fatica con i modelli fatica per la stessa ragione per cui fatica a scrivere requisiti chiari: non perché non conosca lo strumento, ma perché il pensiero che viene prima non è ancora abbastanza definito.</p>
 
       <div class="callout">
-        <p>Il test più utile che conosco: se non riesci a spiegare chiaramente a un collega cosa vuoi ottenere e con quali criteri valuteresti il risultato, non riuscirai a ottenerlo nemmeno dall'AI. Il problema non è il prompt. È la specifica.</p>
+        <p>Il test più utile che conosco: se non riesci a spiegare a un collega, con chiarezza, cosa vuoi ottenere e con quali criteri giudicheresti il risultato, non lo otterrai nemmeno dall'IA. Il problema non è il prompt. È la specifica che gli manca.</p>
       </div>
 
       <h2 style="margin-top:52px;">Una nota sui costi: token optimization</h2>
-      <p>Il prompting professionale è anche prompting economicamente efficiente. Ogni interazione con un modello AI ha un costo in token -- l'unità di misura con cui i modelli elaborano e generano testo. Un prompt vago che richiede cinque round di correzione consuma molti più token di un prompt preciso che produce l'output giusto al primo tentativo.</p>
-      <p>Investire tempo nella costruzione di un contesto solido, di esempi validati e di un formato definito non è solo una pratica metodologica: è anche una scelta di efficienza economica. A livello individuale l'impatto è contenuto; a livello di team, su centinaia di sessioni mensili, diventa una variabile di costo rilevante da considerare nella governance degli strumenti AI.</p>
-      <p>Ma il tema va oltre il budget. L'efficienza nell'uso dei token è parte di una consapevolezza più ampia che sta emergendo sotto ogni profilo: economico, energetico, ambientale. I modelli AI su larga scala hanno un consumo di risorse computazionali e un impatto energetico reali e misurabili. Usare l'AI in modo preciso e intenzionale, invece di procedere per tentativi, non è solo una buona pratica professionale: è una responsabilità che chi lavora con questi strumenti ogni giorno non può ignorare. La token optimization, oggi ancora sottostimata nei percorsi formativi e nelle pratiche aziendali, è destinata a diventare una componente essenziale del background di chiunque integri l'AI nei propri flussi di lavoro.</p>
+      <p>Il prompting fatto con criterio è anche prompting efficiente. Ogni interazione con un modello ha un costo in token, l'unità con cui i modelli leggono e generano testo. Un prompt vago che richiede cinque round di correzione consuma più token di un prompt preciso che produce l'output giusto al primo tentativo.</p>
+      <p>Costruire un contesto solido, esempi validati, un formato definito non è solo un metodo di lavoro: è anche una scelta di efficienza economica. Sulla singola persona l'impatto è piccolo. Su un team, moltiplicato per centinaia di sessioni al mese, diventa una voce di costo che vale la pena guardare nella governance degli strumenti di IA.</p>
+      <p>Ma il tema va oltre il budget. L'efficienza nell'uso dei token fa parte di una consapevolezza più ampia che sta emergendo su più fronti insieme: economico, energetico, ambientale. I modelli di IA su larga scala consumano risorse computazionali reali, con un impatto energetico misurabile. Usare l'IA con precisione, invece che per tentativi, non è solo buona pratica professionale: è una responsabilità di chi lavora con questi strumenti ogni giorno. La token optimization, oggi ancora poco insegnata nei percorsi formativi e nelle aziende, diventerà presto parte del bagaglio minimo di chiunque integri l'IA nel proprio lavoro.</p>
 
-      <p>Usare l'AI con questa precisione e intenzionalità non costruisce dipendenza: costruisce integrazione governata. La differenza non è nello strumento, è nel modo in cui ci si rapporta con esso.</p>
+      <p>Usare l'IA con questa precisione non costruisce dipendenza: costruisce integrazione governata. La differenza non è nello strumento. È nel modo in cui ci si rapporta con esso.</p>
 
-      <p style="margin-top:40px;font-size:0.85rem;color:var(--muted);font-style:italic;">Questo articolo fa parte di una serie dedicata all'integrazione pratica degli strumenti AI nel lavoro di prodotto e alla gestione del rischio tecnologico nelle organizzazioni.</p>
+      <p style="margin-top:40px;font-size:0.85rem;color:var(--muted);font-style:italic;">Questo articolo fa parte di una serie dedicata all'integrazione pratica degli strumenti di IA nel lavoro di prodotto e alla gestione del rischio tecnologico nelle organizzazioni.</p>
+    </div>
+
+    <!-- AGGIORNAMENTO LUGLIO 2026 -->
+    <div style="margin-top:56px;background:rgba(14,116,144,0.06);border:1px solid rgba(14,116,144,0.3);border-left:4px solid #0E7490;border-radius:12px;padding:32px 36px 36px;" class="fade-up">
+    <div class="prose">
+      <div style="font-size:0.7rem;font-weight:800;letter-spacing:0.1em;text-transform:uppercase;color:#0E7490;margin-bottom:16px;">Aggiornamento · Luglio 2026</div>
+      <h2 id="contesto-e-skill">Contesto e Skill: la differenza che conta adesso</h2>
+      <p>Da quando questo articolo è uscito, il termine "prompt engineering" ha cominciato a invecchiare in fretta. A spingere il cambio di vocabolario è stato soprattutto Andrej Karpathy: membro fondatore di OpenAI, poi per anni Director of AI in Tesla, rientrato in OpenAI nel 2023 e uscito l'anno dopo per fondare Eureka Labs, una scuola pensata per la formazione AI-native. Da oltre un anno scrive con insistenza sullo stesso tema, e gli si deve una definizione diventata in fretta un punto di riferimento nel settore: il "context engineering" è "l'arte delicata e la scienza di riempire la finestra di contesto con esattamente le informazioni giuste per il passo successivo" ("the delicate art and science of filling the context window with just the right information for the next step").</p>
+      <p>Fino a poco fa, "contesto" poteva voler dire una cartella intera di documenti, come in "Contesto di prodotto specifico", oppure un pezzo di testo scritto dentro il prompt stesso, come nel file persona di "Stakeholder Persona Prompting". In entrambi i casi restava legato a quel singolo messaggio: andava fornito lì, in quella forma, ogni volta che serviva. Adesso la forma si standardizza: un file unico, non più un pezzo di prompt da riscrivere ogni volta. I documenti non spariscono: quel file diventa il punto d'ingresso, spiega cosa contiene e rimanda ai documenti a cui serve accedere, invece di essere lui stesso una cartella da riaprire ogni volta. Cambia la forma, non l'idea di fondo: dare al modello esattamente le informazioni che gli servono. Cambia soprattutto il livello: non più un singolo messaggio, ma qualcosa che resta disponibile sessione dopo sessione, senza doverlo riscrivere da zero ogni volta. Ed è da qui che l'idea si sdoppia in due strumenti diversi: il Contesto e la Skill. Da qui in avanti scrivo "Contesto" con la maiuscola per indicare questo strumento preciso: non è un sinonimo del contesto generico di cui ho parlato nelle tecniche sopra, è la forma tecnica che quel contesto assume oggi. Per usarli bene servono due assi di lettura.</p>
+      <h3 style="margin-top:36px;">Primo asse: quando si attivano</h3>
+      <p>È l'asse che conta di più, ed è anche il più facile da sbagliare.</p>
+    </div>
+    </div>
+
+    <div class="science-art-grid fade-up delay-1">
+      <div class="science-card science-card--science">
+        <div class="science-card-label">Contesto</div>
+        <ul>
+          <li>Una volta caricato in una sessione o in un progetto, resta sempre attivo: il modello lo tiene presente per ogni richiesta che gli fai lì dentro, senza eccezioni.</li>
+          <li>Non si accende né si spegne da solo in base al task. È attivo di default, per tutto, finché resta in quel progetto: ti serva o no in quella domanda specifica, è comunque lì.</li>
+          <li>Può essere un documento o un dataset, ma anche linee guida, un modo di ragionare sui problemi, il quadro generale dell'azienda: chi è, cosa fa, come si muove nel suo mercato. Materiale che fa capire al modello, a ogni azione che compie, che quell'azione deve avere senso in quell'azienda specifica, non in un'azienda qualunque che fa cose simili.</li>
+          <li>Va usato quando vuoi che un'informazione accompagni ogni interazione in quel progetto, senza doverla ripetere ogni volta: i feedback di questo trimestre, il PRD di questo prodotto, il dataset di questa analisi.</li>
+        </ul>
+      </div>
+      <div class="science-card science-card--art">
+        <div class="science-card-label" style="color:#7C6F5A;">Skill</div>
+        <ul>
+          <li>Resta silente quasi sempre: non entra in gioco a ogni richiesta, solo per i task a cui è dedicata.</li>
+          <li>È il modello a decidere, richiesta per richiesta, se attivarla, leggendo nome e descrizione. Se il task non c'entra, la Skill semplicemente non interviene.</li>
+          <li>Descrive un comportamento, non un caso singolo: è più vicina a un'istruzione in più che aggiungi per portare a termine un compito preciso, non a un'informazione di sfondo. La stessa Skill può attivarsi in progetti diversi, ma solo quando il tipo di task coincide.</li>
+          <li>Va usata quando vuoi che una procedura scatti solo in certe circostanze, non a ogni interazione: valutare il punto di vista di un certo stakeholder, scrivere sempre user story con la stessa struttura.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h3 style="margin-top:40px;">Secondo asse: generale o di progetto</h3>
+      <p>C'è un secondo asse, indipendente dal primo, che vale sia per il Contesto sia per la Skill: la portata. Entrambi possono essere <strong>generali</strong>, validi in ogni progetto su cui lavori, oppure <strong>di progetto</strong>, costruiti per un caso specifico e pensati per restarci. I due assi si combinano, ed è la combinazione a decidere davvero cosa costruire.</p>
+    </div>
+
+    <div class="axis-grid fade-up delay-1">
+        <div class="axis-card">
+          <div class="axis-card-label">Contesto di progetto</div>
+          <p class="axis-card-lead">Sempre attivo, ma solo dentro quel progetto.</p>
+          <p class="axis-card-desc">La cartella dati di un nuovo smartwatch per il fitness: PRD, feedback dei beta tester, analisi competitiva di quel modello specifico.</p>
+        </div>
+        <div class="axis-card">
+          <div class="axis-card-label">Contesto generale</div>
+          <p class="axis-card-lead">Sempre attivo, in ogni progetto che segui.</p>
+          <p class="axis-card-desc">Un file che descrive il tuo metodo di lavoro: come strutturi un PRD, con quali criteri prioritizzi, il tono con cui scrivi di solito.</p>
+        </div>
+        <div class="axis-card">
+          <div class="axis-card-label">Skill di progetto</div>
+          <p class="axis-card-lead">Si attiva solo per task specifici, solo in quel progetto.</p>
+          <p class="axis-card-desc">Le specifiche hardware e i vincoli di certificazione di quel modello: entrano in gioco solo quando scrivi documentazione tecnica per quel prodotto.</p>
+        </div>
+        <div class="axis-card">
+          <div class="axis-card-label">Skill generale</div>
+          <p class="axis-card-lead">Si attiva solo per task specifici, ma in qualsiasi progetto.</p>
+          <p class="axis-card-desc">La valutazione dal punto di vista del buyer retail che decide cosa mettere a scaffale: entra in gioco ogni volta che il task lo richiede, su prodotti diversi.</p>
+        </div>
+    </div>
+
+    <div class="prose fade-up">
+      <h3 style="margin-top:44px;">L'impatto sui token</h3>
+      <p>I due assi insieme spiegano perché la token optimization di cui parlavo in chiusura di questo articolo, oggi, non riguarda più solo la precisione di un singolo prompt.</p>
+      <p>Un Contesto generale è il più costoso in assoluto: essendo sempre attivo in ogni progetto, lo paghi a ogni sessione, a prescindere dal task, ed è per questo che va tenuto essenziale, non un archivio di tutto ciò che potrebbe servire un giorno. Un Contesto di progetto pesa meno nel complesso, perché lo paghi solo mentre lavori su quel caso, ma dentro quel perimetro resta comunque un costo fisso, caricato per intero a ogni richiesta. Una Skill, generale o di progetto, costa quasi niente quando non serve: il modello vede solo nome e descrizione finché non riconosce che è pertinente, e carica le istruzioni complete solo in quel momento. È strutturalmente più efficiente sul lungo periodo di un contesto della stessa dimensione, proprio perché non resta acceso quando non serve.</p>
+    </div>
+
+    <div class="prose fade-up">
+      <h3 style="margin-top:44px;">Il cambiamento organizzativo: investire tempo per farsi capire dal modello</h3>
+      <p>Le organizzazioni che vogliono sfruttare davvero l'IA devono cambiare qualcosa a monte: strutturare il modo in cui il modello viene alimentato richiede tempo reale, non un'operazione da fare una volta e dimenticare. Ogni documento va inserito con rigore e metodo, e aggiornato con la stessa costanza con cui il PM aggiorna qualsiasi altro documento di prodotto.</p>
+      <p>Vanno inseriti anche i verbali delle riunioni interdipartimentali: non solo le decisioni prese e i temi trattati, ma il motivo per cui si è scelto quello e non altro, cioè il ragionamento che ha portato fin lì. In letteratura di knowledge management è la distinzione di Nonaka e Takeuchi tra conoscenza esplicita, quella scritta e trasferibile come la decisione stessa, e conoscenza tacita, quella che resta nella testa delle persone finché nessuno la mette per iscritto.</p>
+
+      <div class="callout">
+        <p>Non serve tecnologia sofisticata per farlo: basta un registratore acceso durante la riunione, per trascrivere i passaggi in cui si discutono le questioni rilevanti.</p>
+      </div>
+
+      <p>A quel punto vale la pena investire tempo anche nella scrittura delle Skill che fanno fruttare il lavoro fatto fin lì. Per un PRD, per esempio, non bastano istruzioni generiche sul formato: servono istruzioni più complete, che chiedano alla Skill di leggere tutti i documenti rilevanti e tutte le riunioni che hanno preceduto quel documento, non solo l'ultima versione disponibile.</p>
+
+      <div class="code-block">
+        name: revisione-prd-contro-documenti-origine<br><br>
+        description: |<br>
+        &nbsp;&nbsp;Attiva questa skill durante la revisione di un PRD già redatto.<br><br>
+        &nbsp;&nbsp;Analizza il PRD e tutti i documenti di origine presenti nella cartella /progetto/documenti-di-origine/ (ad esempio MRD, User Personas, Buyer Personas, Functional Specification e altri documenti di progetto).<br><br>
+        &nbsp;&nbsp;Verifica che ogni sezione del PRD rappresenti fedelmente le informazioni contenute nei documenti di origine, individuando omissioni, semplificazioni, interpretazioni non supportate, requisiti presenti nei documenti di origine ma non coperti dal PRD, e bisogni utente descritti nei documenti di origine ma non soddisfatti dal PRD.<br><br>
+        &nbsp;&nbsp;Successivamente confronta i documenti di origine tra loro per identificare contraddizioni esplicite e dirette: dati che un documento afferma e un altro smentisce.<br><br>
+        &nbsp;&nbsp;Infine confronta il PRD con tutti i documenti di origine insieme, non uno alla volta, per valutare se ci sono dati rilevanti non inseriti nel PRD che andrebbero aggiunti, e per individuare eventuali anomalie tra i dati, o dati mancanti, che emergono solo dall'analisi comparata di tutte le fonti insieme e sono rilevanti per la qualità del PRD.<br><br>
+        &nbsp;&nbsp;Restituisci un report con:<br>
+        &nbsp;&nbsp;- requisiti e bisogni presenti nei documenti di origine ma non coperti dal PRD;<br>
+        &nbsp;&nbsp;- contraddizioni dirette tra i documenti di origine;<br>
+        &nbsp;&nbsp;- dati rilevanti non inseriti nel PRD e anomalie emerse dall'analisi comparata di tutte le fonti insieme;<br>
+        &nbsp;&nbsp;- informazioni mancanti o non tracciabili;<br>
+        &nbsp;&nbsp;- raccomandazioni per l'aggiornamento del PRD.
+      </div>
+
+      <p>È dopo questo secondo investimento che i due sforzi danno davvero frutto: emergono spunti che difficilmente si sarebbero notati altrimenti, perché nascono da un incrocio sistemico di tutti i dati disponibili, e il documento richiede poca revisione perché è già corretto in gran parte, spesso più completo del necessario.</p>
+    </div>
+
+    <div class="prose fade-up">
+      <h3 style="margin-top:44px;">Dove sta la professionalità, oggi che tutti usano le IA</h3>
+      <p>È una domanda che torna spesso, in una forma o nell'altra: se l'IA sostituisce il lavoratore e fa lei le mansioni per cui prima serviva un professionista, che ne è del professionista? E se posso costruirmi da solo questo sito con l'IA, perché dovrei pagare qualcuno che, alla fine, il sito me lo farebbe comunque con l'IA?</p>
+      <p>La risposta è difficile da dare non perché sia complicata, ma perché costringe a guardare a un passato che quasi non esiste più. Un artista su commissione, un ingegnere, un elettricista, un falegname erano professionisti per due motivi. Il primo: sapevano tradurre una richiesta, o un'idea ancora informe, in un prodotto finito che rispondesse davvero a quella richiesta. Il secondo: avevano, con il pennello, con lo scalpello, con la sega o con il calcolo, una manualità tale da ottenere un risultato che chi non era del mestiere non avrebbe potuto raggiungere, non in quel modo e non da un giorno all'altro. Le competenze erano due, non una: la visione, e l'abilità di usare lo strumento per realizzarla.</p>
+      <p>Con l'IA vale lo stesso schema, non uno nuovo. L'IA non ha visione: quella ce l'ha, o non ce l'ha, solo chi la usa. Ed è uno strumento nuovo, come lo era la sega o il pennello: un professionista lo padroneggia fino a ottenere risultati che un non professionista non riuscirebbe a replicare da un giorno all'altro, pur avendo in mano lo stesso strumento. È difficile sostenere che Giotto fosse, alla fine, solo uno che stendeva colore su una tela. Se qualcuno si procurasse gli stessi pennelli che usava Giotto e sostenesse che, grazie a quei pennelli, dipingerebbe come lui e otterrebbe un risultato sovrapponibile al suo, cosa penseremmo?</p>
+      <p>La professionalità con l'IA non sta nel non usarla, e nemmeno nel saperla usare in senso generico. Sta nel saperla usare con la stessa manualità con cui un professionista ha sempre trattato i propri strumenti: sapere quando un output va accettato e quando va rifatto, quando conviene costruire un Contesto o una Skill invece di ripetere lo stesso prompt per la ventesima volta, quando la risposta del modello nasconde un'assunzione implicita che nessun cliente accetterebbe. Chi usa l'IA da dilettante le affida il compito e si accontenta del primo risultato plausibile. Chi la usa da professionista la tratta come uno strumento su cui investire, non come una scorciatoia.</p>
+      <p>E come ogni investimento vero, all'inizio costa più di quanto renda. Costruire un Contesto ben strutturato, scrivere e validare una Skill, capire quando serve l'uno e quando l'altra: richiede tempo, nel breve periodo, non lo risparmia. Chi si aspetta che l'IA riduca i tempi da subito resta deluso e conclude che "non funziona". Chi la tratta come un mestiere da imparare, si aggiorna con costanza e accetta che i primi risultati siano più lenti, non più veloci, ottiene nel tempo un output migliore e, solo allora, anche più rapido. Il compitino affidato senza cura si vede sempre, nell'output di un PRD come nel lavoro di un falegname. La differenza tra i due non è mai stata lo strumento. Non lo è nemmeno adesso.</p>
     </div>
 
   </div>
@@ -469,7 +609,7 @@
 
 <section class="contact-section">
   <div class="container">
-    <h2 class="contact-title">Stai integrando l'AI nel tuo lavoro di prodotto?</h2>
+    <h2 class="contact-title">Stai integrando l'IA nel tuo lavoro di prodotto?</h2>
     <p class="contact-desc">Posso aiutarti a strutturare un approccio che funzioni nel contesto reale del tuo team.</p>
     <a href="mailto:gabrielealbanese.privato@gmail.com" class="contact-email">gabrielealbanese.privato@gmail.com</a>
     <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
