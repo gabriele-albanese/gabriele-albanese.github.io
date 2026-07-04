@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-04T15:46:14.468383+00:00",
-  "count": 164,
+  "updated": "2026-07-04T18:01:21.794204+00:00",
+  "count": 167,
   "articles": [
+    {
+      "id": "68c6a25bd0",
+      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+      "summary": "Community Wisdom 192",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T16:58:47+00:00",
+      "score": 4
+    },
+    {
+      "id": "ffdf2d6e4c",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T16:32:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "a00e4ef278",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T15:51:32+00:00",
+      "score": 5
+    },
     {
       "id": "efb46ab961",
       "title": "Submit Your Questions: Inside The World of Online Romance Scams",
