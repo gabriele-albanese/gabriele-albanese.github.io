@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-04T10:01:18.939402+00:00",
-  "count": 163,
+  "updated": "2026-07-05T22:01:24.163375+00:00",
+  "count": 169,
   "articles": [
+    {
+      "id": "eb9d194226",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Jul 2026",
+      "timestamp": "2026-07-05T12:47:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "f808e0e08c",
+      "title": "How to Avoid Spoilers Online and in Chats",
+      "url": "https://www.wired.com/story/how-to-avoid-spoilers-online/",
+      "summary": "You can minimize the risk of films and shows being spoiled for you by muting comments, conversations, and keywords on various platforms.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Jul 2026",
+      "timestamp": "2026-07-05T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "68c6a25bd0",
+      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+      "summary": "Community Wisdom 192",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T16:58:47+00:00",
+      "score": 4
+    },
+    {
+      "id": "ffdf2d6e4c",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T16:32:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "a00e4ef278",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T15:51:32+00:00",
+      "score": 5
+    },
+    {
+      "id": "efb46ab961",
+      "title": "Submit Your Questions: Inside The World of Online Romance Scams",
+      "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+      "summary": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Jul 2026",
+      "timestamp": "2026-07-04T15:26:55+00:00",
+      "score": 4
+    },
     {
       "id": "49e786a078",
       "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
