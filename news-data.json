@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-05T10:01:23.625293+00:00",
-  "count": 168,
+  "updated": "2026-07-05T14:01:24.028938+00:00",
+  "count": 169,
   "articles": [
+    {
+      "id": "eb9d194226",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Jul 2026",
+      "timestamp": "2026-07-05T12:47:39+00:00",
+      "score": 4
+    },
     {
       "id": "f808e0e08c",
       "title": "How to Avoid Spoilers Online and in Chats",
