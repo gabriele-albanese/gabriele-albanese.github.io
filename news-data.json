@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-05T06:02:19.047291+00:00",
-  "count": 167,
+  "updated": "2026-07-05T09:47:02.516048+00:00",
+  "count": 168,
   "articles": [
+    {
+      "id": "f808e0e08c",
+      "title": "How to Avoid Spoilers Online and in Chats",
+      "url": "https://www.wired.com/story/how-to-avoid-spoilers-online/",
+      "summary": "You can minimize the risk of films and shows being spoiled for you by muting comments, conversations, and keywords on various platforms.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Jul 2026",
+      "timestamp": "2026-07-05T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "68c6a25bd0",
       "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
