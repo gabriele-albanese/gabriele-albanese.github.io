@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-06T06:01:27.930771+00:00",
-  "count": 169,
+  "updated": "2026-07-06T10:01:24.853439+00:00",
+  "count": 171,
   "articles": [
+    {
+      "id": "166d1efeb2",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d2bff24ae0",
+      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T06:05:29+00:00",
+      "score": 5
+    },
     {
       "id": "eb9d194226",
       "title": "Almost 90 new unicorns have been minted so far this year — here they are",
