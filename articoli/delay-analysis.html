@@ -245,9 +245,9 @@
           </ul>
           <p><strong>Cosa ci dice il grafico?</strong></p>
           <ul>
-            <li>La tornitura ha la correlazione più alta con il ritardo totale (0.58), seguita dalla saldatura (0.43) e dalla manutenzione (0.40).</li>
+            <li>La tornitura ha la correlazione più alta con il ritardo totale (0.80), seguita dalla saldatura (0.41) e dalla manutenzione (0.36).</li>
             <li>La manutenzione, su cui si era concentrata l'analisi umana, risulta in realtà la variabile con la correlazione più bassa tra quelle principali.</li>
-            <li>Il trasporto interno ha una correlazione di 0.35, confermando il suo ruolo secondario.</li>
+            <li>Il trasporto interno ha una correlazione di 0.14, confermando il suo ruolo secondario.</li>
             <li>Il grafico stava già indicando che la tornitura era il fattore dominante, ma il team non ha colto questo segnale.</li>
           </ul>
           <p><strong>Conclusione:</strong> La heatmap mostra chiaramente che la tornitura è la variabile più correlata ai ritardi, non la manutenzione. Il team umano ha interpretato i dati attraverso la propria ipotesi di partenza, ignorando il segnale più forte.</p>
@@ -381,13 +381,13 @@
 
       <h3>Step 1: Analisi della Correlazione tra Tempo di Tornitura e Ritardo Totale</h3>
       <p>La tornitura è una fase critica del processo produttivo. Se fosse una delle cause principali dei ritardi, dovremmo vedere una forte correlazione tra tempo di tornitura e ritardo totale.</p>
-      <p><strong>Modello di regressione lineare semplice: R² = 0.817</strong>: il tempo di tornitura spiega l'81.7% della variabilità nei ritardi totali. Variabile indipendente: Tempo di tornitura. Variabile dipendente: Ritardo totale.</p>
+      <p><strong>Modello di regressione lineare semplice: R² = 0.64</strong>: il tempo di tornitura spiega il 64% della variabilità nei ritardi totali. Variabile indipendente: Tempo di tornitura. Variabile dipendente: Ritardo totale.</p>
     </div>
 
     <div class="analysis-finding fade-up">
       <div>
         <div class="analysis-finding-label">Step 1 · Grafico 8</div>
-        <div class="analysis-finding-title">Tornitura vs Ritardo Totale (R²=0.817)</div>
+        <div class="analysis-finding-title">Tornitura vs Ritardo Totale (R²=0.64)</div>
         <div class="analysis-finding-body">
           <p>Mostra una forte correlazione positiva. Più il tempo di tornitura è elevato, maggiore è il ritardo totale.</p>
           <p><strong>Conclusioni:</strong></p>
@@ -400,7 +400,7 @@
       </div>
       <div class="analysis-finding-img">
         <img src="../immagini%20e%20doc%20vecchio%20portfolio/delay%208.png" alt="Tornitura vs Ritardo Totale: Step 1" />
-        <div class="img-caption">Grafico 8: Tornitura vs Ritardo (Step 1, R²=0.817)</div>
+        <div class="img-caption">Grafico 8: Tornitura vs Ritardo (Step 1, R²=0.64)</div>
       </div>
     </div>
 
@@ -462,7 +462,7 @@
 
     <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:20px 0 28px;" class="fade-up delay-1">
       <div style="background:rgba(37,99,235,0.06);border:1px solid rgba(37,99,235,0.18);border-top:3px solid rgba(37,99,235,0.55);border-radius:12px;padding:18px 16px;text-align:center;">
-        <div style="font-size:1.5rem;font-weight:800;color:rgba(37,99,235,0.85);">81.7%</div>
+        <div style="font-size:1.5rem;font-weight:800;color:rgba(37,99,235,0.85);">64%</div>
         <div style="font-size:0.75rem;color:var(--text-muted);margin-top:6px;line-height:1.5;">Tempo di tornitura</div>
       </div>
       <div style="background:rgba(37,99,235,0.04);border:1px solid rgba(37,99,235,0.14);border-top:3px solid rgba(37,99,235,0.4);border-radius:12px;padding:18px 16px;text-align:center;">
