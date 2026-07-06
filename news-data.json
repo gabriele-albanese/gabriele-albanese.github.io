@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-06T10:01:24.853439+00:00",
-  "count": 171,
+  "updated": "2026-07-06T14:04:16.138317+00:00",
+  "count": 175,
   "articles": [
+    {
+      "id": "c83f72877e",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix,",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6f235eb6d9",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "29385ba3ff",
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "summary": "Watch now | &#127897;&#65039; Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pok&#233;mon cards in real time",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T12:03:37+00:00",
+      "score": 4
+    },
     {
       "id": "166d1efeb2",
       "title": "South Korea’s hottest new bachelors are chip workers",
@@ -23,6 +56,17 @@
       "date": "06 Jul 2026",
       "timestamp": "2026-07-06T06:05:29+00:00",
       "score": 5
+    },
+    {
+      "id": "69bbd97851",
+      "title": "How Covista is changing education for healthcare professionals",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
+      "summary": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "eb9d194226",
