@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-06T14:04:16.138317+00:00",
-  "count": 175,
+  "updated": "2026-07-06T18:01:25.302943+00:00",
+  "count": 177,
   "articles": [
+    {
+      "id": "0a1d873a43",
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T16:44:18+00:00",
+      "score": 5
+    },
+    {
+      "id": "6d2d9fde80",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T15:22:08+00:00",
+      "score": 5
+    },
     {
       "id": "c83f72877e",
       "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
