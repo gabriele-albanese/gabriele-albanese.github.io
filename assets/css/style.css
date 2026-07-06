@@ -339,7 +339,7 @@ footer { background: #0C0C0E; color: #4B5563; padding: 40px 0; }
 .footer-copy { font-size: 0.78rem; }
 
 /* ---- Detail pages ---- */
-.page-hero { background: linear-gradient(140deg, #062533 0%, #0E7490 65%, #0A5F74 100%); padding: calc(var(--nav-h) + 56px) 0 72px; }
+.page-hero { background: linear-gradient(140deg, #062533 0%, #0E7490 65%, #0A5F74 100%); padding: calc(var(--nav-h) + 56px) 0 40px; }
 .breadcrumb { display: flex; align-items: center; gap: 8px; margin-bottom: 24px; font-size: 0.82rem; }
 .breadcrumb a { color: rgba(255,255,255,0.5); transition: var(--transition); }
 .breadcrumb a:hover { color: rgba(255,255,255,0.85); }
