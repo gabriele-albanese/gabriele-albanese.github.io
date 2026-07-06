@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-06T18:01:25.302943+00:00",
-  "count": 177,
+  "updated": "2026-07-06T22:01:34.137753+00:00",
+  "count": 183,
   "articles": [
+    {
+      "id": "b96d9864f8",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T19:49:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "0f64c66e0d",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T19:01:59+00:00",
+      "score": 4
+    },
+    {
+      "id": "1fae758ade",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T18:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e930f63d2b",
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T18:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "88a9e7b845",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T17:04:58+00:00",
+      "score": 4
+    },
     {
       "id": "0a1d873a43",
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
@@ -78,6 +133,17 @@
       "date": "06 Jul 2026",
       "timestamp": "2026-07-06T06:05:29+00:00",
       "score": 5
+    },
+    {
+      "id": "0546055f77",
+      "title": "Building America’s innovation engine: An interview with David Lebryk",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
+      "summary": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next era of growth.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "69bbd97851",
