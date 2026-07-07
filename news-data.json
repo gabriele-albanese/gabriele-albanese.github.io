@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-07T14:01:34.713013+00:00",
-  "count": 191,
+  "updated": "2026-07-07T18:01:27.497823+00:00",
+  "count": 197,
   "articles": [
+    {
+      "id": "7051a46ada",
+      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
+      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
+      "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T17:24:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "ffc63549d9",
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T16:27:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "55697d89ff",
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "bf2500dd1b",
+      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "summary": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T15:19:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "3d0b5867ce",
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T14:35:42+00:00",
+      "score": 4
+    },
     {
       "id": "ee1e8b4d21",
       "title": "This startup pits dealerships against each other to bid on your used car",
@@ -67,6 +122,17 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T09:57:12+00:00",
       "score": 5
+    },
+    {
+      "id": "c754a9a1d0",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "summary": "Managed agents feature bundle launch",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T08:54:00+00:00",
+      "score": 4
     },
     {
       "id": "2cd516dd84",
