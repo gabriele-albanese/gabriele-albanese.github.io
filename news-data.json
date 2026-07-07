@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-07T10:01:27.406997+00:00",
-  "count": 185,
+  "updated": "2026-07-07T11:21:14.840870+00:00",
+  "count": 187,
   "articles": [
+    {
+      "id": "4418f506eb",
+      "title": "Leadership’s Blind Spot in the Age of AI",
+      "url": "https://sloanreview.mit.edu/article/leaderships-blind-spot-in-the-age-of-ai/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our thought-provoking time is that we are still not thinking.” Few understood him then. Seventy-five years later, the observation h",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T11:00:17+00:00",
+      "score": 4
+    },
     {
       "id": "920a09983a",
       "title": "British Space Startup Launches Longevity Lab Into Orbit",
@@ -12,6 +23,17 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T09:57:12+00:00",
       "score": 5
+    },
+    {
+      "id": "2cd516dd84",
+      "title": "From the C-suite to the boardroom: Christiana Smith Shi on what it takes",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes",
+      "summary": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "bd206ca689",
