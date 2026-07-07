@@ -1,7 +1,128 @@
 {
-  "updated": "2026-07-06T14:04:16.138317+00:00",
-  "count": 175,
+  "updated": "2026-07-07T11:21:14.840870+00:00",
+  "count": 187,
   "articles": [
+    {
+      "id": "4418f506eb",
+      "title": "Leadership’s Blind Spot in the Age of AI",
+      "url": "https://sloanreview.mit.edu/article/leaderships-blind-spot-in-the-age-of-ai/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our thought-provoking time is that we are still not thinking.” Few understood him then. Seventy-five years later, the observation h",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T11:00:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "920a09983a",
+      "title": "British Space Startup Launches Longevity Lab Into Orbit",
+      "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T09:57:12+00:00",
+      "score": 5
+    },
+    {
+      "id": "2cd516dd84",
+      "title": "From the C-suite to the boardroom: Christiana Smith Shi on what it takes",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes",
+      "summary": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bd206ca689",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime de",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T23:56:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "b96d9864f8",
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T19:49:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "0f64c66e0d",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T19:01:59+00:00",
+      "score": 4
+    },
+    {
+      "id": "1fae758ade",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T18:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e930f63d2b",
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T18:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "88a9e7b845",
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T17:04:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "0a1d873a43",
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T16:44:18+00:00",
+      "score": 5
+    },
+    {
+      "id": "6d2d9fde80",
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T15:22:08+00:00",
+      "score": 5
+    },
     {
       "id": "c83f72877e",
       "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
@@ -56,6 +177,17 @@
       "date": "06 Jul 2026",
       "timestamp": "2026-07-06T06:05:29+00:00",
       "score": 5
+    },
+    {
+      "id": "0546055f77",
+      "title": "Building America’s innovation engine: An interview with David Lebryk",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
+      "summary": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next era of growth.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "06 Jul 2026",
+      "timestamp": "2026-07-06T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "69bbd97851",
