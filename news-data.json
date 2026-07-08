@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-07T22:01:27.371153+00:00",
+  "updated": "2026-07-08T02:01:24.932554+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8f331cf680",
+      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+      "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T22:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "db4997f1cb",
       "title": "OpenAI’s Chief Futurist Is Leaving the Company",
@@ -177,6 +188,17 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T08:54:00+00:00",
       "score": 4
+    },
+    {
+      "id": "702fb60757",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "07 Jul 2026",
+      "timestamp": "2026-07-07T00:00:00+00:00",
+      "score": 6
     },
     {
       "id": "241bab2256",
@@ -2179,28 +2201,6 @@
       "date": "25 May 2025",
       "timestamp": "2025-05-25T18:14:21+00:00",
       "score": 5
-    },
-    {
-      "id": "94afbf559b",
-      "title": "The Deep Research problem",
-      "url": "https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem",
-      "summary": "OpenAI’s Deep Research is built for me, and I can’t use it. It’s another \namazing demo, until it breaks. But it breaks in really interesting ways.",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "18 Feb 2025",
-      "timestamp": "2025-02-18T14:51:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "17883ca875",
-      "title": "Are better models better?",
-      "url": "https://www.ben-evans.com/benedictevans/2025/1/the-problem-with-better-models",
-      "summary": "Every week there’s a better AI model that gives better answers. But a lot \nof questions don’t have better answers, only ‘right’ answers, and these \nmodels can’t do that. So what does ‘better’ mean, how do we manage these \nthings, and should we change what we expect from computers",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "22 Jan 2025",
-      "timestamp": "2025-01-22T19:58:53+00:00",
-      "score": 4
     }
   ]
 }
