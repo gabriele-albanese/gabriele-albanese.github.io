@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-08T10:01:33.336488+00:00",
+  "updated": "2026-07-08T14:01:52.533884+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c3ac762076",
+      "title": "What a harness is and how to build one with Claude Agent SDK",
+      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+      "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T12:03:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "045708e1dc",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f49477fd9b",
+      "title": "GenAI Success Metrics: Look Beyond Reduced Workload",
+      "url": "https://sloanreview.mit.edu/article/genai-success-metrics-look-beyond-reduced-workload/",
+      "summary": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large U.S. public higher-education institution. Generative AI tools were introduced to executive leaders, operational leaders, an",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T11:00:17+00:00",
+      "score": 5
+    },
+    {
+      "id": "490c03669c",
+      "title": "Pickup Artist Mystery Has an AI Girlfriend",
+      "url": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
+      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "03bb7eb85c",
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "16 Jan 2026",
       "timestamp": "2026-01-16T14:01:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "db7ff708ed",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "summary": "Salesforce  on Tuesday launched an entirely rebuilt version of  Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, a",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "13 Jan 2026",
-      "timestamp": "2026-01-13T13:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "a102a18a5e",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-      "summary": "Anthropic  released  Cowork  on Monday, a new AI agent capability that extends the power of its wildly successful  Claude Code  tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Cla",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "12 Jan 2026",
-      "timestamp": "2026-01-12T11:30:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "b37d936464",
-      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
-      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm  Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "07 Jan 2026",
-      "timestamp": "2026-01-07T20:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "d5c312c7e1",
-      "title": "AI, networks and Mechanical Turks",
-      "url": "https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks",
-      "summary": "How far do LLMs give us a step change in how good a search and \nrecommendation system can be? Do they let you build one without needing a \nvast user base of your own?",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "23 Nov 2025",
-      "timestamp": "2025-11-23T13:14:03+00:00",
       "score": 4
     }
   ]
