@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-08T06:01:28.209371+00:00",
+  "updated": "2026-07-08T09:15:55.277522+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "03bb7eb85c",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T08:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "f56b56f547",
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T07:00:51+00:00",
+      "score": 4
+    },
     {
       "id": "8f331cf680",
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
@@ -2179,28 +2201,6 @@
       "date": "23 Nov 2025",
       "timestamp": "2025-11-23T13:14:03+00:00",
       "score": 4
-    },
-    {
-      "id": "95c0b30190",
-      "title": "AI metrics",
-      "url": "https://www.ben-evans.com/benedictevans/2025/6/9/generative-ais-metrics-question",
-      "summary": "With every platform shift, we want to measure the growth but we’re confused \nabout what to measure. That’s partly a problem of data and definitions, but \nit’s really a question about what this is going to be.",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "09 Jun 2025",
-      "timestamp": "2025-06-09T13:15:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "4434a532a3",
-      "title": "GenAI’s adoption puzzle",
-      "url": "https://www.ben-evans.com/benedictevans/2025/5/25/genais-adoption-puzzle",
-      "summary": "Generative AI chatbots might be a life-changing transformation in the \nnature of computing, that can replace all software, but so far, most of its \nusers only pick it up every week or two, and far fewer have made it part of \ntheir lives. Is that a time problem or a product proble",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "25 May 2025",
-      "timestamp": "2025-05-25T18:14:21+00:00",
-      "score": 5
     }
   ]
 }
