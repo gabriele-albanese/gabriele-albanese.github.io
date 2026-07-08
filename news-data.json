@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-08T14:01:52.533884+00:00",
+  "updated": "2026-07-08T17:12:11.470487+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "acac4f0fde",
+      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+      "summary": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T16:29:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "df693c770a",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "summary": "",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T16:26:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "72c6482542",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T16:22:38+00:00",
+      "score": 5
+    },
+    {
+      "id": "834b2b61b3",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T15:41:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "80868081e8",
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "summary": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d3c2652091",
+      "title": "Blue Origin reportedly raising $10B at $130B valuation",
+      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+      "summary": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T14:04:53+00:00",
+      "score": 4
+    },
     {
       "id": "c3ac762076",
       "title": "What a harness is and how to build one with Claude Agent SDK",
@@ -47,6 +113,17 @@
       "score": 4
     },
     {
+      "id": "df3e09db44",
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T10:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "03bb7eb85c",
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
@@ -66,6 +143,50 @@
       "topic": "tech",
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T07:00:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "733b8abf91",
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8202f0c1f3",
+      "title": "From adoption to impact: Three horizons of AI transformation",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation",
+      "summary": "Most organizations are still early in their AI journeys. A new global survey reveals how companies can progress from individual adoption to enterprise-wide value capture.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1dc07b31e4",
+      "title": "Cost versus value: Managing agentic AI system performance",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/cost-versus-value-managing-agentic-ai-system-performance",
+      "summary": "Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with David Tepper, CEO of Pay-i, delves into the new economics of measurement.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ec3d1f41c8",
+      "title": "From healthcare to health: Asia’s longevity opportunity",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/from-healthcare-to-health-asias-longevity-opportunity",
+      "summary": "On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that effectively combines the delivery of care with proven ways to prevent illness.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2079,127 +2200,6 @@
       "topic": "pm",
       "date": "03 Jun 2026",
       "timestamp": "2026-06-03T13:00:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "f560eb272d",
-      "title": "How Nespresso Builds Sustainability Into Its Business Model",
-      "url": "https://sloanreview.mit.edu/article/how-nespresso-builds-sustainability-into-its-business-model/",
-      "summary": "Photo courtesy of Nestlé Jean-Christophe Jaunin became CEO of Nespresso North America, the Nestlé unit that sells coffee brewing machines and capsules, on Jan. 1, 2026, after having served as global chief customer and technology officer. At the NYU Stern Center for Sustainable Bu",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "02 Jun 2026",
-      "timestamp": "2026-06-02T14:02:57+00:00",
-      "score": 5
-    },
-    {
-      "id": "4be3258869",
-      "title": "How we used Gemini to build Google I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "01 Jun 2026",
-      "timestamp": "2026-06-01T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ae4ea20221",
-      "title": "Your Product Isn't Just SaaS: Monetisation's Other Faces",
-      "url": "https://www.productcoalition.com/p/your-product-isnt-just-saas-monetisations",
-      "summary": "When the price tag becomes the product conversation nobody wants to have.",
-      "source": "Product Coalition",
-      "topic": "pm",
-      "date": "01 Jun 2026",
-      "timestamp": "2026-06-01T14:02:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "6aee6b02d3",
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "summary": "Gemini Omni & Gemini 3.5 hero",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "29 May 2026",
-      "timestamp": "2026-05-29T17:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "168d5f9418",
-      "title": "Building Lorikeet: How AI Humility and a Dual-Agent Architecture Are Redefining Customer Support",
-      "url": "https://www.producttalk.org/building-lorikeet-how-ai-humility-and-a-dual-agent-architecture-are-redefining-customer-support/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What does it take to build an AI customer support agent that actually knows when it can&apos;t help &#x2014; and says so?  In this episode of  Just Now Possible , Teresa Torres talks with Jamie Hall (Co-founder &amp; CTO), ",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "28 May 2026",
-      "timestamp": "2026-05-28T13:00:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "eb4b674675",
-      "title": "Predicting AI job exposure",
-      "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
-      "summary": "Many people would like to analyse which jobs, companies and industries are \nmost exposed to AI, and assign scores, build charts, and map that against \nthe progress of LLMs. I think this is mostly impossible: you don’t know how \nthe jobs will change, you don’t know what else will ",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "24 May 2026",
-      "timestamp": "2026-05-24T20:35:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "4dd1045a53",
-      "title": "My Team of Agents: How I Get Claude to Do Tasks While I'm Away from the Computer",
-      "url": "https://www.producttalk.org/my-team-of-agents/",
-      "summary": "Audio Version ($)   Every morning I wake up and  Claude  has already added several tasks to my to-do list.  If I have a podcast recording on the calendar, my podcast-manager agent (powered by Claude) prepares a podcast-interview-prep task with a summary of who I&apos;m interviewi",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "20 May 2026",
-      "timestamp": "2026-05-20T13:00:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "8ebaab697b",
-      "title": "How will OpenAI compete?",
-      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-      "summary": "OpenAI has some big questions. It doesn’t have unique tech. It has a big \nuser base, but with limited engagement and stickiness and no network \neffect. The incumbents have matched the tech and are leveraging their \nproduct and distribution. And a lot of the value and leverage wil",
-      "source": "Benedict Evans",
-      "topic": "tech",
-      "date": "19 Feb 2026",
-      "timestamp": "2026-02-19T20:51:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "e670024b9a",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes th",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "22 Jan 2026",
-      "timestamp": "2026-01-22T14:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1bd5d5f60c",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.   Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its  pricing  — ",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "19 Jan 2026",
-      "timestamp": "2026-01-19T14:00:00+00:00",
-      "score": 7
-    },
-    {
-      "id": "ca731494b1",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "summary": "Alfred Wahlforss was running out of options. His startup,  Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s  $100 million offers  seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a  billboard in San Francisc",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "16 Jan 2026",
-      "timestamp": "2026-01-16T14:01:00+00:00",
       "score": 4
     }
   ]
