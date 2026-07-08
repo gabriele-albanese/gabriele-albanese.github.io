@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-08T18:01:34.627481+00:00",
+  "updated": "2026-07-08T21:49:04.128977+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7d1b210e13",
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T21:08:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "16f0c7d55a",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T20:37:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "ed82c2787c",
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T20:29:50+00:00",
+      "score": 5
+    },
+    {
+      "id": "211838bfe0",
+      "title": "Autonomous drone delivery startup Manna plots major US expansion",
+      "url": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+      "summary": "Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T20:06:54+00:00",
+      "score": 4
+    },
+    {
+      "id": "e265f51e2c",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T19:30:16+00:00",
+      "score": 4
+    },
+    {
+      "id": "9c57f755e1",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T19:19:15+00:00",
+      "score": 6
+    },
+    {
+      "id": "de4f21b5a7",
+      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+      "summary": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T18:46:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "3a8a8c19c4",
+      "title": "STEM Needs Leaders From Every Generation at the Table",
+      "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
+      "summary": "Working in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challenges. In this environment, leadership can no longer be approached as an individua",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T18:00:01+00:00",
+      "score": 4
+    },
     {
       "id": "1e9d0df00d",
       "title": "Why this CEO thinks video games make better training data than the internet",
@@ -23,6 +111,17 @@
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T17:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "fb7b1c1f2b",
+      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
+      "summary": "Android Bench is evolving, and developers can help guide that process.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T16:39:48+00:00",
+      "score": 5
     },
     {
       "id": "acac4f0fde",
@@ -89,6 +188,28 @@
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T14:04:53+00:00",
       "score": 4
+    },
+    {
+      "id": "34adf3bd67",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T13:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "18ab2ec4f8",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Jul 2026",
+      "timestamp": "2026-07-08T13:00:00+00:00",
+      "score": 5
     },
     {
       "id": "c3ac762076",
@@ -2079,127 +2200,6 @@
       "topic": "ai",
       "date": "22 Jun 2026",
       "timestamp": "2026-06-22T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "663d872622",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Jun 2026",
-      "timestamp": "2026-06-21T23:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "1137c04e03",
-      "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
-      "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
-      "summary": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "21 Jun 2026",
-      "timestamp": "2026-06-21T12:31:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "7655a671bc",
-      "title": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
-      "summary": "Community Wisdom 190",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "20 Jun 2026",
-      "timestamp": "2026-06-20T15:53:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "5182dcb4c0",
-      "title": "Leaders at All Levels: How DBS Bank Makes Everyone an Innovator",
-      "url": "https://sloanreview.mit.edu/video/leaders-at-all-levels-how-dbs-bank-makes-everyone-an-innovator/",
-      "summary": "DBS Bank believes that innovation is critical to its survival, and to reinforce that objective, it made innovation a KPI representing 20% of every team and individual’s performance review. In this episode of Leaders at All Levels, hosts Katherine W. Isaacs and Michele Zanini spea",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "18 Jun 2026",
-      "timestamp": "2026-06-18T11:00:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "0af1478cb0",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "17 Jun 2026",
-      "timestamp": "2026-06-17T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f7279afb7b",
-      "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
-      "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
-      "summary": "Watch now | &#127897;&#65039;Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "17 Jun 2026",
-      "timestamp": "2026-06-17T12:04:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "7f708bc90d",
-      "title": "Organizational Change is Exhausting - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/organizational-change-is-exhausting-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   Organizational change is exhausting &#x2014; so stop trying to force it. Petra and Teresa unpack why trying to fix the people and processes around you is almost always wasted energy, and what actually works instead. If you&",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "16 Jun 2026",
-      "timestamp": "2026-06-16T13:00:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "c6bc443d3d",
-      "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "15 Jun 2026",
-      "timestamp": "2026-06-15T15:01:32+00:00",
-      "score": 5
-    },
-    {
-      "id": "6894b77006",
-      "title": "How to Grow Without Betting Big",
-      "url": "https://sloanreview.mit.edu/article/how-to-grow-without-betting-big/",
-      "summary": "Matt Harrison Clough/Ikon Images Some of the most spectacular stories of corporate growth revolve around big bets — long-term investments, bold pivots, and major acquisitions. Think of ASML, which pursued next-generation semiconductor manufacturing technologies for more than 30 y",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "15 Jun 2026",
-      "timestamp": "2026-06-15T11:00:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "07dbfa050b",
-      "title": "Beyond Black Box Scores: How Musubi Trains Custom AI for Trust and Safety Teams",
-      "url": "https://www.producttalk.org/beyond-black-box-scores-how-musubi-trains-custom-ai-for-trust-and-safety-teams/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What do you do when off-the-shelf moderation scores aren&apos;t good enough&#x2014;and the alternative is paying human contractors to spend their days reviewing traumatizing content at scale?  In this episode of  Just Now P",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "11 Jun 2026",
-      "timestamp": "2026-06-11T13:00:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "6d550108a1",
-      "title": "Agentic AI: What Leaders Wish They Knew Sooner",
-      "url": "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/",
-      "summary": "As AI agents go beyond the hypothetical and enter actual workflows, many leaders see a gap between the promise and the reality. Are the agents ready? Moreover, are the humans? At the 2026 MIT Sloan CIO Symposium, we sought expert perspective and advice. We asked technology and bu",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "11 Jun 2026",
-      "timestamp": "2026-06-11T11:00:56+00:00",
       "score": 4
     }
   ]
