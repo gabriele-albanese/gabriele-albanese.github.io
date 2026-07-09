@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-09T06:01:31.917893+00:00",
+  "updated": "2026-07-09T10:05:08.292893+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "178dc98636",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a te",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T08:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "7d1b210e13",
       "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
@@ -2190,17 +2201,6 @@
       "date": "22 Jun 2026",
       "timestamp": "2026-06-22T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "f601b26b22",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Jun 2026",
-      "timestamp": "2026-06-22T10:00:00+00:00",
-      "score": 4
     }
   ]
 }
