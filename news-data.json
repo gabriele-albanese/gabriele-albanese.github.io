@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-09T14:01:22.052795+00:00",
+  "updated": "2026-07-09T18:01:16.611052+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b2f8c92b44",
+      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+      "summary": "Watch now | &#127897;&#65039;GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T17:33:57+00:00",
+      "score": 6
+    },
+    {
+      "id": "0988454144",
+      "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
+      "url": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
+      "summary": "Oddly, it wasn't the first time this had happened to the man.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T15:33:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "78b4dd4706",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T14:53:09+00:00",
+      "score": 6
+    },
+    {
+      "id": "24accd0165",
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T14:51:00+00:00",
+      "score": 5
+    },
     {
       "id": "7ea2e14afd",
       "title": "From COVID Pivot to AI World Building: How Snapbar Reinvented the Photo Experience",
@@ -33,6 +77,39 @@
       "topic": "tech",
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T12:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "6e3eba7a17",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "10a73f0831",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0453af9ffc",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T10:00:00+00:00",
       "score": 5
     },
     {
@@ -2123,83 +2200,6 @@
       "topic": "ai",
       "date": "24 Jun 2026",
       "timestamp": "2026-06-24T06:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1948945ee9",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Jun 2026",
-      "timestamp": "2026-06-23T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4bdceb20b9",
-      "title": "Why the U.S. Uses Only Half of Its Grid Capacity",
-      "url": "https://spectrum.ieee.org/united-states-power-grid-capacity",
-      "summary": "By most accounts, the United States appears poised to fall woefully short of meeting new electricity demand over the next five years as  data centers  and  domestic manufacturing  proliferate.  Ian Magruder   Ian Magruder is the founder of Utilize Coalition and previously served ",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "23 Jun 2026",
-      "timestamp": "2026-06-23T13:00:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "1b1b1aa40d",
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Jun 2026",
-      "timestamp": "2026-06-23T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7ffb84ad27",
-      "title": "Three Approaches to Measuring and Managing AI ROI",
-      "url": "https://sloanreview.mit.edu/article/three-approaches-to-measuring-and-managing-ai-roi/",
-      "summary": "Matt Harrison Clough/Ikon Images After several years of AI experiments and pilot initiatives, a crucial question remains open for most companies: How much of a return — and what kinds of returns — are we getting from all of this AI investment? To many executives, AI ROI still oft",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "23 Jun 2026",
-      "timestamp": "2026-06-23T11:00:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "350becd7dc",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Jun 2026",
-      "timestamp": "2026-06-23T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d572a97f42",
-      "title": "Commemorating 70 Years of Artificial Intelligence",
-      "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
-      "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when com",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "22 Jun 2026",
-      "timestamp": "2026-06-22T18:00:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "2843beaf19",
-      "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
-      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "22 Jun 2026",
-      "timestamp": "2026-06-22T15:02:37+00:00",
       "score": 5
     }
   ]
