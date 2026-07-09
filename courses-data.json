@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30",
+  "updated": "2026-07-09",
   "note": "Lista curata manualmente. Per aggiungere un corso: modifica questo file JSON seguendo la struttura esistente e salva.",
   "courses": [
     {
@@ -38,7 +38,7 @@
       "level": "Base",
       "duration": "~45 min",
       "year": "2023",
-      "url": "https://www.cloudskillsboost.google/course_templates/536",
+      "url": "https://www.skills.google/course_templates/536",
       "free": true,
       "cert_free": true,
       "new": false,
@@ -52,7 +52,7 @@
       "level": "Base",
       "duration": "~45 min",
       "year": "2023",
-      "url": "https://www.cloudskillsboost.google/course_templates/539",
+      "url": "https://www.skills.google/course_templates/539",
       "free": true,
       "cert_free": true,
       "new": false,
@@ -225,6 +225,76 @@
       "cert_free": false,
       "new": false,
       "description": "Corso accelerato di Google sul machine learning. Fondamenta teoriche + esercizi pratici con TensorFlow. Consigliato per PM tecnici che vogliono capire i modelli predittivi."
+    },
+    {
+      "id": "c21",
+      "title": "Claude 101",
+      "provider": "Anthropic",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~1 ora",
+      "year": "2026",
+      "url": "https://anthropic.skilljar.com/claude-101",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso introduttivo di Anthropic sull'uso quotidiano di Claude: conversazioni efficaci, organizzazione del lavoro in progetti, collegamento di strumenti esterni. Punto di partenza naturale per chi non lo ha mai usato in modo strutturato. Certificato gratuito incluso."
+    },
+    {
+      "id": "c22",
+      "title": "Claude Code 101",
+      "provider": "Anthropic",
+      "topic": "tech",
+      "level": "Base",
+      "duration": "~1 ora",
+      "year": "2026",
+      "url": "https://anthropic.skilljar.com/claude-code-101",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso Anthropic su Claude Code, l'agente di coding AI: installazione, workflow Explore-Plan-Code-Commit, file di memoria di progetto. Utile per PM che collaborano ogni giorno con team tecnici che lo usano. Certificato gratuito incluso."
+    },
+    {
+      "id": "c23",
+      "title": "Introduction to Claude Cowork",
+      "provider": "Anthropic",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~1 ora",
+      "year": "2026",
+      "url": "https://anthropic.skilljar.com/introduction-to-claude-cowork",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso ufficiale sul nuovo Claude Cowork: come collaborare con Claude su file e progetti reali, gestendo workflow multi-step in modo responsabile. Utile per capire in anticipo un paradigma agentico che sta ridefinendo il lavoro d'ufficio. Certificato gratuito incluso."
+    },
+    {
+      "id": "c24",
+      "title": "AI Capabilities and Limitations",
+      "provider": "Anthropic",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~45 min",
+      "year": "2026",
+      "url": "https://anthropic.skilljar.com/ai-capabilities-and-limitations",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso Anthropic che costruisce un modello mentale di come si comportano i sistemi di AI generativa e perche: previsione del token successivo, conoscenza, memoria di lavoro, steerability. Aiuta a riconoscere in anticipo dove un output puo andare storto. Certificato gratuito incluso."
+    },
+    {
+      "id": "c25",
+      "title": "Agent Memory: Building Memory-Aware Agents",
+      "provider": "DeepLearning.ai",
+      "topic": "ai",
+      "level": "Avanzato",
+      "duration": "~2 ore",
+      "year": "2026",
+      "url": "https://www.deeplearning.ai/courses/agent-memory-building-memory-aware-agents",
+      "free": true,
+      "cert_free": false,
+      "new": true,
+      "description": "Corso di DeepLearning.ai (Andrew Ng) con Oracle sulla costruzione di sistemi di memoria persistente per agenti AI: retrieval semantico, aggiornamento autonomo della memoria tra sessioni diverse. Tema centrale per chi valuta prodotti agentici nel 2026. Certificato disponibile solo con abbonamento PRO."
     }
   ]
 }
