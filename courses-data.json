@@ -295,6 +295,48 @@
       "cert_free": false,
       "new": true,
       "description": "Corso di DeepLearning.ai (Andrew Ng) con Oracle sulla costruzione di sistemi di memoria persistente per agenti AI: retrieval semantico, aggiornamento autonomo della memoria tra sessioni diverse. Tema centrale per chi valuta prodotti agentici nel 2026. Certificato disponibile solo con abbonamento PRO."
+    },
+    {
+      "id": "c26",
+      "title": "AI Foundations",
+      "provider": "OpenAI",
+      "topic": "ai",
+      "level": "Base",
+      "duration": "~1 ora",
+      "year": "2026",
+      "url": "https://academy.openai.com/public/courses/ai-foundations-juzjs",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso introduttivo ufficiale di OpenAI Academy: basi dell'AI, dei modelli linguistici e di ChatGPT, con pratica su istruzioni chiare, contesto utile e revisione degli output. Il punto di partenza equivalente a Claude 101, ma lato OpenAI. Certificato gratuito incluso."
+    },
+    {
+      "id": "c27",
+      "title": "Applied AI Foundations",
+      "provider": "OpenAI",
+      "topic": "ai",
+      "level": "Intermedio",
+      "duration": "~1 ora",
+      "year": "2026",
+      "url": "https://academy.openai.com/public/courses/applied-ai-foundations-hgk7r",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso OpenAI Academy su come trasformare un task ricorrente in un workflow ripetibile: scomposizione in step, individuazione dei punti dove l'AI aiuta davvero, punti di controllo umano nel processo. Utile per PM che devono progettare processi, non solo prompt singoli. Certificato gratuito incluso."
+    },
+    {
+      "id": "c28",
+      "title": "Agents and Workflows",
+      "provider": "OpenAI",
+      "topic": "ai",
+      "level": "Avanzato",
+      "duration": "~1 ora",
+      "year": "2026",
+      "url": "https://academy.openai.com/public/courses/agents-and-workflows-bieml",
+      "free": true,
+      "cert_free": true,
+      "new": true,
+      "description": "Corso OpenAI Academy su come dirigere agenti AI in lavori strutturati: definire contesto, output attesi, limiti, punti di revisione. Complementare al corso Anthropic su Claude Cowork per chi vuole confrontare i due approcci al lavoro agentico. Certificato gratuito incluso."
     }
   ]
 }
