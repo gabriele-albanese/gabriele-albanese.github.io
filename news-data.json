@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-09T11:28:33.322782+00:00",
+  "updated": "2026-07-09T14:01:22.052795+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7ea2e14afd",
+      "title": "From COVID Pivot to AI World Building: How Snapbar Reinvented the Photo Experience",
+      "url": "https://www.producttalk.org/from-covid-pivot-to-ai-world-building-how-snapbar-reinvented-the-photo-experience/",
+      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What does it take to reinvent a 14-year-old company&#x2014;not once, but twice?  In this episode of  Just Now Possible , Teresa Torres talks with Sam Eitzen (Co-founder &amp; CEO), Joe Eitzen (Co-founder &amp; CPO), and Pat",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T13:00:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "c3749aa35f",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a9ef8ec984",
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T12:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "178dc98636",
       "title": "Four nuclear reactors hit a big milestone in the US",
@@ -2167,39 +2200,6 @@
       "topic": "pm",
       "date": "22 Jun 2026",
       "timestamp": "2026-06-22T15:02:37+00:00",
-      "score": 5
-    },
-    {
-      "id": "7603428b5b",
-      "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
-      "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
-      "summary": "Watch now | &#127897;&#65039;423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "22 Jun 2026",
-      "timestamp": "2026-06-22T12:03:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "b49c96bc62",
-      "title": "Resolving Muddled Objectives in Corporate Venture Capital",
-      "url": "https://sloanreview.mit.edu/article/resolving-muddled-objectives-in-corporate-venture-capital/",
-      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images The Research The authors compared the approaches of prominent corporate venture capital (CVC) units, including those owned by Intel, Cisco, General Electric, Siemens, NTT Docomo, Hitachi, Panasonic, and Sompo. They examined 59 of",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "22 Jun 2026",
-      "timestamp": "2026-06-22T11:00:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "5d9de7a5a9",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Jun 2026",
-      "timestamp": "2026-06-22T10:00:00+00:00",
       "score": 5
     }
   ]
