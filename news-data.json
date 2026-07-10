@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-10T18:08:02.404291+00:00",
+  "updated": "2026-07-10T22:01:17.299996+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b040d389ac",
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T21:51:55+00:00",
+      "score": 5
+    },
+    {
+      "id": "80b272bb41",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T21:00:29+00:00",
+      "score": 5
+    },
+    {
+      "id": "54a563731f",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T20:44:05+00:00",
+      "score": 5
+    },
     {
       "id": "80c291fd7e",
       "title": "Meet the Battery Startup Taking on China’s Giants",
@@ -2168,39 +2201,6 @@
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T20:12:59+00:00",
       "score": 5
-    },
-    {
-      "id": "9489ca565a",
-      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-      "summary": "Sony has been scaling down its digitial store for a few years.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T19:10:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "a4fc79ea8f",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T18:10:26+00:00",
-      "score": 6
-    },
-    {
-      "id": "70b9fae892",
-      "title": "AI agents are not your “coworkers”",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company no",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T18:00:00+00:00",
-      "score": 4
     }
   ]
 }
