@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-09T22:01:19.662148+00:00",
+  "updated": "2026-07-10T02:01:16.647042+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9ac461d004",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T00:16:54+00:00",
+      "score": 5
+    },
+    {
+      "id": "ee3f327701",
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T23:38:00+00:00",
+      "score": 8
+    },
+    {
+      "id": "2b378536b7",
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T23:13:18+00:00",
+      "score": 5
+    },
+    {
+      "id": "da68d51d47",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T22:24:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "eb2fa5e9cf",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T22:08:58+00:00",
+      "score": 6
+    },
+    {
+      "id": "3579a3be1f",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T22:03:54+00:00",
+      "score": 4
+    },
     {
       "id": "7a9493a910",
       "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
@@ -11,6 +77,17 @@
       "topic": "tech",
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T21:57:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "4ad6ea6509",
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Jul 2026",
+      "timestamp": "2026-07-09T21:25:55+00:00",
       "score": 4
     },
     {
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T13:00:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "fc76fc8f65",
-      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
-      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
-      "summary": "Watch now | &#127897;&#65039; Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T12:03:38+00:00",
-      "score": 5
-    },
-    {
-      "id": "d11a352b28",
-      "title": "Transforming Investing With AI at Franklin Templeton",
-      "url": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
-      "summary": "Patrick George/Ikon Images What would you do with artificial intelligence if you were confident that it would transform your industry? What actions would you take if you felt that you were at an inflection point in that transformation? Would you try to be an early proponent of AI",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T11:00:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "cf723e6c9d",
-      "title": "Truckloads of Tesla Batteries Keep Getting Stolen Before They Even Leave the Factory",
-      "url": "https://www.wired.com/story/truckloads-of-tesla-batteries-keep-getting-stolen-before-they-even-leave-the-factory/",
-      "summary": "Nine major suspected cargo thefts happened at Tesla’s Nevada battery factory in January alone, according to sheriff’s records obtained by WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3b196d3cdf",
-      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-      "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "df49518d3b",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d3a6f5fe5d",
-      "title": "Global Economics Intelligence executive summary, May 2026",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "summary": "As energy prices trend higher and drive inflation, consumer confidence is ebbing—and central banks have a dilemma: whether to tackle inflation by raising policy rates or ease them to provide a stimulus.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "178c1d5ae3",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Jun 2026",
-      "timestamp": "2026-06-28T17:00:00+00:00",
       "score": 5
     }
   ]
