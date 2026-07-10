@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-10T10:41:01.753666+00:00",
+  "updated": "2026-07-10T14:01:23.977288+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8e9121e5dc",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T12:10:00+00:00",
+      "score": 7
+    },
     {
       "id": "c41b81cc69",
       "title": "Sperm donors need limits, says a European fertility group",
@@ -2190,17 +2201,6 @@
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T15:02:35+00:00",
       "score": 4
-    },
-    {
-      "id": "90763c99a9",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the meas",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T14:44:01+00:00",
-      "score": 6
     }
   ]
 }
