@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-10T14:01:23.977288+00:00",
+  "updated": "2026-07-10T18:01:22.689992+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "80c291fd7e",
+      "title": "Meet the Battery Startup Taking on China’s Giants",
+      "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
+      "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T18:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f902d1dbd8",
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "summary": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T17:42:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "2e6f798b14",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T17:17:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "08dfb6b9e8",
+      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T15:46:18+00:00",
+      "score": 4
+    },
     {
       "id": "8e9121e5dc",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "455898d39b",
-      "title": "Quantum computing startup says it will leapfrog everybody",
-      "url": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
-      "summary": "But the system would require a massive leap from any of its existing hardware.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T17:59:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "917b29e0a7",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T17:39:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a9210f994",
-      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
-      "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
-      "summary": "Director Travis Knight is also the creative mind behind 2016's Oscar-nominated  Kubo and the Two Strings .",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T15:43:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "73ce1d8015",
-      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T15:02:35+00:00",
       "score": 4
     }
   ]
