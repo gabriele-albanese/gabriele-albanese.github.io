@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-11T14:01:22.755638+00:00",
+  "updated": "2026-07-11T15:32:54.566957+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b9b468358f",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Jul 2026",
+      "timestamp": "2026-07-11T14:13:00+00:00",
+      "score": 6
+    },
     {
       "id": "73e7ad25de",
       "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
@@ -2190,17 +2201,6 @@
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "15de554619",
-      "title": "Batteries: Scaling the engine of electrification",
-      "url": "https://www.mckinsey.com/mgi/our-research/batteries-scaling-the-engine-of-electrification",
-      "summary": "Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials, ramping up gigafactories, and building the local ecosystems needed to compete.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T00:00:00+00:00",
-      "score": 6
     }
   ]
 }
