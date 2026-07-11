@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-11T15:32:54.566957+00:00",
+  "updated": "2026-07-11T18:01:23.593153+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0cbe6c8707",
+      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+      "summary": "Community Wisdom 193",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "11 Jul 2026",
+      "timestamp": "2026-07-11T16:40:58+00:00",
+      "score": 4
+    },
     {
       "id": "b9b468358f",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -2185,17 +2196,6 @@
       "title": "Semiconductors: Etching the new map of strategic supply",
       "url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
       "summary": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "690f90100e",
-      "title": "Solar power: From intermittent sunshine to reliable power",
-      "url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
-      "summary": "Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming intermittent output into more reliable, higher-value electricity.",
       "source": "McKinsey",
       "topic": "business",
       "date": "30 Jun 2026",
