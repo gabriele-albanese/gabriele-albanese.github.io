@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-11T10:01:17.246012+00:00",
+  "updated": "2026-07-11T14:01:22.755638+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "73e7ad25de",
+      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+      "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "11 Jul 2026",
+      "timestamp": "2026-07-11T11:11:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "a11e42f7ec",
+      "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
+      "url": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/",
+      "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Jul 2026",
+      "timestamp": "2026-07-11T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "8474a5a44a",
       "title": "OpenAI’s Head of Safety Is Leaving the Company",
@@ -2179,28 +2201,6 @@
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T00:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "ebdcd0078b",
-      "title": "From access to assets: How early-life wealth building can shape economic mobility",
-      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility",
-      "summary": "Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new 530A accounts, also known as Trump Accounts, highlight the factors that can shape its impact.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1c12b349a5",
-      "title": "Economic conditions outlook, June 2026",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook",
-      "summary": "In early June, executives were more downbeat on the economy than they have been in years and reported divided expectations for the coming months. Energy prices loomed large, and companies have been making defensive changes in response.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
