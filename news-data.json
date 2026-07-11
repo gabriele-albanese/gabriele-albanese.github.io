@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-10T22:01:17.299996+00:00",
+  "updated": "2026-07-11T02:01:21.792717+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8474a5a44a",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Jul 2026",
+      "timestamp": "2026-07-11T01:07:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "e6ebabb1e9",
+      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigatio",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Jul 2026",
+      "timestamp": "2026-07-11T00:29:25+00:00",
+      "score": 4
+    },
     {
       "id": "b040d389ac",
       "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
@@ -2179,28 +2201,6 @@
       "date": "29 Jun 2026",
       "timestamp": "2026-06-29T21:49:26+00:00",
       "score": 7
-    },
-    {
-      "id": "465bbcda85",
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "summary": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T20:55:50+00:00",
-      "score": 5
-    },
-    {
-      "id": "6e26addce9",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jun 2026",
-      "timestamp": "2026-06-29T20:12:59+00:00",
-      "score": 5
     }
   ]
 }
