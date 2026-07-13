@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-13T18:19:16.485288+00:00",
+  "updated": "2026-07-13T22:01:24.572186+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3917d3b170",
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T20:59:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e3380a0145",
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T20:00:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "3c957f2f7b",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T19:17:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "25a33f9e52",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T18:22:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "50ee0b4631",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and head",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T18:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "1519132010",
       "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
@@ -67,6 +122,17 @@
       "date": "13 Jul 2026",
       "timestamp": "2026-07-13T11:00:56+00:00",
       "score": 6
+    },
+    {
+      "id": "47e9f5c506",
+      "title": "Is that AI agent worth it? Agentic economics and the modern operating model",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model",
+      "summary": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "52e3194ff2",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T15:01:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "2919bc4057",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ba1797ae41",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "dfde6aac04",
-      "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
-      "summary": "From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ce0e4d6477",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "232266d1b7",
-      "title": "How top PMs increase their leverage with AI",
-      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
-      "summary": "A framework for getting the most out of AI in your day-to-day-work",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T13:31:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "ecf57bff99",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T12:10:00+00:00",
       "score": 4
     }
   ]
