@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-13T10:01:26.066662+00:00",
+  "updated": "2026-07-13T11:42:07.452721+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cd4fca6cab",
+      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
+      "url": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images To understand their customers and markets, a growing number of customer-oriented companies are using generative AI tools, alongside the language and reasoning capabilities of popular large language models (LLMs), to access and an",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T11:00:56+00:00",
+      "score": 6
+    },
+    {
+      "id": "52e3194ff2",
+      "title": "Rewired takes: Practical people lessons for scaling AI adoption",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption",
+      "summary": "McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "0cbe6c8707",
       "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
@@ -2176,28 +2198,6 @@
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "source": "OpenAI Blog",
       "topic": "ai",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e51f7d06a0",
-      "title": "Talking with Daniel Marovitz, SVP of Fintech at Booking.com",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/talking-with-daniel-marovitz-svp-of-fintech-at-booking-com",
-      "summary": "Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform of choice by managing complexity and easing customers’ pain points.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9dc63591d8",
-      "title": "Semiconductors: Etching the new map of strategic supply",
-      "url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
-      "summary": "As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, demand for advanced semiconductors continues to grow.",
-      "source": "McKinsey",
-      "topic": "business",
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T00:00:00+00:00",
       "score": 4
