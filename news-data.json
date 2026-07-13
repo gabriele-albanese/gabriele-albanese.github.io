@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-13T14:01:40.540968+00:00",
+  "updated": "2026-07-13T18:01:30.608723+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1519132010",
+      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
+      "url": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+      "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T16:05:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "cda1dfeab5",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T15:34:59+00:00",
+      "score": 5
+    },
+    {
+      "id": "9114cbd5d6",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T15:02:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "e05cb5c195",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T14:18:16+00:00",
+      "score": 4
+    },
     {
       "id": "9d90ed351e",
       "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
@@ -232,6 +276,17 @@
       "date": "10 Jul 2026",
       "timestamp": "2026-07-10T00:16:54+00:00",
       "score": 5
+    },
+    {
+      "id": "97d475e1d9",
+      "title": "How a 180-year-old news institution prepares for its next reinvention",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-a-180-year-old-news-institution-prepares-for-its-next-reinvention",
+      "summary": "Associated Press CEO Daisy Veerasingham discusses AI, the economics of trusted content, and why preserving editorial independence matters more than preserving any particular business structure.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "10 Jul 2026",
+      "timestamp": "2026-07-10T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "076e1c5981",
@@ -2145,61 +2200,6 @@
       "topic": "ai",
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "76712e6d84",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable w",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2288f9c7cb",
-      "title": "The Real Question to Ask About AI Governance",
-      "url": "https://sloanreview.mit.edu/article/the-real-question-to-ask-about-ai-governance/",
-      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images Leaders at literally every Fortune 500 company will tell you that they are governing their AI — every single one of them. Now ask those same leaders who’s responsible for shutting down an AI model that’s causing harm. Most people",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T11:00:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "cdfa1091f4",
-      "title": "Building tech in the world’s secret R&D hub",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the pa",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T10:23:30+00:00",
-      "score": 5
-    },
-    {
-      "id": "a0bd493deb",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b5ec53d600",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T09:00:00+00:00",
       "score": 4
     }
   ]
