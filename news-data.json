@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-14T07:23:20.536335+00:00",
+  "updated": "2026-07-14T10:01:29.300971+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be5e5b147b",
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T10:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b5aa16b300",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degre",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T08:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "da2928c842",
       "title": "Factor Promo Code: 50% Off Off Meal Prep",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T20:33:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "fdfe270028",
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T20:03:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "5d0ebe24a6",
-      "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-      "url": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-      "summary": "“We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T19:12:43+00:00",
       "score": 4
     }
   ]
