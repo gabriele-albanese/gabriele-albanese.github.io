@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-14T14:01:32.035450+00:00",
+  "updated": "2026-07-14T16:42:07.836658+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4f0761b4bc",
+      "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+      "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T16:05:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "0fab2e639c",
+      "title": "New York Governor Signs First Statewide Data Center Moratorium",
+      "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
+      "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T14:54:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "93a0e8b760",
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T14:24:53+00:00",
+      "score": 5
+    },
+    {
+      "id": "a78398d3ff",
+      "title": "Telegram’s shortlink domain is back online after day-long suspension",
+      "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+      "summary": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T14:10:13+00:00",
+      "score": 4
+    },
+    {
+      "id": "c234bc9a7b",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T14:06:47+00:00",
+      "score": 4
+    },
+    {
+      "id": "4526b355a0",
+      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
+      "url": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
+      "summary": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T12:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "64ea707006",
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -66,6 +132,17 @@
       "topic": "tech",
       "date": "14 Jul 2026",
       "timestamp": "2026-07-14T00:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "35c2d6e800",
+      "title": "Rewiring customer experience for the agentic era",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era",
+      "summary": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel orchestration.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2124,83 +2201,6 @@
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "579fe9f94e",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T02:16:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "535fb06296",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T02:04:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "d488225c53",
-      "title": "Lights, camera, algorithm: How AI is rewriting the rules of film and TV",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv",
-      "summary": "Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be the ones anyone is predicting.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "35e7334a9a",
-      "title": "Betsy Nabel on physicians and women in healthcare leadership roles",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles",
-      "summary": "Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true to herself while creating lasting impact for medical students and patients.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "04cedcca2e",
-      "title": "Suphachai Chearavanont: Bold moves in innovation-driven transformation",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation",
-      "summary": "In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strategy on looking beyond short-term gains to sustainable social impact and scale.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "86b7b987de",
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T23:23:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "0fc41c34ab",
-      "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
-      "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
-      "summary": "Watch now | &#127897; I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T23:22:23+00:00",
-      "score": 4
     }
   ]
 }
