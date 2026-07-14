@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-14T21:32:03.732086+00:00",
+  "updated": "2026-07-14T22:01:23.538487+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c59caaf5dd",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T21:50:11+00:00",
+      "score": 5
+    },
     {
       "id": "c604b203eb",
       "title": "Anthropic’s newest ad is creeping people out",
@@ -2190,17 +2201,6 @@
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T16:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "fc0b8d7e77",
-      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-      "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T16:00:00+00:00",
-      "score": 5
     }
   ]
 }
