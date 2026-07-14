@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-13T22:01:24.572186+00:00",
+  "updated": "2026-07-14T02:01:27.264028+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "71ee9ef92d",
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T00:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4bee902986",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1e169aeb86",
+      "title": "Sam Neill Inspired a Generation of Scientists",
+      "url": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/",
+      "summary": "The actor, who died at age 78 on Monday, embodied a passionate approach to research and positive masculinity in his role as paleontologist Alan Grant in the 1993 blockbuster Jurassic Park.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T22:26:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "2508728df0",
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Jul 2026",
+      "timestamp": "2026-07-13T21:03:07+00:00",
+      "score": 4
+    },
     {
       "id": "3917d3b170",
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
@@ -2157,50 +2201,6 @@
       "date": "30 Jun 2026",
       "timestamp": "2026-06-30T18:00:00+00:00",
       "score": 7
-    },
-    {
-      "id": "01496d14f8",
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "summary": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T17:52:46+00:00",
-      "score": 5
-    },
-    {
-      "id": "8ea70b35b5",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T17:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "fdb4e43bcf",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T15:08:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "d5f8bd7bdd",
-      "title": "Arcturus could halve the grid’s electrical losses using its nano-infused metals",
-      "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
-      "summary": "Stealthy startup Arcturus uses lasers to infuse carbon nanomaterials into copper, dramatically improving its ability to conduct electricity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jun 2026",
-      "timestamp": "2026-06-30T15:01:42+00:00",
-      "score": 4
     }
   ]
 }
