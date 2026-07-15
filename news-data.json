@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15T16:52:24.561894+00:00",
+  "updated": "2026-07-15T18:01:21.906734+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9f7ec43a6e",
+      "title": "Notice to Membership",
+      "url": "https://spectrum.ieee.org/notice-to-membership-july-2026",
+      "summary": "As of 21 June 2026, a Level 1 Expulsion has been imposed on IEEE Member Dr. Fei-Yue Wang, former editor-in-chief of the    IEEE Transactions on Intelligent Vehicles   . In accordance with  IEEE Bylaw  I-110.5(D)(i), Dr. Wang is no longer a member of IEEE, and is permanently banne",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T18:00:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "0081d2e6c3",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T17:09:37+00:00",
+      "score": 6
+    },
+    {
+      "id": "e8dd50de2f",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T17:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "3b0c0d41e0",
       "title": "The First Chatbot’s Multiple Personalities",
@@ -122,6 +155,17 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T11:00:00+00:00",
       "score": 7
+    },
+    {
+      "id": "5ea0a6358f",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "ece345b366",
@@ -2157,50 +2201,6 @@
       "date": "02 Jul 2026",
       "timestamp": "2026-07-02T15:37:08+00:00",
       "score": 4
-    },
-    {
-      "id": "638b856bf5",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T15:20:51+00:00",
-      "score": 5
-    },
-    {
-      "id": "9f0e96eaeb",
-      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-      "summary": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T15:14:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "8c93c6d701",
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T15:12:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "8f779c343b",
-      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
-      "summary": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T14:53:39+00:00",
-      "score": 6
     }
   ]
 }
