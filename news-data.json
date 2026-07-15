@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-15T10:01:26.476577+00:00",
+  "updated": "2026-07-15T14:01:24.644420+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "53c42ac553",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T13:10:47+00:00",
+      "score": 5
+    },
+    {
+      "id": "f57a443533",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e74ea7dbb4",
+      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+      "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "886fc360d0",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "54bdfbfdb3",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2afe0523ab",
+      "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
+      "url": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
+      "summary": "An old Oscar Mayer factory in Wisconsin will become America's latest fusion power research and development hub.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "646c882e11",
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "summary": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T11:00:00+00:00",
+      "score": 7
+    },
+    {
+      "id": "ece345b366",
+      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
+      "url": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
+      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "240c7cfa4e",
       "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
@@ -2113,94 +2201,6 @@
       "date": "02 Jul 2026",
       "timestamp": "2026-07-02T09:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "9ef78d2bad",
-      "title": "Heat Domes Are Dangerous. July Fourth Activities Will Make Things Worse",
-      "url": "https://www.wired.com/story/heat-domes-are-dangerous-july-fourth-activities-make-things-worse/",
-      "summary": "Long hours outdoors, day drinking, and World Cup matches are among the factors raising the risks of heat-related illness, as hot weather spreads across the eastern US.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f23d1aa63f",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T05:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ddbaf86455",
-      "title": "How Miro is redefining collaboration across the product development life cycle",
-      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle",
-      "summary": "Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered workflow platform—and how AI is reshaping competitive advantage in software.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T00:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "26836c916d",
-      "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
-      "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
-      "summary": "The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T22:47:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "dec4cfaa7c",
-      "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-      "url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-      "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T22:28:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "d9a4be5306",
-      "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
-      "url": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
-      "summary": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T21:34:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "62c6a743b5",
-      "title": "Why Public Speaking Skills Are Worth Investing In",
-      "url": "https://spectrum.ieee.org/improve-public-speaking-skills",
-      "summary": "This article is crossposted from  IEEE Spectrum ’s careers newsletter.   Sign up now    to get insider tips, expert advice, and practical strategies,   written i n partnership with tech career development company  Parsity  and    delivered to your inbox for free!    You want to b",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T18:15:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "d94a70a000",
-      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T18:10:00+00:00",
-      "score": 4
     }
   ]
 }
