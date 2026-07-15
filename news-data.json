@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-14T22:01:23.538487+00:00",
+  "updated": "2026-07-15T02:01:22.470820+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "28e622f540",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:27:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "658d5af4f6",
+      "title": "The CEO’s role in transformation",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
+      "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their ",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "becee1c630",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T22:22:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "c70760fdab",
+      "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+      "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+      "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T22:08:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "3b5a63d55d",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Jul 2026",
+      "timestamp": "2026-07-14T22:07:42+00:00",
+      "score": 4
+    },
     {
       "id": "c59caaf5dd",
       "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
@@ -2146,61 +2201,6 @@
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T18:00:02+00:00",
       "score": 7
-    },
-    {
-      "id": "5833f14a6a",
-      "title": "Even Honda is pivoting to data centers",
-      "url": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
-      "summary": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T17:13:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "c9c7dcaa7d",
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T16:44:18+00:00",
-      "score": 5
-    },
-    {
-      "id": "8ae510773c",
-      "title": "NASA inspector general suggests Boeing's Starliner will now be a decade late",
-      "url": "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
-      "summary": "Starliner's certification may be delayed to 2027, 10 years later than Boeing's original schedule.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T16:11:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "919f597261",
-      "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-      "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "summary": "This article is brought to you by  Melbourne Convention Bureau (MCB)  supported by  Business Events Australia .    As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.   From hyperscale data centers to ele",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T16:01:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "05a77cd025",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T16:00:00+00:00",
-      "score": 4
     }
   ]
 }
