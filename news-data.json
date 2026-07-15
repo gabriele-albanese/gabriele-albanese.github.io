@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-15T07:29:40.566955+00:00",
+  "updated": "2026-07-15T10:01:26.476577+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "240c7cfa4e",
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "28e622f540",
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -2190,17 +2201,6 @@
       "date": "01 Jul 2026",
       "timestamp": "2026-07-01T18:10:00+00:00",
       "score": 4
-    },
-    {
-      "id": "b1020b9dd6",
-      "title": "Why Mentorship Is the Most Underrated Leadership Skill",
-      "url": "https://spectrum.ieee.org/mentorship-is-an-underrated-leadership-skill",
-      "summary": "I started my professional journey as an engineer before moving into product strategy and innovation leadership roles for several global technology organizations. Over the years, I have served as a mentor for a variety of programs including  Products That Count ’s strategic produc",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "01 Jul 2026",
-      "timestamp": "2026-07-01T18:00:02+00:00",
-      "score": 7
     }
   ]
 }
