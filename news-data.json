@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-15T18:01:21.906734+00:00",
+  "updated": "2026-07-15T21:31:21.748480+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "af632e642e",
+      "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
+      "url": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
+      "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T20:58:16+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb8b516ebd",
+      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T19:46:54+00:00",
+      "score": 4
+    },
+    {
+      "id": "c9ca9bb827",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T19:41:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "2e25f935ee",
+      "title": "In memoriam: 7 of our favorite Sam Neill films",
+      "url": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
+      "summary": "The actor, who starred in 1993's  Jurassic Park , died Monday in Sydney, Australia, at the age of 78.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T18:39:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "d1802f967e",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T18:06:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "d1cb0c2798",
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T18:05:00+00:00",
+      "score": 5
+    },
     {
       "id": "9f7ec43a6e",
       "title": "Notice to Membership",
@@ -34,6 +100,17 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T17:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "eb7b70aba5",
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T16:00:33+00:00",
+      "score": 4
     },
     {
       "id": "3b0c0d41e0",
@@ -199,6 +276,17 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T00:27:04+00:00",
       "score": 5
+    },
+    {
+      "id": "9ad8732895",
+      "title": "How can the public sector meet the AI moment?",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+      "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "5b0dd2f2fc",
@@ -2112,94 +2200,6 @@
       "topic": "tech",
       "date": "03 Jul 2026",
       "timestamp": "2026-07-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "77ac52eac6",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bbb33a2166",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T23:38:10+00:00",
-      "score": 5
-    },
-    {
-      "id": "81736f187f",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "summary": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T21:57:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a14d73f73",
-      "title": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
-      "url": "https://www.wired.com/story/love-island-usa-app/",
-      "summary": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T20:47:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "bb53a1477c",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T18:31:09+00:00",
-      "score": 5
-    },
-    {
-      "id": "abe11bc282",
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T18:01:20+00:00",
-      "score": 7
-    },
-    {
-      "id": "664c411ead",
-      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
-      "url": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
-      "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T16:30:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "47a875ddb1",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-t",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T15:37:08+00:00",
       "score": 4
     }
   ]
