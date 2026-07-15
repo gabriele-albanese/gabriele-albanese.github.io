@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15T14:01:24.644420+00:00",
+  "updated": "2026-07-15T16:52:24.561894+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3b0c0d41e0",
+      "title": "The First Chatbot’s Multiple Personalities",
+      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+      "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of a",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T15:35:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "d3f280f360",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into o",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T15:29:33+00:00",
+      "score": 6
+    },
+    {
+      "id": "982ae331ca",
+      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
+      "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
+      "summary": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T14:39:52+00:00",
+      "score": 4
+    },
     {
       "id": "53c42ac553",
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
@@ -22,6 +55,17 @@
       "topic": "tech",
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "817e2aedd4",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T12:00:00+00:00",
       "score": 4
     },
     {
@@ -111,6 +155,39 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T00:27:04+00:00",
       "score": 5
+    },
+    {
+      "id": "5b0dd2f2fc",
+      "title": "How AI is reshaping the future of the AEC industry",
+      "url": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
+      "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "170f85b6c5",
+      "title": "The ‘bridge builder’ COO: Delivering results by engaging stakeholders",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/the-bridge-builder-coo-delivering-results-by-engaging-stakeholders",
+      "summary": "Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0af3904ca7",
+      "title": "Gigafactory delivery on time: Solving the SOP delay challenge",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge",
+      "summary": "Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "658d5af4f6",
@@ -2124,83 +2201,6 @@
       "date": "02 Jul 2026",
       "timestamp": "2026-07-02T14:53:39+00:00",
       "score": 6
-    },
-    {
-      "id": "d3c711fc7e",
-      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
-      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
-      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T14:04:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "86d2625439",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T13:53:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "76da70e4f3",
-      "title": "Teaching AI to run with the turbines",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are p",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T12:51:44+00:00",
-      "score": 5
-    },
-    {
-      "id": "0c578b2b91",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gem",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T12:10:00+00:00",
-      "score": 9
-    },
-    {
-      "id": "cdac07352f",
-      "title": "Yep, we’re using OpenClaw to date now",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fb2de1d3b7",
-      "title": "Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech",
-      "url": "https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline amid the suffocating presence of Big Tech.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bc90409800",
-      "title": "Why California’s carbon manure math doesn’t add up",
-      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just poll",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Jul 2026",
-      "timestamp": "2026-07-02T09:00:00+00:00",
-      "score": 5
     }
   ]
 }
