@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-16T20:39:50.061583+00:00",
+  "updated": "2026-07-16T22:01:20.354868+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "050e0b2102",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T20:09:48+00:00",
+      "score": 4
+    },
     {
       "id": "ab4b103aef",
       "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8ab7046806",
-      "title": "The Best iPhone 17 Cases (2026): Our Picks After Testing 100+",
-      "url": "https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/",
-      "summary": "Protect your expensive iPhone 17, iPhone Air, iPhone Pro, or iPhone 17e with our favorite cases and screen protectors.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T11:30:00+00:00",
       "score": 4
     }
   ]
