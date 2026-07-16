@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15T22:01:22.033022+00:00",
+  "updated": "2026-07-16T02:01:20.579488+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "86fc4744cf",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T23:59:44+00:00",
+      "score": 6
+    },
+    {
+      "id": "52ec3ea7d5",
+      "title": "Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the Eastern US",
+      "url": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
+      "summary": "Roughly 100 fires are raging out of control in Ontario, sending smoke streaming 1,000 miles to the south and east.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T23:05:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "dc315898b2",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T22:24:17+00:00",
+      "score": 8
+    },
     {
       "id": "af632e642e",
       "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "03 Jul 2026",
       "timestamp": "2026-07-03T12:00:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "9d2b09ebe7",
-      "title": "EP106 AI as a Powerful Teammate in Product Management",
-      "url": "https://www.productcoalition.com/p/ep106-ai-as-a-powerful-teammate-in",
-      "summary": "Summary\n\n In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
-      "source": "Product Coalition",
-      "topic": "pm",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T09:00:28+00:00",
-      "score": 5
-    },
-    {
-      "id": "5a9aa8817d",
-      "title": "The 11 Best TV Shows to Stream This Month (July 2026)",
-      "url": "https://www.wired.com/story/the-11-best-shows-to-stream-right-now/",
-      "summary": "House of the Dragon, Adventure Time: Side Quests, and The Man Will Burn are just a few of the TV shows you should be watching right now.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "afe54e244a",
-      "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
-      "url": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
-      "summary": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T00:00:00+00:00",
       "score": 4
     }
   ]
