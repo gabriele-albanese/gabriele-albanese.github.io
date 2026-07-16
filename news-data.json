@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-16T14:01:25.999255+00:00",
+  "updated": "2026-07-16T16:49:59.018596+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1a909f02ea",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T16:40:48+00:00",
+      "score": 6
+    },
+    {
+      "id": "fc1dde757a",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b1da67ab53",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "43d96c4ced",
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "summary": "Google said users can soon access their notebooks through AI Mode in Search.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b5237ebb89",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T15:38:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "bcfaf7641b",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T15:31:09+00:00",
+      "score": 5
+    },
+    {
+      "id": "bf27aeddf3",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T15:02:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "734be335bc",
+      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+      "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
+      "summary": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T15:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "99dfba78ed",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T14:40:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "bb03fb42eb",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T14:26:29+00:00",
+      "score": 5
+    },
     {
       "id": "2b91f1e502",
       "title": "What CEOs Need to Know About Sovereign AI",
@@ -99,6 +209,17 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T04:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b57416a816",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2079,127 +2200,6 @@
       "topic": "tech",
       "date": "06 Jul 2026",
       "timestamp": "2026-07-06T18:35:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e930f63d2b",
-      "title": "Your family’s $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T18:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "88a9e7b845",
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T17:04:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a1d873a43",
-      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-      "summary": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T16:44:18+00:00",
-      "score": 5
-    },
-    {
-      "id": "6d2d9fde80",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T15:22:08+00:00",
-      "score": 5
-    },
-    {
-      "id": "c83f72877e",
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix,",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6f235eb6d9",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "29385ba3ff",
-      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
-      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
-      "summary": "Watch now | &#127897;&#65039; Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pok&#233;mon cards in real time",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T12:03:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "166d1efeb2",
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d2bff24ae0",
-      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
-      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
-      "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T06:05:29+00:00",
-      "score": 5
-    },
-    {
-      "id": "0546055f77",
-      "title": "Building America’s innovation engine: An interview with David Lebryk",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk",
-      "summary": "The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private sector dynamic can help fuel its next era of growth.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "69bbd97851",
-      "title": "How Covista is changing education for healthcare professionals",
-      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals",
-      "summary": "Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structure, and culture.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T00:00:00+00:00",
       "score": 4
     }
   ]
