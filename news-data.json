@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-16T16:49:59.018596+00:00",
+  "updated": "2026-07-16T18:01:10.668814+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "308c77cdd9",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none ",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T17:35:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "8bea902bbc",
+      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
+      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delivery platforms outside China.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T17:12:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7caead535f",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T17:06:08+00:00",
+      "score": 6
+    },
+    {
+      "id": "486214a117",
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T17:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "1a909f02ea",
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -2156,50 +2200,6 @@
       "topic": "business",
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bd206ca689",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime de",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T23:56:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "b96d9864f8",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T19:49:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "0f64c66e0d",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T19:01:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "1fae758ade",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Jul 2026",
-      "timestamp": "2026-07-06T18:35:00+00:00",
       "score": 4
     }
   ]
