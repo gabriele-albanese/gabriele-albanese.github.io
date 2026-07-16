@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-16T10:01:23.719217+00:00",
+  "updated": "2026-07-16T14:01:25.999255+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2b91f1e502",
+      "title": "What CEOs Need to Know About Sovereign AI",
+      "url": "https://sloanreview.mit.edu/article/what-ceos-need-to-know-about-sovereign-ai/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images As multinational companies implement artificial intelligence workflows and look to adopt AI across their global operations, they are increasingly running up against country-specific regulations and policies that aim to govern AI ",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T13:52:48+00:00",
+      "score": 5
+    },
+    {
+      "id": "2f85cd9ed4",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that i",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T12:10:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "46a1768f88",
+      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "summary": "Aina is going to pilot a new device in the coming weeks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T11:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7a71932f6b",
+      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
+      "url": "https://www.wired.com/review/hisense-xr10-smart-projector/",
+      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4db0a0c0ad",
+      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2c1f648fa0",
+      "title": "Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More",
+      "url": "https://www.wired.com/gallery/best-air-purifiers/",
+      "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T10:08:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "714f1e6099",
+      "title": "Please Stop Making Me Opt Out of AI",
+      "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+      "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "494509926a",
       "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
@@ -22,6 +99,17 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T04:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7bd0f1f372",
+      "title": "How B.TECH transformed into a technology-powered retailer",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
+      "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2112,94 +2200,6 @@
       "topic": "business",
       "date": "06 Jul 2026",
       "timestamp": "2026-07-06T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "eb9d194226",
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
-      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "summary": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Jul 2026",
-      "timestamp": "2026-07-05T12:47:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "f808e0e08c",
-      "title": "How to Avoid Spoilers Online and in Chats",
-      "url": "https://www.wired.com/story/how-to-avoid-spoilers-online/",
-      "summary": "You can minimize the risk of films and shows being spoiled for you by muting comments, conversations, and keywords on various platforms.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Jul 2026",
-      "timestamp": "2026-07-05T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "68c6a25bd0",
-      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
-      "summary": "Community Wisdom 192",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "04 Jul 2026",
-      "timestamp": "2026-07-04T16:58:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "ffdf2d6e4c",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Jul 2026",
-      "timestamp": "2026-07-04T16:32:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "a00e4ef278",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Jul 2026",
-      "timestamp": "2026-07-04T15:51:32+00:00",
-      "score": 5
-    },
-    {
-      "id": "efb46ab961",
-      "title": "Submit Your Questions: Inside The World of Online Romance Scams",
-      "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
-      "summary": "The Yahoo Boys author Carlos Barragán will join Kate Knibbs to answer your questions about Nigeria's romance scammers.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Jul 2026",
-      "timestamp": "2026-07-04T15:26:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "49e786a078",
-      "title": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
-      "url": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
-      "summary": "The companies’ Fourth of July plans include celebrating new reactor designs coming online. But there’s still a long way to go before they deliver energy at a meaningful scale.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T18:13:15+00:00",
-      "score": 5
-    },
-    {
-      "id": "cecf9e43b0",
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-      "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T16:30:00+00:00",
       "score": 4
     }
   ]
