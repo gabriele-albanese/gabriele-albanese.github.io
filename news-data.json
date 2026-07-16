@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T07:37:23.911754+00:00",
+  "updated": "2026-07-16T10:01:23.719217+00:00",
   "count": 200,
   "articles": [
     {
@@ -22,6 +22,17 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T04:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4ffe419a06",
+      "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
+      "summary": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "03 Jul 2026",
       "timestamp": "2026-07-03T16:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9c171ea26c",
-      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-      "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T13:55:35+00:00",
       "score": 4
     }
   ]
