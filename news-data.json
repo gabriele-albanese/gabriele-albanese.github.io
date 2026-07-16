@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-16T02:01:20.579488+00:00",
+  "updated": "2026-07-16T06:01:25.248086+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "494509926a",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T04:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3442e88d01",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T04:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "86fc4744cf",
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "03 Jul 2026",
       "timestamp": "2026-07-03T13:55:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "f661491647",
-      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T12:00:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "14b2c8aa36",
-      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
-      "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem.  Data centers  are projected to consume a growing share of global electricity demand: The  International Energy Agency   estimates  they could account for 3 to 4 percent of tot",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "03 Jul 2026",
-      "timestamp": "2026-07-03T12:00:01+00:00",
       "score": 4
     }
   ]
