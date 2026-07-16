@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-16T18:01:10.668814+00:00",
+  "updated": "2026-07-16T20:39:50.061583+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ab4b103aef",
+      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T20:07:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "bdc6514188",
+      "title": "Review: Xgimi Titan Noir Max Home Projector (2026)",
+      "url": "https://www.wired.com/story/xgimi-titan-noir-max-projector/",
+      "summary": "This remarkably vivid home projector has deep inky blacks, without a five-figure price tag.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T19:45:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "e1584d5980",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, ",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T19:02:38+00:00",
+      "score": 5
+    },
+    {
+      "id": "3137b9c5b8",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T18:35:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "c27a3acd5b",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T18:32:54+00:00",
+      "score": 4
+    },
     {
       "id": "308c77cdd9",
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -595,6 +650,17 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T00:27:04+00:00",
       "score": 5
+    },
+    {
+      "id": "64ee59e2a6",
+      "title": "AI’s next big mission is rewiring your workplace",
+      "url": "https://www.mckinsey.com/about-us/media/ais-next-big-mission-is-rewiring-your-workplace",
+      "summary": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff with extraordinary technology will have a golden opportunity, while those that treat this moment as a headcount problem wil",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Jul 2026",
+      "timestamp": "2026-07-15T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "9ad8732895",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T11:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4418f506eb",
-      "title": "Leadership’s Blind Spot in the Age of AI",
-      "url": "https://sloanreview.mit.edu/article/leaderships-blind-spot-in-the-age-of-ai/",
-      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In 1951, philosopher Martin Heidegger told a small audience, “The most thought-provoking thing in our thought-provoking time is that we are still not thinking.” Few understood him then. Seventy-five years later, the observation h",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T11:00:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "920a09983a",
-      "title": "British Space Startup Launches Longevity Lab Into Orbit",
-      "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-      "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T09:57:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "c754a9a1d0",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "summary": "Managed agents feature bundle launch",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T08:54:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "702fb60757",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T00:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "241bab2256",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "2cd516dd84",
-      "title": "From the C-suite to the boardroom: Christiana Smith Shi on what it takes",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes",
-      "summary": "For executives, the developmental opportunity may be clear, but what does board service really entail?",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T00:00:00+00:00",
       "score": 4
     }
   ]
