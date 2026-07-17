@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-17T10:01:11.820884+00:00",
+  "updated": "2026-07-17T14:01:17.835984+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6d08c5b7cd",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at le",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3fb4e5d43d",
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T12:01:00+00:00",
+      "score": 4
+    },
     {
       "id": "1a153a50dd",
       "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
@@ -2179,28 +2201,6 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T16:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "1abaabf495",
-      "title": "Dragonflies maneuver like fighter pilots",
-      "url": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
-      "summary": "Male dragonflies' dramatic aerial combat maneuvers emerge from relatively simple vision-based rules.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T15:54:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "bf2500dd1b",
-      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
-      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
-      "summary": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T15:19:33+00:00",
-      "score": 4
     }
   ]
 }
