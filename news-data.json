@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-17T07:34:43.879771+00:00",
+  "updated": "2026-07-17T10:01:11.820884+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1a153a50dd",
+      "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
+      "url": "https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/",
+      "summary": "“Based on simple math, these outbreak responses—which require rapid, timely responses—are going to be greatly diminished,” the former CDC lab director tells WIRED.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T09:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "60f1cf5a5c",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations wit",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ce1f4cc75a",
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "94c993265c",
       "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
@@ -2168,39 +2201,6 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T15:19:33+00:00",
       "score": 4
-    },
-    {
-      "id": "3d0b5867ce",
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T14:35:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "ee1e8b4d21",
-      "title": "This startup pits dealerships against each other to bid on your used car",
-      "url": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-      "summary": "Bidbus, which lets dealerships bid on used cars, has raised $15 million in a Series A round that was led by early-stage mobility fund Ibex Investors.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a49eb2454",
-      "title": "Stepping Into Leadership - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/stepping-into-leadership-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   Every product manager wants to move into leadership &#x2014; but nobody wants to hire a leader without leadership experience. So how do you break the cycle?  In this episode, Teresa and Petra unpack the practical, often-ove",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T13:00:28+00:00",
-      "score": 5
     }
   ]
 }
