@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-16T22:01:20.354868+00:00",
+  "updated": "2026-07-17T02:01:13.970098+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "94c993265c",
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Jul 2026",
+      "timestamp": "2026-07-16T22:17:27+00:00",
+      "score": 5
+    },
     {
       "id": "050e0b2102",
       "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
@@ -2190,17 +2201,6 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T13:00:28+00:00",
       "score": 5
-    },
-    {
-      "id": "0e5ebf4a58",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the sp",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T12:10:00+00:00",
-      "score": 4
     }
   ]
 }
