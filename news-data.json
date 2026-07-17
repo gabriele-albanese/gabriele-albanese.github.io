@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-17T14:01:17.835984+00:00",
+  "updated": "2026-07-17T16:37:02.197701+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a90acdd50b",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T15:21:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "cbb6195f3c",
+      "title": "Lyft’s CEO Says, ‘We’re the Good Uber’",
+      "url": "https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/",
+      "summary": "David Risher insists that Lyft has lowered its prices and that customers who only check his competitor’s app are “leaving money on the table.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1df79545e7",
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed fo",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T14:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "6d08c5b7cd",
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
@@ -2168,39 +2201,6 @@
       "date": "07 Jul 2026",
       "timestamp": "2026-07-07T18:37:01+00:00",
       "score": 4
-    },
-    {
-      "id": "7051a46ada",
-      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
-      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
-      "summary": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T17:24:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "ffc63549d9",
-      "title": "Claude Cowork expands to mobile and web",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T16:27:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "55697d89ff",
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-      "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T16:00:00+00:00",
-      "score": 5
     }
   ]
 }
