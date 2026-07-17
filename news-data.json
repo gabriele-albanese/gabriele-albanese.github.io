@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-17T18:01:16.706556+00:00",
+  "updated": "2026-07-17T20:38:55.369256+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "dee8fdc90a",
+      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+      "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+      "summary": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T19:50:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "0f52f75a7e",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T19:22:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bd58734eea",
+      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
+      "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
+      "summary": "\"We're turning the clock back on rational healthcare.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T18:53:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "16962cf48b",
+      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
+      "url": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+      "summary": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T18:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "0a1bc8bb93",
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
@@ -66,6 +110,17 @@
       "topic": "tech",
       "date": "17 Jul 2026",
       "timestamp": "2026-07-17T12:01:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "be04b43c70",
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Jul 2026",
+      "timestamp": "2026-07-17T10:00:00+00:00",
       "score": 4
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "business",
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1dc07b31e4",
-      "title": "Cost versus value: Managing agentic AI system performance",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/cost-versus-value-managing-agentic-ai-system-performance",
-      "summary": "Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with David Tepper, CEO of Pay-i, delves into the new economics of measurement.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "ec3d1f41c8",
-      "title": "From healthcare to health: Asia’s longevity opportunity",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/from-healthcare-to-health-asias-longevity-opportunity",
-      "summary": "On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that effectively combines the delivery of care with proven ways to prevent illness.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8f331cf680",
-      "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-      "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
-      "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T22:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "db4997f1cb",
-      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T21:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ac26af5ade",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Jul 2026",
-      "timestamp": "2026-07-07T20:04:32+00:00",
       "score": 4
     }
   ]
