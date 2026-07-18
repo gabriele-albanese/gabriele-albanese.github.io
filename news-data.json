@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-18T07:10:41.340377+00:00",
+  "updated": "2026-07-18T10:02:44.952235+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "78c12f50c0",
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Jul 2026",
+      "timestamp": "2026-07-18T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "70826d3b26",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Jul 2026",
+      "timestamp": "2026-07-18T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "5d2b0c79af",
       "title": "Neil Rimer thinks the AI money is coming back out",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f49477fd9b",
-      "title": "GenAI Success Metrics: Look Beyond Reduced Workload",
-      "url": "https://sloanreview.mit.edu/article/genai-success-metrics-look-beyond-reduced-workload/",
-      "summary": "Matt Harrison Clough / Ikon Images The Research The authors performed a four-year, fixed-window observational analysis of administrative work inside a large U.S. public higher-education institution. Generative AI tools were introduced to executive leaders, operational leaders, an",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T11:00:17+00:00",
-      "score": 5
-    },
-    {
-      "id": "490c03669c",
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "url": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T11:00:00+00:00",
       "score": 4
     }
   ]
