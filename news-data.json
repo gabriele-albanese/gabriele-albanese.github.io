@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-18T15:32:26.216614+00:00",
+  "updated": "2026-07-18T18:02:04.093398+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "644dffd43b",
+      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+      "summary": "Community Wisdom 194",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "18 Jul 2026",
+      "timestamp": "2026-07-18T17:04:04+00:00",
+      "score": 4
+    },
     {
       "id": "c1a46929e3",
       "title": "Will AI fix prior authorization—or make it worse?",
@@ -2190,17 +2201,6 @@
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T13:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "c3ac762076",
-      "title": "What a harness is and how to build one with Claude Agent SDK",
-      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-      "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T12:03:35+00:00",
-      "score": 4
     }
   ]
 }
