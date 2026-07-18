@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-18T02:01:12.651421+00:00",
+  "updated": "2026-07-18T06:01:08.357536+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5d2b0c79af",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Jul 2026",
+      "timestamp": "2026-07-18T04:47:25+00:00",
+      "score": 4
+    },
     {
       "id": "ab8715cdc9",
       "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "df3e09db44",
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T10:00:00+00:00",
       "score": 4
     }
   ]
