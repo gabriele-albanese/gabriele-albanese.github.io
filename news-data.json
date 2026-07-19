@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-19T20:30:09.821758+00:00",
+  "updated": "2026-07-19T22:01:54.832090+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e44301e677",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Jul 2026",
+      "timestamp": "2026-07-19T21:45:00+00:00",
+      "score": 4
+    },
     {
       "id": "87a2e11003",
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d3c2652091",
-      "title": "Blue Origin reportedly raising $10B at $130B valuation",
-      "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
-      "summary": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T14:04:53+00:00",
       "score": 4
     }
   ]
