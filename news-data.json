@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-19T18:02:14.243573+00:00",
+  "updated": "2026-07-19T20:30:09.821758+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "87a2e11003",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Jul 2026",
+      "timestamp": "2026-07-19T19:24:45+00:00",
+      "score": 4
+    },
     {
       "id": "f94394e35d",
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T14:04:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "34adf3bd67",
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T13:30:00+00:00",
       "score": 4
     }
   ]
