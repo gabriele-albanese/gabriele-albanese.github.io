@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-19T14:02:34.965790+00:00",
+  "updated": "2026-07-19T15:33:10.927040+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f94394e35d",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Jul 2026",
+      "timestamp": "2026-07-19T14:52:08+00:00",
+      "score": 4
+    },
     {
       "id": "644dffd43b",
       "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
@@ -2190,17 +2201,6 @@
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T13:30:00+00:00",
       "score": 4
-    },
-    {
-      "id": "18ab2ec4f8",
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T13:00:00+00:00",
-      "score": 5
     }
   ]
 }
