@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-20T18:01:19.260835+00:00",
+  "updated": "2026-07-20T21:49:18.698884+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "20d9bcdf56",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T21:21:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "9afbcd831b",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, in",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T20:50:40+00:00",
+      "score": 5
+    },
+    {
+      "id": "7eab661b9a",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T19:33:25+00:00",
+      "score": 5
+    },
+    {
+      "id": "3b423b75db",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "summary": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T19:11:25+00:00",
+      "score": 5
+    },
+    {
+      "id": "61d13d1985",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T18:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "7de475e134",
       "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
@@ -110,6 +165,17 @@
       "topic": "ai",
       "date": "20 Jul 2026",
       "timestamp": "2026-07-20T08:39:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "50d782ef3a",
+      "title": "Proven growth strategies from market leaders",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/proven-growth-strategies-from-market-leaders",
+      "summary": "Discover how market leaders—Walmart, Builders FirstSource, Progressive, and JPMorgan Chase—achieved exceptional growth from 2019 to 2024, outperforming peers by an average of five percentage points in revenue and seven points in profitability. In this episode, Simon Jones, David ",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T10:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "10a73f0831",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0453af9ffc",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T10:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "178dc98636",
-      "title": "Four nuclear reactors hit a big milestone in the US",
-      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-      "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a te",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7d1b210e13",
-      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-      "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T21:08:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "16f0c7d55a",
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T20:37:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "ed82c2787c",
-      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
-      "summary": "Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that applies a novel approach to inspecting chips.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T20:29:50+00:00",
-      "score": 5
     }
   ]
 }
