@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-20T10:32:08.121303+00:00",
+  "updated": "2026-07-20T14:01:20.524030+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "03756c5e0b",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T12:39:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "574925d1d1",
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "summary": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T12:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e4b12c90e6",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "summary": "Listen now | &#127897; How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T12:04:47+00:00",
+      "score": 4
+    },
     {
       "id": "d213c30d25",
       "title": "AI is more likely than humans to form biases when hiring",
@@ -11,6 +44,39 @@
       "topic": "ai",
       "date": "20 Jul 2026",
       "timestamp": "2026-07-20T08:39:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "e91752dda9",
+      "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
+      "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a240398c91",
+      "title": "Author Talks: How a CEO got faster in his 40s",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-a-ceo-got-faster-in-his-40s",
+      "summary": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned about life and leadership from getting faster against the odds.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "60b98ab816",
+      "title": "Partnership for the decades ahead",
+      "url": "https://www.mckinsey.com/pl/en/our-insights/partnership-for-the-decades-ahead",
+      "summary": "Economic relations between Poland and the United States have entered a new phase. Over the past three decades, cooperation has expanded beyond trade to encompass investment, technology, infrastructure, energy, and defense. A new report by McKinsey and the American Chamber of Comm",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T17:47:55+00:00",
       "score": 7
-    },
-    {
-      "id": "c1f0680921",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fb7b1c1f2b",
-      "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-      "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-      "summary": "Android Bench is evolving, and developers can help guide that process.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T16:39:48+00:00",
-      "score": 5
-    },
-    {
-      "id": "acac4f0fde",
-      "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
-      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
-      "summary": "For Paradigm, the technical frontier will stretch beyond its cryptocurrency investment roots. This fund is expected to expand its investment focus to include robotics and AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T16:29:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "df693c770a",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "summary": "",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T16:26:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "72c6482542",
-      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T16:22:38+00:00",
-      "score": 5
-    },
-    {
-      "id": "834b2b61b3",
-      "title": "These AI startups are growing  revenue at faster and faster rates",
-      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T15:41:06+00:00",
-      "score": 4
     }
   ]
 }
