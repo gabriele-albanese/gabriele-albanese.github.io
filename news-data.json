@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-20T14:01:20.524030+00:00",
+  "updated": "2026-07-20T17:07:46.955980+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e73503dfd2",
+      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+      "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
+      "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T15:55:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b2509b10b3",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T15:15:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "618443aef1",
+      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T15:01:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "7216c8fa04",
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T14:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "03756c5e0b",
       "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
@@ -34,6 +78,17 @@
       "date": "20 Jul 2026",
       "timestamp": "2026-07-20T12:04:47+00:00",
       "score": 4
+    },
+    {
+      "id": "960e35dd4f",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Jul 2026",
+      "timestamp": "2026-07-20T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "d213c30d25",
@@ -2146,61 +2201,6 @@
       "date": "08 Jul 2026",
       "timestamp": "2026-07-08T20:06:54+00:00",
       "score": 4
-    },
-    {
-      "id": "e265f51e2c",
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T19:30:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "9c57f755e1",
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T19:19:15+00:00",
-      "score": 6
-    },
-    {
-      "id": "de4f21b5a7",
-      "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
-      "url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
-      "summary": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T18:46:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "3a8a8c19c4",
-      "title": "STEM Needs Leaders From Every Generation at the Table",
-      "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
-      "summary": "Working in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challenges. In this environment, leadership can no longer be approached as an individua",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T18:00:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "1e9d0df00d",
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;thr",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Jul 2026",
-      "timestamp": "2026-07-08T17:47:55+00:00",
-      "score": 7
     }
   ]
 }
