@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-21T14:01:19.974735+00:00",
+  "updated": "2026-07-21T16:58:50.328025+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be406df3fd",
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T15:37:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "f48bca09ef",
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "a70f755423",
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T18:30:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "daf54a4335",
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T18:22:39+00:00",
-      "score": 5
-    },
-    {
-      "id": "b2f8c92b44",
-      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
-      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-      "summary": "Watch now | &#127897;&#65039;GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T17:33:57+00:00",
       "score": 6
     }
   ]
