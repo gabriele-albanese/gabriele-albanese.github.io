@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-21T18:01:12.618568+00:00",
+  "updated": "2026-07-21T21:45:27.592107+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f122a38e6a",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T20:56:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "d77aa8a5fe",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T19:43:41+00:00",
+      "score": 5
+    },
+    {
+      "id": "0919b4f551",
+      "title": "AI and the rise of the universal entertainment app",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T19:39:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "c2bf3da107",
+      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
+      "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
+      "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T19:36:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "33a2bb7eea",
+      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+      "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T19:05:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "66d5c89859",
+      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
+      "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T18:05:10+00:00",
+      "score": 5
+    },
+    {
+      "id": "e014711cfc",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T17:33:14+00:00",
+      "score": 4
+    },
     {
       "id": "c096964be5",
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -113,6 +190,17 @@
       "score": 4
     },
     {
+      "id": "07a59789a1",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T07:00:00+00:00",
+      "score": 5
+    },
+    {
       "id": "683e474adc",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
@@ -121,6 +209,17 @@
       "topic": "tech",
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T00:12:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "10666aebf1",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T00:00:00+00:00",
       "score": 5
     },
     {
@@ -2102,105 +2201,6 @@
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T22:08:58+00:00",
       "score": 6
-    },
-    {
-      "id": "3579a3be1f",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T22:03:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "7a9493a910",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T21:57:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ad6ea6509",
-      "title": "OpenAI wants its new tool to do your work for you and with you",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
-      "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T21:25:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "a90a0d3e93",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company buil",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T20:22:28+00:00",
-      "score": 6
-    },
-    {
-      "id": "aca1fb615a",
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T19:40:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "68cc09231d",
-      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-      "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-      "summary": "In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T19:26:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "1db8020f65",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T19:05:58+00:00",
-      "score": 5
-    },
-    {
-      "id": "f365779100",
-      "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-      "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T18:57:53+00:00",
-      "score": 5
-    },
-    {
-      "id": "7b98fdb462",
-      "title": "Mercor is in talks for a $20B valuation",
-      "url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T18:42:22+00:00",
-      "score": 4
     }
   ]
 }
