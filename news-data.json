@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-21T10:01:17.088682+00:00",
+  "updated": "2026-07-21T14:01:19.974735+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a70f755423",
+      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T13:27:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "c8815315b3",
+      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
+      "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T13:20:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "4f2427b73e",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald T",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7a3a93f348",
+      "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+      "url": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson/",
+      "summary": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with AI. In this episode of Me, Myself, and AI, the Stanford University economist explains why technology isn’t the biggest barr",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T11:00:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "6d5a86555d",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every n",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T10:37:34+00:00",
+      "score": 4
+    },
     {
       "id": "683e474adc",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -2146,61 +2201,6 @@
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T17:33:57+00:00",
       "score": 6
-    },
-    {
-      "id": "0988454144",
-      "title": "Surprised doctors find 10-inch worm in man's groin during elective surgery",
-      "url": "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-      "summary": "Oddly, it wasn't the first time this had happened to the man.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T15:33:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "78b4dd4706",
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T14:53:09+00:00",
-      "score": 6
-    },
-    {
-      "id": "24accd0165",
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T14:51:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "7ea2e14afd",
-      "title": "From COVID Pivot to AI World Building: How Snapbar Reinvented the Photo Experience",
-      "url": "https://www.producttalk.org/from-covid-pivot-to-ai-world-building-how-snapbar-reinvented-the-photo-experience/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What does it take to reinvent a 14-year-old company&#x2014;not once, but twice?  In this episode of  Just Now Possible , Teresa Torres talks with Sam Eitzen (Co-founder &amp; CEO), Joe Eitzen (Co-founder &amp; CPO), and Pat",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T13:00:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "a9ac60dc9f",
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T13:00:00+00:00",
-      "score": 4
     }
   ]
 }
