@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-21T16:58:50.328025+00:00",
+  "updated": "2026-07-21T18:01:12.618568+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c096964be5",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T17:11:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "9783627bd8",
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T17:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "856fa25c6c",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T16:58:25+00:00",
+      "score": 4
+    },
     {
       "id": "be406df3fd",
       "title": "US threatens sanctions against Chinese AI models over IP theft",
@@ -2168,39 +2201,6 @@
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T18:42:22+00:00",
       "score": 4
-    },
-    {
-      "id": "c7ffc144e4",
-      "title": "Google will now disclose which ads are made with AI",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T18:40:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "197158ed79",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T18:34:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "2ccfbf295a",
-      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
-      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
-      "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic’s best consumer AI model—a sign that the golden era of AI subscriptions is ending.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T18:30:00+00:00",
-      "score": 6
     }
   ]
 }
