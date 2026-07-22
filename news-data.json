@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-22T18:01:17.146639+00:00",
+  "updated": "2026-07-22T21:41:57.026252+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0379f082bc",
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T21:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb195570e7",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T20:49:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "14b5a8f267",
+      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
+      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
+      "summary": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent mu",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T19:42:56+00:00",
+      "score": 5
+    },
+    {
+      "id": "298db90fda",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T19:11:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "7d7d859d0c",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T19:01:38+00:00",
+      "score": 6
+    },
+    {
+      "id": "725e52aa7e",
+      "title": "Science Corporation’s vision-restoring chip wins EU approval",
+      "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
+      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T18:18:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "2eef0e4f7c",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T18:13:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "138565f55e",
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T18:02:57+00:00",
+      "score": 4
+    },
     {
       "id": "e726d7442e",
       "title": "Monday.com lays off hundreds to focus on AI",
@@ -12,6 +100,17 @@
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T17:54:14+00:00",
       "score": 4
+    },
+    {
+      "id": "7460a49d0a",
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T16:47:49+00:00",
+      "score": 6
     },
     {
       "id": "22ff93960b",
@@ -44,6 +143,17 @@
       "topic": "tech",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T13:01:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7c5769317a",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T13:00:00+00:00",
       "score": 4
     },
     {
@@ -2090,116 +2200,6 @@
       "topic": "tech",
       "date": "13 Jul 2026",
       "timestamp": "2026-07-13T14:18:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "9d90ed351e",
-      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
-      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
-      "summary": "Watch now | &#127897;&#65039; Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T12:05:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "cd4fca6cab",
-      "title": "How GenAI Can and Can’t Help Manage Customer Insights",
-      "url": "https://sloanreview.mit.edu/article/how-genai-can-and-cant-help-manage-customer-insights/",
-      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images To understand their customers and markets, a growing number of customer-oriented companies are using generative AI tools, alongside the language and reasoning capabilities of popular large language models (LLMs), to access and an",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T11:00:56+00:00",
-      "score": 6
-    },
-    {
-      "id": "47e9f5c506",
-      "title": "Is that AI agent worth it? Agentic economics and the modern operating model",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model",
-      "summary": "As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "52e3194ff2",
-      "title": "Rewired takes: Practical people lessons for scaling AI adoption",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption",
-      "summary": "McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0cbe6c8707",
-      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
-      "summary": "Community Wisdom 193",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T16:40:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "b9b468358f",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T14:13:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "73e7ad25de",
-      "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
-      "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
-      "summary": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T11:11:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "a11e42f7ec",
-      "title": "Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page",
-      "url": "https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/",
-      "summary": "The Skylight has become the informational and organizational hub of my household. My touchscreen-native kids have also gained more agency over our family activities.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8474a5a44a",
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T01:07:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "62b0eb139c",
-      "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-      "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-      "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T01:01:28+00:00",
       "score": 4
     }
   ]
