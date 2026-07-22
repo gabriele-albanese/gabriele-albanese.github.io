@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-22T06:01:14.204094+00:00",
+  "updated": "2026-07-22T09:17:11.049808+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "27421537c4",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T08:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "0f1ee6934e",
       "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -11,6 +22,17 @@
       "topic": "tech",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T03:20:57+00:00",
+      "score": 5
+    },
+    {
+      "id": "278790de5c",
+      "title": "Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future",
+      "summary": "Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T00:00:00+00:00",
       "score": 5
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "10 Jul 2026",
       "timestamp": "2026-07-10T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "076e1c5981",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Jul 2026",
-      "timestamp": "2026-07-10T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ee3f327701",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T23:38:00+00:00",
-      "score": 8
     }
   ]
 }
