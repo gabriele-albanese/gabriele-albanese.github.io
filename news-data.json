@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-22T14:01:19.538049+00:00",
+  "updated": "2026-07-22T17:00:00.967939+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "22ff93960b",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "summary": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T16:24:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "031142badc",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T16:13:30+00:00",
+      "score": 4
+    },
     {
       "id": "ff897241e2",
       "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
@@ -44,6 +66,17 @@
       "topic": "ai",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1de8660326",
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T12:00:00+00:00",
       "score": 4
     },
     {
@@ -2168,39 +2201,6 @@
       "date": "11 Jul 2026",
       "timestamp": "2026-07-11T00:29:25+00:00",
       "score": 4
-    },
-    {
-      "id": "b040d389ac",
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "summary": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Jul 2026",
-      "timestamp": "2026-07-10T21:51:55+00:00",
-      "score": 5
-    },
-    {
-      "id": "80b272bb41",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Jul 2026",
-      "timestamp": "2026-07-10T21:00:29+00:00",
-      "score": 5
-    },
-    {
-      "id": "54a563731f",
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Jul 2026",
-      "timestamp": "2026-07-10T20:44:05+00:00",
-      "score": 5
     }
   ]
 }
