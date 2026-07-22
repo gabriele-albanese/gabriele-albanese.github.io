@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-21T22:01:17.561694+00:00",
+  "updated": "2026-07-22T02:01:09.409796+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4faa880423",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T22:50:01+00:00",
+      "score": 6
+    },
+    {
+      "id": "591f1cb3d7",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Jul 2026",
+      "timestamp": "2026-07-21T20:56:55+00:00",
+      "score": 4
+    },
     {
       "id": "f122a38e6a",
       "title": "OpenAI says Hugging Face was breached by its own pre-release models",
@@ -2179,28 +2201,6 @@
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T23:13:18+00:00",
       "score": 5
-    },
-    {
-      "id": "da68d51d47",
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T22:24:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "eb2fa5e9cf",
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T22:08:58+00:00",
-      "score": 6
     }
   ]
 }
