@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-22T02:01:09.409796+00:00",
+  "updated": "2026-07-22T06:01:14.204094+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0f1ee6934e",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T03:20:57+00:00",
+      "score": 5
+    },
     {
       "id": "4faa880423",
       "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
@@ -2190,17 +2201,6 @@
       "date": "09 Jul 2026",
       "timestamp": "2026-07-09T23:38:00+00:00",
       "score": 8
-    },
-    {
-      "id": "2b378536b7",
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
-      "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Jul 2026",
-      "timestamp": "2026-07-09T23:13:18+00:00",
-      "score": 5
     }
   ]
 }
