@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-22T17:00:00.967939+00:00",
+  "updated": "2026-07-22T18:01:17.146639+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e726d7442e",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Jul 2026",
+      "timestamp": "2026-07-22T17:54:14+00:00",
+      "score": 4
+    },
     {
       "id": "22ff93960b",
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "11 Jul 2026",
       "timestamp": "2026-07-11T01:01:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "e6ebabb1e9",
-      "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-      "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-      "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigatio",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Jul 2026",
-      "timestamp": "2026-07-11T00:29:25+00:00",
       "score": 4
     }
   ]
