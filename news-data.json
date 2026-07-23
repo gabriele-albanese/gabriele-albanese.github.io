@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-23T18:01:15.747861+00:00",
+  "updated": "2026-07-23T21:38:25.606184+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c6e75975f7",
+      "title": "Patreon lays off 20% of its workforce",
+      "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+      "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T20:30:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "c35d420edf",
+      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+      "summary": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T20:13:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "0a457876b0",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T19:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "83feacd899",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T18:38:34+00:00",
+      "score": 4
+    },
     {
       "id": "7280fe4d8d",
       "title": "Runway launches AI model router as generative media gets crowded",
@@ -2157,50 +2201,6 @@
       "date": "14 Jul 2026",
       "timestamp": "2026-07-14T11:00:57+00:00",
       "score": 6
-    },
-    {
-      "id": "e59f55fe65",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T10:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "be5e5b147b",
-      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T10:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b5aa16b300",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degre",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "da2928c842",
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "url": "https://www.wired.com/story/factor-promo-code/",
-      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this July.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T05:00:00+00:00",
-      "score": 4
     }
   ]
 }
