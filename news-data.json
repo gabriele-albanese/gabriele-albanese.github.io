@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-23T17:03:54.088294+00:00",
+  "updated": "2026-07-23T18:01:15.747861+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7280fe4d8d",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T17:07:35+00:00",
+      "score": 6
+    },
     {
       "id": "a9cb3adc84",
       "title": "OpenAI makes ChatGPT Health available to all U.S. users",
@@ -121,6 +132,17 @@
       "topic": "tech",
       "date": "23 Jul 2026",
       "timestamp": "2026-07-23T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b6e63d5480",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "14 Jul 2026",
       "timestamp": "2026-07-14T05:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "71ee9ef92d",
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a252ff4c5d",
-      "title": "How physician CEOs hone the double-edged sword of clinical training",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training",
-      "summary": "The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the strengths and instincts forged in clinical training for enterprise leadership.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:00:00+00:00",
-      "score": 6
     }
   ]
 }
