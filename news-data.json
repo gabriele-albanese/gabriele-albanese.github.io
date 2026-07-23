@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-23T10:01:16.070587+00:00",
+  "updated": "2026-07-23T14:01:23.782420+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "29f9d9ee4f",
+      "title": "Ford bets on Apple for its next-generation of EVs",
+      "url": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+      "summary": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T13:58:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "525aeb780d",
+      "title": "Building AI for Women's Health: How Hertility Combined Bayesian Diagnosis and Scan Automation",
+      "url": "https://www.producttalk.org/building-ai-for-womens-health-how-hertility-combined-bayesian-diagnosis-and-scan-automation/",
+      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   How do you build trustworthy AI diagnostic tools in one of medicine&apos;s most historically under-researched areas?  In this episode of&#xa0; Just Now Possible , Teresa Torres talks with Tulsi Patel (Director of Product an",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T13:00:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "0111e42212",
+      "title": "Robots Are Coming — but Not Everywhere",
+      "url": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
+      "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests t",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T11:00:55+00:00",
+      "score": 6
+    },
+    {
+      "id": "592ce226d6",
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "6382899c42",
       "title": "‘The Child Is Terrified’: Measles Doctors Speak Out",
@@ -11,6 +55,28 @@
       "topic": "tech",
       "date": "23 Jul 2026",
       "timestamp": "2026-07-23T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "140f3082d6",
+      "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
+      "summary": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that prepare now.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "548d4aae22",
+      "title": "How Montefiore Einstein turned technology into enterprise value",
+      "url": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
+      "summary": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronger",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "13 Jul 2026",
       "timestamp": "2026-07-13T21:03:07+00:00",
-      "score": 4
-    },
-    {
-      "id": "3917d3b170",
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T20:59:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e3380a0145",
-      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-      "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T20:00:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "3c957f2f7b",
-      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T19:17:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "25a33f9e52",
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T18:22:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "50ee0b4631",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and head",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T18:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1519132010",
-      "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
-      "url": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
-      "summary": "\"It's very clear that in the United States there is a big need for an additional crew vehicle.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T16:05:03+00:00",
       "score": 4
     }
   ]
