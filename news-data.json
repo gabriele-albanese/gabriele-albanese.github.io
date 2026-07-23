@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-23T14:01:23.782420+00:00",
+  "updated": "2026-07-23T17:03:54.088294+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a9cb3adc84",
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T17:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "8d7c08e5e7",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T15:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "1d1d2a59e2",
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
+      "summary": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6b6c0e694d",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "summary": "Gemini had over 750 million monthly users in February.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T14:52:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "90af9a8f61",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T14:45:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "644c983288",
+      "title": "Your backstage pass to TechCrunch Disrupt 2026 is waiting",
+      "url": "https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/",
+      "summary": "Volunteer at TechCrunch Disrupt 2026 and get a behind-the-scenes look at how one of the world's biggest startup conferences gets built.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T14:02:00+00:00",
+      "score": 4
+    },
     {
       "id": "29f9d9ee4f",
       "title": "Ford bets on Apple for its next-generation of EVs",
@@ -55,6 +121,17 @@
       "topic": "tech",
       "date": "23 Jul 2026",
       "timestamp": "2026-07-23T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "348404f000",
+      "title": "Break to grow: Sanjiv Bajaj’s guiding business principle",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/break-to-grow-sanjiv-bajajs-guiding-business-principle",
+      "summary": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while fostering an entrepreneurial ethos.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2124,83 +2201,6 @@
       "date": "14 Jul 2026",
       "timestamp": "2026-07-14T00:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "35c2d6e800",
-      "title": "Rewiring customer experience for the agentic era",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era",
-      "summary": "As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined journeys to dynamic, cross-channel orchestration.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "afc8cde3e2",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "ca8d7bccf4",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "db8a767eb6",
-      "title": "Building expertise in the age of AI: Who trains the next generation?",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation",
-      "summary": "As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge management, role design, learning, and coaching into a single system.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4bee902986",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1e169aeb86",
-      "title": "Sam Neill Inspired a Generation of Scientists",
-      "url": "https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/",
-      "summary": "The actor, who died at age 78 on Monday, embodied a passionate approach to research and positive masculinity in his role as paleontologist Alan Grant in the 1993 blockbuster Jurassic Park.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T22:26:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "2508728df0",
-      "title": "The US government warns that Russia state hackers are coming after your router",
-      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-      "summary": "With residential proxies all the rage, CISA urges router users to be vigilant.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Jul 2026",
-      "timestamp": "2026-07-13T21:03:07+00:00",
-      "score": 4
     }
   ]
 }
