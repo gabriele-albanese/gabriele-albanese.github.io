@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-23T22:01:14.172739+00:00",
+  "updated": "2026-07-24T02:01:15.680145+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f254e58029",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T01:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "68886b8a1b",
+      "title": "Meet the judges who will crown Australia’s next breakout startup",
+      "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T00:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "310c66220f",
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "summary": "Shashua has been invited to take the chairman of the board seat.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Jul 2026",
+      "timestamp": "2026-07-23T22:40:08+00:00",
+      "score": 4
+    },
     {
       "id": "c6e75975f7",
       "title": "Patreon lays off 20% of its workforce",
@@ -2168,39 +2201,6 @@
       "date": "14 Jul 2026",
       "timestamp": "2026-07-14T14:06:47+00:00",
       "score": 4
-    },
-    {
-      "id": "4526b355a0",
-      "title": "David Beckham’s health drink startup IM8 takes $1B from General Catalyst’s unusual CVF fund",
-      "url": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
-      "summary": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T12:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "64ea707006",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had f",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T12:10:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1e82090f20",
-      "title": "﻿The Global Scaling Gap: Why Strategic Clarity Is Crucial in the Age of AI",
-      "url": "https://sloanreview.mit.edu/article/the-global-scaling-gap-why-strategic-clarity-is-crucial-in-the-age-of-ai/",
-      "summary": "Michael Glenwood Gibbs/theispot.com Digital platforms and generative AI have lowered the barriers to accessing global talent, capital, and knowledge for companies everywhere while making it possible to reach customers across languages and cultures. Research my colleagues and I ha",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T11:00:57+00:00",
-      "score": 6
     }
   ]
 }
