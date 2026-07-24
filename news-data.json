@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-24T17:13:36.838549+00:00",
+  "updated": "2026-07-24T18:01:15.358860+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3bce429613",
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T17:53:01+00:00",
+      "score": 5
+    },
+    {
+      "id": "9deb9e5979",
+      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+      "summary": "Watch now | &#127897;&#65039; I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn&#8217;t expect",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T17:15:25+00:00",
+      "score": 4
+    },
+    {
+      "id": "0ad2f37661",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T17:03:55+00:00",
+      "score": 4
+    },
     {
       "id": "352b1db259",
       "title": "Anthropic launches Opus 5",
@@ -2167,39 +2200,6 @@
       "topic": "business",
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "becee1c630",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T22:22:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "c70760fdab",
-      "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
-      "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
-      "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T22:08:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "3b5a63d55d",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T22:07:42+00:00",
       "score": 4
     }
   ]
