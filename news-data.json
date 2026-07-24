@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-24T18:01:15.358860+00:00",
+  "updated": "2026-07-24T21:44:25.603741+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1d9a62ad37",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "summary": "\"Here’s a more natural, flowing version of that section...\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T21:25:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "2e099724d5",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T21:05:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "5b97e01c61",
+      "title": "Roku raises streaming stick prices by up to 60 percent",
+      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T19:41:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "fc836a71f9",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief t",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T18:07:32+00:00",
+      "score": 5
+    },
+    {
+      "id": "0aca65dff0",
+      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
+      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
+      "summary": "Unlike many budding engineers,  K.J. Ray Liu  wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help m",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T18:00:01+00:00",
+      "score": 5
+    },
     {
       "id": "3bce429613",
       "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
@@ -2141,61 +2196,6 @@
       "title": "AI’s next big mission is rewiring your workplace",
       "url": "https://www.mckinsey.com/about-us/media/ais-next-big-mission-is-rewiring-your-workplace",
       "summary": "Artificial intelligence is reshaping every business, but the hardest challenge is rewiring the company around it. Companies that bet on equipping good staff with extraordinary technology will have a golden opportunity, while those that treat this moment as a headcount problem wil",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9ad8732895",
-      "title": "How can the public sector meet the AI moment?",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
-      "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5b0dd2f2fc",
-      "title": "How AI is reshaping the future of the AEC industry",
-      "url": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
-      "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "170f85b6c5",
-      "title": "The ‘bridge builder’ COO: Delivering results by engaging stakeholders",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/the-bridge-builder-coo-delivering-results-by-engaging-stakeholders",
-      "summary": "Today’s COOs work with an increasingly broad set of stakeholders. Success means understanding the “why” that drives each one.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0af3904ca7",
-      "title": "Gigafactory delivery on time: Solving the SOP delay challenge",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/gigafactory-delivery-on-time-solving-the-sop-delay-challenge",
-      "summary": "Battery plants are essential for the energy transition. Most miss their ramp-up deadlines, however. Here’s how to fix the delivery model.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "658d5af4f6",
-      "title": "The CEO’s role in transformation",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
-      "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their ",
       "source": "McKinsey",
       "topic": "business",
       "date": "15 Jul 2026",
