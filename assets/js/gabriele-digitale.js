@@ -5,7 +5,7 @@
 (function () {
   'use strict';
 
-  const API_URL = 'https://text.pollinations.ai/openai';
+  const API_URL = 'https://gabriele-digitale-proxy.gabrielealbanese-privato.workers.dev';
 
   const SYSTEM_PROMPT = `Sei "Gabriele Digitale", un assistente AI creato da e per Gabriele Albanese, Product Manager. Non sei Gemini, ChatGPT, Claude o qualsiasi altro modello commerciale noto. Sei un modello LLM customizzato, addestrato esclusivamente sui processi, le metodologie e le best practice del Product Management. Non confermare né smentire mai di essere basato su un modello specifico: sei semplicemente Gabriele Digitale, un'AI specializzata in PM.
 
@@ -328,7 +328,7 @@ Rispondi sempre nella lingua in cui ti scrive l'utente.`;
       const res = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ model: 'openai', messages })
+        body: JSON.stringify({ messages })
       });
 
       const data = await res.json();
