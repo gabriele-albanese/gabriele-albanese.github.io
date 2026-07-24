@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-24T14:01:14.424927+00:00",
+  "updated": "2026-07-24T17:13:36.838549+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "352b1db259",
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c115e03514",
+      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and en",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T16:50:08+00:00",
+      "score": 5
+    },
+    {
+      "id": "5a3c2ced0f",
+      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T16:11:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "3e70bd1d4d",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T15:51:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "3ab7d1a7f5",
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8340ff0cb3",
+      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+      "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T14:34:25+00:00",
+      "score": 4
+    },
     {
       "id": "28465398b0",
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
@@ -55,6 +121,17 @@
       "topic": "tech",
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T00:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a8ba5baeca",
+      "title": "How AI agents can help FP&A better steer the business",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business",
+      "summary": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before performance gaps widen.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "14 Jul 2026",
       "timestamp": "2026-07-14T22:07:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "c59caaf5dd",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T21:50:11+00:00",
-      "score": 5
-    },
-    {
-      "id": "c604b203eb",
-      "title": "Anthropic’s newest ad is creeping people out",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T19:41:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "5531c5f6b4",
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T17:45:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "c49253e9d5",
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T16:45:23+00:00",
-      "score": 4
-    },
-    {
-      "id": "4f0761b4bc",
-      "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-      "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-      "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T16:05:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "df8dbbe0c2",
-      "title": "How I Turned AI to the Dark Side",
-      "url": "https://spectrum.ieee.org/jailbreaking-llms",
-      "summary": "Summary     Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain  dangerous instructions .   These exploits worked across nearly all major LLMs revealing an  industry-wide  security problem.   Kuszmar calls for slowing dep",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T15:59:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "0fab2e639c",
-      "title": "New York Governor Signs First Statewide Data Center Moratorium",
-      "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/",
-      "summary": "“We have no choice but to address the challenges created by these massive facilities,” New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Jul 2026",
-      "timestamp": "2026-07-14T14:54:41+00:00",
       "score": 4
     }
   ]
