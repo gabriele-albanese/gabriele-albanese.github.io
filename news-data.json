@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-25T18:02:19.864594+00:00",
+  "updated": "2026-07-25T20:36:11.096201+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9f1c697c2a",
+      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Jul 2026",
+      "timestamp": "2026-07-25T19:23:32+00:00",
+      "score": 4
+    },
     {
       "id": "c82a3ed9f7",
       "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
@@ -2190,17 +2201,6 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "ece345b366",
-      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-      "url": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
-      "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T10:00:00+00:00",
-      "score": 4
     }
   ]
 }
