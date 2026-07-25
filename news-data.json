@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-25T10:02:56.453551+00:00",
+  "updated": "2026-07-25T14:01:54.818510+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c82a3ed9f7",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "25 Jul 2026",
+      "timestamp": "2026-07-25T10:30:00+00:00",
+      "score": 5
+    },
     {
       "id": "0c2e3422c7",
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "240c7cfa4e",
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-      "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T09:00:00+00:00",
       "score": 4
     }
   ]
