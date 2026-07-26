@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-26T10:01:09.291952+00:00",
+  "updated": "2026-07-26T12:50:27.362206+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "dfe1570555",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "summary": "Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "26 Jul 2026",
+      "timestamp": "2026-07-26T12:32:06+00:00",
+      "score": 5
+    },
     {
       "id": "cb61b6a2a5",
       "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
@@ -2185,17 +2196,6 @@
       "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
       "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
       "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2afe0523ab",
-      "title": "Why Realta Fusion is building a fusion reactor at an old hot dog factory",
-      "url": "https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/",
-      "summary": "An old Oscar Mayer factory in Wisconsin will become America's latest fusion power research and development hub.",
       "source": "TechCrunch",
       "topic": "tech",
       "date": "15 Jul 2026",
