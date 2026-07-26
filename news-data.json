@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-25T22:01:16.645504+00:00",
+  "updated": "2026-07-26T02:01:09.235247+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cb61b6a2a5",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Jul 2026",
+      "timestamp": "2026-07-26T01:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "854bd10990",
       "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
@@ -2190,17 +2201,6 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T12:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "646c882e11",
-      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
-      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-      "summary": "Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T11:00:00+00:00",
-      "score": 7
     }
   ]
 }
