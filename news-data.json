@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-27T19:05:49.993724+00:00",
+  "updated": "2026-07-27T22:01:14.261897+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a94cb1ccda",
+      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+      "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T20:40:12+00:00",
+      "score": 5
+    },
+    {
+      "id": "91cb5b1fe8",
+      "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+      "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+      "summary": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T20:40:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2e812dd047",
+      "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
+      "url": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
+      "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T20:34:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "f6ec309cb0",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T20:19:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "eca88c3d8c",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T20:08:00+00:00",
+      "score": 5
+    },
     {
       "id": "699cca776f",
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -44,6 +99,17 @@
       "topic": "tech",
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T17:28:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "e72772d9a3",
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T16:58:46+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "ai",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7bd0f1f372",
-      "title": "How B.TECH transformed into a technology-powered retailer",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
-      "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ffe419a06",
-      "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
-      "summary": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "86fc4744cf",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T23:59:44+00:00",
-      "score": 6
-    },
-    {
-      "id": "52ec3ea7d5",
-      "title": "Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the Eastern US",
-      "url": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
-      "summary": "Roughly 100 fires are raging out of control in Ontario, sending smoke streaming 1,000 miles to the south and east.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T23:05:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "dc315898b2",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T22:24:17+00:00",
-      "score": 8
-    },
-    {
-      "id": "af632e642e",
-      "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
-      "url": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
-      "summary": "Since WIRED reported on Meta’s NameTag face recognition system, company executives have made confusing and conflicting remarks about its very existence.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T20:58:16+00:00",
       "score": 4
     }
   ]
