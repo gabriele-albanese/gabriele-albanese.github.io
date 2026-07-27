@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-27T10:01:17.009200+00:00",
+  "updated": "2026-07-27T14:01:24.522716+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a380c4dc5b",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and tha",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "25cc5f27cc",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange da",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "31a791e8e2",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today,",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T11:40:16+00:00",
+      "score": 4
+    },
+    {
+      "id": "d10dbf6ad8",
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resi",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T11:32:58+00:00",
+      "score": 7
+    },
     {
       "id": "9aee479a01",
       "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
@@ -23,6 +67,17 @@
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T09:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "680c3dc9eb",
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T03:30:00+00:00",
+      "score": 5
     },
     {
       "id": "5d2ba47b7c",
@@ -2146,61 +2201,6 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T17:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "eb7b70aba5",
-      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-      "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T16:00:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "3b0c0d41e0",
-      "title": "The First Chatbot’s Multiple Personalities",
-      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-      "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of a",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T15:35:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "d3f280f360",
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into o",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T15:29:33+00:00",
-      "score": 6
-    },
-    {
-      "id": "982ae331ca",
-      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
-      "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
-      "summary": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T14:39:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "53c42ac553",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T13:10:47+00:00",
-      "score": 5
     }
   ]
 }
