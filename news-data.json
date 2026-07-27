@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-27T06:01:20.420335+00:00",
+  "updated": "2026-07-27T09:20:13.683720+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "56211cebd1",
+      "title": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
+      "url": "https://www.wired.com/review/soundcore-nebula-p1i-projector/",
+      "summary": "I tested the Soundcore Nebula P1i, an affordable projector, to see if it could overcome the typical drawbacks that most budget projectors suffer from.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "5d2ba47b7c",
       "title": "Are brain waves the next unlock for physical AI?",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "817e2aedd4",
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T12:00:00+00:00",
       "score": 4
     }
   ]
