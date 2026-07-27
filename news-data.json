@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-26T22:01:08.877077+00:00",
+  "updated": "2026-07-27T01:26:52.171209+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5d2ba47b7c",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T00:19:14+00:00",
+      "score": 4
+    },
     {
       "id": "355626f29c",
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
@@ -2187,17 +2198,6 @@
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "source": "OpenAI Blog",
       "topic": "ai",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e74ea7dbb4",
-      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
-      "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-      "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
-      "source": "Wired",
-      "topic": "tech",
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T12:00:00+00:00",
       "score": 4
