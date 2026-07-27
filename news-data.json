@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-27T14:04:20.528135+00:00",
+  "updated": "2026-07-27T18:01:16.116954+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "90660e4a7c",
+      "title": "Antares raises $470M to build nuclear reactors for the U.S. military",
+      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T17:49:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "999e3252e2",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T17:28:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "e0cbdd2980",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T16:45:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "c44e4dd177",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T15:03:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "aa693ec639",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to r",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T14:24:42+00:00",
+      "score": 5
+    },
     {
       "id": "a380c4dc5b",
       "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
@@ -89,6 +144,17 @@
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T00:19:14+00:00",
       "score": 4
+    },
+    {
+      "id": "cc697d838b",
+      "title": "Lessons in resilience, leadership, and trust: An interview with Kathy Roth-Douquet",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/lessons-in-resilience-leadership-and-trust-an-interview-with-kathy-roth-douquet",
+      "summary": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen community bonds.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "355626f29c",
@@ -2135,72 +2201,6 @@
       "date": "15 Jul 2026",
       "timestamp": "2026-07-15T19:41:38+00:00",
       "score": 4
-    },
-    {
-      "id": "2e25f935ee",
-      "title": "In memoriam: 7 of our favorite Sam Neill films",
-      "url": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
-      "summary": "The actor, who starred in 1993's  Jurassic Park , died Monday in Sydney, Australia, at the age of 78.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T18:39:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "d1802f967e",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T18:06:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "d1cb0c2798",
-      "title": "Thinking Machines Lab Drops Its First Model",
-      "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-      "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T18:05:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "9f7ec43a6e",
-      "title": "Notice to Membership",
-      "url": "https://spectrum.ieee.org/notice-to-membership-july-2026",
-      "summary": "As of 21 June 2026, a Level 1 Expulsion has been imposed on IEEE Member Dr. Fei-Yue Wang, former editor-in-chief of the    IEEE Transactions on Intelligent Vehicles   . In accordance with  IEEE Bylaw  I-110.5(D)(i), Dr. Wang is no longer a member of IEEE, and is permanently banne",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T18:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "0081d2e6c3",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T17:09:37+00:00",
-      "score": 6
-    },
-    {
-      "id": "e8dd50de2f",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Jul 2026",
-      "timestamp": "2026-07-15T17:00:00+00:00",
-      "score": 6
     }
   ]
 }
