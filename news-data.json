@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-28T14:01:20.817610+00:00",
+  "updated": "2026-07-28T18:01:16.553486+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2a2fab6832",
+      "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
+      "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
+      "summary": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T17:57:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "85f9e2233c",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T16:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "72e62aa28e",
       "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
@@ -111,6 +133,17 @@
       "date": "28 Jul 2026",
       "timestamp": "2026-07-28T00:13:33+00:00",
       "score": 5
+    },
+    {
+      "id": "66065ed6f8",
+      "title": "Why AI will elevate instead of replace commercial teams",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
+      "summary": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "531f2adf50",
@@ -2168,39 +2201,6 @@
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T15:38:55+00:00",
       "score": 4
-    },
-    {
-      "id": "bcfaf7641b",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T15:31:09+00:00",
-      "score": 5
-    },
-    {
-      "id": "bf27aeddf3",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T15:02:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "734be335bc",
-      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-      "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
-      "summary": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T15:00:00+00:00",
-      "score": 5
     }
   ]
 }
