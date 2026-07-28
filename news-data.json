@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-28T13:23:49.792940+00:00",
+  "updated": "2026-07-28T14:01:20.817610+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "72e62aa28e",
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T14:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "c57d8e1854",
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "99dfba78ed",
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T14:40:00+00:00",
       "score": 5
     }
   ]
