@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-28T19:01:04.218070+00:00",
+  "updated": "2026-07-28T22:01:18.003144+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2853fe7b44",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T21:29:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "ab5715c29e",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T20:45:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "c4793a3a64",
+      "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
+      "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
+      "summary": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T20:15:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "d00081fa23",
+      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
+      "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
+      "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T19:09:18+00:00",
+      "score": 4
+    },
     {
       "id": "734941e1b4",
       "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
@@ -2157,50 +2201,6 @@
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T17:12:00+00:00",
       "score": 4
-    },
-    {
-      "id": "7caead535f",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T17:06:08+00:00",
-      "score": 6
-    },
-    {
-      "id": "486214a117",
-      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-      "summary": "Beehiiv is launching an AI Copilot to help publishers with user growth and analytics",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1a909f02ea",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T16:40:48+00:00",
-      "score": 6
-    },
-    {
-      "id": "fc1dde757a",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T16:00:00+00:00",
-      "score": 5
     }
   ]
 }
