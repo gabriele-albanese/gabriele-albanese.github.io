@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-28T08:09:29.278214+00:00",
+  "updated": "2026-07-28T10:01:15.382344+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2dec98b87f",
+      "title": "7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban",
+      "url": "https://www.wired.com/story/7-oh-users-brace-for-dea-ban/",
+      "summary": "The opioid-like compound, which is found in kratom, can cause brutal withdrawal symptoms and will soon be a controlled substance. Some users tell WIRED it has relieved their pain and anxiety.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T09:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e9c7d242f0",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK H",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T09:18:57+00:00",
+      "score": 4
+    },
     {
       "id": "aa315854d4",
       "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T11:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7a71932f6b",
-      "title": "Hisense XR10 Smart Projector Review: RGB-Powered Wonder",
-      "url": "https://www.wired.com/review/hisense-xr10-smart-projector/",
-      "summary": "Projectors are adopting RGB backlighting, the hottest tech from the world of TVs. This large but vivid projector is a great option for summer movie nights.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4db0a0c0ad",
-      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
-      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
-      "summary": "The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T11:00:00+00:00",
       "score": 4
     }
   ]
