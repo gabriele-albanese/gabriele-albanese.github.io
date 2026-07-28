@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-27T22:01:14.261897+00:00",
+  "updated": "2026-07-28T01:14:51.421175+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "063a78a65e",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T00:13:33+00:00",
+      "score": 5
+    },
+    {
+      "id": "531f2adf50",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T21:56:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "0f292bde2d",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Jul 2026",
+      "timestamp": "2026-07-27T21:40:27+00:00",
+      "score": 4
+    },
     {
       "id": "a94cb1ccda",
       "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "494509926a",
-      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
-      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-      "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T04:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3442e88d01",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T04:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b57416a816",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T00:00:00+00:00",
       "score": 4
     }
   ]
