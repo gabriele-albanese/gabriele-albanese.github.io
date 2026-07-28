@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-28T10:01:15.382344+00:00",
+  "updated": "2026-07-28T13:23:49.792940+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c57d8e1854",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Read",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a6631b661a",
+      "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
+      "url": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+      "summary": "Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d30ed2a8c7",
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a13d631f35",
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T10:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "2dec98b87f",
       "title": "7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban",
@@ -2157,50 +2201,6 @@
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T14:40:00+00:00",
       "score": 5
-    },
-    {
-      "id": "bb03fb42eb",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T14:26:29+00:00",
-      "score": 5
-    },
-    {
-      "id": "2b91f1e502",
-      "title": "What CEOs Need to Know About Sovereign AI",
-      "url": "https://sloanreview.mit.edu/article/what-ceos-need-to-know-about-sovereign-ai/",
-      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images As multinational companies implement artificial intelligence workflows and look to adopt AI across their global operations, they are increasingly running up against country-specific regulations and policies that aim to govern AI ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T13:52:48+00:00",
-      "score": 5
-    },
-    {
-      "id": "2f85cd9ed4",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that i",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T12:10:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "46a1768f88",
-      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "summary": "Aina is going to pilot a new device in the coming weeks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T11:30:00+00:00",
-      "score": 4
     }
   ]
 }
