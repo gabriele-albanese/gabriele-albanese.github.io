@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-29T08:13:42.893719+00:00",
+  "updated": "2026-07-29T10:01:31.557657+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0fba3c77f8",
+      "title": "ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’",
+      "url": "https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/",
+      "summary": "One day after a federal judge ordered an ICE detention center opened to state health inspectors, the agency posted new contract terms that would void state oversight at four facilities.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "e5bc4e5d81",
       "title": "Therabody Promo Codes: 15% Off July 2026",
@@ -2190,17 +2201,6 @@
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T19:45:17+00:00",
       "score": 4
-    },
-    {
-      "id": "e1584d5980",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, ",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T19:02:38+00:00",
-      "score": 5
     }
   ]
 }
