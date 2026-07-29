@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-29T02:01:08.359565+00:00",
+  "updated": "2026-07-29T06:01:10.076356+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e5bc4e5d81",
+      "title": "Therabody Promo Codes: 15% Off July 2026",
+      "url": "https://www.wired.com/story/therabody-promo-code/",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T05:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "f95a395383",
       "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
@@ -2190,17 +2201,6 @@
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T19:02:38+00:00",
       "score": 5
-    },
-    {
-      "id": "3137b9c5b8",
-      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T18:35:18+00:00",
-      "score": 4
     }
   ]
 }
