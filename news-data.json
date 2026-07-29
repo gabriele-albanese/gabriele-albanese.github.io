@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-29T18:01:17.114225+00:00",
+  "updated": "2026-07-29T18:47:23.991837+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b509c20461",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T18:45:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "77bdde1479",
+      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T18:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6c69ef8ee2",
+      "title": "Actually, Starliner might fly into space this year",
+      "url": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
+      "summary": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T17:24:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "9b605bcc83",
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T15:52:48+00:00",
+      "score": 4
+    },
     {
       "id": "e84ed6e89e",
       "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "17 Jul 2026",
       "timestamp": "2026-07-17T22:12:56+00:00",
-      "score": 4
-    },
-    {
-      "id": "dee8fdc90a",
-      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
-      "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
-      "summary": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T19:50:38+00:00",
-      "score": 4
-    },
-    {
-      "id": "0f52f75a7e",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T19:22:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bd58734eea",
-      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
-      "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
-      "summary": "\"We're turning the clock back on rational healthcare.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T18:53:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "16962cf48b",
-      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
-      "url": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
-      "summary": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T18:30:00+00:00",
       "score": 4
     }
   ]
