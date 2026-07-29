@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-29T14:01:18.619192+00:00",
+  "updated": "2026-07-29T18:01:17.114225+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e84ed6e89e",
+      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+      "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+      "summary": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T15:36:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "c037c1f2be",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T15:35:09+00:00",
+      "score": 5
+    },
+    {
+      "id": "5de17107a6",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T14:41:06+00:00",
+      "score": 5
+    },
+    {
+      "id": "daefcbca7b",
+      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+      "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
+      "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T14:00:02+00:00",
+      "score": 5
+    },
     {
       "id": "bcd2877fc7",
       "title": "X Says Australia’s Under-16s Social Media Ban Risks Interfering With Foreign Law",
@@ -78,6 +122,17 @@
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T10:45:00+00:00",
       "score": 4
+    },
+    {
+      "id": "e787c3a2dd",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T10:00:00+00:00",
+      "score": 6
     },
     {
       "id": "b7090d34b4",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "17 Jul 2026",
       "timestamp": "2026-07-17T18:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a1bc8bb93",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employe",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T17:45:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "a90acdd50b",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T15:21:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "cbb6195f3c",
-      "title": "Lyft’s CEO Says, ‘We’re the Good Uber’",
-      "url": "https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/",
-      "summary": "David Risher insists that Lyft has lowered its prices and that customers who only check his competitor’s app are “leaving money on the table.”",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1df79545e7",
-      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-      "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed fo",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6d08c5b7cd",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at le",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T12:10:00+00:00",
       "score": 4
     }
   ]
