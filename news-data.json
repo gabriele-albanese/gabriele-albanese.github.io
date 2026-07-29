@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-28T22:01:18.003144+00:00",
+  "updated": "2026-07-29T01:16:52.031089+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f95a395383",
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T00:15:30+00:00",
+      "score": 5
+    },
+    {
+      "id": "992c30afce",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T00:09:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "043baf5750",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "28 Jul 2026",
+      "timestamp": "2026-07-28T21:36:39+00:00",
+      "score": 6
+    },
     {
       "id": "2853fe7b44",
       "title": "Bot-detection startup Spur nabs $200M from Insight",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "16 Jul 2026",
       "timestamp": "2026-07-16T18:35:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "c27a3acd5b",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T18:32:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "308c77cdd9",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none ",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T17:35:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "8bea902bbc",
-      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-      "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-      "summary": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food delivery platforms outside China.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T17:12:00+00:00",
       "score": 4
     }
   ]
