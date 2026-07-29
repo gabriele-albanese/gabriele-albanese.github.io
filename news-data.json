@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-29T10:01:31.557657+00:00",
+  "updated": "2026-07-29T13:30:01.355867+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b43ed6d223",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work lat",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f1ba7b591d",
+      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+      "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5e3d1109b9",
+      "title": "﻿The Link Between Explicit AI-Generated Images and Offline Crime",
+      "url": "https://sloanreview.mit.edu/article/the-link-between-explicit-ai-generated-images-and-offline-crime/",
+      "summary": "Dung Hoang/theispot.com The online revolution enabled frictionless access to virtually every type of content — including adult content. Generative AI has added a whole new, and potentially more dangerous, dimension to the boom in explicit content. In the absence of strong safegua",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T11:00:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "9dd18bacf7",
+      "title": "AI Hyper-Scaling Digital Inequality",
+      "url": "https://spectrum.ieee.org/ai-digital-divide",
+      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public admin",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T11:00:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "0fa1628d1c",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5ce1c977f3",
+      "title": "No, You Probably Shouldn’t Lease Your iPhone",
+      "url": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
+      "summary": "With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T10:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b7090d34b4",
+      "title": "How to Bring a Geothermal Well Back from the Dead",
+      "url": "https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/",
+      "summary": "Startup Zanskar has created one of the most productive geothermal wells in the US at a power plant that had been in decline for years.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "0fba3c77f8",
       "title": "ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’",
@@ -847,6 +924,17 @@
       "topic": "tech",
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T00:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9388ba4457",
+      "title": "How SOCAR transformed a fertilizer leader in Azerbaijan with industrial AI",
+      "url": "https://www.mckinsey.com/industries/chemicals/how-we-help-clients/how-socar-transformed-a-fertilizer-leader-in-azerbaijan-with-industrial-ai",
+      "summary": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a rewired approach to digital and operations, SOCAR Carbamide transformed performance—and earned global recognition as a Wo",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "24 Jul 2026",
+      "timestamp": "2026-07-24T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2112,94 +2200,6 @@
       "topic": "ai",
       "date": "17 Jul 2026",
       "timestamp": "2026-07-17T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1a153a50dd",
-      "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
-      "url": "https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/",
-      "summary": "“Based on simple math, these outbreak responses—which require rapid, timely responses—are going to be greatly diminished,” the former CDC lab director tells WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T09:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "60f1cf5a5c",
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "summary": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations wit",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ce1f4cc75a",
-      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-      "summary": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "60ff2907e8",
-      "title": "AI in the Australian for-purpose sector: Laying a strong foundation",
-      "url": "https://www.mckinsey.com/au/our-insights/ai-in-the-australian-for-purpose-sector-laying-a-strong-foundation",
-      "summary": "AI adoption in Australian for-purpose organisations is growing, but without a considered approach, AI can add pressure and prioritise output over outcomes. How can leaders prepare their teams for more effective AI journeys?",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "94c993265c",
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T22:17:27+00:00",
-      "score": 5
-    },
-    {
-      "id": "050e0b2102",
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T20:09:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "ab4b103aef",
-      "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-      "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-      "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T20:07:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "bdc6514188",
-      "title": "Review: Xgimi Titan Noir Max Home Projector (2026)",
-      "url": "https://www.wired.com/story/xgimi-titan-noir-max-projector/",
-      "summary": "This remarkably vivid home projector has deep inky blacks, without a five-figure price tag.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Jul 2026",
-      "timestamp": "2026-07-16T19:45:17+00:00",
       "score": 4
     }
   ]
