@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-29T18:47:23.991837+00:00",
+  "updated": "2026-07-29T22:01:17.602772+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0e31e3499c",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T21:16:39+00:00",
+      "score": 5
+    },
+    {
+      "id": "7802d42c54",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T21:07:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "fb94006d36",
+      "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
+      "url": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
+      "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T21:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "b509c20461",
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
@@ -231,6 +264,17 @@
       "topic": "tech",
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T00:09:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "2c718aeef1",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "18 Jul 2026",
       "timestamp": "2026-07-18T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5d2b0c79af",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Jul 2026",
-      "timestamp": "2026-07-18T04:47:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "ab8715cdc9",
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no furt",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T23:08:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2d9cc2c8c0",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T22:55:09+00:00",
-      "score": 5
-    },
-    {
-      "id": "2a6c589fb1",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Jul 2026",
-      "timestamp": "2026-07-17T22:12:56+00:00",
       "score": 4
     }
   ]
