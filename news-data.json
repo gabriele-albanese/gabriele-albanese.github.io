@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-30T10:01:16.333566+00:00",
+  "updated": "2026-07-30T13:20:18.424293+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "97aec3fde3",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure agains",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "418de03adf",
+      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T10:30:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "d3ef4a34cd",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge impl",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T10:15:19+00:00",
+      "score": 6
+    },
     {
       "id": "18fddef5dc",
       "title": "AI Scammers Are Better at Building Trust Than Humans",
@@ -2163,39 +2196,6 @@
       "title": "Proven growth strategies from market leaders",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/proven-growth-strategies-from-market-leaders",
       "summary": "Discover how market leaders—Walmart, Builders FirstSource, Progressive, and JPMorgan Chase—achieved exceptional growth from 2019 to 2024, outperforming peers by an average of five percentage points in revenue and seven points in profitability. In this episode, Simon Jones, David ",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e91752dda9",
-      "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
-      "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a240398c91",
-      "title": "Author Talks: How a CEO got faster in his 40s",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-a-ceo-got-faster-in-his-40s",
-      "summary": "CEO Nick Thompson ran marathons at the same pace for a decade—until the right coach, mindset, and routine helped him break through. Here’s what he learned about life and leadership from getting faster against the odds.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "60b98ab816",
-      "title": "Partnership for the decades ahead",
-      "url": "https://www.mckinsey.com/pl/en/our-insights/partnership-for-the-decades-ahead",
-      "summary": "Economic relations between Poland and the United States have entered a new phase. Over the past three decades, cooperation has expanded beyond trade to encompass investment, technology, infrastructure, energy, and defense. A new report by McKinsey and the American Chamber of Comm",
       "source": "McKinsey",
       "topic": "business",
       "date": "20 Jul 2026",
