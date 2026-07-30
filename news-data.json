@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-30T19:04:55.559948+00:00",
+  "updated": "2026-07-30T22:01:09.015655+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "358552aaff",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T20:26:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "b67f09c645",
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T20:12:57+00:00",
+      "score": 5
+    },
     {
       "id": "f41c7307b7",
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "20 Jul 2026",
       "timestamp": "2026-07-20T23:39:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "79729dbd93",
-      "title": "Trump’s latest AI czar has already resigned",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T22:21:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "20d9bcdf56",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T21:21:15+00:00",
       "score": 4
     }
   ]
