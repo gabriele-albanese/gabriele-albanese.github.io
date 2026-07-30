@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:20:18.424293+00:00",
+  "updated": "2026-07-30T14:01:16.421235+00:00",
   "count": 200,
   "articles": [
     {
@@ -67,6 +67,28 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T00:21:06+00:00",
       "score": 6
+    },
+    {
+      "id": "a51afd208f",
+      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+      "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "d04536abec",
+      "title": "The new advantage in the age of AI: Building in the real world",
+      "url": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+      "summary": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "1929c1854e",
@@ -2179,28 +2201,6 @@
       "date": "20 Jul 2026",
       "timestamp": "2026-07-20T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "d213c30d25",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T08:39:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "50d782ef3a",
-      "title": "Proven growth strategies from market leaders",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/proven-growth-strategies-from-market-leaders",
-      "summary": "Discover how market leaders—Walmart, Builders FirstSource, Progressive, and JPMorgan Chase—achieved exceptional growth from 2019 to 2024, outperforming peers by an average of five percentage points in revenue and seven points in profitability. In this episode, Simon Jones, David ",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
