@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-29T22:01:17.602772+00:00",
+  "updated": "2026-07-30T01:09:52.451443+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "750af35496",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T00:21:06+00:00",
+      "score": 6
+    },
+    {
+      "id": "1929c1854e",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T23:00:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "feca2ec539",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T22:46:03+00:00",
+      "score": 5
+    },
+    {
+      "id": "c9945336eb",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T22:23:12+00:00",
+      "score": 6
+    },
     {
       "id": "0e31e3499c",
       "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
@@ -100,6 +144,17 @@
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T15:35:09+00:00",
       "score": 5
+    },
+    {
+      "id": "232de1e55c",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Jul 2026",
+      "timestamp": "2026-07-29T15:00:00+00:00",
+      "score": 4
     },
     {
       "id": "5de17107a6",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "19 Jul 2026",
       "timestamp": "2026-07-19T19:24:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "f94394e35d",
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Jul 2026",
-      "timestamp": "2026-07-19T14:52:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "644dffd43b",
-      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
-      "summary": "Community Wisdom 194",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "18 Jul 2026",
-      "timestamp": "2026-07-18T17:04:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "c1a46929e3",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "18 Jul 2026",
-      "timestamp": "2026-07-18T11:18:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "78c12f50c0",
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "18 Jul 2026",
-      "timestamp": "2026-07-18T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "70826d3b26",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "18 Jul 2026",
-      "timestamp": "2026-07-18T09:00:00+00:00",
       "score": 4
     }
   ]
