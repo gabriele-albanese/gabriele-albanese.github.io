@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-31T01:22:50.278582+00:00",
+  "updated": "2026-07-31T02:01:07.130699+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4beb32c1db",
+      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T01:24:26+00:00",
+      "score": 7
+    },
     {
       "id": "ac80cd240e",
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -276,6 +287,17 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T00:21:06+00:00",
       "score": 6
+    },
+    {
+      "id": "4ff655ca49",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "a51afd208f",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7a3a93f348",
-      "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
-      "url": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson/",
-      "summary": "Erik Brynjolfsson has a challenge for anyone worried about artificial intelligence: Stop asking what AI will do to us, and start asking what we will do with AI. In this episode of Me, Myself, and AI, the Stanford University economist explains why technology isn’t the biggest barr",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T11:00:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "6d5a86555d",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every n",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T10:37:34+00:00",
       "score": 4
     }
   ]
