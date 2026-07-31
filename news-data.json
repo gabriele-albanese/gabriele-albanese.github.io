@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-31T14:01:19.417970+00:00",
+  "updated": "2026-07-31T18:01:17.787151+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e2b8f86303",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "734a51283c",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T17:26:32+00:00",
+      "score": 5
+    },
+    {
+      "id": "02a679ae68",
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T16:08:18+00:00",
+      "score": 4
+    },
     {
       "id": "5b3393f6cb",
       "title": "Advancing responsible AI across Europe",
@@ -14,6 +47,50 @@
       "score": 4
     },
     {
+      "id": "2d251f65e4",
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works an",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T14:49:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "567cca9724",
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T14:47:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "eccb7dbefe",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T14:47:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "07e6640336",
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T14:01:40+00:00",
+      "score": 4
+    },
+    {
       "id": "d75e47df0c",
       "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
       "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
@@ -22,6 +99,17 @@
       "topic": "tech",
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "263851407b",
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T11:00:52+00:00",
       "score": 4
     },
     {
@@ -121,6 +209,17 @@
       "topic": "tech",
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T18:57:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "aa73778d73",
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T17:58:02+00:00",
       "score": 4
     },
     {
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T19:39:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "c2bf3da107",
-      "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-      "url": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-      "summary": "Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T19:36:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "33a2bb7eea",
-      "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-      "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-      "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T19:05:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "66d5c89859",
-      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-      "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-      "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T18:05:10+00:00",
-      "score": 5
-    },
-    {
-      "id": "e014711cfc",
-      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T17:33:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "c096964be5",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T17:11:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "9783627bd8",
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T17:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "856fa25c6c",
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T16:58:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "be406df3fd",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T15:37:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "f48bca09ef",
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-      "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T15:00:00+00:00",
       "score": 4
     }
   ]
