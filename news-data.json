@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:01:55.891444+00:00",
+  "updated": "2026-07-31T22:01:09.802076+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,39 @@
       "topic": "ai",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "43c8e5201f",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T22:00:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "82e3dc5b42",
+      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T20:39:14+00:00",
+      "score": 5
+    },
+    {
+      "id": "2ccd1e3861",
+      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T19:04:56+00:00",
       "score": 5
     },
     {
@@ -166,6 +199,17 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T01:06:54+00:00",
       "score": 6
+    },
+    {
+      "id": "d3a6f5fe5d",
+      "title": "Global Economics Intelligence executive summary, June 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "summary": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while Brazil and Russia focus on stimulus with 25-basis-point cuts.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "90b2768f6f",
@@ -2156,50 +2200,6 @@
       "topic": "business",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "278790de5c",
-      "title": "Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future",
-      "summary": "Indonesia’s second-largest telecom operator turned a complex merger into a platform for growth, reshaping how decisions are made, how employees work, and how AI creates measurable value across the enterprise.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "4faa880423",
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T22:50:01+00:00",
-      "score": 6
-    },
-    {
-      "id": "591f1cb3d7",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T20:56:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "f122a38e6a",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T20:56:55+00:00",
       "score": 4
     }
   ]
