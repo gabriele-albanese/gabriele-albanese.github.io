@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T18:01:17.787151+00:00",
+  "updated": "2026-07-31T19:01:55.891444+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,28 @@
       "topic": "ai",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "544eb62449",
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T19:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "25af60f1b8",
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T18:14:43+00:00",
       "score": 5
     },
     {
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T20:56:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "d77aa8a5fe",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T19:43:41+00:00",
-      "score": 5
-    },
-    {
-      "id": "0919b4f551",
-      "title": "AI and the rise of the universal entertainment app",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T19:39:30+00:00",
       "score": 4
     }
   ]
