@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-31T06:01:10.140104+00:00",
+  "updated": "2026-07-31T08:26:23.162277+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5b3393f6cb",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "4beb32c1db",
       "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
@@ -2190,17 +2201,6 @@
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T13:20:00+00:00",
       "score": 5
-    },
-    {
-      "id": "4f2427b73e",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald T",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T12:10:00+00:00",
-      "score": 4
     }
   ]
 }
