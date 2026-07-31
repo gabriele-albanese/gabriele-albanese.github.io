@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T08:26:23.162277+00:00",
+  "updated": "2026-07-31T10:01:14.244894+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T15:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "dc984bc272",
+      "title": "Univé builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T07:00:00+00:00",
+      "score": 6
     },
     {
       "id": "4beb32c1db",
@@ -2190,17 +2201,6 @@
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T13:27:42+00:00",
       "score": 4
-    },
-    {
-      "id": "c8815315b3",
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson &#038; Co.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T13:20:00+00:00",
-      "score": 5
     }
   ]
 }
