@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-30T22:01:09.015655+00:00",
+  "updated": "2026-07-31T01:22:50.278582+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ac80cd240e",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T01:06:54+00:00",
+      "score": 6
+    },
+    {
+      "id": "90b2768f6f",
+      "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+      "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "17a5fb999f",
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T23:28:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "fb6c910e2e",
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Jul 2026",
+      "timestamp": "2026-07-30T23:25:58+00:00",
+      "score": 6
+    },
     {
       "id": "358552aaff",
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "21 Jul 2026",
       "timestamp": "2026-07-21T10:37:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "07a59789a1",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "683e474adc",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T00:12:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "10666aebf1",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Jul 2026",
-      "timestamp": "2026-07-21T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d0888a3b49",
-      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
-      "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Jul 2026",
-      "timestamp": "2026-07-20T23:39:35+00:00",
       "score": 4
     }
   ]
