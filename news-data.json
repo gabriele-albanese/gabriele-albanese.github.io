@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T06:01:10.370886+00:00",
+  "updated": "2026-08-01T07:56:15.834601+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "e1503b9882",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "01 Aug 2026",
+      "timestamp": "2026-08-01T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "1d34eb8229",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T03:20:57+00:00",
-      "score": 5
-    },
-    {
-      "id": "0723f553c0",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T00:00:00+00:00",
       "score": 5
     }
   ]
