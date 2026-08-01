@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:01:08.675729+00:00",
+  "updated": "2026-08-01T12:46:44.025302+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,28 @@
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "70ed29caab",
+      "title": "Fridays With Bob",
+      "url": "https://spectrum.ieee.org/risk",
+      "summary": "When I started at   Spectrum   25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions.   I didn’t find one right away. Then in 2005 we decided to do a special repor",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "01 Aug 2026",
+      "timestamp": "2026-08-01T12:00:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "913e3a0739",
+      "title": "China’s EV Market Is Booming. There’s Just One Problem",
+      "url": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
+      "summary": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Aug 2026",
+      "timestamp": "2026-08-01T11:00:00+00:00",
+      "score": 4
     },
     {
       "id": "d4b5394238",
@@ -2179,28 +2201,6 @@
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T10:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "27421537c4",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T08:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1f5d786bd5",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T05:30:00+00:00",
-      "score": 7
     }
   ]
 }
