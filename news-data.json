@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T07:56:15.834601+00:00",
+  "updated": "2026-08-01T10:01:08.675729+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "ai",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "d4b5394238",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Aug 2026",
+      "timestamp": "2026-08-01T09:30:00+00:00",
       "score": 5
     },
     {
@@ -2190,17 +2201,6 @@
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T05:30:00+00:00",
       "score": 7
-    },
-    {
-      "id": "0f1ee6934e",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T03:20:57+00:00",
-      "score": 5
     }
   ]
 }
