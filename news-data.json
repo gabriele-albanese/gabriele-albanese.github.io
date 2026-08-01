@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:01:09.802076+00:00",
+  "updated": "2026-08-01T01:24:53.984476+00:00",
   "count": 200,
   "articles": [
     {
@@ -14,6 +14,17 @@
       "score": 5
     },
     {
+      "id": "1d34eb8229",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T22:47:26+00:00",
+      "score": 4
+    },
+    {
       "id": "43c8e5201f",
       "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
       "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
@@ -22,6 +33,17 @@
       "topic": "tech",
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T22:00:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "65bd388912",
+      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+      "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Jul 2026",
+      "timestamp": "2026-07-31T21:51:52+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T00:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "23fea905b0",
-      "title": "Evolving model risk management in the age of AI",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
-      "summary": "Our recent survey reveals how banks are evolving model risk management: by strengthening resilience, unlocking more confident AI adoption—and turning it into a reliable source of value creation.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4f96dbfe0a",
-      "title": "Powering supply chain with agentic AI",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
-      "summary": "Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and orchestrate work across people, processes, and technology.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
