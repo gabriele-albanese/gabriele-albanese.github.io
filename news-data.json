@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T18:47:05.024696+00:00",
+  "updated": "2026-08-01T22:01:18.984443+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "c3a681b529",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Aug 2026",
+      "timestamp": "2026-08-01T19:45:45+00:00",
+      "score": 4
     },
     {
       "id": "46b49e9301",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1de8660326",
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T12:00:00+00:00",
       "score": 4
     }
   ]
