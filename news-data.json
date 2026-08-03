@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T08:55:03.165252+00:00",
+  "updated": "2026-08-03T10:01:08.522638+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,39 @@
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "a7754f0510",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4d93f7acfe",
+      "title": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
+      "url": "https://www.wired.com/review/nothing-ear-3a/",
+      "summary": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T09:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e4b3c3d563",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make mone",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T08:30:05+00:00",
+      "score": 6
     },
     {
       "id": "bfcc850782",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T16:24:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "031142badc",
-      "title": "OpenAI’s AI spending spree has ballooned to $750B",
-      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T16:13:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "ff897241e2",
-      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
-      "url": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
-      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T13:01:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7c5769317a",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T13:00:00+00:00",
       "score": 4
     }
   ]
