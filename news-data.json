@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T10:01:08.522638+00:00",
+  "updated": "2026-08-03T14:01:15.371096+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,50 @@
       "topic": "ai",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "a44655c52f",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+      "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T12:50:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "72f55c675e",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t t",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T12:08:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "3b87f6c21e",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "summary": "Watch now | &#127897;&#65039;ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T12:04:26+00:00",
+      "score": 5
+    },
+    {
+      "id": "57dfe01d9f",
+      "title": "The Marketing Capability Paradox: Seven Forces Eroding Your Marketing Team’s Effectiveness",
+      "url": "https://sloanreview.mit.edu/article/the-marketing-capability-paradox-seven-forces-eroding-your-marketing-teams-effectiveness/",
+      "summary": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement customer-related activities and adapt to marketplace changes — are rated by marketing professionals as important to business ",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T11:00:54+00:00",
       "score": 5
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T18:13:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "138565f55e",
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T18:02:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "e726d7442e",
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T17:54:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "7460a49d0a",
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T16:47:49+00:00",
-      "score": 6
-    },
-    {
-      "id": "22ff93960b",
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "summary": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T16:24:08+00:00",
       "score": 4
     }
   ]
