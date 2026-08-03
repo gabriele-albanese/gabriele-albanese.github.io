@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T14:08:14.634751+00:00",
+  "updated": "2026-08-03T18:01:22.596376+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,61 @@
       "topic": "ai",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "e4e235060d",
+      "title": "The System That Turned Paper Charts Into Digital Medical Records",
+      "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
+      "summary": "Most hospitals and health care providers use  electronic health records  instead of paper charts to note patient vaccinations, diagnoses, and procedures.  AthenaOne ,  Epic , and  Oracle Health  are some of the systems employed around the world. Many patients can access their ele",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T18:00:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "e5895e668b",
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T17:16:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "8f22e6cc5b",
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T16:46:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "d0bd865914",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T16:40:55+00:00",
+      "score": 6
+    },
+    {
+      "id": "e0453d86a8",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T15:02:21+00:00",
       "score": 5
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "22 Jul 2026",
       "timestamp": "2026-07-22T20:49:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "14b5a8f267",
-      "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-      "url": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-      "summary": "SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery tools to SoundCloud as the company continues expanding its platform for independent mu",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T19:42:56+00:00",
-      "score": 5
-    },
-    {
-      "id": "298db90fda",
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T19:11:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "7d7d859d0c",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T19:01:38+00:00",
-      "score": 6
-    },
-    {
-      "id": "725e52aa7e",
-      "title": "Science Corporation’s vision-restoring chip wins EU approval",
-      "url": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-      "summary": "\"The thing that the space needs is a company making $100 million a year of revenue,\" Science Corp. CEO Max Hodak said.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T18:18:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "2eef0e4f7c",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T18:13:58+00:00",
       "score": 4
     }
   ]
