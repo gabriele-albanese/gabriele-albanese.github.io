@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:13:37.774207+00:00",
+  "updated": "2026-08-03T22:01:11.846991+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,39 @@
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "4d7bc75aa1",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T20:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d3807dc56d",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T19:45:35+00:00",
+      "score": 6
+    },
+    {
+      "id": "5c210e0377",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T19:28:57+00:00",
+      "score": 4
     },
     {
       "id": "29dbca12f8",
@@ -166,6 +199,17 @@
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T08:30:05+00:00",
       "score": 6
+    },
+    {
+      "id": "9be5bdf124",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T07:00:00+00:00",
+      "score": 4
     },
     {
       "id": "bfcc850782",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "23 Jul 2026",
       "timestamp": "2026-07-23T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "348404f000",
-      "title": "Break to grow: Sanjiv Bajaj’s guiding business principle",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/break-to-grow-sanjiv-bajajs-guiding-business-principle",
-      "summary": "Guided by his leadership North Star of “performing for today while transforming for tomorrow,” Sanjiv Bajaj believes in breaking businesses to grow, while fostering an entrepreneurial ethos.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "140f3082d6",
-      "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
-      "summary": "AI could upend the industry’s long-standing structures and dynamics. Competitive advantage will accrue to carriers, distributors, and tech providers that prepare now.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "548d4aae22",
-      "title": "How Montefiore Einstein turned technology into enterprise value",
-      "url": "https://www.mckinsey.com/industries/healthcare/how-we-help-clients/how-montefiore-einstein-turned-technology-into-enterprise-value",
-      "summary": "The academic and safety-net hospital system is transforming technology into a driver of patient access, operational reliability, and business growth. By strengthening digital tools, modernizing systems, and embedding AI across workflows, Montefiore Einstein is building a stronger",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "97d598949e",
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Jul 2026",
-      "timestamp": "2026-07-22T23:47:54+00:00",
       "score": 4
     }
   ]
