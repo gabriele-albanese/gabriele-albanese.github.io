@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T02:01:07.442318+00:00",
+  "updated": "2026-08-04T06:01:16.380541+00:00",
   "count": 200,
   "articles": [
     {
@@ -33,6 +33,17 @@
       "topic": "tech",
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T22:10:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "39d4fd006a",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "03 Aug 2026",
+      "timestamp": "2026-08-03T22:00:00+00:00",
       "score": 4
     },
     {
@@ -2190,17 +2201,6 @@
       "date": "23 Jul 2026",
       "timestamp": "2026-07-23T13:00:17+00:00",
       "score": 4
-    },
-    {
-      "id": "0111e42212",
-      "title": "Robots Are Coming — but Not Everywhere",
-      "url": "https://sloanreview.mit.edu/article/robots-are-coming-but-not-everywhere/",
-      "summary": "Getty Images “The ChatGPT moment for robotics is coming,” declared Nvidia CEO Jensen Huang at the Consumer Electronics Show in January 2025. It’s a widespread expectation: that humanoid robots will follow the same explosive adoption curve as generative AI. Our research suggests t",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T11:00:55+00:00",
-      "score": 6
     }
   ]
 }
