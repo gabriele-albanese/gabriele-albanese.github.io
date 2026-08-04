@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-04T19:14:44.405270+00:00",
+  "updated": "2026-08-04T22:01:10.672992+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "97d45689d6",
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T20:36:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "c30ea359fc",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T20:05:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "af3fbfe150",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T19:48:40+00:00",
+      "score": 5
+    },
+    {
+      "id": "a21d180516",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T19:28:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "899f3cac40",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T19:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "4f8932b027",
       "title": "China is Tesla's cash cow, but for how much longer?",
@@ -88,6 +143,17 @@
       "topic": "tech",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T09:21:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "8845b53711",
+      "title": "Author Talks: One size does not fit all",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all",
+      "summary": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better design starts with broader perspectives.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "business",
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a8ba5baeca",
-      "title": "How AI agents can help FP&A better steer the business",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/how-ai-agents-can-help-fp-and-a-better-steer-the-business",
-      "summary": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before performance gaps widen.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "310c66220f",
-      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
-      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
-      "summary": "Shashua has been invited to take the chairman of the board seat.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T22:40:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "c6e75975f7",
-      "title": "Patreon lays off 20% of its workforce",
-      "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-      "summary": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T20:30:07+00:00",
-      "score": 4
-    },
-    {
-      "id": "c35d420edf",
-      "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-      "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-      "summary": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T20:13:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a457876b0",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T19:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "83feacd899",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T18:38:34+00:00",
       "score": 4
     }
   ]
