@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-04T08:12:41.517852+00:00",
+  "updated": "2026-08-04T10:01:11.983923+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fe3e3fe8d4",
+      "title": "Mistral Is in the Right Place at the Right Time",
+      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T09:21:11+00:00",
+      "score": 4
+    },
     {
       "id": "e2b8f86303",
       "title": "Disrupting a Criminal Scam Operation",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "23 Jul 2026",
       "timestamp": "2026-07-23T13:58:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "525aeb780d",
-      "title": "Building AI for Women's Health: How Hertility Combined Bayesian Diagnosis and Scan Automation",
-      "url": "https://www.producttalk.org/building-ai-for-womens-health-how-hertility-combined-bayesian-diagnosis-and-scan-automation/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   How do you build trustworthy AI diagnostic tools in one of medicine&apos;s most historically under-researched areas?  In this episode of&#xa0; Just Now Possible , Teresa Torres talks with Tulsi Patel (Director of Product an",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "23 Jul 2026",
-      "timestamp": "2026-07-23T13:00:17+00:00",
       "score": 4
     }
   ]
