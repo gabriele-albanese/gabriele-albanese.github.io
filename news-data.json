@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-05T19:08:10.353639+00:00",
+  "updated": "2026-08-05T22:01:19.427889+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f873a748a4",
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T21:26:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "f4b59bdfc2",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T21:21:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "8d0ab0b2cc",
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T21:05:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "672bb73111",
+      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T21:03:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "414f7a43ec",
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T20:50:45+00:00",
+      "score": 5
+    },
+    {
+      "id": "7f74154b57",
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;Open",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T20:48:54+00:00",
+      "score": 5
+    },
+    {
+      "id": "2d08e589a5",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T20:47:11+00:00",
+      "score": 6
+    },
+    {
+      "id": "1619858f8b",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T20:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "41dee0fbff",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T19:30:19+00:00",
+      "score": 5
+    },
     {
       "id": "2e203acd11",
       "title": "AI Worms and Viruses Are Coming",
@@ -2102,105 +2201,6 @@
       "date": "26 Jul 2026",
       "timestamp": "2026-07-26T16:33:13+00:00",
       "score": 5
-    },
-    {
-      "id": "307c03d767",
-      "title": "TechCrunch Mobility: Uber bets on its former CEO",
-      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Jul 2026",
-      "timestamp": "2026-07-26T16:03:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dfe1570555",
-      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
-      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "summary": "Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "26 Jul 2026",
-      "timestamp": "2026-07-26T12:32:06+00:00",
-      "score": 5
-    },
-    {
-      "id": "cb61b6a2a5",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Jul 2026",
-      "timestamp": "2026-07-26T01:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "854bd10990",
-      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-      "summary": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Jul 2026",
-      "timestamp": "2026-07-25T20:55:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "9f1c697c2a",
-      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Jul 2026",
-      "timestamp": "2026-07-25T19:23:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "c82a3ed9f7",
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "25 Jul 2026",
-      "timestamp": "2026-07-25T10:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "0c2e3422c7",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Jul 2026",
-      "timestamp": "2026-07-25T00:23:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "2486f42b39",
-      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-      "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T21:56:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "1d9a62ad37",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T21:25:15+00:00",
-      "score": 4
     }
   ]
 }
