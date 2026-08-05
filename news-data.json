@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-05T06:01:11.135156+00:00",
+  "updated": "2026-08-05T08:11:09.890015+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ff897241e2",
+      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
+      "url": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
+      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T07:36:06+00:00",
+      "score": 4
+    },
     {
       "id": "7505963df5",
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T13:36:42+00:00",
-      "score": 5
-    },
-    {
-      "id": "4ce297223d",
-      "title": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
-      "url": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
-      "summary": "The TK705STi’s highly responsive, low-latency performance makes gameplay ultra-realistic. For movies and TV? It’s a purely average home projector.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T11:01:00+00:00",
       "score": 5
     }
   ]
