@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-05T18:01:12.937039+00:00",
+  "updated": "2026-08-05T19:08:10.353639+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2e203acd11",
+      "title": "AI Worms and Viruses Are Coming",
+      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T18:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "14f12a110d",
       "title": "Lucid Motors just delayed its affordable EV. Now what?",
@@ -143,6 +154,17 @@
       "topic": "tech",
       "date": "05 Aug 2026",
       "timestamp": "2026-08-05T07:36:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "839cfa9dce",
+      "title": "How AI is redefining category management in distribution",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/how-ai-is-redefining-category-management-in-distribution",
+      "summary": "New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic impact.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T21:25:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "2e099724d5",
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T21:05:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "5b97e01c61",
-      "title": "Roku raises streaming stick prices by up to 60 percent",
-      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T19:41:06+00:00",
       "score": 4
     }
   ]
