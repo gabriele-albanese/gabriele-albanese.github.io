@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-05T14:01:24.064304+00:00",
+  "updated": "2026-08-05T18:01:12.937039+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "14f12a110d",
+      "title": "Lucid Motors just delayed its affordable EV. Now what?",
+      "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
+      "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silivo Napoli said he's focused on getting the EV right as well as its nearer-term robotaxi project with Uber and Nuro.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T17:57:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "f2e5e63ff3",
+      "title": "Meet the eight startups pitching at Startup Battlefield Australia",
+      "url": "https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/",
+      "summary": "The applications are in, and the TechCrunch Startup Battlefield team made their decisions!",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T17:02:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6f8cea200f",
+      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "e7e536e0d4",
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T15:30:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "d22824990e",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T15:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ab78e492b4",
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes soluti",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T14:56:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "e911d06afa",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T14:13:18+00:00",
+      "score": 5
+    },
     {
       "id": "6523192f92",
       "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
@@ -2124,83 +2201,6 @@
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T19:41:06+00:00",
       "score": 4
-    },
-    {
-      "id": "fc836a71f9",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief t",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T18:07:32+00:00",
-      "score": 5
-    },
-    {
-      "id": "0aca65dff0",
-      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
-      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
-      "summary": "Unlike many budding engineers,  K.J. Ray Liu  wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help m",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T18:00:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "3bce429613",
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T17:53:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "9deb9e5979",
-      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
-      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-      "summary": "Watch now | &#127897;&#65039; I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn&#8217;t expect",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T17:15:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "0ad2f37661",
-      "title": "The quest to keep organs alive outside the body",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T17:03:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "352b1db259",
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c115e03514",
-      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and en",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T16:50:08+00:00",
-      "score": 5
     }
   ]
 }
