@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-05T10:01:18.518558+00:00",
+  "updated": "2026-08-05T13:28:31.569079+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6523192f92",
+      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+      "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+      "summary": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T12:23:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "c1f01baef6",
+      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+      "url": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+      "summary": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T11:26:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "2fcee0bb12",
+      "title": "BenQ GV50 Review: Highly Portable, but With Quality Trade-Offs",
+      "url": "https://www.wired.com/review/review-benq-gv50/",
+      "summary": "This affordable, portable projector doesn’t try to be a cinematic marvel, but it’s fun to use.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T11:01:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5a0e9ba440",
+      "title": "Gene-Edited Puppies Will Melt Your Heart—but Won’t Trigger Your Allergies",
+      "url": "https://www.wired.com/story/gene-edited-puppies-wont-trigger-allergies/",
+      "summary": "A startup has created beagles without the gene that causes runny noses and watery eyes for allergy sufferers.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Aug 2026",
+      "timestamp": "2026-08-05T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "cd0d324b8f",
       "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
@@ -2157,50 +2201,6 @@
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T16:50:08+00:00",
       "score": 5
-    },
-    {
-      "id": "5a3c2ced0f",
-      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "summary": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T16:11:56+00:00",
-      "score": 4
-    },
-    {
-      "id": "3e70bd1d4d",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T15:51:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "3ab7d1a7f5",
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8340ff0cb3",
-      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-      "summary": "Relativity Space announced plans to build a second rocket factory near Cape Canaveral, Florida.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T14:34:25+00:00",
-      "score": 4
     }
   ]
 }
