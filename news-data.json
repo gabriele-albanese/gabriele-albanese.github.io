@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-04T22:01:10.672992+00:00",
+  "updated": "2026-08-05T01:15:39.620081+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7505963df5",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T23:11:31+00:00",
+      "score": 6
+    },
+    {
+      "id": "c9d9fb31f8",
+      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T22:24:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "7049104333",
+      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T22:18:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "6452de04ec",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Aug 2026",
+      "timestamp": "2026-08-04T22:06:07+00:00",
+      "score": 5
+    },
     {
       "id": "97d45689d6",
       "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
@@ -2157,50 +2201,6 @@
       "date": "24 Jul 2026",
       "timestamp": "2026-07-24T11:01:00+00:00",
       "score": 5
-    },
-    {
-      "id": "b7f5ce5425",
-      "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
-      "url": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
-      "summary": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f254e58029",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T01:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "68886b8a1b",
-      "title": "Meet the judges who will crown Australia’s next breakout startup",
-      "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
-      "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T00:05:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9388ba4457",
-      "title": "How SOCAR transformed a fertilizer leader in Azerbaijan with industrial AI",
-      "url": "https://www.mckinsey.com/industries/chemicals/how-we-help-clients/how-socar-transformed-a-fertilizer-leader-in-azerbaijan-with-industrial-ai",
-      "summary": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a rewired approach to digital and operations, SOCAR Carbamide transformed performance—and earned global recognition as a Wo",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "24 Jul 2026",
-      "timestamp": "2026-07-24T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
