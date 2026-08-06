@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-06T14:01:15.770333+00:00",
+  "updated": "2026-08-06T22:01:16.546216+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b308f8fa4d",
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our E",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T22:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "24c3982503",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T20:03:44+00:00",
+      "score": 6
+    },
+    {
+      "id": "59c40c8d31",
+      "title": "Why Normal People Aren’t Using AI Agents",
+      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T19:55:45+00:00",
+      "score": 6
+    },
+    {
+      "id": "7e7ee66e33",
+      "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+      "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+      "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T19:02:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "4f1beed9c3",
+      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
+      "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
+      "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T17:41:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "230504609d",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T17:34:42+00:00",
+      "score": 5
+    },
+    {
+      "id": "14f964707c",
+      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+      "summary": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T16:15:30+00:00",
+      "score": 5
+    },
     {
       "id": "b98407de0b",
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
@@ -36,6 +113,28 @@
       "score": 4
     },
     {
+      "id": "e1775d8d2e",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "61e5f938cd",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T06:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "aa0453c641",
       "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
       "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
@@ -44,6 +143,17 @@
       "topic": "tech",
       "date": "06 Aug 2026",
       "timestamp": "2026-08-06T00:15:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "a55486a7c3",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T00:00:00+00:00",
       "score": 5
     },
     {
@@ -2091,116 +2201,6 @@
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T18:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "90660e4a7c",
-      "title": "Antares raises $470M to build nuclear reactors for the U.S. military",
-      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "summary": "Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T17:49:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "999e3252e2",
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T17:28:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "e72772d9a3",
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "summary": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T16:58:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "e0cbdd2980",
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T16:45:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "c44e4dd177",
-      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T15:03:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "aa693ec639",
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to r",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T14:24:42+00:00",
-      "score": 5
-    },
-    {
-      "id": "a380c4dc5b",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and tha",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "25cc5f27cc",
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange da",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "31a791e8e2",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today,",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T11:40:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "d10dbf6ad8",
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resi",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T11:32:58+00:00",
-      "score": 7
     }
   ]
 }
