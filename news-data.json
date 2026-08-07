@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:35:12.884234+00:00",
+  "updated": "2026-08-07T22:01:13.473524+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "07 Aug 2026",
       "timestamp": "2026-08-07T18:00:01+00:00",
       "score": 5
+    },
+    {
+      "id": "c1b05c5ed4",
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T17:36:22+00:00",
+      "score": 4
     },
     {
       "id": "62678037a7",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "28 Jul 2026",
       "timestamp": "2026-07-28T09:18:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "aa315854d4",
-      "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T05:00:00+00:00",
       "score": 4
     }
   ]
