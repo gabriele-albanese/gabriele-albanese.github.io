@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-06T22:41:45.700356+00:00",
+  "updated": "2026-08-07T01:56:01.277472+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d480e48926",
+      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T01:16:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "93553c6ca6",
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Aug 2026",
+      "timestamp": "2026-08-06T22:43:53+00:00",
+      "score": 4
+    },
     {
       "id": "b308f8fa4d",
       "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
@@ -2179,28 +2201,6 @@
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T20:08:00+00:00",
       "score": 5
-    },
-    {
-      "id": "699cca776f",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T18:32:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "bd9265e447",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T18:00:00+00:00",
-      "score": 4
     }
   ]
 }
