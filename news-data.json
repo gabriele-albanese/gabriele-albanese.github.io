@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-07T06:56:09.299412+00:00",
+  "updated": "2026-08-07T10:01:10.200074+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "04dbcdd1e1",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T09:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "d480e48926",
       "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
@@ -12,6 +23,17 @@
       "date": "07 Aug 2026",
       "timestamp": "2026-08-07T01:16:55+00:00",
       "score": 4
+    },
+    {
+      "id": "6b6da71a16",
+      "title": "How to close the agentic adoption gap",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
+      "summary": "At their core, AI transformations are a reinvention of how work gets done. This requires change leadership, not just change management.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "93553c6ca6",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T20:34:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "f6ec309cb0",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T20:19:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "eca88c3d8c",
-      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-      "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T20:08:00+00:00",
       "score": 5
     }
   ]
