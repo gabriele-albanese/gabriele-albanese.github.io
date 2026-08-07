@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-07T10:01:10.200074+00:00",
+  "updated": "2026-08-07T12:33:52.782524+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "53b0454850",
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "04dbcdd1e1",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -2190,17 +2201,6 @@
       "date": "27 Jul 2026",
       "timestamp": "2026-07-27T20:40:00+00:00",
       "score": 4
-    },
-    {
-      "id": "2e812dd047",
-      "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
-      "url": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
-      "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump administration’s immigration crackdown.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T20:34:04+00:00",
-      "score": 5
     }
   ]
 }
