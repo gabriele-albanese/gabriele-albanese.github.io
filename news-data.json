@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-07T18:01:08.244256+00:00",
+  "updated": "2026-08-07T18:35:12.884234+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "965ef0c7a0",
+      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
+      "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+      "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on technical excellence toward mastering systems thinking, adaptive le",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T18:00:01+00:00",
+      "score": 5
+    },
     {
       "id": "62678037a7",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "28 Jul 2026",
       "timestamp": "2026-07-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "470d3cc566",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T04:30:00+00:00",
       "score": 4
     }
   ]
