@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-07T14:01:12.924139+00:00",
+  "updated": "2026-08-07T18:01:08.244256+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "62678037a7",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T16:16:09+00:00",
+      "score": 4
+    },
+    {
+      "id": "93f793ec81",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T15:20:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "04647aa7bc",
+      "title": "Report: White House drafting executive order linking vaccines and autism",
+      "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+      "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T14:41:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "db5142cc98",
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T14:28:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "7f75e7743e",
+      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+      "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+      "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T14:07:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "67386e3e7d",
+      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T13:49:37+00:00",
+      "score": 4
+    },
     {
       "id": "13e2539b33",
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
@@ -2135,72 +2201,6 @@
       "date": "28 Jul 2026",
       "timestamp": "2026-07-28T04:30:00+00:00",
       "score": 4
-    },
-    {
-      "id": "063a78a65e",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T00:13:33+00:00",
-      "score": 5
-    },
-    {
-      "id": "6915543087",
-      "title": "The CEO’s critical role in building new businesses",
-      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
-      "summary": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "66065ed6f8",
-      "title": "Why AI will elevate instead of replace commercial teams",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
-      "summary": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "531f2adf50",
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T21:56:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "0f292bde2d",
-      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T21:40:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "a94cb1ccda",
-      "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-      "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-      "summary": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Jul 2026",
-      "timestamp": "2026-07-27T20:40:12+00:00",
-      "score": 5
     }
   ]
 }
