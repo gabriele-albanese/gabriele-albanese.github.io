@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-07T22:01:13.473524+00:00",
+  "updated": "2026-08-08T00:38:37.530013+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "59163ffd3c",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Aug 2026",
+      "timestamp": "2026-08-07T22:48:24+00:00",
+      "score": 4
+    },
     {
       "id": "965ef0c7a0",
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "28 Jul 2026",
       "timestamp": "2026-07-28T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e9c7d242f0",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK H",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T09:18:57+00:00",
       "score": 4
     }
   ]
