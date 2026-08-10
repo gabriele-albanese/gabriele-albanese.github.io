@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-10T06:01:17.393726+00:00",
+  "updated": "2026-08-10T07:02:27.004961+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6f9dd55027",
+      "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+      "url": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+      "summary": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T06:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "f893fb1dc9",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "28 Jul 2026",
       "timestamp": "2026-07-28T18:16:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "2a2fab6832",
-      "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
-      "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
-      "summary": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T17:57:57+00:00",
       "score": 4
     }
   ]
