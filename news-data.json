@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-10T18:38:23.445727+00:00",
+  "updated": "2026-08-10T22:01:09.442431+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9f4258eff4",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T20:04:24+00:00",
+      "score": 5
+    },
     {
       "id": "4100cae384",
       "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f1ba7b591d",
-      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-      "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-      "summary": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T12:00:00+00:00",
       "score": 4
     }
   ]
