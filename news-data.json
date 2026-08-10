@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-10T10:01:16.053378+00:00",
+  "updated": "2026-08-10T12:37:31.783597+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1e1aa73b47",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and S",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ca4c2056d8",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "summary": "Listen now | &#127897;&#65039; Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T12:01:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "28598726f0",
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T11:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f12a2393c2",
+      "title": "How to Avoid Innovation One-Hit Wonders",
+      "url": "https://sloanreview.mit.edu/article/how-to-avoid-innovation-one-hit-wonders/",
+      "summary": "Andy Carter/Ikon Images Innovation leaders often know how to manage success well. A fairly good idea is recognized, a strong contributor is rewarded, and the lessons from the win are carried into the next team project. In many cases, that is exactly the right organizational respo",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T11:00:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "87673e918c",
+      "title": "Why Each Octopus Arm Has a Mind of Its Own",
+      "url": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
+      "summary": "Two-thirds of an octopus’s neurons are in its arms—each operating independently—including the one it uses to have sex.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "20c95f3fe5",
       "title": "AI for science needs reasoning, not just data",
@@ -2145,61 +2200,6 @@
       "topic": "business",
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "043baf5750",
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T21:36:39+00:00",
-      "score": 6
-    },
-    {
-      "id": "2853fe7b44",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T21:29:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "ab5715c29e",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T20:45:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "c4793a3a64",
-      "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
-      "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
-      "summary": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T20:15:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "d00081fa23",
-      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-      "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-      "summary": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Jul 2026",
-      "timestamp": "2026-07-28T19:09:18+00:00",
       "score": 4
     }
   ]
