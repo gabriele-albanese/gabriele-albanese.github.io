@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T12:37:31.783597+00:00",
+  "updated": "2026-08-10T14:01:14.226584+00:00",
   "count": 200,
   "articles": [
     {
@@ -22,6 +22,17 @@
       "topic": "pm",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T12:01:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "52b9c6e06b",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T12:00:00+00:00",
       "score": 4
     },
     {
@@ -2187,17 +2198,6 @@
       "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "source": "OpenAI Blog",
       "topic": "ai",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6efabafc51",
-      "title": "Lion Finance: Competing like a fintech, winning as a bank",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
-      "summary": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.",
-      "source": "McKinsey",
-      "topic": "business",
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T00:00:00+00:00",
       "score": 4
