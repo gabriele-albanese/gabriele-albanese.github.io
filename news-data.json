@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-10T18:01:16.354154+00:00",
+  "updated": "2026-08-10T18:38:23.445727+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4100cae384",
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T18:30:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "bae604ce77",
+      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+      "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T18:27:44+00:00",
+      "score": 4
+    },
     {
       "id": "1b4a121cfe",
       "title": "What building an AI-native finance function taught me",
@@ -113,6 +135,17 @@
       "score": 4
     },
     {
+      "id": "d570d27061",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T10:00:00+00:00",
+      "score": 5
+    },
+    {
       "id": "dd3ed843f2",
       "title": "Putting frontier cyber models in more trusted hands",
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -166,6 +199,17 @@
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T06:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "f578b269fa",
+      "title": "Author Talks: The biggest misconceptions about leadership",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-biggest-misconceptions-about-leadership",
+      "summary": "What if success depends less on talent than on luck, resilience, and your choices when things go wrong? Former Inflection CEO Mike Grossman challenges conventional wisdom about success and leadership.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "10 Aug 2026",
+      "timestamp": "2026-08-10T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "70ce145132",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "29 Jul 2026",
       "timestamp": "2026-07-29T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5e3d1109b9",
-      "title": "﻿The Link Between Explicit AI-Generated Images and Offline Crime",
-      "url": "https://sloanreview.mit.edu/article/the-link-between-explicit-ai-generated-images-and-offline-crime/",
-      "summary": "Dung Hoang/theispot.com The online revolution enabled frictionless access to virtually every type of content — including adult content. Generative AI has added a whole new, and potentially more dangerous, dimension to the boom in explicit content. In the absence of strong safegua",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T11:00:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "9dd18bacf7",
-      "title": "AI Hyper-Scaling Digital Inequality",
-      "url": "https://spectrum.ieee.org/ai-digital-divide",
-      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, healthcare, finance, and public admin",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T11:00:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "0fa1628d1c",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5ce1c977f3",
-      "title": "No, You Probably Shouldn’t Lease Your iPhone",
-      "url": "https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/",
-      "summary": "With Apple Upgrade, the company is making it easier to pay for its products in monthly installments. Critics call it the “financialization of the affordability crisis.”",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T10:45:00+00:00",
       "score": 4
     }
   ]
