@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-11T14:01:23.428351+00:00",
+  "updated": "2026-08-11T18:01:12.670501+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b8d07c245c",
+      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T17:41:34+00:00",
+      "score": 5
+    },
+    {
+      "id": "3571ff97a4",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T17:41:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "a3990db170",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T16:25:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "89107af88c",
+      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
+      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T15:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c23c8bbd70",
+      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
+      "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
+      "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "78eb147a77",
       "title": "How to make people care about your startup",
@@ -56,6 +111,17 @@
       "date": "11 Aug 2026",
       "timestamp": "2026-08-11T11:00:00+00:00",
       "score": 7
+    },
+    {
+      "id": "16251d7b14",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "a70ad4832f",
@@ -2134,72 +2200,6 @@
       "topic": "business",
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1929c1854e",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T23:00:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "feca2ec539",
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T22:46:03+00:00",
-      "score": 5
-    },
-    {
-      "id": "c9945336eb",
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T22:23:12+00:00",
-      "score": 6
-    },
-    {
-      "id": "0e31e3499c",
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T21:16:39+00:00",
-      "score": 5
-    },
-    {
-      "id": "7802d42c54",
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T21:07:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "fb94006d36",
-      "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
-      "url": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
-      "summary": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Jul 2026",
-      "timestamp": "2026-07-29T21:00:00+00:00",
       "score": 4
     }
   ]
