@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-11T18:41:49.000344+00:00",
+  "updated": "2026-08-11T22:01:12.889375+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "10bc1f3f0b",
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T21:39:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "1dd98b368a",
+      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+      "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+      "summary": "In collaboration with the  Kingdom of Bhutan  government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.  Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by fo",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T19:50:54+00:00",
+      "score": 4
+    },
+    {
+      "id": "1497475e01",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T19:48:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "c836abb2e3",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T19:15:35+00:00",
+      "score": 5
+    },
+    {
+      "id": "61f03f2379",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T18:49:12+00:00",
+      "score": 5
+    },
     {
       "id": "b8d07c245c",
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
@@ -111,6 +166,17 @@
       "date": "11 Aug 2026",
       "timestamp": "2026-08-11T11:00:00+00:00",
       "score": 7
+    },
+    {
+      "id": "ca8161387c",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "11 Aug 2026",
+      "timestamp": "2026-08-11T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "16251d7b14",
@@ -2135,72 +2201,6 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T10:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "18fddef5dc",
-      "title": "AI Scammers Are Better at Building Trust Than Humans",
-      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T09:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "a7c83c102e",
-      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-      "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "750af35496",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T00:21:06+00:00",
-      "score": 6
-    },
-    {
-      "id": "4ff655ca49",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "a51afd208f",
-      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
-      "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d04536abec",
-      "title": "The new advantage in the age of AI: Building in the real world",
-      "url": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
-      "summary": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
