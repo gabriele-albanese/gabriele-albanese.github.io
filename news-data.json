@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-12T18:01:11.952953+00:00",
+  "updated": "2026-08-12T18:43:02.239541+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fedb51cc07",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T18:19:12+00:00",
+      "score": 4
+    },
     {
       "id": "2fd40c918b",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -2190,17 +2201,6 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T17:58:02+00:00",
       "score": 4
-    },
-    {
-      "id": "db6d13b99b",
-      "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
-      "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-      "summary": "This week on Uncanny Valley, we discuss the open vs. closed source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search engine results.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T17:51:10+00:00",
-      "score": 6
     }
   ]
 }
