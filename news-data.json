@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-12T12:37:49.852185+00:00",
+  "updated": "2026-08-12T14:01:12.856970+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7b0b36051f",
+      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "summary": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "082ca6591f",
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "618c36a031",
       "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
@@ -56,6 +78,17 @@
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T09:01:14+00:00",
       "score": 5
+    },
+    {
+      "id": "143a56c383",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T06:00:00+00:00",
+      "score": 6
     },
     {
       "id": "10bc1f3f0b",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T15:17:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "5ccaa51dbc",
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T15:04:22+00:00",
-      "score": 5
-    },
-    {
-      "id": "2a5e5f8fda",
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1ca55943cd",
-      "title": "New MCP specification addresses the main barrier to enterprise adoption",
-      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-      "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T14:53:07+00:00",
       "score": 4
     }
   ]
