@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-12T07:01:51.547855+00:00",
+  "updated": "2026-08-12T10:01:11.741823+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "10f971059f",
+      "title": "A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election",
+      "url": "https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/",
+      "summary": "Clacton's parliamentary race has it all: Nigel Farage, a man dressed as a trash can, a Union Jack bikini, white nationalist conspiracy theories, and 34 candidates on the ballot.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T09:01:14+00:00",
+      "score": 5
+    },
     {
       "id": "10bc1f3f0b",
       "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T10:15:19+00:00",
-      "score": 6
-    },
-    {
-      "id": "28f36991d0",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T10:00:00+00:00",
       "score": 6
     }
   ]
