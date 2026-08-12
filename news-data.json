@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-12T18:43:02.239541+00:00",
+  "updated": "2026-08-12T22:01:13.675974+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c37950ec57",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T21:00:30+00:00",
+      "score": 5
+    },
+    {
+      "id": "81edf03711",
+      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
+      "url": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
+      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T19:05:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "ef69790693",
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T18:45:00+00:00",
+      "score": 4
+    },
     {
       "id": "fedb51cc07",
       "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
@@ -155,6 +188,17 @@
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T06:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "dc35058bee",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "dc1ec5c5af",
@@ -2157,50 +2201,6 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T23:25:58+00:00",
       "score": 6
-    },
-    {
-      "id": "358552aaff",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T20:26:38+00:00",
-      "score": 4
-    },
-    {
-      "id": "b67f09c645",
-      "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-      "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T20:12:57+00:00",
-      "score": 5
-    },
-    {
-      "id": "f41c7307b7",
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T18:57:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "aa73778d73",
-      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-      "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T17:58:02+00:00",
-      "score": 4
     }
   ]
 }
