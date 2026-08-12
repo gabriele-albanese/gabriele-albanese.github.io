@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-12T10:01:11.741823+00:00",
+  "updated": "2026-08-12T12:37:49.852185+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "618c36a031",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b32b1f8594",
+      "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T10:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "53a0f7a1ec",
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
+      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "25020816c8",
+      "title": "FEMA's ‘Shadow Administrator’ Was Paid by a DOGE Member's Startup for Months",
+      "url": "https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/",
+      "summary": "Details from recent court filings show that DOGE's influence within government—and potential conflicts of interest—extend further than previously known.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "10f971059f",
       "title": "A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election",
@@ -2157,50 +2201,6 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T14:53:07+00:00",
       "score": 4
-    },
-    {
-      "id": "f58ecf105d",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T14:48:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "97aec3fde3",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure agains",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T12:10:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "418de03adf",
-      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
-      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T10:30:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "d3ef4a34cd",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge impl",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T10:15:19+00:00",
-      "score": 6
     }
   ]
 }
