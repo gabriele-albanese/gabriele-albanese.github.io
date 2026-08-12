@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-12T14:01:12.856970+00:00",
+  "updated": "2026-08-12T18:01:11.952953+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2fd40c918b",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T17:41:29+00:00",
+      "score": 5
+    },
+    {
+      "id": "afc23a12a5",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (R",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T16:51:57+00:00",
+      "score": 6
+    },
+    {
+      "id": "f04588bde5",
+      "title": "Tesla wants to build a $10B solar factory in Texas",
+      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T16:18:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "a8dd77df51",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T16:04:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "09a2cde406",
+      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
+      "url": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T15:02:00+00:00",
+      "score": 4
+    },
     {
       "id": "7b0b36051f",
       "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
@@ -89,6 +144,17 @@
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T06:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "dc1ec5c5af",
+      "title": "Scaling minimobility: Industry leaders weigh in on what’s needed",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/scaling-minimobility-industry-leaders-weigh-in-on-whats-needed",
+      "summary": "We asked some of the leading players in minimobility to share their insights into what’s preventing broader adoption—and what could enable it. Here’s what they had to say.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "12 Aug 2026",
+      "timestamp": "2026-08-12T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "10bc1f3f0b",
@@ -2135,72 +2201,6 @@
       "date": "30 Jul 2026",
       "timestamp": "2026-07-30T17:51:10+00:00",
       "score": 6
-    },
-    {
-      "id": "97625a3cb9",
-      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "summary": "Add another member to the fast-and-furious AI unicorn club: Simile",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T17:50:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "9327b82975",
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T16:09:42+00:00",
-      "score": 6
-    },
-    {
-      "id": "a4b5a2605f",
-      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-      "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-      "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T15:45:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "30e234bd3f",
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gamin",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T15:41:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "f98297874b",
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T15:19:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "027368541f",
-      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-      "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Jul 2026",
-      "timestamp": "2026-07-30T15:17:39+00:00",
-      "score": 4
     }
   ]
 }
