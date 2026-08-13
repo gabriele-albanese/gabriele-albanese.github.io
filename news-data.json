@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13T02:01:10.070901+00:00",
+  "updated": "2026-08-13T06:01:08.457618+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "da2928c842",
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this August.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T05:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "3115da6122",
       "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
@@ -2190,17 +2201,6 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T01:06:54+00:00",
       "score": 6
-    },
-    {
-      "id": "d3a6f5fe5d",
-      "title": "Global Economics Intelligence executive summary, June 2026",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "summary": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while Brazil and Russia focus on stimulus with 25-basis-point cuts.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
