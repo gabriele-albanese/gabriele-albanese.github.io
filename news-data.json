@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13T18:01:15.540101+00:00",
+  "updated": "2026-08-13T18:43:33.886894+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4f7a500cee",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T18:28:14+00:00",
+      "score": 5
+    },
     {
       "id": "9a1de941a4",
       "title": "OpenAI hires new CRO as executive shake-up continues",
@@ -100,6 +111,17 @@
       "date": "13 Aug 2026",
       "timestamp": "2026-08-13T11:00:28+00:00",
       "score": 4
+    },
+    {
+      "id": "3e500ccae6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T11:00:00+00:00",
+      "score": 6
     },
     {
       "id": "b66fa57c04",
@@ -2179,28 +2201,6 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T21:51:52+00:00",
       "score": 4
-    },
-    {
-      "id": "82e3dc5b42",
-      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T20:39:14+00:00",
-      "score": 5
-    },
-    {
-      "id": "2ccd1e3861",
-      "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T19:04:56+00:00",
-      "score": 5
     }
   ]
 }
