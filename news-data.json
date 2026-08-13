@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-13T14:01:13.084229+00:00",
+  "updated": "2026-08-13T18:01:15.540101+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9a1de941a4",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T17:07:13+00:00",
+      "score": 5
+    },
+    {
+      "id": "6d2316ab43",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T16:37:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "93c925fadf",
+      "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
+      "url": "https://spectrum.ieee.org/product-engineer",
+      "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to.  Comp",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T14:44:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "e2666f986d",
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T13:58:56+00:00",
+      "score": 6
+    },
     {
       "id": "47b33c8f3b",
       "title": "Why This Prediction Market Banned Teens",
@@ -58,6 +102,28 @@
       "score": 4
     },
     {
+      "id": "b66fa57c04",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T10:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "36609b9396",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T09:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "599ea52fc1",
       "title": "How kids feel about AI, in their own words",
       "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
@@ -77,6 +143,17 @@
       "topic": "tech",
       "date": "13 Aug 2026",
       "timestamp": "2026-08-13T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "63958842a8",
+      "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
+      "summary": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2124,83 +2201,6 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T19:04:56+00:00",
       "score": 5
-    },
-    {
-      "id": "544eb62449",
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "summary": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T19:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "25af60f1b8",
-      "title": "Chinese AI Researchers Are Finding Their Voice on X",
-      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T18:14:43+00:00",
-      "score": 5
-    },
-    {
-      "id": "734a51283c",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T17:26:32+00:00",
-      "score": 5
-    },
-    {
-      "id": "02a679ae68",
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T16:08:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "5b3393f6cb",
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2d251f65e4",
-      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-      "summary": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works an",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T14:49:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "567cca9724",
-      "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
-      "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
-      "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T14:47:26+00:00",
-      "score": 4
     }
   ]
 }
