@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13T07:06:13.943118+00:00",
+  "updated": "2026-08-13T10:01:15.145579+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "599ea52fc1",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "da2928c842",
       "title": "Factor Promo Code: 50% Off Off Meal Prep",
@@ -2190,17 +2201,6 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T01:24:26+00:00",
       "score": 7
-    },
-    {
-      "id": "ac80cd240e",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T01:06:54+00:00",
-      "score": 6
     }
   ]
 }
