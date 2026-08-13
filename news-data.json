@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-13T12:38:39.132307+00:00",
+  "updated": "2026-08-13T14:01:13.084229+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "47b33c8f3b",
+      "title": "Why This Prediction Market Banned Teens",
+      "url": "https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/",
+      "summary": "Jacob Fortinsky, the CEO and cofounder of the new prediction market Novig, says his outfit isn’t like those other markets. You know the ones.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T13:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c205fb2f3a",
+      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+      "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T13:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "69699b1434",
       "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
@@ -55,6 +77,17 @@
       "topic": "tech",
       "date": "13 Aug 2026",
       "timestamp": "2026-08-13T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "221476bef7",
+      "title": "Brilliant Moves: Coffee with Suzano CEO Beto Abreu",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/brilliant-moves-coffee-with-suzano-ceo-beto-abreu",
+      "summary": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T14:47:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "eccb7dbefe",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T14:47:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "07e6640336",
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T14:01:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "d75e47df0c",
-      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T12:00:00+00:00",
       "score": 4
     }
   ]
