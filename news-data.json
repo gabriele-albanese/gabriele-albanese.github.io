@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-13T10:01:15.145579+00:00",
+  "updated": "2026-08-13T12:38:39.132307+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "69699b1434",
+      "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+      "url": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+      "summary": "Protect your Samsung phone with these cases and screen protectors.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T12:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b456e74a54",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T11:10:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "516c90671d",
+      "title": "Why Water Management Is a Strategic Concern",
+      "url": "https://sloanreview.mit.edu/article/why-water-management-is-a-strategic-concern/",
+      "summary": "Dante Terzigni/theispot.com We live on a blue planet where water appears to be plentiful. But there are strong warning signs indicating that our reliance on the fresh water we perceive to be abundant will need to change. Although water covers 70% of the Earth’s surface, only 0.5%",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T11:00:28+00:00",
+      "score": 4
+    },
     {
       "id": "599ea52fc1",
       "title": "How kids feel about AI, in their own words",
@@ -2168,39 +2201,6 @@
       "date": "31 Jul 2026",
       "timestamp": "2026-07-31T12:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "263851407b",
-      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T11:00:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "dc984bc272",
-      "title": "Univé builds an AI-ready workforce",
-      "url": "https://openai.com/index/unive",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T07:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "4beb32c1db",
-      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
-      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T01:24:26+00:00",
-      "score": 7
     }
   ]
 }
