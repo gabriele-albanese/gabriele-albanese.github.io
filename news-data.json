@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-13T18:43:33.886894+00:00",
+  "updated": "2026-08-13T22:01:16.266278+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ca85258543",
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T21:14:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "539d991b17",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T21:13:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "e25b41ad1a",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T19:38:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "459413c052",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T19:22:40+00:00",
+      "score": 6
+    },
+    {
+      "id": "b377fa89f3",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T19:19:49+00:00",
+      "score": 5
+    },
     {
       "id": "4f7a500cee",
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -23,6 +78,17 @@
       "date": "13 Aug 2026",
       "timestamp": "2026-08-13T17:07:13+00:00",
       "score": 5
+    },
+    {
+      "id": "3978ae9331",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T17:00:13+00:00",
+      "score": 4
     },
     {
       "id": "6d2316ab43",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "01 Aug 2026",
       "timestamp": "2026-08-01T12:00:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "913e3a0739",
-      "title": "China’s EV Market Is Booming. There’s Just One Problem",
-      "url": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/",
-      "summary": "More EVs reaching the end of their life means more batteries to recycle. But waste management companies have yet to catch up to the new reality.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Aug 2026",
-      "timestamp": "2026-08-01T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d4b5394238",
-      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Aug 2026",
-      "timestamp": "2026-08-01T09:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "e1503b9882",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "01 Aug 2026",
-      "timestamp": "2026-08-01T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1d34eb8229",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T22:47:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "43c8e5201f",
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T22:00:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "65bd388912",
-      "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-      "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Jul 2026",
-      "timestamp": "2026-07-31T21:51:52+00:00",
       "score": 4
     }
   ]
