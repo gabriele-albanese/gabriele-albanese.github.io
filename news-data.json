@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-13T22:01:16.266278+00:00",
+  "updated": "2026-08-14T00:50:40.777344+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ad5eaa3696",
+      "title": "The Safety Reckoning Inside OpenAI",
+      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T22:37:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "d1c213446c",
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Aug 2026",
+      "timestamp": "2026-08-13T22:12:40+00:00",
+      "score": 4
+    },
     {
       "id": "ca85258543",
       "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
@@ -2179,28 +2201,6 @@
       "date": "01 Aug 2026",
       "timestamp": "2026-08-01T17:07:34+00:00",
       "score": 6
-    },
-    {
-      "id": "42d2a16938",
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "summary": "Reddit may still be considering ending its licensing deal with Google.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Aug 2026",
-      "timestamp": "2026-08-01T12:30:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "70ed29caab",
-      "title": "Fridays With Bob",
-      "url": "https://spectrum.ieee.org/risk",
-      "summary": "When I started at   Spectrum   25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions.   I didn’t find one right away. Then in 2005 we decided to do a special repor",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "01 Aug 2026",
-      "timestamp": "2026-08-01T12:00:01+00:00",
-      "score": 4
     }
   ]
 }
