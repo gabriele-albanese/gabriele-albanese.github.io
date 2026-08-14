@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-14T18:37:13.381931+00:00",
+  "updated": "2026-08-14T22:01:08.199078+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0dea06793b",
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T18:58:15+00:00",
+      "score": 4
+    },
     {
       "id": "a8c799c82d",
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
@@ -11,6 +22,28 @@
       "topic": "tech",
       "date": "14 Aug 2026",
       "timestamp": "2026-08-14T17:27:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "9e143ab692",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T17:26:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "3874b2e5cf",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T17:03:54+00:00",
       "score": 4
     },
     {
@@ -2168,39 +2201,6 @@
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T11:00:54+00:00",
       "score": 5
-    },
-    {
-      "id": "a7754f0510",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4d93f7acfe",
-      "title": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
-      "url": "https://www.wired.com/review/nothing-ear-3a/",
-      "summary": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e4b3c3d563",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make mone",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T08:30:05+00:00",
-      "score": 6
     }
   ]
 }
