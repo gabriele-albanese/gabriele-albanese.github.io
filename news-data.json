@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-14T14:01:12.923241+00:00",
+  "updated": "2026-08-14T18:01:14.592981+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a8c799c82d",
+      "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
+      "url": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
+      "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.    Download this free whitepaper now!",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T17:27:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "ce215cb2ea",
+      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T15:18:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "042796346f",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T14:50:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "30442beeaf",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T14:27:14+00:00",
+      "score": 5
+    },
     {
       "id": "2c2e6c1a53",
       "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
@@ -2157,50 +2201,6 @@
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T08:30:05+00:00",
       "score": 6
-    },
-    {
-      "id": "9be5bdf124",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "97562427dc",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bfcc850782",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital pen pals and nature journals, here are the latest App Store finds worth adding t",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Aug 2026",
-      "timestamp": "2026-08-02T15:23:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "70a42a6110",
-      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
-      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
-      "summary": "Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "02 Aug 2026",
-      "timestamp": "2026-08-02T12:32:02+00:00",
-      "score": 5
     }
   ]
 }
