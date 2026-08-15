@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-14T22:01:08.199078+00:00",
+  "updated": "2026-08-15T00:28:01.179113+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "563a2c5415",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T22:43:24+00:00",
+      "score": 4
+    },
     {
       "id": "0dea06793b",
       "title": "Read-it-later app Pocket shut down — here are the best alternatives",
@@ -2189,17 +2200,6 @@
       "topic": "pm",
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T12:04:26+00:00",
-      "score": 5
-    },
-    {
-      "id": "57dfe01d9f",
-      "title": "The Marketing Capability Paradox: Seven Forces Eroding Your Marketing Team’s Effectiveness",
-      "url": "https://sloanreview.mit.edu/article/the-marketing-capability-paradox-seven-forces-eroding-your-marketing-teams-effectiveness/",
-      "summary": "Alice Mollon/Ikon Images Marketing capabilities — the complex bundles of skills, processes, and organizational know-how that enable companies to implement customer-related activities and adapt to marketplace changes — are rated by marketing professionals as important to business ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T11:00:54+00:00",
       "score": 5
     }
   ]
