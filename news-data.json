@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-15T12:12:11.480358+00:00",
+  "updated": "2026-08-15T14:01:13.207671+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "24a1720c04",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T13:15:20+00:00",
+      "score": 4
+    },
     {
       "id": "e6d4dc11df",
       "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
@@ -2190,17 +2201,6 @@
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T12:50:46+00:00",
       "score": 4
-    },
-    {
-      "id": "72f55c675e",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t t",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T12:08:00+00:00",
-      "score": 6
     }
   ]
 }
