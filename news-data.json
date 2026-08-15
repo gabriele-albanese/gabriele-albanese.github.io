@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-15T06:15:49.702392+00:00",
+  "updated": "2026-08-15T10:01:08.258407+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e6d4dc11df",
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "563a2c5415",
       "title": "Talks to sell PayPal to Stripe and Advent are heating up",
@@ -2190,17 +2201,6 @@
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T12:08:00+00:00",
       "score": 6
-    },
-    {
-      "id": "3b87f6c21e",
-      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
-      "summary": "Watch now | &#127897;&#65039;ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T12:04:26+00:00",
-      "score": 5
     }
   ]
 }
