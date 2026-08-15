@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-15T14:01:13.207671+00:00",
+  "updated": "2026-08-15T18:01:09.299132+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "bfa1ce110e",
+      "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+      "summary": "Community Wisdom 197",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T17:01:13+00:00",
+      "score": 4
+    },
+    {
+      "id": "e68ddcb830",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T16:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0dccda6e63",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T16:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "031bef8b9f",
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "summary": "\"Flamingo missiles were used. A good achievement.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T15:46:05+00:00",
+      "score": 4
+    },
     {
       "id": "24a1720c04",
       "title": "Every fusion startup that has raised over $100M",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T17:16:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "8f22e6cc5b",
-      "title": "Base Power raises another $1B to save the grid using backyard batteries",
-      "url": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-      "summary": "Base Power’s $1 billion round will help the startup ramp production of its home batteries.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T16:46:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "d0bd865914",
-      "title": "Congress’s favorite AI tool? ChatGPT",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T16:40:55+00:00",
-      "score": 6
-    },
-    {
-      "id": "e0453d86a8",
-      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T15:02:21+00:00",
-      "score": 5
-    },
-    {
-      "id": "a44655c52f",
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T12:50:46+00:00",
       "score": 4
     }
   ]
