@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-15T18:09:23.974783+00:00",
+  "updated": "2026-08-15T22:01:10.577442+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "73cbb223a2",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Aug 2026",
+      "timestamp": "2026-08-15T18:58:39+00:00",
+      "score": 5
+    },
     {
       "id": "bfa1ce110e",
       "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T18:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "e5895e668b",
-      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-      "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T17:16:43+00:00",
       "score": 4
     }
   ]
