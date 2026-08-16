@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-16T14:01:07.204006+00:00",
+  "updated": "2026-08-16T18:01:10.044029+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9eeacf6b78",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Aug 2026",
+      "timestamp": "2026-08-16T16:53:51+00:00",
+      "score": 5
+    },
     {
       "id": "8587bfcff0",
       "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T19:28:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "29dbca12f8",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T19:09:56+00:00",
       "score": 4
     }
   ]
