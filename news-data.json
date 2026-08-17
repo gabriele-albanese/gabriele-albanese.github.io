@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-17T10:01:13.075032+00:00",
+  "updated": "2026-08-17T12:16:08.379257+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7beb2b6fbd",
+      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+      "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+      "summary": "Watch now | &#127897;&#65039;From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T12:04:02+00:00",
+      "score": 4
+    },
     {
       "id": "0c3e7b3f06",
       "title": "What happens when a kid’s robot best friend dies?",
@@ -11,6 +22,17 @@
       "topic": "ai",
       "date": "17 Aug 2026",
       "timestamp": "2026-08-17T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e5221d6f87",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T03:15:00+00:00",
       "score": 4
     },
     {
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T22:10:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "39d4fd006a",
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T22:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4d7bc75aa1",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T20:00:00+00:00",
       "score": 4
     }
   ]
