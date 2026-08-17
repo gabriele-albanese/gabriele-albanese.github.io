@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-17T06:26:10.190101+00:00",
+  "updated": "2026-08-17T10:01:13.075032+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0c3e7b3f06",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "7430ad5663",
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -2190,17 +2201,6 @@
       "date": "03 Aug 2026",
       "timestamp": "2026-08-03T20:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "d3807dc56d",
-      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T19:45:35+00:00",
-      "score": 6
     }
   ]
 }
