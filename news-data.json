@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T12:16:08.379257+00:00",
+  "updated": "2026-08-17T14:01:15.983661+00:00",
   "count": 200,
   "articles": [
     {
@@ -25,6 +25,28 @@
       "score": 4
     },
     {
+      "id": "699d10e1c7",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T05:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a7860c437a",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T05:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "e5221d6f87",
       "title": "New policy ideas for the Intelligence Age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -33,6 +55,17 @@
       "topic": "ai",
       "date": "17 Aug 2026",
       "timestamp": "2026-08-17T03:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0708aa52d5",
+      "title": "Governing AI with intention in the social impact sector",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
+      "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e2b8f86303",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "8e6013752b",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T23:19:50+00:00",
-      "score": 5
-    },
-    {
-      "id": "abc9d20c2f",
-      "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
-      "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Aug 2026",
-      "timestamp": "2026-08-03T22:10:58+00:00",
       "score": 4
     }
   ]
