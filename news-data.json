@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-17T14:01:15.983661+00:00",
+  "updated": "2026-08-17T18:18:39.864643+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "897dfbe77a",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T16:38:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "40a9816ea4",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T15:16:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "d091c77a45",
+      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "17 Aug 2026",
+      "timestamp": "2026-08-17T15:03:16+00:00",
+      "score": 4
+    },
     {
       "id": "7beb2b6fbd",
       "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T10:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fe3e3fe8d4",
-      "title": "Mistral Is in the Right Place at the Right Time",
-      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T09:21:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "8845b53711",
-      "title": "Author Talks: One size does not fit all",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-one-size-does-not-fit-all",
-      "summary": "From sneakers to crash test dummies, many everyday designs were developed based on the male body. Nike’s former global creative director explains why better design starts with broader perspectives.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "26f5b739d7",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T00:00:00+00:00",
       "score": 4
     }
   ]
