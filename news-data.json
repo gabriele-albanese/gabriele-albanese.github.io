@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-18T12:17:48.353181+00:00",
+  "updated": "2026-08-18T14:01:16.161557+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fab1a28705",
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+      "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "0da80d9d51",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d1b640f192",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T13:50:30+00:00",
+      "score": 5
+    },
+    {
+      "id": "00f87f54bb",
+      "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
+      "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
+      "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f7758ff25a",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T12:10:00+00:00",
+      "score": 5
+    },
     {
       "id": "4a5b761c5c",
       "title": "What Gets Your Best Employees to Stay",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "05 Aug 2026",
       "timestamp": "2026-08-05T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ff897241e2",
-      "title": "Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?",
-      "url": "https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/",
-      "summary": "Samsung’s folding phone family has a new middle child with a fresh form factor, but which of its eighth-gen foldables is right for you?",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T07:36:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "839cfa9dce",
-      "title": "How AI is redefining category management in distribution",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/how-ai-is-redefining-category-management-in-distribution",
-      "summary": "New AI-enabled tools have the potential to reshape how distributors price, source, negotiate, and manage assortments, with immediate financial and strategic impact.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7505963df5",
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T23:11:31+00:00",
-      "score": 6
-    },
-    {
-      "id": "c9d9fb31f8",
-      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-      "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T22:24:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "7049104333",
-      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-      "summary": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T22:18:30+00:00",
       "score": 4
     }
   ]
