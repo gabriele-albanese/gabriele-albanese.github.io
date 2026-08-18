@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-18T14:01:16.161557+00:00",
+  "updated": "2026-08-18T18:01:17.988140+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0bfb066bf0",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T18:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4f194a8117",
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T17:31:01+00:00",
+      "score": 5
+    },
+    {
+      "id": "506ef6f4e0",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T17:21:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "4c5199e907",
+      "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
+      "url": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
+      "summary": "Disney superfan Toni Kulusich has been accused of stalking her favorite character, sparking discourse about boundaries with park actors. She tells WIRED the backlash is unfair.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T15:50:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "04fc625dc1",
+      "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+      "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+      "summary": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T15:40:06+00:00",
+      "score": 4
+    },
     {
       "id": "fab1a28705",
       "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
@@ -143,6 +198,28 @@
       "topic": "tech",
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "eaf7eab1e8",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T07:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9ad8732895",
+      "title": "How can the public sector meet the AI moment?",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+      "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T00:00:00+00:00",
       "score": 4
     },
     {
@@ -539,6 +616,17 @@
       "topic": "tech",
       "date": "14 Aug 2026",
       "timestamp": "2026-08-14T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9ce37dae4f",
+      "title": "Reinventing the European pulp and paper operating model",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "14 Aug 2026",
+      "timestamp": "2026-08-14T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2112,94 +2200,6 @@
       "topic": "tech",
       "date": "05 Aug 2026",
       "timestamp": "2026-08-05T15:30:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "d22824990e",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T15:05:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ab78e492b4",
-      "title": "Puzzle Corner",
-      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes soluti",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T14:56:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "e911d06afa",
-      "title": "Anthropic is hiring an AI chip design team",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T14:13:18+00:00",
-      "score": 5
-    },
-    {
-      "id": "6523192f92",
-      "title": "Robinhood to list a fund that lets anyone back Y Combinator startups",
-      "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
-      "summary": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T12:23:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "c1f01baef6",
-      "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
-      "url": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
-      "summary": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T11:26:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "2fcee0bb12",
-      "title": "BenQ GV50 Review: Highly Portable, but With Quality Trade-Offs",
-      "url": "https://www.wired.com/review/review-benq-gv50/",
-      "summary": "This affordable, portable projector doesn’t try to be a cinematic marvel, but it’s fun to use.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T11:01:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a0e9ba440",
-      "title": "Gene-Edited Puppies Will Melt Your Heart—but Won’t Trigger Your Allergies",
-      "url": "https://www.wired.com/story/gene-edited-puppies-wont-trigger-allergies/",
-      "summary": "A startup has created beagles without the gene that causes runny noses and watery eyes for allergy sufferers.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cd0d324b8f",
-      "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
-      "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
-      "summary": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T09:00:00+00:00",
       "score": 4
     }
   ]
