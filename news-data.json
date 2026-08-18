@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-18T06:19:49.877120+00:00",
+  "updated": "2026-08-18T10:01:14.542154+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0fdff59db0",
+      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "url": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+      "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb763d3679",
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "summary": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "de8e9b90f0",
       "title": "Anthropic’s annualized revenue surges to $65B",
@@ -2179,28 +2201,6 @@
       "date": "04 Aug 2026",
       "timestamp": "2026-08-04T19:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "4f8932b027",
-      "title": "China is Tesla's cash cow, but for how much longer?",
-      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-      "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T17:34:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "6fdbf17bee",
-      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-      "summary": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Aug 2026",
-      "timestamp": "2026-08-04T15:38:22+00:00",
-      "score": 4
     }
   ]
 }
