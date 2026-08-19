@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-19T10:01:17.145790+00:00",
+  "updated": "2026-08-19T12:17:45.451074+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fe46527ac0",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "summary": "It's the data, stupid.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2d2b7bbcf3",
+      "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
+      "url": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
+      "summary": "I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T11:08:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a339a2b679",
+      "title": "The Five Inclusive Behaviors Board Chairs Overlook",
+      "url": "https://sloanreview.mit.edu/article/the-five-inclusive-behaviors-board-chairs-overlook/",
+      "summary": "Curt Merlo/theispot.com Many companies around the world have made significant progress in adding a higher proportion of board directors from traditionally underrepresented groups, such as women and people of color. But despite the increased diversity, many boards lag on inclusivi",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T11:00:59+00:00",
+      "score": 4
+    },
     {
       "id": "38269b8f7f",
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -2168,39 +2201,6 @@
       "date": "05 Aug 2026",
       "timestamp": "2026-08-05T20:50:45+00:00",
       "score": 5
-    },
-    {
-      "id": "7f74154b57",
-      "title": "Why Lightspeed is going all-in on creator-led venture capital",
-      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-      "summary": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written.&#160;It&#8217;s&#160;a trend&#160;that&#8217;s&#160;been building with&#160;a16z&#8217;s acquisition&#160;of Erik Torenberg’s Turpentine podcast and&#160;Open",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T20:48:54+00:00",
-      "score": 5
-    },
-    {
-      "id": "2d08e589a5",
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T20:47:11+00:00",
-      "score": 6
-    },
-    {
-      "id": "1619858f8b",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T20:05:00+00:00",
-      "score": 4
     }
   ]
 }
