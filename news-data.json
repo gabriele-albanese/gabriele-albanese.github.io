@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-19T14:01:13.111926+00:00",
+  "updated": "2026-08-19T18:01:16.443886+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b75ccb5815",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T19:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "da3d698d8f",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T17:26:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "69d769bd59",
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T16:44:07+00:00",
+      "score": 5
+    },
+    {
+      "id": "e68d508d29",
+      "title": "Google Pixel Watch 5 Review: More Health, More AI",
+      "url": "https://www.wired.com/review/google-pixel-watch-5/",
+      "summary": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T16:34:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "0cf7bd5809",
+      "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T16:16:18+00:00",
+      "score": 5
+    },
+    {
+      "id": "b7d34b8d60",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T15:44:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "f8a8e90f0b",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T14:18:12+00:00",
+      "score": 5
+    },
     {
       "id": "fe46527ac0",
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
@@ -34,6 +111,28 @@
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T11:00:59+00:00",
       "score": 4
+    },
+    {
+      "id": "09f9dc1b52",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T07:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b59389e2f2",
+      "title": "Advancing American healthcare: An interview with Seema Verma",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
+      "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "38269b8f7f",
@@ -2102,105 +2201,6 @@
       "date": "06 Aug 2026",
       "timestamp": "2026-08-06T06:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "aa0453c641",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T00:15:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "a55486a7c3",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "718b633c32",
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-      "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-      "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T23:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "334d336fa5",
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T22:35:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "f873a748a4",
-      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
-      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
-      "summary": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T21:26:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "f4b59bdfc2",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T21:21:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "8d0ab0b2cc",
-      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T21:05:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "672bb73111",
-      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T21:03:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "414f7a43ec",
-      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-      "summary": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T20:50:45+00:00",
-      "score": 5
     }
   ]
 }
