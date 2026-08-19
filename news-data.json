@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-18T22:01:13.196236+00:00",
+  "updated": "2026-08-19T00:26:49.057023+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "38269b8f7f",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T22:14:25+00:00",
+      "score": 4
+    },
     {
       "id": "da3edf87cd",
       "title": "Strengthening democratic oversight in national security",
@@ -242,6 +253,17 @@
       "topic": "ai",
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T07:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b308f27228",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "18 Aug 2026",
+      "timestamp": "2026-08-18T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "05 Aug 2026",
       "timestamp": "2026-08-05T19:30:19+00:00",
       "score": 5
-    },
-    {
-      "id": "2e203acd11",
-      "title": "AI Worms and Viruses Are Coming",
-      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
-      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T18:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "14f12a110d",
-      "title": "Lucid Motors just delayed its affordable EV. Now what?",
-      "url": "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/",
-      "summary": "The Cosmos EV is now slated for release in the second half of 2027. CEO Silivo Napoli said he's focused on getting the EV right as well as its nearer-term robotaxi project with Uber and Nuro.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Aug 2026",
-      "timestamp": "2026-08-05T17:57:45+00:00",
-      "score": 4
     }
   ]
 }
