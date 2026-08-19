@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:01:16.443886+00:00",
+  "updated": "2026-08-19T18:14:31.295768+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T19:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "808f93a00f",
+      "title": "Gaining Leadership Backing for Your Innovations",
+      "url": "https://spectrum.ieee.org/leadership-backing-innovation",
+      "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.    Imagine this: You have a strong idea for a new product for your company. Your coworkers encourage you to move forward because they believe it ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T18:00:02+00:00",
+      "score": 6
     },
     {
       "id": "da3d698d8f",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "06 Aug 2026",
       "timestamp": "2026-08-06T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "61e5f938cd",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T06:00:00+00:00",
       "score": 4
     }
   ]
