@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-19T22:01:13.324569+00:00",
+  "updated": "2026-08-20T00:27:44.879046+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "42bbaa081f",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T23:32:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "d306eafa18",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Aug 2026",
+      "timestamp": "2026-08-19T22:10:46+00:00",
+      "score": 6
+    },
     {
       "id": "6aba2536a5",
       "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
@@ -2179,28 +2201,6 @@
       "date": "06 Aug 2026",
       "timestamp": "2026-08-06T19:02:57+00:00",
       "score": 4
-    },
-    {
-      "id": "4f1beed9c3",
-      "title": "Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it",
-      "url": "https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/",
-      "summary": "Ford's CEO has described the new Ford Fathom as a \"Model T moment\" for the company. But the EV pickup is unlikely to live up to lofty expectations, and maybe it doesn't have to.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T17:41:56+00:00",
-      "score": 4
-    },
-    {
-      "id": "230504609d",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T17:34:42+00:00",
-      "score": 5
     }
   ]
 }
