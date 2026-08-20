@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-20T14:01:15.171575+00:00",
+  "updated": "2026-08-20T18:01:16.881957+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "072ab33f01",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T17:18:58+00:00",
+      "score": 5
+    },
+    {
+      "id": "626c3518cd",
+      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T17:04:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "28cd1afbb6",
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T16:46:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "204c4985f5",
+      "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
+      "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
+      "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "78b8e28299",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ac3b651128",
+      "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T15:53:49+00:00",
+      "score": 5
+    },
+    {
+      "id": "5e86b723ff",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these see",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T15:42:39+00:00",
+      "score": 5
+    },
     {
       "id": "428b4bbd9b",
       "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
@@ -25,6 +102,17 @@
       "score": 4
     },
     {
+      "id": "db7b762797",
+      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+      "url": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T10:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "d29497c587",
       "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
       "url": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
@@ -45,6 +133,28 @@
       "date": "20 Aug 2026",
       "timestamp": "2026-08-20T09:30:00+00:00",
       "score": 6
+    },
+    {
+      "id": "6213ce5cee",
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "22abfcb135",
+      "title": "Earning and sustaining trust in the age of AI",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
+      "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "42bbaa081f",
@@ -2090,116 +2200,6 @@
       "topic": "ai",
       "date": "07 Aug 2026",
       "timestamp": "2026-08-07T15:20:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "04647aa7bc",
-      "title": "Report: White House drafting executive order linking vaccines and autism",
-      "url": "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
-      "summary": "Trump determined to link life-saving shots to autism, despite science and political risk.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T14:41:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "db5142cc98",
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T14:28:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "7f75e7743e",
-      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T14:07:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "67386e3e7d",
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T13:49:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "13e2539b33",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "summary": "TikTok owner training a model with 10 trillion parameters.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T13:29:22+00:00",
-      "score": 5
-    },
-    {
-      "id": "53b0454850",
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "04dbcdd1e1",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d480e48926",
-      "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T01:16:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "6b6da71a16",
-      "title": "How to close the agentic adoption gap",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
-      "summary": "At their core, AI transformations are a reinvention of how work gets done. This requires change leadership, not just change management.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "93553c6ca6",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T22:43:53+00:00",
       "score": 4
     }
   ]
