@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-20T10:01:19.731446+00:00",
+  "updated": "2026-08-20T12:19:31.375552+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d29497c587",
+      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+      "url": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "ad5059a21e",
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "06 Aug 2026",
       "timestamp": "2026-08-06T20:03:44+00:00",
-      "score": 6
-    },
-    {
-      "id": "59c40c8d31",
-      "title": "Why Normal People Aren’t Using AI Agents",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Aug 2026",
-      "timestamp": "2026-08-06T19:55:45+00:00",
       "score": 6
     }
   ]
