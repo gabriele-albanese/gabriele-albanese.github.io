@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-21T14:01:11.551798+00:00",
+  "updated": "2026-08-21T18:01:14.317116+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "538a22a919",
+      "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+      "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+      "summary": "About this Webinar    Turn Yield Excursions into Faster, More Confident Root Cause Analysis   When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while gro",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T14:32:37+00:00",
+      "score": 4
+    },
     {
       "id": "66806890d2",
       "title": "When AI designs a drug, who gets the credit?",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "09 Aug 2026",
       "timestamp": "2026-08-09T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "06b8724864",
-      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
-      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
-      "summary": "Listen now | Cursor&#8217;s Adam Ward on &#8220;funnel of doom&#8221; hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "09 Aug 2026",
-      "timestamp": "2026-08-09T12:31:29+00:00",
       "score": 4
     }
   ]
