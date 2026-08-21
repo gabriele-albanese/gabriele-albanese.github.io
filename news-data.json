@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-21T18:18:09.523648+00:00",
+  "updated": "2026-08-21T22:01:16.197242+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4af5149f16",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T19:43:39+00:00",
+      "score": 6
+    },
+    {
+      "id": "8f23860a00",
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T19:16:15+00:00",
+      "score": 5
+    },
+    {
+      "id": "02e578e5a4",
+      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+      "url": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+      "summary": "Romania blew up drone boat to protect lives of several hundred rig workers.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T16:48:59+00:00",
+      "score": 4
+    },
     {
       "id": "538a22a919",
       "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f893fb1dc9",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "summary": "The AI-focused hedge fund is still making some big bets.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Aug 2026",
-      "timestamp": "2026-08-09T20:35:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "700247b136",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Aug 2026",
-      "timestamp": "2026-08-09T19:20:32+00:00",
-      "score": 5
-    },
-    {
-      "id": "35f6bb826f",
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Aug 2026",
-      "timestamp": "2026-08-09T14:30:00+00:00",
       "score": 4
     }
   ]
