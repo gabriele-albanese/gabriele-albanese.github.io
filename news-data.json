@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-20T22:01:16.262527+00:00",
+  "updated": "2026-08-21T00:30:33.324585+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "715aa7b8d8",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T00:13:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "cdac95d6e8",
+      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isa",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T23:32:27+00:00",
+      "score": 5
+    },
+    {
+      "id": "08dddb48c1",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T22:36:37+00:00",
+      "score": 6
+    },
+    {
+      "id": "fc53f9f20e",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T22:09:51+00:00",
+      "score": 4
+    },
     {
       "id": "072ab33f01",
       "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
@@ -2157,50 +2201,6 @@
       "date": "08 Aug 2026",
       "timestamp": "2026-08-08T19:41:13+00:00",
       "score": 6
-    },
-    {
-      "id": "878fbed42f",
-      "title": "How to Disable Gemini in Gmail and Google Docs",
-      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Aug 2026",
-      "timestamp": "2026-08-08T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "59163ffd3c",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T22:48:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "965ef0c7a0",
-      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
-      "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
-      "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on technical excellence toward mastering systems thinking, adaptive le",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T18:00:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "c1b05c5ed4",
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Aug 2026",
-      "timestamp": "2026-08-07T17:36:22+00:00",
-      "score": 4
     }
   ]
 }
