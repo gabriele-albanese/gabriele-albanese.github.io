@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-21T06:21:41.750699+00:00",
+  "updated": "2026-08-21T10:01:13.817558+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "66806890d2",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using A",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T09:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "715aa7b8d8",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -11,6 +22,17 @@
       "topic": "tech",
       "date": "21 Aug 2026",
       "timestamp": "2026-08-21T00:13:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "34426c06aa",
+      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+      "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "21 Aug 2026",
+      "timestamp": "2026-08-21T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "09 Aug 2026",
       "timestamp": "2026-08-09T12:31:29+00:00",
       "score": 4
-    },
-    {
-      "id": "9453f10483",
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Aug 2026",
-      "timestamp": "2026-08-09T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "61f42ecb8f",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide says its team members are now working on ChatGPT.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Aug 2026",
-      "timestamp": "2026-08-08T19:41:13+00:00",
-      "score": 6
     }
   ]
 }
