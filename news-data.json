@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-22T14:01:10.406074+00:00",
+  "updated": "2026-08-22T18:01:06.935357+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "39119bad22",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T16:30:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "c25ecbf51b",
+      "title": "US battery startups have found a lifeline in defense",
+      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+      "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T15:20:00+00:00",
+      "score": 4
+    },
     {
       "id": "8014b9bf1f",
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6859719fca",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "6f9dd55027",
-      "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
-      "url": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
-      "summary": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T06:00:00+00:00",
       "score": 4
     }
   ]
