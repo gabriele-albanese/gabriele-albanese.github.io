@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-22T18:10:37.297355+00:00",
+  "updated": "2026-08-22T22:01:10.596479+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "480d7ab406",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T21:46:56+00:00",
+      "score": 5
+    },
+    {
+      "id": "05cdf650ff",
+      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T20:24:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "f264c05767",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T19:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "39119bad22",
       "title": "OpenAI says California should strengthen its AI safety bill",
@@ -2168,39 +2201,6 @@
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "dd3ed843f2",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "87673e918c",
-      "title": "Why Each Octopus Arm Has a Mind of Its Own",
-      "url": "https://www.wired.com/story/octopus-arms-distributed-intelligence-nine-brains/",
-      "summary": "Two-thirds of an octopus’s neurons are in its arms—each operating independently—including the one it uses to have sex.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "20c95f3fe5",
-      "title": "AI for science needs reasoning, not just data",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the en",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T09:00:00+00:00",
-      "score": 4
     }
   ]
 }
