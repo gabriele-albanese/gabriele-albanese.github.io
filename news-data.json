@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-22T00:27:18.840698+00:00",
+  "updated": "2026-08-22T02:01:10.182895+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8014b9bf1f",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T01:31:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "9596b975c1",
+      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Aug 2026",
+      "timestamp": "2026-08-22T01:03:06+00:00",
+      "score": 4
+    },
     {
       "id": "d7e3e6a3a4",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T06:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2400bb772f",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "f7be8d43b2",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T00:00:00+00:00",
       "score": 4
     }
   ]
