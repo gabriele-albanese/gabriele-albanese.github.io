@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-23T18:10:18.051270+00:00",
+  "updated": "2026-08-23T22:01:13.775038+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be28f1428b",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Aug 2026",
+      "timestamp": "2026-08-23T20:01:36+00:00",
+      "score": 4
+    },
     {
       "id": "d26899ffdb",
       "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
@@ -2189,17 +2200,6 @@
       "topic": "pm",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T12:01:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "52b9c6e06b",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T12:00:00+00:00",
       "score": 4
     }
   ]
