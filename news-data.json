@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-24T12:20:01.804394+00:00",
+  "updated": "2026-08-24T14:01:17.433866+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3da0c65afb",
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Aug 2026",
+      "timestamp": "2026-08-24T13:45:15+00:00",
+      "score": 5
+    },
     {
       "id": "7d7123f38c",
       "title": "The Download: kids outlearning AI, and space travel agents",
@@ -11,6 +22,17 @@
       "topic": "ai",
       "date": "24 Aug 2026",
       "timestamp": "2026-08-24T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9f3cb141c2",
+      "title": "Building Technology People Can Trust",
+      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+      "summary": "This article is brought to you by  Emerson .   I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.  In semiconductors, we have",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "24 Aug 2026",
+      "timestamp": "2026-08-24T11:37:02+00:00",
       "score": 4
     },
     {
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T18:27:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "1b4a121cfe",
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4662a98c4d",
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T16:20:13+00:00",
       "score": 4
     }
   ]
