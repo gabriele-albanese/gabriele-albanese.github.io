@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-24T14:01:17.433866+00:00",
+  "updated": "2026-08-24T18:01:12.736769+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0565e9e7b1",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Aug 2026",
+      "timestamp": "2026-08-24T15:24:18+00:00",
+      "score": 6
+    },
+    {
+      "id": "e0099f0b8b",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Aug 2026",
+      "timestamp": "2026-08-24T15:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b11795f5f3",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an a",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "24 Aug 2026",
+      "timestamp": "2026-08-24T14:20:19+00:00",
+      "score": 6
+    },
     {
       "id": "3da0c65afb",
       "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "10 Aug 2026",
       "timestamp": "2026-08-10T22:26:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "9f4258eff4",
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T20:04:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "4100cae384",
-      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
-      "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T18:30:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "bae604ce77",
-      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
-      "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
-      "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Aug 2026",
-      "timestamp": "2026-08-10T18:27:44+00:00",
       "score": 4
     }
   ]
