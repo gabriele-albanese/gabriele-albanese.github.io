@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-25T18:01:16.043264+00:00",
+  "updated": "2026-08-25T18:19:48.337022+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "feff13b2a6",
+      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T18:01:30+00:00",
+      "score": 5
+    },
     {
       "id": "c315b9a7b9",
       "title": "Claude Cowork finally remembers what you told the app in chat",
@@ -2190,17 +2201,6 @@
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T10:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "10f971059f",
-      "title": "A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election",
-      "url": "https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/",
-      "summary": "Clacton's parliamentary race has it all: Nigel Farage, a man dressed as a trash can, a Union Jack bikini, white nationalist conspiracy theories, and 34 candidates on the ballot.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T09:01:14+00:00",
-      "score": 5
     }
   ]
 }
