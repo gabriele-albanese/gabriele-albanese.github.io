@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-25T14:01:22.342555+00:00",
+  "updated": "2026-08-25T18:01:16.043264+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c315b9a7b9",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T17:50:33+00:00",
+      "score": 5
+    },
+    {
+      "id": "0c8bf55c3b",
+      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
+      "summary": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T15:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb2b72187d",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6017c27dc6",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T14:22:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "332af197fd",
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "084d0bd1c3",
       "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
@@ -99,6 +154,50 @@
       "topic": "ai",
       "date": "25 Aug 2026",
       "timestamp": "2026-08-25T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1c0de2ab32",
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T07:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "31f9b25438",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T07:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bbe7f12da3",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d3a6f5fe5d",
+      "title": "Global Economics Intelligence executive summary, July 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "summary": "With mixed economic signals and energy markets still vulnerable to disruption, central banks face an increasingly difficult balance between supporting growth and containing inflation.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T09:01:14+00:00",
-      "score": 5
-    },
-    {
-      "id": "143a56c383",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T06:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "dc35058bee",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dc1ec5c5af",
-      "title": "Scaling minimobility: Industry leaders weigh in on what’s needed",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/scaling-minimobility-industry-leaders-weigh-in-on-whats-needed",
-      "summary": "We asked some of the leading players in minimobility to share their insights into what’s preventing broader adoption—and what could enable it. Here’s what they had to say.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "10bc1f3f0b",
-      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-      "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T21:39:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "1dd98b368a",
-      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-      "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
-      "summary": "In collaboration with the  Kingdom of Bhutan  government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.  Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by fo",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T19:50:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "1497475e01",
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "summary": "But will Gemini's surge survive slowing model releases?",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T19:48:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "c836abb2e3",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T19:15:35+00:00",
-      "score": 5
-    },
-    {
-      "id": "61f03f2379",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T18:49:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "b8d07c245c",
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T17:41:34+00:00",
       "score": 5
     }
   ]
