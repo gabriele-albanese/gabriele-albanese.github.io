@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-25T12:20:24.367946+00:00",
+  "updated": "2026-08-25T14:01:22.342555+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "084d0bd1c3",
+      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+      "summary": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T13:55:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "fdb8844c0e",
+      "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+      "summary": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "944b086394",
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ff6e4887ee",
+      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+      "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their pho",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "25 Aug 2026",
+      "timestamp": "2026-08-25T12:10:00+00:00",
+      "score": 5
+    },
     {
       "id": "93a87e369c",
       "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
@@ -2157,50 +2201,6 @@
       "date": "11 Aug 2026",
       "timestamp": "2026-08-11T17:41:34+00:00",
       "score": 5
-    },
-    {
-      "id": "3571ff97a4",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T17:41:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "a3990db170",
-      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T16:25:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "89107af88c",
-      "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-      "summary": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T15:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c23c8bbd70",
-      "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-      "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-      "summary": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Aug 2026",
-      "timestamp": "2026-08-11T15:00:00+00:00",
-      "score": 4
     }
   ]
 }
