@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-26T19:27:49.910514+00:00",
+  "updated": "2026-08-26T22:01:14.416378+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e8aad19178",
+      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T21:37:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "33849f31e0",
+      "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
+      "url": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
+      "summary": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T20:55:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "838ca76e92",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T19:37:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "a65015085a",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T19:34:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "3400e8c67c",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T19:19:22+00:00",
+      "score": 4
+    },
     {
       "id": "c87dc1947f",
       "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
@@ -23,6 +78,17 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T19:05:22+00:00",
       "score": 4
+    },
+    {
+      "id": "db5b8f4203",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T19:00:00+00:00",
+      "score": 5
     },
     {
       "id": "72bcbc260c",
@@ -309,6 +375,17 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T00:06:20+00:00",
       "score": 4
+    },
+    {
+      "id": "1c454c14ad",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "d8bbd65ee6",
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "13 Aug 2026",
       "timestamp": "2026-08-13T21:14:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "539d991b17",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T21:13:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "e25b41ad1a",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T19:38:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "459413c052",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T19:22:40+00:00",
-      "score": 6
-    },
-    {
-      "id": "b377fa89f3",
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T19:19:49+00:00",
-      "score": 5
-    },
-    {
-      "id": "4f7a500cee",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T18:28:14+00:00",
-      "score": 5
-    },
-    {
-      "id": "9a1de941a4",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T17:07:13+00:00",
-      "score": 5
-    },
-    {
-      "id": "3978ae9331",
-      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T17:00:13+00:00",
       "score": 4
     }
   ]
