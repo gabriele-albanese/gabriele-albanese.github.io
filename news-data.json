@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-26T10:01:14.362834+00:00",
+  "updated": "2026-08-26T12:21:54.824016+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c7519cb8e6",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c0735f59ec",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T11:10:49+00:00",
+      "score": 5
+    },
+    {
+      "id": "0b448ece42",
+      "title": "Building on AI’s Unfinished Foundation",
+      "url": "https://sloanreview.mit.edu/article/building-on-ais-unfinished-foundation/",
+      "summary": "Brian Stauffer/theispot.com By the ordinary measures of any new technology, the current wave of generative AI has moved fast. By some estimates, about 2.4 billion people worldwide use generative AI platforms each month, and coding agents have changed how software is written. Effo",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T11:00:49+00:00",
+      "score": 5
+    },
+    {
+      "id": "d56bb99852",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "606181c5d7",
       "title": "Raised on AI",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T22:24:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c37950ec57",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T21:00:30+00:00",
-      "score": 5
-    },
-    {
-      "id": "81edf03711",
-      "title": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
-      "url": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
-      "summary": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T19:05:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "ef69790693",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T18:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fedb51cc07",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T18:19:12+00:00",
       "score": 4
     }
   ]
