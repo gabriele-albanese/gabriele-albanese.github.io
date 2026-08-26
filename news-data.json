@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-26T06:23:59.946166+00:00",
+  "updated": "2026-08-26T10:01:14.362834+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "606181c5d7",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her o",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8e8985deda",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 19",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T09:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b4b1e59549",
+      "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
+      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
+      "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T07:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "aa315854d4",
       "title": "AirDoctor Coupon Codes: 40% Off | August 2026",
@@ -33,6 +66,17 @@
       "topic": "tech",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T00:06:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "d8bbd65ee6",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "12 Aug 2026",
       "timestamp": "2026-08-12T18:19:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "2fd40c918b",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T17:41:29+00:00",
-      "score": 5
-    },
-    {
-      "id": "afc23a12a5",
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (R",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T16:51:57+00:00",
-      "score": 6
-    },
-    {
-      "id": "f04588bde5",
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-      "summary": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T16:18:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "a8dd77df51",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Aug 2026",
-      "timestamp": "2026-08-12T16:04:27+00:00",
       "score": 4
     }
   ]
