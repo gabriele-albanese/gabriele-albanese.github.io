@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-26T18:01:18.322622+00:00",
+  "updated": "2026-08-26T19:27:49.910514+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c87dc1947f",
+      "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T19:16:42+00:00",
+      "score": 5
+    },
+    {
+      "id": "0f701375c2",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T19:05:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "72bcbc260c",
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "summary": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T18:35:40+00:00",
+      "score": 4
+    },
     {
       "id": "a4308e591b",
       "title": "Apple is holding its iPhone launch event on September 9",
@@ -132,6 +165,17 @@
       "topic": "ai",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1f2e49eecf",
+      "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
+      "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
+      "summary": "Summary     NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to  dramatically cut transit times  to destinations around the solar system, such as Mars, by combining nuclear thermal and electric propulsion.    S‑BNR  uses a single reactor with two in",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T12:00:01+00:00",
       "score": 4
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "13 Aug 2026",
       "timestamp": "2026-08-13T17:00:13+00:00",
-      "score": 4
-    },
-    {
-      "id": "6d2316ab43",
-      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-      "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-      "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T16:37:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "93c925fadf",
-      "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
-      "url": "https://spectrum.ieee.org/product-engineer",
-      "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to.  Comp",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T14:44:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "e2666f986d",
-      "title": "Anthropic could be worth $2 trillion when it goes public",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T13:58:56+00:00",
-      "score": 6
-    },
-    {
-      "id": "47b33c8f3b",
-      "title": "Why This Prediction Market Banned Teens",
-      "url": "https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/",
-      "summary": "Jacob Fortinsky, the CEO and cofounder of the new prediction market Novig, says his outfit isn’t like those other markets. You know the ones.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T13:30:00+00:00",
       "score": 4
     }
   ]
