@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-27T16:54:50.244987+00:00",
+  "updated": "2026-08-27T18:01:12.623209+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be41cf18f6",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T17:43:24+00:00",
+      "score": 6
+    },
+    {
+      "id": "ab5080e647",
+      "title": "Netflix Failed at Video Games. Now It’s Trying to Promote Them",
+      "url": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
+      "summary": "Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T17:25:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "0b82431441",
+      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+      "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T17:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "c71b9d1a77",
       "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
@@ -12,6 +45,17 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T16:53:50+00:00",
       "score": 4
+    },
+    {
+      "id": "5a1940db7f",
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T16:52:42+00:00",
+      "score": 5
     },
     {
       "id": "a3ab342026",
@@ -33,6 +77,17 @@
       "topic": "tech",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bbba8e91cb",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T14:56:52+00:00",
       "score": 4
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "ai",
       "date": "17 Aug 2026",
       "timestamp": "2026-08-17T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e5221d6f87",
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T03:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0708aa52d5",
-      "title": "Governing AI with intention in the social impact sector",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
-      "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7430ad5663",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Aug 2026",
-      "timestamp": "2026-08-16T20:57:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "9eeacf6b78",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Aug 2026",
-      "timestamp": "2026-08-16T16:53:51+00:00",
-      "score": 5
-    },
-    {
-      "id": "8587bfcff0",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "summary": "Listen now | OpenAI&#8217;s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "16 Aug 2026",
-      "timestamp": "2026-08-16T12:31:42+00:00",
       "score": 4
     }
   ]
