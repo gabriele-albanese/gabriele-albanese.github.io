@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-27T14:01:14.254646+00:00",
+  "updated": "2026-08-27T16:54:50.244987+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c71b9d1a77",
+      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
+      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
+      "summary": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T16:53:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "a3ab342026",
+      "title": "Why did 1,000 Swiss citizens bury their underpants?",
+      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+      "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T15:39:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "30f6a0c163",
+      "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
+      "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+      "summary": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d0a5ac6877",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T14:01:42+00:00",
+      "score": 6
+    },
+    {
+      "id": "975b7811b0",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "summary": "Presented by Gravitee     Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.  That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, ",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T14:01:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "89693ce42c",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T14:00:13+00:00",
+      "score": 4
+    },
     {
       "id": "faa1a03b97",
       "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
@@ -12,6 +78,17 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T13:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "6ebcc7edcc",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T12:58:59+00:00",
+      "score": 6
     },
     {
       "id": "96b419a5cc",
@@ -66,6 +143,17 @@
       "topic": "ai",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5250e71c3d",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T09:00:00+00:00",
       "score": 4
     },
     {
@@ -2112,94 +2200,6 @@
       "topic": "pm",
       "date": "16 Aug 2026",
       "timestamp": "2026-08-16T12:31:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "4b17b08cf2",
-      "title": "Someone Finally Fixed Installing Apps on a Mac",
-      "url": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
-      "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Aug 2026",
-      "timestamp": "2026-08-16T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "73cbb223a2",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T18:58:39+00:00",
-      "score": 5
-    },
-    {
-      "id": "bfa1ce110e",
-      "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
-      "summary": "Community Wisdom 197",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T17:01:13+00:00",
-      "score": 4
-    },
-    {
-      "id": "e68ddcb830",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T16:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0dccda6e63",
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T16:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "031bef8b9f",
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "summary": "\"Flamingo missiles were used. A good achievement.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T15:46:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "24a1720c04",
-      "title": "Every fusion startup that has raised over $100M",
-      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "summary": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T13:15:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "e6d4dc11df",
-      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Aug 2026",
-      "timestamp": "2026-08-15T09:00:00+00:00",
       "score": 4
     }
   ]
