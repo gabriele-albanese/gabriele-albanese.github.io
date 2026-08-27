@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-27T18:01:12.623209+00:00",
+  "updated": "2026-08-27T22:01:16.993479+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f19c7fce1e",
+      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+      "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+      "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T21:08:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "59580e438c",
+      "title": "Rivian’s CFO is leaving the company",
+      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+      "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T20:23:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "41bcb0eef4",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T19:55:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "d38e6f05d0",
+      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+      "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T19:54:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "360e66b5f8",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T19:52:52+00:00",
+      "score": 6
+    },
+    {
+      "id": "2074ade1c5",
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation.",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T19:48:13+00:00",
+      "score": 4
+    },
+    {
+      "id": "30884a4496",
+      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T18:57:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "2df0d0761b",
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T18:06:52+00:00",
+      "score": 5
+    },
     {
       "id": "be41cf18f6",
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
@@ -2113,94 +2201,6 @@
       "date": "17 Aug 2026",
       "timestamp": "2026-08-17T19:33:51+00:00",
       "score": 5
-    },
-    {
-      "id": "80d9817c25",
-      "title": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
-      "url": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
-      "summary": "Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T18:32:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "897dfbe77a",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T16:38:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "40a9816ea4",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T15:16:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "d091c77a45",
-      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T15:03:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "7beb2b6fbd",
-      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
-      "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
-      "summary": "Watch now | &#127897;&#65039;From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T12:04:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "0c3e7b3f06",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "699d10e1c7",
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T05:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a7860c437a",
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T05:00:00+00:00",
-      "score": 4
     }
   ]
 }
