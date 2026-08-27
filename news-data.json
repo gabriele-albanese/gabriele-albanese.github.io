@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-26T22:01:14.416378+00:00",
+  "updated": "2026-08-27T02:01:09.020945+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "dff9dc0737",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T00:24:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "5b909d258e",
+      "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+      "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+      "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T22:13:15+00:00",
+      "score": 4
+    },
     {
       "id": "e8aad19178",
       "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
@@ -11,6 +33,17 @@
       "topic": "tech",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T21:37:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "7e1703c40f",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T21:25:27+00:00",
       "score": 4
     },
     {
@@ -375,6 +408,17 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T00:06:20+00:00",
       "score": 4
+    },
+    {
+      "id": "8334021a70",
+      "title": "Your AI agents need performance management, too",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
+      "summary": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive side by side.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "26 Aug 2026",
+      "timestamp": "2026-08-26T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "1c454c14ad",
@@ -1222,6 +1266,17 @@
       "date": "20 Aug 2026",
       "timestamp": "2026-08-20T09:30:00+00:00",
       "score": 6
+    },
+    {
+      "id": "dce66a3115",
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-intelligence-age",
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Aug 2026",
+      "timestamp": "2026-08-20T07:00:00+00:00",
+      "score": 4
     },
     {
       "id": "2e8bfa2782",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "14 Aug 2026",
       "timestamp": "2026-08-14T10:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "54a28939ed",
-      "title": "5 Weird Tricks for Having a Brain",
-      "url": "https://www.wired.com/galaxy-brain/",
-      "summary": "From the multibrained octopus to the bitty brain organoid, we’re all just inference engines making flawed bets on the future. Here are the five insights your brain will need to survive.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9ce37dae4f",
-      "title": "Reinventing the European pulp and paper operating model",
-      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
-      "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ad5eaa3696",
-      "title": "The Safety Reckoning Inside OpenAI",
-      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T22:37:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "d1c213446c",
-      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T22:12:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "ca85258543",
-      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
-      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Aug 2026",
-      "timestamp": "2026-08-13T21:14:43+00:00",
       "score": 4
     }
   ]
