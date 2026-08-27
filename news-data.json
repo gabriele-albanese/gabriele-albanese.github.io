@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-27T10:01:19.855180+00:00",
+  "updated": "2026-08-27T14:01:14.254646+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "faa1a03b97",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "96b419a5cc",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had b",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b6edaf7b0d",
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "summary": "Presented by EDB     As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was nev",
+      "source": "VentureBeat",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T12:01:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "9f21c491f2",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T11:35:59+00:00",
+      "score": 5
+    },
+    {
+      "id": "c509981ee9",
+      "title": "Best Posture Correctors for Better Body Alignment (2026)",
+      "url": "https://www.wired.com/gallery/posture-correctors/",
+      "summary": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T11:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6aeb201278",
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing t",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "e5bc4e5d81",
       "title": "Therabody Promo Codes: 15% Off September 2026",
@@ -25,6 +91,17 @@
       "score": 4
     },
     {
+      "id": "250ea25ba3",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T03:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "dff9dc0737",
       "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
       "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
@@ -33,6 +110,17 @@
       "topic": "tech",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T00:24:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "403c6fe99b",
+      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
+      "summary": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2113,94 +2201,6 @@
       "date": "15 Aug 2026",
       "timestamp": "2026-08-15T09:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "563a2c5415",
-      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T22:43:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "0dea06793b",
-      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-      "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T18:58:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "a8c799c82d",
-      "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
-      "url": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-      "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.    Download this free whitepaper now!",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T17:27:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "9e143ab692",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T17:26:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "3874b2e5cf",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T17:03:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "ce215cb2ea",
-      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T15:18:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "042796346f",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T14:50:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "30442beeaf",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Aug 2026",
-      "timestamp": "2026-08-14T14:27:14+00:00",
-      "score": 5
     }
   ]
 }
