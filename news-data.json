@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-27T22:01:16.993479+00:00",
+  "updated": "2026-08-28T01:48:56.418615+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3c75e284d8",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T23:16:45+00:00",
+      "score": 6
+    },
+    {
+      "id": "553e5cf044",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "summary": "Standardized driver interface  aims to let devices talk to AI and each other.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "27 Aug 2026",
+      "timestamp": "2026-08-27T22:15:43+00:00",
+      "score": 5
+    },
     {
       "id": "f19c7fce1e",
       "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "17 Aug 2026",
       "timestamp": "2026-08-17T21:27:05+00:00",
-      "score": 5
-    },
-    {
-      "id": "4a3b0b8abd",
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T21:18:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "65be5d7b8c",
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T19:33:51+00:00",
       "score": 5
     }
   ]
