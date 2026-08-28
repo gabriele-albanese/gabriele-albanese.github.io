@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-28T06:01:14.016342+00:00",
+  "updated": "2026-08-28T10:01:14.303278+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0b585507a6",
+      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T09:33:00+00:00",
+      "score": 4
+    },
     {
       "id": "e2716eac91",
       "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
@@ -12,6 +23,17 @@
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T03:04:14+00:00",
       "score": 4
+    },
+    {
+      "id": "8a2a589ad9",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T02:00:00+00:00",
+      "score": 5
     },
     {
       "id": "3c75e284d8",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9ad8732895",
-      "title": "How can the public sector meet the AI moment?",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
-      "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "de8e9b90f0",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T23:56:26+00:00",
       "score": 4
     }
   ]
