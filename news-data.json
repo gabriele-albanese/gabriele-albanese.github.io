@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-28T18:01:15.644918+00:00",
+  "updated": "2026-08-28T22:01:14.549955+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "24c26e96ef",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T19:30:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "6a5833e88e",
+      "title": "Microsoft Teams Has Become a Haven for Scammers in China",
+      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+      "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T18:23:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "cadeb7266a",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T18:07:55+00:00",
+      "score": 4
+    },
     {
       "id": "a4e185da09",
       "title": "How Sweden built one of Europe’s hottest startup ecosystems",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T13:50:30+00:00",
-      "score": 5
-    },
-    {
-      "id": "00f87f54bb",
-      "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-      "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-      "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f7758ff25a",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T12:10:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "4a5b761c5c",
-      "title": "What Gets Your Best Employees to Stay",
-      "url": "https://sloanreview.mit.edu/article/what-gets-your-best-employees-to-stay/",
-      "summary": "Chris Gash/theispot.com A recent battle for AI talent illustrates how difficult it is for companies to retain key employees. In 2025, OpenAI’s stock-based compensation averaged roughly $1.5 million per employee — unprecedented for a pre-IPO company — yet OpenAI still experienced ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T11:00:26+00:00",
       "score": 5
     }
   ]
