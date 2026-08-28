@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-28T14:01:11.319169+00:00",
+  "updated": "2026-08-28T17:45:38.165714+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a4e185da09",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T17:09:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "f3019f0f50",
+      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "0a012eb512",
       "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
@@ -111,6 +133,17 @@
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T02:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "9287272b26",
+      "title": "The new management playbook for AI: How to move faster and create more value",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
+      "summary": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "3c75e284d8",
@@ -2168,39 +2201,6 @@
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T11:00:26+00:00",
       "score": 5
-    },
-    {
-      "id": "1204bd549a",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T11:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "f7788bfa76",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "48f9d5cfe5",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T11:00:00+00:00",
-      "score": 4
     }
   ]
 }
