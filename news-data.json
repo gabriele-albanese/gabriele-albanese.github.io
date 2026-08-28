@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-28T02:01:09.441461+00:00",
+  "updated": "2026-08-28T06:01:14.016342+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e2716eac91",
+      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T03:04:14+00:00",
+      "score": 4
+    },
     {
       "id": "3c75e284d8",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -2190,17 +2201,6 @@
       "date": "17 Aug 2026",
       "timestamp": "2026-08-17T23:56:26+00:00",
       "score": 4
-    },
-    {
-      "id": "5b8dbc23ae",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Aug 2026",
-      "timestamp": "2026-08-17T21:27:05+00:00",
-      "score": 5
     }
   ]
 }
