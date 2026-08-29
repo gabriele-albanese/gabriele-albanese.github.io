@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-29T18:01:08.576912+00:00",
+  "updated": "2026-08-29T20:03:11.087784+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4c227db63c",
+      "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+      "summary": "Community Wisdom 199",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "29 Aug 2026",
+      "timestamp": "2026-08-29T18:59:48+00:00",
+      "score": 5
+    },
+    {
+      "id": "0d18d5472b",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Aug 2026",
+      "timestamp": "2026-08-29T18:41:59+00:00",
+      "score": 4
+    },
     {
       "id": "ddfe512ded",
       "title": "The Theragun Sense makes everyday recovery surprisingly easy",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4f194a8117",
-      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T17:31:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "506ef6f4e0",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T17:21:58+00:00",
       "score": 4
     }
   ]
