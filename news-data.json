@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-29T06:01:07.232390+00:00",
+  "updated": "2026-08-29T10:01:12.562763+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a220e1e92f",
+      "title": "How to Run a Chatbot on Your Own Computer",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Aug 2026",
+      "timestamp": "2026-08-29T10:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "f10125c70d",
       "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T15:50:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "04fc625dc1",
-      "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
-      "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
-      "summary": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T15:40:06+00:00",
       "score": 4
     }
   ]
