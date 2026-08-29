@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:12:39.016892+00:00",
+  "updated": "2026-08-29T02:01:07.500392+00:00",
   "count": 200,
   "articles": [
     {
@@ -166,6 +166,17 @@
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T09:33:00+00:00",
       "score": 4
+    },
+    {
+      "id": "57a3b90053",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "28 Aug 2026",
+      "timestamp": "2026-08-28T06:00:00+00:00",
+      "score": 5
     },
     {
       "id": "e2716eac91",
@@ -2190,17 +2201,6 @@
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T15:40:06+00:00",
       "score": 4
-    },
-    {
-      "id": "fab1a28705",
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-      "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T14:00:00+00:00",
-      "score": 5
     }
   ]
 }
