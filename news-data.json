@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-30T15:32:24.373222+00:00",
+  "updated": "2026-08-30T18:01:11.242010+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5c1d55199c",
+      "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
+      "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+      "summary": "After Donald Trump’s executive order demanding the name change, Google is the first major online maps provider to flip the switch.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Aug 2026",
+      "timestamp": "2026-08-30T16:16:24+00:00",
+      "score": 4
+    },
     {
       "id": "40640a05d5",
       "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
@@ -2190,17 +2201,6 @@
       "date": "18 Aug 2026",
       "timestamp": "2026-08-18T19:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "9b847b4557",
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T18:33:11+00:00",
-      "score": 6
     }
   ]
 }
