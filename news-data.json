@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-31T11:55:42.634084+00:00",
+  "updated": "2026-08-31T14:01:20.415276+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b352e3009c",
+      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "summary": "Listen now | &#127897;&#65039; PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T12:04:18+00:00",
+      "score": 4
+    },
     {
       "id": "25c31c76da",
       "title": "Tying Purpose to Performance",
@@ -44,6 +55,17 @@
       "topic": "tech",
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T10:00:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "7aa1f68e6f",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T04:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T14:18:12+00:00",
       "score": 5
-    },
-    {
-      "id": "fe46527ac0",
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "summary": "It's the data, stupid.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2d2b7bbcf3",
-      "title": "I Tried a Window-Cleaning Robot: Do Not Recommend",
-      "url": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
-      "summary": "I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T11:08:00+00:00",
-      "score": 4
     }
   ]
 }
