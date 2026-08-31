@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-31T10:01:21.617633+00:00",
+  "updated": "2026-08-31T11:55:42.634084+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "25c31c76da",
+      "title": "Tying Purpose to Performance",
+      "url": "https://sloanreview.mit.edu/article/tying-purpose-to-performance/",
+      "summary": "Photo courtesy DHL John Pearson has been CEO of DHL Express and on the DHL Group board of management since 2019. He joined the global logistics and courier company in 1986 and has held senior management positions in its divisions in the Middle East, the Asia-Pacific region, the U",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T11:00:44+00:00",
+      "score": 5
+    },
+    {
+      "id": "a001ef82cd",
+      "title": "A Compelling Story Can Disarm Even a Skeptical Negotiator",
+      "url": "https://sloanreview.mit.edu/article/a-compelling-story-can-disarm-even-a-skeptical-negotiator/",
+      "summary": "Ivan Diaz/Unsplash Human beings are not good at separating fact from fiction. But surely hard-nosed B2B professionals are different? Our research suggests otherwise. In two experiments with 622 B2B sales professionals, we gave participants a negotiation scenario in which a buyer ",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T11:00:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "9802d425f5",
+      "title": "Three Things to Know About Customer Resistance to AI",
+      "url": "https://sloanreview.mit.edu/article/three-things-to-know-about-customer-resistance-to-ai/",
+      "summary": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a chatbot and get to a human, you’re not alone. Here’s what three recent studies discovered about when customers will and won",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T11:00:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "f2f42b7209",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T10:00:34+00:00",
+      "score": 4
+    },
     {
       "id": "5e9fce5dde",
       "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T11:08:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a339a2b679",
-      "title": "The Five Inclusive Behaviors Board Chairs Overlook",
-      "url": "https://sloanreview.mit.edu/article/the-five-inclusive-behaviors-board-chairs-overlook/",
-      "summary": "Curt Merlo/theispot.com Many companies around the world have made significant progress in adding a higher proportion of board directors from traditionally underrepresented groups, such as women and people of color. But despite the increased diversity, many boards lag on inclusivi",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T11:00:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "09f9dc1b52",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b59389e2f2",
-      "title": "Advancing American healthcare: An interview with Seema Verma",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
-      "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "38269b8f7f",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Aug 2026",
-      "timestamp": "2026-08-18T22:14:25+00:00",
       "score": 4
     }
   ]
