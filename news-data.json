@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-31T14:01:20.415276+00:00",
+  "updated": "2026-08-31T18:01:22.424732+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3f74c2a363",
+      "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
+      "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
+      "summary": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T17:14:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "9be77c63ba",
+      "title": "VLC crosses 7 billion downloads",
+      "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
+      "summary": "In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T16:07:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "773b325bd3",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e67735379c",
+      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T15:01:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "59e8c6c566",
+      "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
+      "url": "https://spectrum.ieee.org/europes-ai-drive",
+      "summary": "This story was    originally published    by    Tech Policy Press  .  The European Union’s push for technological sovereignty faces an uncomfortable contradiction.  As the EU rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the adv",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T14:00:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "c2069d349f",
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T13:41:40+00:00",
+      "score": 4
+    },
     {
       "id": "b352e3009c",
       "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
@@ -77,6 +143,17 @@
       "topic": "tech",
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T02:18:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "92dea4f4d2",
+      "title": "Revolutionizing semiconductor fab operations with AI",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
+      "summary": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and productivity gains.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2124,83 +2201,6 @@
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T18:46:14+00:00",
       "score": 4
-    },
-    {
-      "id": "808f93a00f",
-      "title": "Gaining Leadership Backing for Your Innovations",
-      "url": "https://spectrum.ieee.org/leadership-backing-innovation",
-      "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.    Imagine this: You have a strong idea for a new product for your company. Your coworkers encourage you to move forward because they believe it ",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T18:00:02+00:00",
-      "score": 6
-    },
-    {
-      "id": "da3d698d8f",
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T17:26:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "69d769bd59",
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T16:44:07+00:00",
-      "score": 5
-    },
-    {
-      "id": "e68d508d29",
-      "title": "Google Pixel Watch 5 Review: More Health, More AI",
-      "url": "https://www.wired.com/review/google-pixel-watch-5/",
-      "summary": "With smarter gym tracking, new health alerts, and offline Gemini, the Pixel Watch 5 fine-tunes a winning formula—for a price.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T16:34:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "0cf7bd5809",
-      "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T16:16:18+00:00",
-      "score": 5
-    },
-    {
-      "id": "b7d34b8d60",
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T15:44:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "f8a8e90f0b",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T14:18:12+00:00",
-      "score": 5
     }
   ]
 }
