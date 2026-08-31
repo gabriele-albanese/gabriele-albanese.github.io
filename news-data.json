@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-31T18:17:33.902846+00:00",
+  "updated": "2026-08-31T22:01:14.291953+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "77b770af97",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T20:13:45+00:00",
+      "score": 6
+    },
+    {
+      "id": "292ca27a30",
+      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
+      "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
+      "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T20:02:16+00:00",
+      "score": 4
+    },
+    {
+      "id": "4dbcaf3b54",
+      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+      "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T19:02:06+00:00",
+      "score": 5
+    },
+    {
+      "id": "fa12046855",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "summary": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T18:10:45+00:00",
+      "score": 4
+    },
     {
       "id": "e985a8c11f",
       "title": "Hugging Face hack could indicate cultural issues at OpenAI",
@@ -154,6 +198,17 @@
       "topic": "tech",
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T02:18:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "6577785b66",
+      "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
+      "url": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
+      "summary": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2146,61 +2201,6 @@
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T22:10:46+00:00",
       "score": 6
-    },
-    {
-      "id": "6aba2536a5",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T21:51:23+00:00",
-      "score": 8
-    },
-    {
-      "id": "7aa8fd0ea3",
-      "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T20:12:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "7e1debc1bd",
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T19:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8656b8f78d",
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T19:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b75ccb5815",
-      "title": "Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T19:00:00+00:00",
-      "score": 4
     }
   ]
 }
