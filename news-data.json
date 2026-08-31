@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-31T18:01:22.424732+00:00",
+  "updated": "2026-08-31T18:17:33.902846+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e985a8c11f",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the A",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T18:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "3f74c2a363",
       "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "19 Aug 2026",
       "timestamp": "2026-08-19T19:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5276b3d7b6",
-      "title": "Researchers say OpenAI revoked their access to limited cyber program",
-      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T18:46:14+00:00",
       "score": 4
     }
   ]
