@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T02:11:25.816020+00:00",
+  "updated": "2026-09-01T06:01:10.718403+00:00",
   "count": 200,
   "articles": [
     {
@@ -209,6 +209,17 @@
       "topic": "tech",
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T10:00:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "7f3e9f8d83",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T07:00:00+00:00",
       "score": 4
     },
     {
@@ -2185,17 +2196,6 @@
       "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age",
       "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2e8bfa2782",
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "source": "OpenAI Blog",
       "topic": "ai",
       "date": "20 Aug 2026",
