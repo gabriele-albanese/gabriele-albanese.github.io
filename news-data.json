@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-01T10:35:42.544719+00:00",
+  "updated": "2026-09-01T14:01:16.024359+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a4bc7c87b0",
+      "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+      "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+      "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T13:58:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "c1ca73e96e",
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a l",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T12:10:00+00:00",
+      "score": 4
+    },
     {
       "id": "a5ce535407",
       "title": "Inside the Perimenopause Industrial Complex",
@@ -2179,28 +2201,6 @@
       "date": "20 Aug 2026",
       "timestamp": "2026-08-20T10:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "d29497c587",
-      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
-      "url": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
-      "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ad5059a21e",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T09:30:00+00:00",
-      "score": 6
     }
   ]
 }
