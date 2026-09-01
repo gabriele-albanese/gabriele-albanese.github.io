@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-01T18:01:13.225050+00:00",
+  "updated": "2026-09-01T20:12:13.498769+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "677c164707",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T20:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "c6364d1165",
+      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first ever foldable iPhone.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T19:45:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "0b975c1752",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T19:39:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "ee7ea08645",
+      "title": "Who is John Ternus, the new Apple CEO?",
+      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T18:02:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "75740ea7ad",
+      "title": "This is what a supercar was like a century ago",
+      "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+      "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T17:34:16+00:00",
+      "score": 4
+    },
     {
       "id": "4be3ed23a7",
       "title": "How AI-native companies turn workflows into operating capability",
@@ -144,6 +199,17 @@
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T13:58:42+00:00",
       "score": 4
+    },
+    {
+      "id": "c931d0b3b7",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T13:00:00+00:00",
+      "score": 5
     },
     {
       "id": "c1ca73e96e",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "21 Aug 2026",
       "timestamp": "2026-08-21T19:16:15+00:00",
-      "score": 5
-    },
-    {
-      "id": "02e578e5a4",
-      "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
-      "url": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
-      "summary": "Romania blew up drone boat to protect lives of several hundred rig workers.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T16:48:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "538a22a919",
-      "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
-      "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-      "summary": "About this Webinar    Turn Yield Excursions into Faster, More Confident Root Cause Analysis   When a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while gro",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T14:32:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "66806890d2",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using A",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "715aa7b8d8",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T00:13:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "34426c06aa",
-      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
-      "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cdac95d6e8",
-      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isa",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T23:32:27+00:00",
       "score": 5
     }
   ]
