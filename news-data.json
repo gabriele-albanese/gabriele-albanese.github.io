@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-31T22:01:14.291953+00:00",
+  "updated": "2026-09-01T02:01:14.476117+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ddd60eb51f",
+      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "00adf4a54c",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T00:13:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "87f292108d",
+      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+      "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+      "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T23:14:14+00:00",
+      "score": 4
+    },
     {
       "id": "77b770af97",
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -177,6 +210,17 @@
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T10:00:34+00:00",
       "score": 4
+    },
+    {
+      "id": "6489dfdc16",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "31 Aug 2026",
+      "timestamp": "2026-08-31T07:00:00+00:00",
+      "score": 5
     },
     {
       "id": "7aa1f68e6f",
@@ -2157,50 +2201,6 @@
       "date": "20 Aug 2026",
       "timestamp": "2026-08-20T07:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "6213ce5cee",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "22abfcb135",
-      "title": "Earning and sustaining trust in the age of AI",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
-      "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "42bbaa081f",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T23:32:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d306eafa18",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Aug 2026",
-      "timestamp": "2026-08-19T22:10:46+00:00",
-      "score": 6
     }
   ]
 }
