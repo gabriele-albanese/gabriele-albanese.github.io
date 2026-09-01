@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-01T14:01:16.024359+00:00",
+  "updated": "2026-09-01T15:37:21.468563+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "304b2d156d",
+      "title": "Microsoft 365 outage drags on, but things are improving",
+      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+      "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T15:23:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "b0da727681",
+      "title": "Over and Out",
+      "url": "https://sloanreview.mit.edu/article/over-and-out/",
+      "summary": "For this final issue of MIT Sloan Management Review, Benjamin Laker and Maria Papacosta offer advice on ending things well. In that spirit, we want to reflect on the impact our editorially independent publication has had in its 67 years. Over the past few months, we’ve been buoye",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T15:22:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "be79bbd47e",
+      "title": "What Kind of Chief Purpose Officer Does Your Company Need?",
+      "url": "https://sloanreview.mit.edu/article/what-kind-of-chief-purpose-officer-does-your-company-need/",
+      "summary": "Rob Dobi The Research The authors identified 56 individuals with purpose leadership roles who were representative of a variety of industries, company sizes, and regions. Of the CPOs interviewed, 60% identified as female and 40% as male. They conducted semi-structured interviews o",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T15:21:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "dde6b4e662",
+      "title": "Dethroning Loyalty",
+      "url": "https://sloanreview.mit.edu/article/dethroning-loyalty/",
+      "summary": "Rob Dobi What’s wrong with loyalty? Isn’t it a virtue to display steadfast allegiance to something or someone other than oneself? After all, loyalty has been celebrated as a virtue across many cultures for millennia. As economic headwinds and a tough job market appear to be empow",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T15:19:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "6c0a1f3f13",
+      "title": "﻿How Leadership Anxiety Derails Transformation",
+      "url": "https://sloanreview.mit.edu/article/how-leadership-anxiety-derails-transformation/",
+      "summary": "Rob Dobi The Research This article draws on a four-year ethnographic study of a professional services firm whose leaders initiated a major transformation to reverse declining performance. The research involved nearly 760 hours of observation across leadership and project team mee",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T15:17:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "5fa8114400",
+      "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+      "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+      "summary": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T14:52:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "79a8e18f81",
+      "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+      "summary": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T14:03:00+00:00",
+      "score": 4
+    },
     {
       "id": "a4bc7c87b0",
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
@@ -2124,83 +2201,6 @@
       "date": "20 Aug 2026",
       "timestamp": "2026-08-20T16:46:00+00:00",
       "score": 5
-    },
-    {
-      "id": "204c4985f5",
-      "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-      "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-      "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "78b8e28299",
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T16:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "ac3b651128",
-      "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T15:53:49+00:00",
-      "score": 5
-    },
-    {
-      "id": "5e86b723ff",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these see",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T15:42:39+00:00",
-      "score": 5
-    },
-    {
-      "id": "428b4bbd9b",
-      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-      "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
-      "summary": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T13:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2816275d64",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T13:00:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "db7b762797",
-      "title": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
-      "url": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
-      "summary": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T10:00:00+00:00",
-      "score": 4
     }
   ]
 }
