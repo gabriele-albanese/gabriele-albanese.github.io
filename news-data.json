@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-01T15:37:21.468563+00:00",
+  "updated": "2026-09-01T18:01:13.225050+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4be3ed23a7",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T17:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "18f7db1b68",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T17:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "f9f3593ed2",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T16:31:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "fd6ea7e03b",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T15:45:51+00:00",
+      "score": 5
+    },
     {
       "id": "304b2d156d",
       "title": "Microsoft 365 outage drags on, but things are improving",
@@ -69,6 +113,17 @@
       "score": 4
     },
     {
+      "id": "034ca0e7e4",
+      "title": "It turns out that Orion's much-maligned heat shield performed really well",
+      "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+      "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T14:46:28+00:00",
+      "score": 4
+    },
+    {
       "id": "79a8e18f81",
       "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
@@ -99,6 +154,17 @@
       "topic": "ai",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "56641fe029",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T12:00:00+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "20 Aug 2026",
       "timestamp": "2026-08-20T23:32:27+00:00",
-      "score": 5
-    },
-    {
-      "id": "08dddb48c1",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T22:36:37+00:00",
-      "score": 6
-    },
-    {
-      "id": "fc53f9f20e",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T22:09:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "072ab33f01",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T17:18:58+00:00",
-      "score": 5
-    },
-    {
-      "id": "266bfe9761",
-      "title": "Roblox must make changes after failing to block adults creeping on kids",
-      "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-      "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T17:14:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "626c3518cd",
-      "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-      "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-      "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T17:04:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "28cd1afbb6",
-      "title": "Ramp launches its own AI model router, called Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Aug 2026",
-      "timestamp": "2026-08-20T16:46:00+00:00",
       "score": 5
     }
   ]
