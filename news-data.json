@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-01T20:12:13.498769+00:00",
+  "updated": "2026-09-01T22:01:15.938622+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be7c65afeb",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T21:06:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "62b6270ed2",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T20:53:05+00:00",
+      "score": 5
+    },
+    {
+      "id": "e2c119acd9",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "01 Sep 2026",
+      "timestamp": "2026-09-01T20:45:00+00:00",
+      "score": 4
+    },
     {
       "id": "677c164707",
       "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "21 Aug 2026",
       "timestamp": "2026-08-21T23:07:25+00:00",
-      "score": 5
-    },
-    {
-      "id": "a01edf0c52",
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T22:10:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "4af5149f16",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T19:43:39+00:00",
-      "score": 6
-    },
-    {
-      "id": "8f23860a00",
-      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-      "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Aug 2026",
-      "timestamp": "2026-08-21T19:16:15+00:00",
       "score": 5
     }
   ]
