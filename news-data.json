@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-02T10:01:13.015857+00:00",
+  "updated": "2026-09-02T14:01:18.891134+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "229b585082",
+      "title": "Uber is laying off 10% of staff, or 3,300 people",
+      "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T12:14:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "fdfd47cb27",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. Th",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "4799c2fe4d",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T12:09:42+00:00",
+      "score": 4
+    },
     {
       "id": "d25f7eface",
       "title": "Larry Page’s flying car company Pivotal loses its CEO",
@@ -2168,39 +2201,6 @@
       "date": "22 Aug 2026",
       "timestamp": "2026-08-22T21:46:56+00:00",
       "score": 5
-    },
-    {
-      "id": "05cdf650ff",
-      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Aug 2026",
-      "timestamp": "2026-08-22T20:24:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "f264c05767",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Aug 2026",
-      "timestamp": "2026-08-22T19:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "39119bad22",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Aug 2026",
-      "timestamp": "2026-08-22T16:30:34+00:00",
-      "score": 4
     }
   ]
 }
