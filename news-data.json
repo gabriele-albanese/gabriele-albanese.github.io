@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-02T18:01:11.162274+00:00",
+  "updated": "2026-09-02T20:10:53.153622+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b6856c11b3",
+      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+      "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T19:25:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "3aae57077f",
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T18:41:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "53572cd4dd",
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T18:20:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "5e8d637be2",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T18:13:54+00:00",
+      "score": 4
+    },
+    {
+      "id": "01be0a47d7",
+      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T17:58:33+00:00",
+      "score": 4
+    },
     {
       "id": "b567a13a82",
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
@@ -2145,61 +2200,6 @@
       "topic": "ai",
       "date": "24 Aug 2026",
       "timestamp": "2026-08-24T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9f3cb141c2",
-      "title": "Building Technology People Can Trust",
-      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "summary": "This article is brought to you by  Emerson .   I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.  In semiconductors, we have",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T11:37:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "75ce34cc3a",
-      "title": "Develop Your Team’s Social Capital, Not Just Their Skills",
-      "url": "https://sloanreview.mit.edu/article/develop-your-teams-social-capital-not-just-their-skills/",
-      "summary": "Leigh Wells/Ikon Images Leaders may prioritize executing strategy and driving organizational performance, but they are also responsible for developing the next generation of leaders. Traditionally, leadership development has focused heavily on performance — an understandable emph",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T11:00:55+00:00",
-      "score": 5
-    },
-    {
-      "id": "4704b66595",
-      "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
-      "url": "https://www.wired.com/story/best-home-theater-projector/",
-      "summary": "Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b781f4c498",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3abe6ececf",
-      "title": "Where AI agents pay off: A practical guide to the economics of agentic workflows",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows",
-      "summary": "Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T00:00:00+00:00",
       "score": 4
     }
   ]
