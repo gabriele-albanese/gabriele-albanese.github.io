@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-02T20:10:53.153622+00:00",
+  "updated": "2026-09-02T22:01:10.769639+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ff395585cf",
+      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+      "url": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+      "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T21:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "373be54006",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T20:19:14+00:00",
+      "score": 4
+    },
     {
       "id": "b6856c11b3",
       "title": "Delivery Hero board backs Uber’s $15B takeover bid",
@@ -2179,28 +2201,6 @@
       "date": "24 Aug 2026",
       "timestamp": "2026-08-24T13:45:15+00:00",
       "score": 5
-    },
-    {
-      "id": "7d7123f38c",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b4f331f2e1",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T12:00:00+00:00",
-      "score": 4
     }
   ]
 }
