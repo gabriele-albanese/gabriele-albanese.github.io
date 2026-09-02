@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-02T15:24:54.621687+00:00",
+  "updated": "2026-09-02T18:01:11.162274+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b567a13a82",
+      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users ali",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T17:18:13+00:00",
+      "score": 5
+    },
+    {
+      "id": "241155a602",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T17:09:06+00:00",
+      "score": 6
+    },
+    {
+      "id": "461b003195",
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T15:51:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "9fef7b0614",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "summary": "Introducing Fairwind Program",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T15:40:00+00:00",
+      "score": 4
+    },
     {
       "id": "b655f59646",
       "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
@@ -2156,50 +2200,6 @@
       "topic": "business",
       "date": "24 Aug 2026",
       "timestamp": "2026-08-24T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "be28f1428b",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Aug 2026",
-      "timestamp": "2026-08-23T20:01:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "d26899ffdb",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Aug 2026",
-      "timestamp": "2026-08-23T15:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c058daa1dd",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Aug 2026",
-      "timestamp": "2026-08-23T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "eb1656761b",
-      "title": "Poetry for Engineers: Safe Distance",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
-      "summary": "How do I touch you across the ocean, across cold depths where light travels through glass.  Not copper—fibers. Optical.   Through liquid glass, through flickering light that carries you in fragments. Light broken into pulses.   You say: it’s easier this way. What are we missing l",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "23 Aug 2026",
-      "timestamp": "2026-08-23T13:00:01+00:00",
       "score": 4
     }
   ]
