@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-03T10:11:24.235689+00:00",
+  "updated": "2026-09-03T14:01:14.050428+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4cc1e632bb",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a7f44bb528",
+      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+      "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "summary": "TikTok&#8217;s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments. With the additions, the app is b",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bd46c398b6",
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T12:43:09+00:00",
+      "score": 4
+    },
+    {
+      "id": "dfe0b069a2",
+      "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
+      "url": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
+      "summary": "An underground detector recorded a strange interaction pointing to a particle with some properties that signify dark matter. The detection is small but promising.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T11:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "85cb7c596d",
       "title": "Scaling agentic AI pilots across the enterprise",
@@ -34,6 +78,17 @@
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T01:32:02+00:00",
       "score": 6
+    },
+    {
+      "id": "d4eea841d6",
+      "title": "Made in America, again? Rethinking US manufacturing resilience",
+      "url": "https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience",
+      "summary": "Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "7bd6a78267",
@@ -2146,61 +2201,6 @@
       "date": "25 Aug 2026",
       "timestamp": "2026-08-25T07:05:00+00:00",
       "score": 4
-    },
-    {
-      "id": "31f9b25438",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bbe7f12da3",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d3a6f5fe5d",
-      "title": "Global Economics Intelligence executive summary, July 2026",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "summary": "With mixed economic signals and energy markets still vulnerable to disruption, central banks face an increasingly difficult balance between supporting growth and containing inflation.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5bd6315049",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d14fdbf4a3",
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T20:16:34+00:00",
-      "score": 5
     }
   ]
 }
