@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-03T14:01:14.050428+00:00",
+  "updated": "2026-09-03T15:18:04.361517+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9ebf8f5d0c",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brough",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T15:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "4cc1e632bb",
       "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "25 Aug 2026",
       "timestamp": "2026-08-25T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1c0de2ab32",
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T07:05:00+00:00",
       "score": 4
     }
   ]
