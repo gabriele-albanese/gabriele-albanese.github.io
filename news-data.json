@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-02T22:01:10.769639+00:00",
+  "updated": "2026-09-03T01:38:10.621834+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "20a8d82f65",
+      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T01:32:02+00:00",
+      "score": 6
+    },
+    {
+      "id": "7bd6a78267",
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T23:01:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ef03c3a5f1",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T22:44:56+00:00",
+      "score": 5
+    },
     {
       "id": "ff395585cf",
       "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
@@ -176,6 +209,17 @@
       "topic": "tech",
       "date": "02 Sep 2026",
       "timestamp": "2026-09-02T12:09:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "21f8b89691",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "02 Sep 2026",
+      "timestamp": "2026-09-02T12:00:00+00:00",
       "score": 4
     },
     {
@@ -2157,50 +2201,6 @@
       "date": "24 Aug 2026",
       "timestamp": "2026-08-24T19:54:19+00:00",
       "score": 4
-    },
-    {
-      "id": "0565e9e7b1",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T15:24:18+00:00",
-      "score": 6
-    },
-    {
-      "id": "e0099f0b8b",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b11795f5f3",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an a",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T14:20:19+00:00",
-      "score": 6
-    },
-    {
-      "id": "3da0c65afb",
-      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-      "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Aug 2026",
-      "timestamp": "2026-08-24T13:45:15+00:00",
-      "score": 5
     }
   ]
 }
