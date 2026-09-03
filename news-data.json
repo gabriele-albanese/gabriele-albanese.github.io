@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-03T15:18:04.361517+00:00",
+  "updated": "2026-09-03T18:01:10.821465+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b1a49d842e",
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T16:42:40+00:00",
+      "score": 5
+    },
+    {
+      "id": "4d0be1d61b",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T16:09:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "dcb0248b9e",
+      "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+      "url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+      "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T16:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "9ebf8f5d0c",
       "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
@@ -2167,39 +2200,6 @@
       "topic": "business",
       "date": "25 Aug 2026",
       "timestamp": "2026-08-25T11:00:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "c120efda15",
-      "title": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation",
-      "url": "https://www.wired.com/review/optoma-gt2400hdr/",
-      "summary": "The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video quality makes it less appealing for home entertainment.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T10:32:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a12ec9af2a",
-      "title": "It Should Be Harder to Apply for a Job. No, Really",
-      "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
-      "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dac3a9d1e6",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "25 Aug 2026",
-      "timestamp": "2026-08-25T09:00:00+00:00",
       "score": 4
     }
   ]
