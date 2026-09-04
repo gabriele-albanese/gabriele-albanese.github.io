@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-04T15:13:11.206273+00:00",
+  "updated": "2026-09-04T18:01:14.967192+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8db57e630a",
+      "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "summary": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T17:52:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb999a1a32",
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T17:18:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3055f9c8a8",
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T16:22:18+00:00",
+      "score": 5
+    },
+    {
+      "id": "718826050b",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T16:21:11+00:00",
+      "score": 5
+    },
     {
       "id": "8455d4164f",
       "title": "Google’s Gemini Spark can now manage your Google Photos library",
@@ -2157,50 +2201,6 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T10:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "6d0a59326d",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T10:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "606181c5d7",
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her o",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8e8985deda",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 19",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b4b1e59549",
-      "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-      "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
-      "summary": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T07:00:00+00:00",
-      "score": 5
     }
   ]
 }
