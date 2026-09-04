@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-04T10:01:14.856855+00:00",
+  "updated": "2026-09-04T14:01:13.042195+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1b9e435c7e",
+      "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+      "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T12:48:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "e205203761",
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T11:00:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "014719f8b9",
+      "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+      "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
+      "summary": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "16db96c970",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -2168,39 +2201,6 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T05:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "032f5fcc6f",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T00:40:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "8c02d9ad51",
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T00:06:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "8334021a70",
-      "title": "Your AI agents need performance management, too",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
-      "summary": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive side by side.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T00:00:00+00:00",
-      "score": 5
     }
   ]
 }
