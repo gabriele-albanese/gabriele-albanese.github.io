@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-04T06:01:18.128420+00:00",
+  "updated": "2026-09-04T10:01:14.856855+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "16db96c970",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which the",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T09:25:19+00:00",
+      "score": 4
+    },
     {
       "id": "3e1ba23902",
       "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -2187,17 +2198,6 @@
       "summary": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive side by side.",
       "source": "McKinsey",
       "topic": "business",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1c454c14ad",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T00:00:00+00:00",
       "score": 5
