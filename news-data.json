@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-04T02:01:09.173974+00:00",
+  "updated": "2026-09-04T06:01:18.128420+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3e1ba23902",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T04:21:03+00:00",
+      "score": 4
+    },
     {
       "id": "28b88b7dea",
       "title": "Oura files to go public",
@@ -2190,17 +2201,6 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T00:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "d8bbd65ee6",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
