@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-04T22:01:14.459885+00:00",
+  "updated": "2026-09-05T01:33:23.163605+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f48898262d",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T23:36:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "2180a1fa6f",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T23:15:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "47c913b5e0",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "04 Sep 2026",
+      "timestamp": "2026-09-04T22:17:36+00:00",
+      "score": 5
+    },
     {
       "id": "e160d21430",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -2168,39 +2201,6 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T12:00:01+00:00",
       "score": 4
-    },
-    {
-      "id": "c7519cb8e6",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c0735f59ec",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T11:10:49+00:00",
-      "score": 5
-    },
-    {
-      "id": "0b448ece42",
-      "title": "Building on AI’s Unfinished Foundation",
-      "url": "https://sloanreview.mit.edu/article/building-on-ais-unfinished-foundation/",
-      "summary": "Brian Stauffer/theispot.com By the ordinary measures of any new technology, the current wave of generative AI has moved fast. By some estimates, about 2.4 billion people worldwide use generative AI platforms each month, and coding agents have changed how software is written. Effo",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T11:00:49+00:00",
-      "score": 5
     }
   ]
 }
