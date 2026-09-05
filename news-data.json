@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T02:01:06.521030+00:00",
+  "updated": "2026-09-05T06:01:10.056076+00:00",
   "count": 200,
   "articles": [
     {
@@ -407,6 +407,17 @@
       "topic": "tech",
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T11:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8b954ea26b",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "03 Sep 2026",
+      "timestamp": "2026-09-03T11:00:00+00:00",
       "score": 4
     },
     {
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1f2e49eecf",
-      "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
-      "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "summary": "Summary     NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to  dramatically cut transit times  to destinations around the solar system, such as Mars, by combining nuclear thermal and electric propulsion.    S‑BNR  uses a single reactor with two in",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T12:00:01+00:00",
       "score": 4
     }
   ]
