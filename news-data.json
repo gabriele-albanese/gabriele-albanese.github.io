@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:28:24.119718+00:00",
+  "updated": "2026-09-06T18:01:09.586459+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "tech",
       "date": "06 Sep 2026",
       "timestamp": "2026-09-06T10:09:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2b36e6dbb8",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Sep 2026",
+      "timestamp": "2026-09-06T08:00:00+00:00",
       "score": 4
     },
     {
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T14:19:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "d0b38ccfd0",
-      "title": "Meta Will Pay Up to $16.7 Billion to Settle Its Social Media Harms Case—and That’s Not All",
-      "url": "https://www.wired.com/story/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
-      "summary": "In addition to sending billions of dollars to states, Meta will make substantive changes to its platforms as part of a landmark settlement.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T14:08:37+00:00",
       "score": 4
     }
   ]
