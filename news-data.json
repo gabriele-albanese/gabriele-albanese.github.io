@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-06T10:01:07.424535+00:00",
+  "updated": "2026-09-06T14:01:07.175877+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "78da5188d2",
+      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
+      "url": "https://www.wired.com/gallery/best-water-leak-detector/",
+      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Sep 2026",
+      "timestamp": "2026-09-06T10:09:00+00:00",
+      "score": 4
+    },
     {
       "id": "8a7e0f31a9",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T14:08:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "ae1d9c6c8d",
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-      "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T13:43:01+00:00",
       "score": 4
     }
   ]
