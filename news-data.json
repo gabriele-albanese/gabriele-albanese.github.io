@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-07T10:01:12.264652+00:00",
+  "updated": "2026-09-07T10:49:22.955237+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9a8ba47262",
+      "title": "How to Watch the Apple September Event (2026)",
+      "url": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
+      "summary": "Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Sep 2026",
+      "timestamp": "2026-09-07T10:15:00+00:00",
+      "score": 4
+    },
     {
       "id": "24d8a7aef5",
       "title": "Supporting independent journalism in Ukraine",
@@ -2190,17 +2201,6 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T16:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "cbe393ca06",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T15:47:28+00:00",
-      "score": 5
     }
   ]
 }
