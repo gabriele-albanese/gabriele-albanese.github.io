@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-07T10:49:22.955237+00:00",
+  "updated": "2026-09-07T14:01:12.817829+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "31c68cc130",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, whic",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "07 Sep 2026",
+      "timestamp": "2026-09-07T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "5075c96716",
+      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "summary": "Watch now | &#127897;&#65039; Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "07 Sep 2026",
+      "timestamp": "2026-09-07T12:04:19+00:00",
+      "score": 5
+    },
     {
       "id": "9a8ba47262",
       "title": "How to Watch the Apple September Event (2026)",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T18:35:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "a4308e591b",
-      "title": "Apple is holding its iPhone launch event on September 9",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-      "summary": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook on September 1.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T16:53:07+00:00",
-      "score": 4
-    },
-    {
-      "id": "1d0d902fb0",
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn’t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately — legal AI company&#160;Legora&#",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T16:00:00+00:00",
       "score": 4
     }
   ]
