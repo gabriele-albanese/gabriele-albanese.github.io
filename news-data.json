@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-08T10:09:06.309262+00:00",
+  "updated": "2026-09-08T14:01:15.273400+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5becef61b5",
+      "title": "Rivian’s Gambit for Full Autonomy",
+      "url": "https://spectrum.ieee.org/rivian-self-driving",
+      "summary": "I’m sitting in a Rivian  R1S SUV as it drives itself down the leafy streets of  Palo Alto, Calif. , through areas crowded with touchstones of tech history. At one point I pass the landmark  HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T13:00:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "f998dbfddc",
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "67be7b6003",
+      "title": "Responsible AI Means Knowing the Limits of Agent Autonomy",
+      "url": "https://sloanreview.mit.edu/article/responsible-ai-means-knowing-the-limits-of-agent-autonomy/",
+      "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts that includes academics and practitioners to help us understand how responsible artificial intelligence is being implemented across organ",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T11:00:36+00:00",
+      "score": 5
+    },
+    {
+      "id": "176099a4a9",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recy",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T10:36:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3fb4e5d43d",
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T10:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f4a18652fb",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T10:34:00+00:00",
+      "score": 4
+    },
     {
       "id": "0a9ba2efac",
       "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
@@ -2135,72 +2201,6 @@
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T20:55:46+00:00",
       "score": 4
-    },
-    {
-      "id": "838ca76e92",
-      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T19:37:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "a65015085a",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "summary": "Was Greg Brockman the right executive all along?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T19:34:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "3400e8c67c",
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T19:19:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "c87dc1947f",
-      "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
-      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T19:16:42+00:00",
-      "score": 5
-    },
-    {
-      "id": "0f701375c2",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T19:05:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "db5b8f4203",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T19:00:00+00:00",
-      "score": 5
     }
   ]
 }
