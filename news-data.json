@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-08T18:01:13.194753+00:00",
+  "updated": "2026-09-08T20:22:28.082065+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "28f2057249",
+      "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T20:12:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "1877e3cf64",
+      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T19:50:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "20d984cb02",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T19:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b27068966c",
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T18:53:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "8221c7cdd0",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T18:43:09+00:00",
+      "score": 4
+    },
     {
       "id": "2372e1e4c4",
       "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
@@ -11,6 +66,17 @@
       "topic": "tech",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T17:32:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "48232c1c3b",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T17:00:00+00:00",
       "score": 4
     },
     {
@@ -77,6 +143,17 @@
       "topic": "tech",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c76ec6f9b7",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T11:30:00+00:00",
       "score": 4
     },
     {
@@ -2124,83 +2201,6 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T12:10:00+00:00",
       "score": 5
-    },
-    {
-      "id": "b6edaf7b0d",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "summary": "Presented by EDB     As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was nev",
-      "source": "VentureBeat",
-      "topic": "ai",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T12:01:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "9f21c491f2",
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T11:35:59+00:00",
-      "score": 5
-    },
-    {
-      "id": "c509981ee9",
-      "title": "Best Posture Correctors for Better Body Alignment (2026)",
-      "url": "https://www.wired.com/gallery/posture-correctors/",
-      "summary": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T11:05:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6aeb201278",
-      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
-      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing t",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5250e71c3d",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e5bc4e5d81",
-      "title": "Therabody Promo Codes: 15% Off September 2026",
-      "url": "https://www.wired.com/story/therabody-promo-code/",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ebf3953fd8",
-      "title": "TopResume Packages: Everything You Need to Get Hired",
-      "url": "https://www.wired.com/story/topresume-discount-code/",
-      "summary": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T05:00:00+00:00",
-      "score": 4
     }
   ]
 }
