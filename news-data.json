@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-08T14:01:15.273400+00:00",
+  "updated": "2026-09-08T15:26:31.867015+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cfa74d9f25",
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T14:10:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "be12dc44db",
+      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
+      "url": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
+      "summary": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "5becef61b5",
       "title": "Rivian’s Gambit for Full Autonomy",
@@ -66,6 +88,17 @@
       "topic": "ai",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T10:34:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8c676d1393",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "26 Aug 2026",
       "timestamp": "2026-08-26T22:13:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "e8aad19178",
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T21:37:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "7e1703c40f",
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "summary": "Report shows Meta's challenges replacing people with AI agents.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T21:25:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "33849f31e0",
-      "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
-      "url": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
-      "summary": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T20:55:46+00:00",
       "score": 4
     }
   ]
