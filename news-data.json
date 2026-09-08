@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-08T20:22:28.082065+00:00",
+  "updated": "2026-09-08T22:01:11.397405+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "baf4c2ebab",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T21:10:27+00:00",
+      "score": 5
+    },
     {
       "id": "28f2057249",
       "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
@@ -2190,17 +2201,6 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T12:58:59+00:00",
       "score": 6
-    },
-    {
-      "id": "96b419a5cc",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had b",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T12:10:00+00:00",
-      "score": 5
     }
   ]
 }
