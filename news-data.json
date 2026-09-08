@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-08T15:26:31.867015+00:00",
+  "updated": "2026-09-08T18:01:13.194753+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2372e1e4c4",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T17:32:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "49b330e018",
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T16:42:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "d081e58264",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T16:20:31+00:00",
+      "score": 4
+    },
     {
       "id": "cfa74d9f25",
       "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
@@ -89,6 +122,17 @@
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T10:34:00+00:00",
       "score": 4
+    },
+    {
+      "id": "c34d7a764f",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T09:00:00+00:00",
+      "score": 5
     },
     {
       "id": "8c676d1393",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "250ea25ba3",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T03:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dff9dc0737",
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T00:24:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "403c6fe99b",
-      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
-      "url": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
-      "summary": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5b909d258e",
-      "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
-      "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
-      "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "26 Aug 2026",
-      "timestamp": "2026-08-26T22:13:15+00:00",
       "score": 4
     }
   ]
