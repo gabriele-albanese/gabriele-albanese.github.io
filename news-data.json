@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-09T15:23:31.775746+00:00",
+  "updated": "2026-09-09T18:01:15.947924+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d6fa922845",
+      "title": "Apple unveils its first foldable, the iPhone Duo",
+      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+      "summary": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. The company said that the new device was ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T17:58:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "974e0dc97a",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T17:36:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "bb894e9201",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "21c2a27323",
+      "title": "Superintelligence is coming. Should we let it?",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capa",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T16:05:35+00:00",
+      "score": 4
+    },
     {
       "id": "aea2bcdb83",
       "title": "Viral AI assistant Instinct now has its own email address",
@@ -2157,50 +2201,6 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T23:16:45+00:00",
       "score": 6
-    },
-    {
-      "id": "553e5cf044",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "summary": "Standardized driver interface  aims to let devices talk to AI and each other.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T22:15:43+00:00",
-      "score": 5
-    },
-    {
-      "id": "f19c7fce1e",
-      "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-      "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-      "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T21:08:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "59580e438c",
-      "title": "Rivian’s CFO is leaving the company",
-      "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "summary": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T20:23:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "41bcb0eef4",
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T19:55:22+00:00",
-      "score": 4
     }
   ]
 }
