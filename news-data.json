@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-09T10:12:01.618670+00:00",
+  "updated": "2026-09-09T14:01:15.081927+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "aa5095178e",
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "489fd9472b",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "12dcfd350b",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T13:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "cc18d25d9d",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the v",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T12:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b5781936fd",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important op",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "04755a5637",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T12:05:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "42181b1ff3",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T11:00:10+00:00",
+      "score": 5
+    },
+    {
+      "id": "b8ee382f08",
+      "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
+      "summary": "The cable news network’s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "3ea3f3d52e",
       "title": "There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine",
@@ -2112,94 +2200,6 @@
       "topic": "ai",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T19:48:13+00:00",
-      "score": 4
-    },
-    {
-      "id": "30884a4496",
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T18:57:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "2df0d0761b",
-      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T18:06:52+00:00",
-      "score": 5
-    },
-    {
-      "id": "be41cf18f6",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T17:43:24+00:00",
-      "score": 6
-    },
-    {
-      "id": "ab5080e647",
-      "title": "Netflix Failed at Video Games. Now It’s Trying to Promote Them",
-      "url": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
-      "summary": "Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T17:25:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "0b82431441",
-      "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
-      "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-      "summary": "Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T17:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c71b9d1a77",
-      "title": "Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup is sick",
-      "url": "https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/",
-      "summary": "Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T16:53:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a1940db7f",
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T16:52:42+00:00",
-      "score": 5
-    },
-    {
-      "id": "a3ab342026",
-      "title": "Why did 1,000 Swiss citizens bury their underpants?",
-      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
-      "summary": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T15:39:42+00:00",
       "score": 4
     }
   ]
