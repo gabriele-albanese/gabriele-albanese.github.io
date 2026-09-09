@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-09T06:01:11.321714+00:00",
+  "updated": "2026-09-09T10:01:10.295366+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "deb348052c",
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "44bcee21d4",
+      "title": "Understanding the thermal ceiling in portable power",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will acc",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T08:18:13+00:00",
+      "score": 4
+    },
     {
       "id": "6301e1fc8f",
       "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
@@ -2179,28 +2201,6 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T15:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "bbba8e91cb",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T14:56:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "d0a5ac6877",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T14:01:42+00:00",
-      "score": 6
     }
   ]
 }
