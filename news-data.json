@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:01:11.397405+00:00",
+  "updated": "2026-09-09T01:43:12.726158+00:00",
   "count": 200,
   "articles": [
     {
@@ -22,6 +22,17 @@
       "topic": "tech",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T20:12:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "ff38db7efe",
+      "title": "NIH to use part of its budget to pay for Department of Defense research",
+      "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "08 Sep 2026",
+      "timestamp": "2026-09-08T20:06:44+00:00",
       "score": 4
     },
     {
@@ -2190,17 +2201,6 @@
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T13:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "6ebcc7edcc",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T12:58:59+00:00",
-      "score": 6
     }
   ]
 }
