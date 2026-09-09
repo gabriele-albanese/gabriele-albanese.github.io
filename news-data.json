@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-09T10:01:10.295366+00:00",
+  "updated": "2026-09-09T10:12:01.618670+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3ea3f3d52e",
+      "title": "There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine",
+      "url": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
+      "summary": "Cofertility lets women freeze their eggs for free—as long as they give half of them back to the company. What happens next is anyone’s guess.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "deb348052c",
       "title": "Batteries just broke another record in the US",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T15:39:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "30f6a0c163",
-      "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
-      "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
-      "summary": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T15:00:00+00:00",
       "score": 4
     }
   ]
