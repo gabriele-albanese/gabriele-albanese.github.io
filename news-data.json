@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-09T14:01:15.081927+00:00",
+  "updated": "2026-09-09T15:23:31.775746+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "aea2bcdb83",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T15:13:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "46975b8cf2",
+      "title": "An Engineer’s Guide to Surviving a Layoff",
+      "url": "https://spectrum.ieee.org/how-to-survive-a-layoff",
+      "summary": "This article is crossposted from  IEEE Spectrum ’s careers newsletter.   Sign up now    to get insider tips, expert advice, and practical strategies,   written i n partnership with tech career development company  Parsity  and    delivered to your inbox for free!         I lost a",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T15:03:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "46698576bf",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T15:02:47+00:00",
+      "score": 4
+    },
     {
       "id": "aa5095178e",
       "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "27 Aug 2026",
       "timestamp": "2026-08-27T19:55:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "d38e6f05d0",
-      "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-      "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-      "summary": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T19:54:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "360e66b5f8",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T19:52:52+00:00",
-      "score": 6
-    },
-    {
-      "id": "2074ade1c5",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation.",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T19:48:13+00:00",
       "score": 4
     }
   ]
