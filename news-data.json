@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-09T18:01:15.947924+00:00",
+  "updated": "2026-09-09T20:06:04.249520+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "014887778d",
+      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
+      "url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
+      "summary": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T19:07:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "ef66728a92",
+      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+      "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T18:34:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "6dfd5df55b",
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T18:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "d6fa922845",
       "title": "Apple unveils its first foldable, the iPhone Duo",
@@ -11,6 +44,17 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T17:58:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "47b2a3d70f",
+      "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
+      "url": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+      "summary": "The iPhone with a folding screen is the first radical redesign of Apple’s flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T17:57:45+00:00",
       "score": 4
     },
     {
@@ -231,6 +275,17 @@
       "topic": "ai",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T03:10:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "3bc3ccd629",
+      "title": "Author Talks: Why leadership intelligence matters in the AI age",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-leadership-intelligence-matters-in-the-ai-age",
+      "summary": "Lessons from cognitive science can help leaders become wiser, more inspiring, and more resilient. McKinsey Senior Adviser Caroline Webb explains why human intelligence is a growing leadership advantage.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2146,61 +2201,6 @@
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T09:33:00+00:00",
       "score": 4
-    },
-    {
-      "id": "57a3b90053",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T06:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "e2716eac91",
-      "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
-      "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-      "summary": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T03:04:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a2a589ad9",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T02:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "9287272b26",
-      "title": "The new management playbook for AI: How to move faster and create more value",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
-      "summary": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3c75e284d8",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Aug 2026",
-      "timestamp": "2026-08-27T23:16:45+00:00",
-      "score": 6
     }
   ]
 }
