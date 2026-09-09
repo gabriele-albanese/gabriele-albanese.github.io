@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-09T20:06:04.249520+00:00",
+  "updated": "2026-09-09T22:01:10.965922+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6caff675a3",
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T20:58:09+00:00",
+      "score": 4
+    },
     {
       "id": "014887778d",
       "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
@@ -58,6 +69,17 @@
       "score": 4
     },
     {
+      "id": "befd3dad19",
+      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+      "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
+      "summary": "There's also a new thermal management system, reducing overheating.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T17:38:53+00:00",
+      "score": 4
+    },
+    {
       "id": "974e0dc97a",
       "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
       "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
@@ -77,6 +99,17 @@
       "topic": "ai",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ee45ad0fd0",
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "summary": "\"We really do earnestly believe AI could kill all humans!\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T16:59:40+00:00",
       "score": 4
     },
     {
@@ -198,6 +231,17 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T11:00:10+00:00",
+      "score": 5
+    },
+    {
+      "id": "dc8c3baa32",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T11:00:00+00:00",
       "score": 5
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T11:00:39+00:00",
-      "score": 4
-    },
-    {
-      "id": "c3287505e1",
-      "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
-      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
-      "summary": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "60f963ca8c",
-      "title": "The Easiest Ways to Share Anything Between Android and iOS",
-      "url": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
-      "summary": "Transferring files and data across platforms is more straightforward than ever.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T10:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "93746d74a3",
-      "title": "XGIMI Vibe One Battery-Powered Projector Review (2026)",
-      "url": "https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/",
-      "summary": "With the curtains closed and the power cable nearby, this affordable Full HD smart projector is a compact delight.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0b585507a6",
-      "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-      "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-      "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T09:33:00+00:00",
       "score": 4
     }
   ]
