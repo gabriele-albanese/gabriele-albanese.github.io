@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-09T22:01:10.965922+00:00",
+  "updated": "2026-09-10T01:38:05.869569+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e9590b50c0",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T00:00:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "cc108cfc0a",
+      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "summary": "Mullenweg said in a company Slack message that it was against his will.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T23:14:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "a62cdeb365",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T22:25:22+00:00",
+      "score": 5
+    },
+    {
+      "id": "4bba5afd45",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Sep 2026",
+      "timestamp": "2026-09-09T22:11:55+00:00",
+      "score": 4
+    },
     {
       "id": "6caff675a3",
       "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a012eb512",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T12:46:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "b623714fb3",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T12:35:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "354d791d28",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T12:21:06+00:00",
-      "score": 5
-    },
-    {
-      "id": "8b4347df69",
-      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-      "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T11:00:39+00:00",
       "score": 4
     }
   ]
