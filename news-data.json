@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-10T18:01:11.342748+00:00",
+  "updated": "2026-09-10T20:08:30.827821+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4780951de0",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T19:50:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "00d16abf81",
+      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T18:38:00+00:00",
+      "score": 5
+    },
     {
       "id": "9abc7cfd05",
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
@@ -132,6 +154,17 @@
       "topic": "ai",
       "date": "10 Sep 2026",
       "timestamp": "2026-09-10T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3f77446f0e",
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T07:00:00+00:00",
       "score": 4
     },
     {
@@ -2168,39 +2201,6 @@
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T07:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "7aa1f68e6f",
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T04:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5e9fce5dde",
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T02:18:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "6577785b66",
-      "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
-      "url": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
-      "summary": "With 160 years of experience, Boerse Stuttgart Group is Europe's sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
