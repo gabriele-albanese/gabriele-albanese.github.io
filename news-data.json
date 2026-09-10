@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-10T10:06:47.596652+00:00",
+  "updated": "2026-09-10T14:01:19.068266+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3fae966ba9",
+      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+      "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T13:34:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "7ca38c8830",
+      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+      "url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+      "summary": "The buzzy startup raised $600 million in its Series C round.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "15f72ba463",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a056454f3d",
+      "title": "When AI Disruption Never Ends",
+      "url": "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/",
+      "summary": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six weeks to build a customer workflow has been leapfrogged by a cheaper, faster alternative. Again. Her Slack feed is blowing ",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T11:00:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "2391f2090c",
+      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
+      "url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
+      "summary": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T10:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f95ee6f63f",
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "e9590b50c0",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "28 Aug 2026",
       "timestamp": "2026-08-28T23:24:27+00:00",
-      "score": 4
-    },
-    {
-      "id": "aa4a924554",
-      "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
-      "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T22:29:13+00:00",
-      "score": 4
-    },
-    {
-      "id": "24c26e96ef",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T19:30:38+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a5833e88e",
-      "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-      "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T18:23:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "cadeb7266a",
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T18:07:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "a4e185da09",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T17:09:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "f3019f0f50",
-      "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-      "summary": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Aug 2026",
-      "timestamp": "2026-08-28T15:00:00+00:00",
       "score": 4
     }
   ]
