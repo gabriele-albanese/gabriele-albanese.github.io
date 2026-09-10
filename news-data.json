@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-10T20:08:30.827821+00:00",
+  "updated": "2026-09-10T22:01:12.055982+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5a7a028d73",
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T20:59:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "999f113dc0",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T20:57:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "eba93220ba",
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T20:48:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "38b7650801",
+      "title": "Is AI Actually Going to Kill Us All?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Sep 2026",
+      "timestamp": "2026-09-10T20:30:37+00:00",
+      "score": 4
+    },
     {
       "id": "4780951de0",
       "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
@@ -2157,50 +2201,6 @@
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T11:00:41+00:00",
       "score": 4
-    },
-    {
-      "id": "9802d425f5",
-      "title": "Three Things to Know About Customer Resistance to AI",
-      "url": "https://sloanreview.mit.edu/article/three-things-to-know-about-customer-resistance-to-ai/",
-      "summary": "Microsoft Copilot/Unsplash Companies are betting that AI chatbots will deliver faster and cheaper customer service. But if you’ve ever tried to circumvent a chatbot and get to a human, you’re not alone. Here’s what three recent studies discovered about when customers will and won",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T11:00:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "f2f42b7209",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T10:00:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "7f3e9f8d83",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6489dfdc16",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T07:00:00+00:00",
-      "score": 5
     }
   ]
 }
