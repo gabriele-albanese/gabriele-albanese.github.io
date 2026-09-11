@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-11T06:01:12.940645+00:00",
+  "updated": "2026-09-11T10:01:11.991004+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "de1c1f4b00",
+      "title": "The speed problem: How frontier AI exposes weakness in enterprise cybersecurity",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-speed-problem-how-frontier-ai-exposes-weakness-in-enterprise-cybersecurity",
+      "summary": "Attackers now move at machine speed, but organizations make decisions at committee speed. To close the gap, businesses need a different operating model and committed executive leadership.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T00:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "1c148458b4",
       "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "31 Aug 2026",
       "timestamp": "2026-08-31T13:41:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "b352e3009c",
-      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "summary": "Listen now | &#127897;&#65039; PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T12:04:18+00:00",
       "score": 4
     }
   ]
