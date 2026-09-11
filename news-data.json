@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-11T18:01:15.022783+00:00",
+  "updated": "2026-09-11T20:07:08.360590+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d1716c9e5b",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T19:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1b22bca4ba",
+      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T18:58:01+00:00",
+      "score": 5
+    },
+    {
+      "id": "4a3e6b73d8",
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T18:22:22+00:00",
+      "score": 4
+    },
     {
       "id": "cb9faf0484",
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -89,6 +122,17 @@
       "date": "11 Sep 2026",
       "timestamp": "2026-09-11T10:00:00+00:00",
       "score": 8
+    },
+    {
+      "id": "807e022c33",
+      "title": "Mastering autonomous truck technology in Europe",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe",
+      "summary": "The advent of autonomous trucks and buses is set to define new form factors and business models, but Europe risks falling behind.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "de1c1f4b00",
@@ -2157,50 +2201,6 @@
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T00:13:00+00:00",
       "score": 4
-    },
-    {
-      "id": "87f292108d",
-      "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-      "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-      "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T23:14:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "77b770af97",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T20:13:45+00:00",
-      "score": 6
-    },
-    {
-      "id": "292ca27a30",
-      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-      "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-      "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T20:02:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "4dbcaf3b54",
-      "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-      "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-      "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Aug 2026",
-      "timestamp": "2026-08-31T19:02:06+00:00",
-      "score": 5
     }
   ]
 }
