@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-11T20:07:08.360590+00:00",
+  "updated": "2026-09-11T22:01:10.668269+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d4514d2769",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T20:57:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "12de205131",
+      "title": "Roundtables: Will AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI e",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T20:05:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "9622d19706",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "11 Sep 2026",
+      "timestamp": "2026-09-11T19:34:09+00:00",
+      "score": 4
+    },
     {
       "id": "d1716c9e5b",
       "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8e955ff5c0",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T01:00:00+00:00",
-      "score": 7
-    },
-    {
-      "id": "ddd60eb51f",
-      "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-      "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-      "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T00:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "00adf4a54c",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T00:13:00+00:00",
       "score": 4
     }
   ]
