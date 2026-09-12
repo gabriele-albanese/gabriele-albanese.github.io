@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T19:43:38.632981+00:00",
+  "updated": "2026-09-12T22:01:14.315175+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T00:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "22280ff70f",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Sep 2026",
+      "timestamp": "2026-09-12T20:19:16+00:00",
+      "score": 5
     },
     {
       "id": "5b418801f4",
@@ -2189,17 +2200,6 @@
       "topic": "business",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T15:19:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "6c0a1f3f13",
-      "title": "﻿How Leadership Anxiety Derails Transformation",
-      "url": "https://sloanreview.mit.edu/article/how-leadership-anxiety-derails-transformation/",
-      "summary": "Rob Dobi The Research This article draws on a four-year ethnographic study of a professional services firm whose leaders initiated a major transformation to reverse declining performance. The research involved nearly 760 hours of observation across leadership and project team mee",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T15:17:53+00:00",
       "score": 4
     }
   ]
