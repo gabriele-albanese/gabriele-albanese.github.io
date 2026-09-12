@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T14:27:30.289808+00:00",
+  "updated": "2026-09-12T18:01:13.241825+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,28 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T00:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "9300b1955f",
+      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "summary": "Community Wisdom 298",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "12 Sep 2026",
+      "timestamp": "2026-09-12T17:45:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "82c98d9b6a",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "What would it actually look like to \"pace the frontier\"?",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Sep 2026",
+      "timestamp": "2026-09-12T15:52:11+00:00",
+      "score": 5
     },
     {
       "id": "3847461820",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T14:52:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "034ca0e7e4",
-      "title": "It turns out that Orion's much-maligned heat shield performed really well",
-      "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-      "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T14:46:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "79a8e18f81",
-      "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
-      "summary": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T14:03:00+00:00",
       "score": 4
     }
   ]
