@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:08:26.263585+00:00",
+  "updated": "2026-09-13T18:01:16.228959+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "ai",
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6b54256d4a",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Sep 2026",
+      "timestamp": "2026-09-13T16:30:00+00:00",
       "score": 4
     },
     {
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T16:31:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "fd6ea7e03b",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T15:45:51+00:00",
       "score": 5
     }
   ]
