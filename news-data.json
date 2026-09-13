@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:41:22.389820+00:00",
+  "updated": "2026-09-13T14:01:14.163811+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,28 @@
       "topic": "ai",
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1a165b0e5d",
+      "title": "Fusion power startups find new partners in the defense world",
+      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "summary": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Sep 2026",
+      "timestamp": "2026-09-13T13:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f07a2ef19a",
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Sep 2026",
+      "timestamp": "2026-09-13T11:00:41+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T15:45:51+00:00",
       "score": 5
-    },
-    {
-      "id": "304b2d156d",
-      "title": "Microsoft 365 outage drags on, but things are improving",
-      "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-      "summary": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T15:23:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "b0da727681",
-      "title": "Over and Out",
-      "url": "https://sloanreview.mit.edu/article/over-and-out/",
-      "summary": "For this final issue of MIT Sloan Management Review, Benjamin Laker and Maria Papacosta offer advice on ending things well. In that spirit, we want to reflect on the impact our editorially independent publication has had in its 67 years. Over the past few months, we’ve been buoye",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T15:22:42+00:00",
-      "score": 4
     }
   ]
 }
