@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:01:14.727572+00:00",
+  "updated": "2026-09-13T10:41:22.389820+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T00:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "62cc0000f9",
+      "title": "AI Agents Are Thirsty for Power",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Sep 2026",
+      "timestamp": "2026-09-13T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "c017b7f575",
@@ -2189,17 +2200,6 @@
       "topic": "business",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T15:22:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "be79bbd47e",
-      "title": "What Kind of Chief Purpose Officer Does Your Company Need?",
-      "url": "https://sloanreview.mit.edu/article/what-kind-of-chief-purpose-officer-does-your-company-need/",
-      "summary": "Rob Dobi The Research The authors identified 56 individuals with purpose leadership roles who were representative of a variety of industries, company sizes, and regions. Of the CPOs interviewed, 60% identified as female and 40% as male. They conducted semi-structured interviews o",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T15:21:42+00:00",
       "score": 4
     }
   ]
