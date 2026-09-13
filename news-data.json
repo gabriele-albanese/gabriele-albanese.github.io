@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:01:14.315175+00:00",
+  "updated": "2026-09-13T01:34:00.285097+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "ai",
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c017b7f575",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Sep 2026",
+      "timestamp": "2026-09-12T23:25:38+00:00",
       "score": 4
     },
     {
@@ -2189,17 +2200,6 @@
       "topic": "business",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T15:21:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "dde6b4e662",
-      "title": "Dethroning Loyalty",
-      "url": "https://sloanreview.mit.edu/article/dethroning-loyalty/",
-      "summary": "Rob Dobi What’s wrong with loyalty? Isn’t it a virtue to display steadfast allegiance to something or someone other than oneself? After all, loyalty has been celebrated as a virtue across many cultures for millennia. As economic headwinds and a tough job market appear to be empow",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T15:19:44+00:00",
       "score": 4
     }
   ]
