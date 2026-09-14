@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-14T11:02:29.141013+00:00",
+  "updated": "2026-09-14T14:01:15.722327+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4bd849d94b",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T13:55:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ebe3fccd0a",
+      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "summary": "Watch now (42 mins) | &#127897;&#65039; Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T12:04:39+00:00",
+      "score": 4
+    },
     {
       "id": "be737aac2b",
       "title": "How AI Creates a Capability Mirage",
@@ -23,6 +45,17 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T09:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "6a43769c0a",
+      "title": "Stacking the odds: A blueprint for successfully scaling agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/stacking-the-odds-a-blueprint-for-successfully-scaling-agentic-ai",
+      "summary": "Many enterprises are scaling AI agents faster than they are redesigning the work underneath. A detailed blueprint supports the rollout and lays the groundwork for lasting value creation.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T00:00:00+00:00",
+      "score": 6
     },
     {
       "id": "ea5b193337",
@@ -2168,39 +2201,6 @@
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T20:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "c6364d1165",
-      "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-      "summary": "Apple is hosting its iPhone release event next week, which is rumored to feature the first ever foldable iPhone.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T19:45:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "0b975c1752",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T19:39:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "ee7ea08645",
-      "title": "Who is John Ternus, the new Apple CEO?",
-      "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-      "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T18:02:00+00:00",
-      "score": 4
     }
   ]
 }
