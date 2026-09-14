@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-14T10:01:18.653568+00:00",
+  "updated": "2026-09-14T11:02:29.141013+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be737aac2b",
+      "title": "How AI Creates a Capability Mirage",
+      "url": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
+      "summary": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In each case, they may look good on the surface, but it’s only an illusion. Wood afflicted with dry rot looks just fine until the tree it’s in topples down. Grigory Potemkin is ",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T11:00:15+00:00",
+      "score": 4
+    },
     {
       "id": "8e20d1dcda",
       "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T18:02:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "75740ea7ad",
-      "title": "This is what a supercar was like a century ago",
-      "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-      "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T17:34:16+00:00",
       "score": 4
     }
   ]
