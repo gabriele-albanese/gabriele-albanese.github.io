@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-14T14:01:15.722327+00:00",
+  "updated": "2026-09-14T17:05:55.182348+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c2be321fde",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T16:27:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "4ca5a8ed38",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researc",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "55478c46f5",
+      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+      "summary": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T15:34:31+00:00",
+      "score": 5
+    },
+    {
+      "id": "2f20438628",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T15:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "d360e52aaf",
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "summary": "Fathom said that it has over 400,000 monthly active users.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T14:45:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "844d349ff2",
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T14:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "4bd849d94b",
       "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
@@ -25,6 +91,17 @@
       "score": 4
     },
     {
+      "id": "2318750699",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T12:00:00+00:00",
+      "score": 7
+    },
+    {
       "id": "be737aac2b",
       "title": "How AI Creates a Capability Mirage",
       "url": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
@@ -34,6 +111,17 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T11:00:15+00:00",
       "score": 4
+    },
+    {
+      "id": "22453bdaae",
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T11:00:00+00:00",
+      "score": 5
     },
     {
       "id": "8e20d1dcda",
@@ -2113,94 +2201,6 @@
       "date": "02 Sep 2026",
       "timestamp": "2026-09-02T12:09:42+00:00",
       "score": 4
-    },
-    {
-      "id": "21f8b89691",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d25f7eface",
-      "title": "Larry Page’s flying car company Pivotal loses its CEO",
-      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T23:59:59+00:00",
-      "score": 6
-    },
-    {
-      "id": "ccf76cd44a",
-      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-      "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-      "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T22:13:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "a6c4d5f828",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T22:08:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "be7c65afeb",
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T21:06:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "62b6270ed2",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T20:53:05+00:00",
-      "score": 5
-    },
-    {
-      "id": "e2c119acd9",
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T20:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "677c164707",
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T20:00:00+00:00",
-      "score": 5
     }
   ]
 }
