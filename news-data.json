@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-14T21:05:19.326869+00:00",
+  "updated": "2026-09-14T22:01:13.256274+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "71b2c4f295",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T21:51:02+00:00",
+      "score": 4
+    },
     {
       "id": "4dd932ed2d",
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "02 Sep 2026",
       "timestamp": "2026-09-02T15:51:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "9fef7b0614",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "summary": "Introducing Fairwind Program",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T15:40:00+00:00",
       "score": 4
     }
   ]
