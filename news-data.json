@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-14T06:01:15.270436+00:00",
+  "updated": "2026-09-14T10:01:18.653568+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8e20d1dcda",
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "ea5b193337",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -2190,17 +2201,6 @@
       "date": "01 Sep 2026",
       "timestamp": "2026-09-01T17:34:16+00:00",
       "score": 4
-    },
-    {
-      "id": "4be3ed23a7",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "01 Sep 2026",
-      "timestamp": "2026-09-01T17:00:00+00:00",
-      "score": 6
     }
   ]
 }
