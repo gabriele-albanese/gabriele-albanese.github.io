@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-15T18:01:11.588316+00:00",
+  "updated": "2026-09-15T20:30:33.584974+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c8e966977f",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T20:12:53+00:00",
+      "score": 6
+    },
+    {
+      "id": "7eb39231f1",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T19:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "fd50e4e2fe",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T18:00:09+00:00",
+      "score": 4
+    },
     {
       "id": "8bfbb7f047",
       "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a7f44bb528",
-      "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-      "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-      "summary": "TikTok&#8217;s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments. With the additions, the app is b",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bd46c398b6",
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T12:43:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "d54e7a3a2a",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T12:00:00+00:00",
       "score": 4
     }
   ]
