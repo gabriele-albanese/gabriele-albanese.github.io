@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-15T10:32:28.453022+00:00",
+  "updated": "2026-09-15T14:01:15.440402+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1c0a237c0c",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "2266ba43c5",
+      "title": "The AI Inference Revolution Is Here",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "summary": "Since about 2020,  AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly  answered  just 43.9 percent ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T13:00:05+00:00",
+      "score": 7
+    },
+    {
+      "id": "06261c41c4",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T13:00:00+00:00",
+      "score": 7
+    },
+    {
+      "id": "e72570e1a4",
+      "title": "New Italian unicorn Exein rides the physical AI wave",
+      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T12:19:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "4b8958bcf8",
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f9a32ab8fe",
+      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T12:00:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "f3c2d25299",
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory fil",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T12:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "597f04dc96",
+      "title": "The North Star Metric Was Never the Business",
+      "url": "https://www.productcoalition.com/p/the-north-star-metric-was-never-the",
+      "summary": "From 2015 to today, the archive shows one number moving from KPI to rule to warning",
+      "source": "Product Coalition",
+      "topic": "pm",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T11:28:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "b5bdce9965",
+      "title": "How B2B Marketers Misunderstand Their Customers",
+      "url": "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/",
+      "summary": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained surprisingly static. Sure, the tactics have shifted to digital executions, and the use of data has made targeting B2B buyers more pr",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T11:00:37+00:00",
+      "score": 4
+    },
     {
       "id": "20fb13705e",
       "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "02 Sep 2026",
       "timestamp": "2026-09-02T23:01:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "ef03c3a5f1",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T22:44:56+00:00",
-      "score": 5
-    },
-    {
-      "id": "ff395585cf",
-      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
-      "url": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
-      "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T21:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "373be54006",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T20:19:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "b6856c11b3",
-      "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-      "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-      "summary": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T19:25:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "3aae57077f",
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T18:41:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "53572cd4dd",
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T18:20:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "5e8d637be2",
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T18:13:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "01be0a47d7",
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T17:58:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "b567a13a82",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users ali",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T17:18:13+00:00",
       "score": 5
     }
   ]
