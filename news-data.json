@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T22:01:13.256274+00:00",
+  "updated": "2026-09-15T02:01:06.806386+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "tech",
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T21:51:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "29ba46951f",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Sep 2026",
+      "timestamp": "2026-09-14T21:04:32+00:00",
       "score": 4
     },
     {
@@ -2190,17 +2201,6 @@
       "date": "02 Sep 2026",
       "timestamp": "2026-09-02T17:09:06+00:00",
       "score": 6
-    },
-    {
-      "id": "461b003195",
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T15:51:46+00:00",
-      "score": 4
     }
   ]
 }
