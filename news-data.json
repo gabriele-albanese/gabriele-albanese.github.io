@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-15T14:01:15.440402+00:00",
+  "updated": "2026-09-15T15:45:31.574976+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a99284cc09",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T15:22:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "eeef430e6b",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T14:30:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "46b035d6bb",
+      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+      "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+      "summary": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T14:22:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "de6c74e5fa",
+      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T14:13:59+00:00",
+      "score": 4
+    },
     {
       "id": "1c0a237c0c",
       "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
@@ -110,6 +154,17 @@
       "topic": "tech",
       "date": "15 Sep 2026",
       "timestamp": "2026-09-15T07:00:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "7dec791c80",
+      "title": "Author Talks: Read the room before you lead it",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
+      "summary": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and make better decisions.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2146,61 +2201,6 @@
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T09:30:00+00:00",
       "score": 4
-    },
-    {
-      "id": "20a8d82f65",
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T01:32:02+00:00",
-      "score": 6
-    },
-    {
-      "id": "af3b8492ca",
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "acc1e2db6e",
-      "title": "Author Talks: What the world’s best owner-CEOs get right",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
-      "summary": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful founder-CEOs—and how leaders everywhere can apply them.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d4eea841d6",
-      "title": "Made in America, again? Rethinking US manufacturing resilience",
-      "url": "https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience",
-      "summary": "Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7bd6a78267",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T23:01:00+00:00",
-      "score": 5
     }
   ]
 }
