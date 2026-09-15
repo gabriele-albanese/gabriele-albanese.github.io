@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-15T06:01:07.547642+00:00",
+  "updated": "2026-09-15T10:01:09.079228+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "20fb13705e",
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "15 Sep 2026",
+      "timestamp": "2026-09-15T07:00:30+00:00",
+      "score": 4
+    },
     {
       "id": "71b2c4f295",
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -2190,17 +2201,6 @@
       "date": "02 Sep 2026",
       "timestamp": "2026-09-02T17:18:13+00:00",
       "score": 5
-    },
-    {
-      "id": "241155a602",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Sep 2026",
-      "timestamp": "2026-09-02T17:09:06+00:00",
-      "score": 6
     }
   ]
 }
