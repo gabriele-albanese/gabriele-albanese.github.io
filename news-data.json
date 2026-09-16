@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-16T18:01:13.902599+00:00",
+  "updated": "2026-09-16T20:30:03.071591+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0f8828d5d9",
+      "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
+      "url": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
+      "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T19:45:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "335020aa15",
+      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+      "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T19:35:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "dd8dedb16a",
+      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T19:02:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "96b7d392cf",
+      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T18:45:35+00:00",
+      "score": 4
+    },
     {
       "id": "eb82360416",
       "title": "Your AI agents can now control your Google Home devices",
@@ -155,6 +199,17 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T12:02:14+00:00",
       "score": 5
+    },
+    {
+      "id": "ddf4322968",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "f800917629",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "04 Sep 2026",
       "timestamp": "2026-09-04T12:48:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "e205203761",
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
-      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T11:00:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "014719f8b9",
-      "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
-      "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
-      "summary": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "16db96c970",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which the",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T09:25:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "3e1ba23902",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T04:21:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "28b88b7dea",
-      "title": "Oura files to go public",
-      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-      "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T22:35:41+00:00",
       "score": 4
     }
   ]
