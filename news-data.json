@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-16T10:21:27.855143+00:00",
+  "updated": "2026-09-16T14:01:13.985842+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6f2fab3648",
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "d2e2a131de",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "766bd69656",
+      "title": "Former Infosys chief’s AI startup nabs another $53M",
+      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T13:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "9c87c3f34d",
+      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+      "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+      "summary": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c81fa26a50",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, the",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T12:47:34+00:00",
+      "score": 5
+    },
+    {
+      "id": "49e7531bef",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9fca081b9a",
+      "title": "Muse review: The personal AI agent that gets consumer UX right",
+      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "summary": "Watch now (38 mins) | &#127897;&#65039; I gave Meta&#8217;s Muse my calendar, my email, and my kids&#8217; chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I&#8217;ve ever made with Claude or Codex",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T12:02:14+00:00",
+      "score": 5
+    },
     {
       "id": "da2928c842",
       "title": "Factor Promo Code: 50% Off Off Meal Prep",
@@ -2124,83 +2201,6 @@
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T18:10:19+00:00",
       "score": 7
-    },
-    {
-      "id": "cf59892fa8",
-      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-      "summary": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T18:06:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "1a81518cc6",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T18:01:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "b1a49d842e",
-      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-      "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T16:42:40+00:00",
-      "score": 5
-    },
-    {
-      "id": "4d0be1d61b",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T16:09:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "dcb0248b9e",
-      "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-      "url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
-      "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9ebf8f5d0c",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brough",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "30eec5aa5b",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T13:15:00+00:00",
-      "score": 4
     }
   ]
 }
