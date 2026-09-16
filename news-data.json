@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-16T20:30:03.071591+00:00",
+  "updated": "2026-09-16T22:01:15.119816+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "48df201daf",
+      "title": "Noise wants to help everyday people  become paid content creators",
+      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T21:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "553a38183d",
+      "title": "Pulley, a Carta rival, is shutting down",
+      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T21:23:19+00:00",
+      "score": 5
+    },
+    {
+      "id": "a4f0cae5cc",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T21:07:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "f946f74c33",
+      "title": "Washington Won’t Be Regulating AI Anytime Soon",
+      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T21:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "0f8828d5d9",
       "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "04 Sep 2026",
       "timestamp": "2026-09-04T17:18:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3055f9c8a8",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T16:22:18+00:00",
-      "score": 5
-    },
-    {
-      "id": "718826050b",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T16:21:11+00:00",
-      "score": 5
-    },
-    {
-      "id": "8455d4164f",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T14:47:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "1b9e435c7e",
-      "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-      "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T12:48:36+00:00",
       "score": 4
     }
   ]
