@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-16T02:01:07.938561+00:00",
+  "updated": "2026-09-16T06:01:10.383061+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "da2928c842",
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this September.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T05:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "c8e966977f",
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T13:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4cc1e632bb",
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T13:00:00+00:00",
       "score": 4
     }
   ]
