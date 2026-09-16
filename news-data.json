@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-16T14:01:13.985842+00:00",
+  "updated": "2026-09-16T15:37:43.938658+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2c7667f6e8",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "79a042e1b1",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ceaecec61f",
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T14:15:00+00:00",
+      "score": 4
+    },
     {
       "id": "6f2fab3648",
       "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
@@ -2168,39 +2201,6 @@
       "date": "03 Sep 2026",
       "timestamp": "2026-09-03T19:29:16+00:00",
       "score": 4
-    },
-    {
-      "id": "f1f94c4055",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T18:37:57+00:00",
-      "score": 5
-    },
-    {
-      "id": "939cb98685",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T18:19:56+00:00",
-      "score": 5
-    },
-    {
-      "id": "b93b47d678",
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "03 Sep 2026",
-      "timestamp": "2026-09-03T18:10:19+00:00",
-      "score": 7
     }
   ]
 }
