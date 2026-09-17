@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-17T10:30:46.039049+00:00",
+  "updated": "2026-09-17T14:01:13.008408+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "56260eb58c",
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "354af63869",
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T13:46:16+00:00",
+      "score": 4
+    },
+    {
+      "id": "3451114a79",
+      "title": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "summary": "A new coalition that includes Google, Nvidia, Anthropic and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T13:38:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "f0d5be3b9d",
+      "title": "Lucid Motors has a potential robotaxi partner for Europe",
+      "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+      "summary": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T13:26:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "ad5ab379bb",
+      "title": "Creating Aha! Builder: Concept to Code, No Engineers Required",
+      "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
+      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What does it take to build an AI app builder specifically for product managers&#x2014;not engineers&#x2014;inside an already crowded market?  In this episode of Just Now Possible, Teresa Torres talks with Brian De Haaff (CE",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T13:00:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "3177aa668f",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ff885aa48e",
+      "title": "‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster",
+      "url": "https://www.wired.com/story/fast-and-furious-roller-coaster/",
+      "summary": "Vin Diesel, the star of the series, didn’t make a planned appearance at the grand opening of its dynamite new theme park ride. But it didn’t stop his fans from having a good time.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "12d245c759",
       "title": "The EU Wants to Break Up Kids and Their Chatbots",
@@ -2124,83 +2201,6 @@
       "date": "06 Sep 2026",
       "timestamp": "2026-09-06T21:41:06+00:00",
       "score": 4
-    },
-    {
-      "id": "3997b3420f",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Sep 2026",
-      "timestamp": "2026-09-06T20:47:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "78da5188d2",
-      "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
-      "url": "https://www.wired.com/gallery/best-water-leak-detector/",
-      "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Sep 2026",
-      "timestamp": "2026-09-06T10:09:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2b36e6dbb8",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "06 Sep 2026",
-      "timestamp": "2026-09-06T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a7e0f31a9",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Sep 2026",
-      "timestamp": "2026-09-05T22:49:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "f774e48a95",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Sep 2026",
-      "timestamp": "2026-09-05T19:35:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "669fdcb556",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Sep 2026",
-      "timestamp": "2026-09-05T18:05:27+00:00",
-      "score": 5
-    },
-    {
-      "id": "b5a0739254",
-      "title": "OpenAI Agents Hacked Another Website",
-      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-      "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Sep 2026",
-      "timestamp": "2026-09-05T10:30:00+00:00",
-      "score": 5
     }
   ]
 }
