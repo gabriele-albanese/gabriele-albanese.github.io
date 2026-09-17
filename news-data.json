@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-17T15:43:31.433667+00:00",
+  "updated": "2026-09-17T18:01:10.887092+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2d35233687",
+      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
+      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "summary": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T16:34:36+00:00",
+      "score": 4
+    },
     {
       "id": "56260eb58c",
       "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "07 Sep 2026",
       "timestamp": "2026-09-07T10:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "24d8a7aef5",
-      "title": "Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Sep 2026",
-      "timestamp": "2026-09-07T00:00:00+00:00",
       "score": 4
     }
   ]
