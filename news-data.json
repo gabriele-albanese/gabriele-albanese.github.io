@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T14:01:13.008408+00:00",
+  "updated": "2026-09-17T15:43:31.433667+00:00",
   "count": 200,
   "articles": [
     {
@@ -111,6 +111,17 @@
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T03:30:00+00:00",
       "score": 5
+    },
+    {
+      "id": "efa73bc50c",
+      "title": "Why transformations stall—and where only CEOs make the difference",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
+      "summary": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "d2abdfd2bc",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "07 Sep 2026",
       "timestamp": "2026-09-07T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4d1388743b",
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Sep 2026",
-      "timestamp": "2026-09-06T21:41:06+00:00",
       "score": 4
     }
   ]
