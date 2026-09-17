@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-17T18:01:10.887092+00:00",
+  "updated": "2026-09-17T20:37:26.673494+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5e7cc4bf41",
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T20:34:47+00:00",
+      "score": 4
+    },
+    {
+      "id": "41da7ed56e",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T20:34:24+00:00",
+      "score": 6
+    },
+    {
+      "id": "22b6bd9b87",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T20:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "2c509c3d0d",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T19:46:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "75736efa97",
+      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+      "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T18:42:25+00:00",
+      "score": 6
+    },
     {
       "id": "2d35233687",
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
@@ -122,6 +177,28 @@
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T03:30:00+00:00",
       "score": 5
+    },
+    {
+      "id": "a99e443ad7",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6adf2c4460",
+      "title": "Here’s why some US industrial companies achieve higher multiples",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples",
+      "summary": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "efa73bc50c",
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T10:35:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f4a18652fb",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T10:34:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c34d7a764f",
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "8c676d1393",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a9ba2efac",
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "07 Sep 2026",
-      "timestamp": "2026-09-07T15:02:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "31c68cc130",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, whic",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "07 Sep 2026",
-      "timestamp": "2026-09-07T12:10:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "5075c96716",
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "summary": "Watch now | &#127897;&#65039; Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "07 Sep 2026",
-      "timestamp": "2026-09-07T12:04:19+00:00",
-      "score": 5
-    },
-    {
-      "id": "9a8ba47262",
-      "title": "How to Watch the Apple September Event (2026)",
-      "url": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
-      "summary": "Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Sep 2026",
-      "timestamp": "2026-09-07T10:15:00+00:00",
       "score": 4
     }
   ]
