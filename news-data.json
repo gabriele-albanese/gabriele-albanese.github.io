@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-17T10:01:11.906705+00:00",
+  "updated": "2026-09-17T10:30:46.039049+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "12d245c759",
+      "title": "The EU Wants to Break Up Kids and Their Chatbots",
+      "url": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+      "summary": "ChatGPT, Character.ai, and Snapchat’s My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T10:06:50+00:00",
+      "score": 5
+    },
     {
       "id": "4f879da662",
       "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -2190,17 +2201,6 @@
       "date": "05 Sep 2026",
       "timestamp": "2026-09-05T10:30:00+00:00",
       "score": 5
-    },
-    {
-      "id": "f48898262d",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Sep 2026",
-      "timestamp": "2026-09-04T23:36:14+00:00",
-      "score": 4
     }
   ]
 }
