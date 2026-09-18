@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-18T18:01:14.946504+00:00",
+  "updated": "2026-09-18T20:03:08.232053+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c787e87aad",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T18:49:30+00:00",
+      "score": 5
+    },
+    {
+      "id": "b47664b68f",
+      "title": "Turning Tech Talent Into Leadership Legacy",
+      "url": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+      "summary": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organizat",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T18:00:04+00:00",
+      "score": 5
+    },
     {
       "id": "f5578060dc",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
@@ -132,6 +154,17 @@
       "topic": "tech",
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T00:02:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "459c0e918d",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "summary": "AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "44bcee21d4",
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will acc",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T08:18:13+00:00",
-      "score": 4
-    },
-    {
-      "id": "6301e1fc8f",
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T06:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3fee4ac4d0",
-      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T04:01:00+00:00",
       "score": 4
     }
   ]
