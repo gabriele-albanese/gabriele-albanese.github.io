@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-17T22:01:09.368787+00:00",
+  "updated": "2026-09-18T01:43:24.145701+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "258ad608e4",
+      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T00:02:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "e3285a711c",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "summary": "The round values the data center giant at $30.9 billion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T23:25:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "1f172f85d3",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T22:34:09+00:00",
+      "score": 4
+    },
     {
       "id": "5e7cc4bf41",
       "title": "The fix for rogue AI agents could be more AI",
@@ -122,6 +155,17 @@
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T13:00:52+00:00",
       "score": 5
+    },
+    {
+      "id": "e268b158af",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "3177aa668f",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c76ec6f9b7",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T11:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "67be7b6003",
-      "title": "Responsible AI Means Knowing the Limits of Agent Autonomy",
-      "url": "https://sloanreview.mit.edu/article/responsible-ai-means-knowing-the-limits-of-agent-autonomy/",
-      "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts that includes academics and practitioners to help us understand how responsible artificial intelligence is being implemented across organ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T11:00:36+00:00",
-      "score": 5
-    },
-    {
-      "id": "176099a4a9",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "summary": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recy",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T10:36:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3fb4e5d43d",
-      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
-      "url": "https://www.wired.com/story/best-smart-speakers/",
-      "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T10:35:00+00:00",
       "score": 4
     }
   ]
