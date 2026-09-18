@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T02:01:06.479056+00:00",
+  "updated": "2026-09-18T06:01:05.692324+00:00",
   "count": 200,
   "articles": [
     {
@@ -36,6 +36,28 @@
       "score": 4
     },
     {
+      "id": "92a62c9de7",
+      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T22:31:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "3e9d439b35",
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T22:12:58+00:00",
+      "score": 4
+    },
+    {
       "id": "5e7cc4bf41",
       "title": "The fix for rogue AI agents could be more AI",
       "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
@@ -56,6 +78,28 @@
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T20:34:24+00:00",
       "score": 6
+    },
+    {
+      "id": "56012947a9",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T20:24:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "d242dae78d",
+      "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T20:10:41+00:00",
+      "score": 4
     },
     {
       "id": "22b6bd9b87",
@@ -91,6 +135,17 @@
       "score": 6
     },
     {
+      "id": "35cb1838bc",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T18:33:13+00:00",
+      "score": 4
+    },
+    {
       "id": "2d35233687",
       "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
       "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
@@ -99,6 +154,17 @@
       "topic": "tech",
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T16:34:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "78ef7df171",
+      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+      "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+      "summary": "Model maker commits to new framework for reporting misaligned models.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Sep 2026",
+      "timestamp": "2026-09-17T16:18:34+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "ai",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "49b330e018",
-      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T16:42:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "d081e58264",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T16:20:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "cfa74d9f25",
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T14:10:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "be12dc44db",
-      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
-      "url": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
-      "summary": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5becef61b5",
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "summary": "I’m sitting in a Rivian  R1S SUV as it drives itself down the leafy streets of  Palo Alto, Calif. , through areas crowded with touchstones of tech history. At one point I pass the landmark  HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T13:00:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "f998dbfddc",
-      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "summary": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T13:00:00+00:00",
       "score": 4
     }
   ]
