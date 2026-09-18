@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-18T15:15:53.058331+00:00",
+  "updated": "2026-09-18T18:01:14.946504+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f5578060dc",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T17:59:53+00:00",
+      "score": 6
+    },
+    {
+      "id": "37655c8141",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T17:33:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "a7c7509da1",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T17:09:56+00:00",
+      "score": 5
+    },
+    {
+      "id": "210af46fb8",
+      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T15:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "a3a7093793",
       "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
@@ -88,6 +132,17 @@
       "topic": "tech",
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T00:02:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "8fad3a9975",
+      "title": "Author Talks: How to turn hope into action",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-turn-hope-into-action",
+      "summary": "What compels us to act when we see a problem? Draper Richards Kaplan Foundation CEO Jim Bildner reflects on social entrepreneurship, personal loss, and how hope can move us to act.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T04:01:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "388663d385",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T03:10:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "cc8cd32dd0",
-      "title": "Brilliant Moves: Coffee with Lloyds Banking Group CEO Charlie Nunn",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/brilliant-moves-coffee-with-lloyds-banking-group-ceo-charlie-nunn",
-      "summary": "Drawing on two decades of collaboration, Lloyds Banking Group’s Charlie Nunn and McKinsey’s Tunde Olanrewaju explore how trust, curiosity, and optimism help leaders reimagine institutions in the age of AI.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3bc3ccd629",
-      "title": "Author Talks: Why leadership intelligence matters in the AI age",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-leadership-intelligence-matters-in-the-ai-age",
-      "summary": "Lessons from cognitive science can help leaders become wiser, more inspiring, and more resilient. McKinsey Senior Adviser Caroline Webb explains why human intelligence is a growing leadership advantage.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "baf4c2ebab",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T21:10:27+00:00",
-      "score": 5
-    },
-    {
-      "id": "28f2057249",
-      "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
-      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T20:12:51+00:00",
       "score": 4
     }
   ]
