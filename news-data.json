@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-18T06:01:05.692324+00:00",
+  "updated": "2026-09-18T10:01:09.004446+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7ebbd7dd21",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T09:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "024982788b",
+      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "258ad608e4",
       "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "08 Sep 2026",
       "timestamp": "2026-09-08T18:43:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "2372e1e4c4",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T17:32:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "48232c1c3b",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Sep 2026",
-      "timestamp": "2026-09-08T17:00:00+00:00",
       "score": 4
     }
   ]
