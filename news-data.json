@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-18T20:03:08.232053+00:00",
+  "updated": "2026-09-18T22:01:08.098914+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "49776e1c52",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T21:44:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "c9073c10ba",
+      "title": "Automattic names interim CFO after exec departures",
+      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+      "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T20:25:22+00:00",
+      "score": 4
+    },
     {
       "id": "c787e87aad",
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3ea3f3d52e",
-      "title": "There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine",
-      "url": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
-      "summary": "Cofertility lets women freeze their eggs for free—as long as they give half of them back to the company. What happens next is anyone’s guess.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "deb348052c",
-      "title": "Batteries just broke another record in the US",
-      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T09:00:00+00:00",
       "score": 4
     }
   ]
