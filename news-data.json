@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-18T22:01:08.098914+00:00",
+  "updated": "2026-09-19T01:48:19.443605+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "43903881cd",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T23:25:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "dcced75f93",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T23:13:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "99bd6d4072",
+      "title": "AI hallucination nearly triggers US military operation",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Sep 2026",
+      "timestamp": "2026-09-18T23:12:32+00:00",
+      "score": 4
+    },
     {
       "id": "49776e1c52",
       "title": "Anthropic’s first embedded evaluator is … Accenture?",
@@ -793,6 +826,17 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T12:02:14+00:00",
       "score": 5
+    },
+    {
+      "id": "7d19d74e67",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Sep 2026",
+      "timestamp": "2026-09-16T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "ddf4322968",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "04755a5637",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T12:05:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "42181b1ff3",
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T11:00:10+00:00",
-      "score": 5
-    },
-    {
-      "id": "dc8c3baa32",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T11:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b8ee382f08",
-      "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
-      "summary": "The cable news network’s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T10:30:00+00:00",
       "score": 4
     }
   ]
