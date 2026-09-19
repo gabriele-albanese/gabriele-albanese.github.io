@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-19T14:53:15.011700+00:00",
+  "updated": "2026-09-19T18:01:08.069636+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c67b3655b3",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Sep 2026",
+      "timestamp": "2026-09-19T17:30:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "021b211a92",
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Sep 2026",
+      "timestamp": "2026-09-19T17:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "0ac6fc9717",
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T16:05:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "aea2bcdb83",
-      "title": "Viral AI assistant Instinct now has its own email address",
-      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T15:13:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "46975b8cf2",
-      "title": "An Engineer’s Guide to Surviving a Layoff",
-      "url": "https://spectrum.ieee.org/how-to-survive-a-layoff",
-      "summary": "This article is crossposted from  IEEE Spectrum ’s careers newsletter.   Sign up now    to get insider tips, expert advice, and practical strategies,   written i n partnership with tech career development company  Parsity  and    delivered to your inbox for free!         I lost a",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T15:03:38+00:00",
       "score": 4
     }
   ]
