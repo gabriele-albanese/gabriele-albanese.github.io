@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-19T10:01:10.758366+00:00",
+  "updated": "2026-09-19T14:01:11.753536+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0ac6fc9717",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Sep 2026",
+      "timestamp": "2026-09-19T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9b54ffdd34",
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Sep 2026",
+      "timestamp": "2026-09-19T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7d51a39589",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Sep 2026",
+      "timestamp": "2026-09-19T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "097e376849",
       "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T15:03:38+00:00",
-      "score": 4
-    },
-    {
-      "id": "46698576bf",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T15:02:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "aa5095178e",
-      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
-      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
-      "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "489fd9472b",
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T13:00:00+00:00",
       "score": 4
     }
   ]
