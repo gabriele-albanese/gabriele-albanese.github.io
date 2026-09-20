@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-20T14:57:39.387815+00:00",
+  "updated": "2026-09-20T18:01:16.115426+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8e19f4707d",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Sep 2026",
+      "timestamp": "2026-09-20T18:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "c09a44666c",
       "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ee45ad0fd0",
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "summary": "\"We really do earnestly believe AI could kill all humans!\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T16:59:40+00:00",
       "score": 4
     }
   ]
