@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-20T18:01:16.115426+00:00",
+  "updated": "2026-09-20T19:52:25.415821+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "262fdb19d1",
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Sep 2026",
+      "timestamp": "2026-09-20T18:56:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "4c292615ef",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Sep 2026",
+      "timestamp": "2026-09-20T18:32:52+00:00",
+      "score": 4
+    },
     {
       "id": "8e19f4707d",
       "title": "ScrollEd wants to turn textbooks into TikTok",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T17:38:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "974e0dc97a",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T17:36:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "bb894e9201",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T17:00:00+00:00",
       "score": 4
     }
   ]
