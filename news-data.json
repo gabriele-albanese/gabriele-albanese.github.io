@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-20T06:01:09.788165+00:00",
+  "updated": "2026-09-20T10:01:09.163217+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c09a44666c",
+      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+      "summary": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Sep 2026",
+      "timestamp": "2026-09-20T09:30:00+00:00",
+      "score": 5
+    },
     {
       "id": "c67b3655b3",
       "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T16:59:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "21c2a27323",
-      "title": "Superintelligence is coming. Should we let it?",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capa",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T16:05:35+00:00",
       "score": 4
     }
   ]
