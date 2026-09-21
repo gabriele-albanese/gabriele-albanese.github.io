@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-21T18:01:12.366113+00:00",
+  "updated": "2026-09-21T21:16:53.418627+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c06d2cf008",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T20:15:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "491414dc30",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T19:25:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "285c3f8892",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T19:19:21+00:00",
+      "score": 5
+    },
+    {
+      "id": "e608e843a8",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T18:23:05+00:00",
+      "score": 4
+    },
     {
       "id": "cfff59da9d",
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -111,6 +155,17 @@
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T12:04:11+00:00",
       "score": 5
+    },
+    {
+      "id": "7a457bd9c5",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "aba8f8622c",
@@ -2145,61 +2200,6 @@
       "topic": "ai",
       "date": "10 Sep 2026",
       "timestamp": "2026-09-10T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "afc832aa3a",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d86fa96aa3",
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9ee5bacda2",
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T14:53:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "7cc25eebda",
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T14:34:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "3fae966ba9",
-      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-      "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-      "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T13:34:01+00:00",
       "score": 4
     }
   ]
