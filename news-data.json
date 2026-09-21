@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:16:53.418627+00:00",
+  "updated": "2026-09-21T22:01:14.701210+00:00",
   "count": 200,
   "articles": [
     {
@@ -2192,11 +2192,11 @@
       "score": 5
     },
     {
-      "id": "8e610a2233",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "source": "OpenAI Blog",
+      "id": "afc832aa3a",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "source": "Google AI Blog",
       "topic": "ai",
       "date": "10 Sep 2026",
       "timestamp": "2026-09-10T16:00:00+00:00",
