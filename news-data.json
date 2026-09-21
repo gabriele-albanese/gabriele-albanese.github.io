@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-21T11:12:07.665435+00:00",
+  "updated": "2026-09-21T14:01:15.268230+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "10defbfb15",
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T13:49:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d3a57683ef",
+      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T13:00:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "662a92dfcc",
+      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "summary": "Watch now (47 mins) | &#127897;&#65039; Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T12:04:11+00:00",
+      "score": 5
+    },
     {
       "id": "9d3041f3c2",
       "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
@@ -34,6 +67,17 @@
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T09:37:00+00:00",
       "score": 4
+    },
+    {
+      "id": "07a9efb9a1",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "ca042c4cfa",
@@ -2157,50 +2201,6 @@
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T22:25:22+00:00",
       "score": 5
-    },
-    {
-      "id": "4bba5afd45",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T22:11:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "6caff675a3",
-      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-      "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T20:58:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "014887778d",
-      "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
-      "url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
-      "summary": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T19:07:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "ef66728a92",
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T18:34:24+00:00",
-      "score": 4
     }
   ]
 }
