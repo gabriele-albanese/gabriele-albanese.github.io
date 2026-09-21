@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-21T10:01:16.535448+00:00",
+  "updated": "2026-09-21T11:12:07.665435+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9d3041f3c2",
+      "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
+      "url": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
+      "summary": "The Bambu Lab P2S Combo makes useful, polished objects without requiring advanced technical skills.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "73f43413de",
+      "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
+      "url": "https://www.wired.com/story/women-in-tech-survey/",
+      "summary": "Executives happily automating their days with AI. New hires confronting bro culture. Women in tech have a lot to say—and they told it all to WIRED.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "face31ce86",
       "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T18:34:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "6dfd5df55b",
-      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T18:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d6fa922845",
-      "title": "Apple unveils its first foldable, the iPhone Duo",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-      "summary": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. The company said that the new device was ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T17:58:14+00:00",
       "score": 4
     }
   ]
