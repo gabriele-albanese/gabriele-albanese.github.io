@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-21T17:15:09.989318+00:00",
+  "updated": "2026-09-21T18:01:12.366113+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cfff59da9d",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Muse isn't welcome as a shopper anymore.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T17:55:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "ac91fe690f",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T16:57:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "43568082e7",
+      "title": "Russel Vought will reportedly be given veto power over all NIH grants",
+      "url": "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+      "summary": "Pending move comes over the objections of the NIH director.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T16:40:26+00:00",
+      "score": 4
+    },
     {
       "id": "243957bdcb",
       "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
@@ -80,6 +113,17 @@
       "score": 5
     },
     {
+      "id": "aba8f8622c",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T12:00:00+00:00",
+      "score": 5
+    },
+    {
       "id": "9d3041f3c2",
       "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
       "url": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
@@ -88,6 +132,17 @@
       "topic": "tech",
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "25363ac686",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T10:00:00+00:00",
       "score": 4
     },
     {
@@ -110,6 +165,17 @@
       "topic": "tech",
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T09:37:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "cbe7141392",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T07:00:00+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "10 Sep 2026",
       "timestamp": "2026-09-10T13:34:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "7ca38c8830",
-      "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-      "url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-      "summary": "The buzzy startup raised $600 million in its Series C round.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "15f72ba463",
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a056454f3d",
-      "title": "When AI Disruption Never Ends",
-      "url": "https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/",
-      "summary": "Phil Bliss/theispot.com A vice president of product opens her laptop on a Monday morning to find that the AI model her team had worked with for the past six weeks to build a customer workflow has been leapfrogged by a cheaper, faster alternative. Again. Her Slack feed is blowing ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T11:00:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "2391f2090c",
-      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
-      "url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
-      "summary": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T10:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f95ee6f63f",
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3f77446f0e",
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T07:00:00+00:00",
       "score": 4
     }
   ]
