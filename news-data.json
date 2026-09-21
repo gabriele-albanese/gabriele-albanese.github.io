@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-21T14:01:15.268230+00:00",
+  "updated": "2026-09-21T17:15:09.989318+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "243957bdcb",
+      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T15:03:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "719dd1e473",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ce68e24858",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T14:39:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "dd0d90e109",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competition.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T14:15:00+00:00",
+      "score": 4
+    },
     {
       "id": "10defbfb15",
       "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
@@ -67,6 +111,17 @@
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T09:37:00+00:00",
       "score": 4
+    },
+    {
+      "id": "2e3cd857bb",
+      "title": "Novartis’s Christian Diehl on scaling AI beyond the demo",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/novartiss-christian-diehl-on-scaling-ai-beyond-the-demo",
+      "summary": "Novartis’s chief data and digital officer for biomedical research explains how data platform investments are paying off in AI safety prediction, generative chemistry, and faster translation.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "07a9efb9a1",
@@ -2146,61 +2201,6 @@
       "date": "10 Sep 2026",
       "timestamp": "2026-09-10T07:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "aa2ea623e7",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e9590b50c0",
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T00:00:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "031421652d",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cc108cfc0a",
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "summary": "Mullenweg said in a company Slack message that it was against his will.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T23:14:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "a62cdeb365",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T22:25:22+00:00",
-      "score": 5
     }
   ]
 }
