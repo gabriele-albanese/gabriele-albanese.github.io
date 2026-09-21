@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-21T06:01:09.527626+00:00",
+  "updated": "2026-09-21T10:01:16.535448+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "face31ce86",
+      "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
+      "url": "https://www.wired.com/review/factor-perpared-meals-2026/",
+      "summary": "Factor home-delivery meals have mastered the art of a juicy, medium-rare steak. But inconsistency is still an issue.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T09:37:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ca042c4cfa",
+      "title": "WIRED: The AI playbook top companies use",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
+      "summary": "McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses across technology, processes, people, and leadership.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "21 Sep 2026",
+      "timestamp": "2026-09-21T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "262fdb19d1",
       "title": "Is the AI industry really ready to slow down?",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Sep 2026",
       "timestamp": "2026-09-09T17:58:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "47b2a3d70f",
-      "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
-      "url": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
-      "summary": "The iPhone with a folding screen is the first radical redesign of Apple’s flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T17:57:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "befd3dad19",
-      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-      "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-      "summary": "There's also a new thermal management system, reducing overheating.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Sep 2026",
-      "timestamp": "2026-09-09T17:38:53+00:00",
       "score": 4
     }
   ]
