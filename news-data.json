@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-22T20:32:13.734049+00:00",
+  "updated": "2026-09-22T22:01:11.203112+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "84a303211c",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T21:56:43+00:00",
+      "score": 4
+    },
     {
       "id": "991bdfde2b",
       "title": "Better prompt caching for GPT-6",
@@ -11,6 +22,17 @@
       "topic": "ai",
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T21:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "90435c878e",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T19:45:47+00:00",
       "score": 4
     },
     {
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "12 Sep 2026",
       "timestamp": "2026-09-12T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ca81682d91",
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Sep 2026",
-      "timestamp": "2026-09-12T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c923ead075",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T22:58:17+00:00",
       "score": 4
     }
   ]
