@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-22T10:25:18.020006+00:00",
+  "updated": "2026-09-22T14:01:18.225518+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d502923e56",
+      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+      "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+      "summary": "Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "008028ffb0",
+      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+      "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+      "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T13:20:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8521f111c0",
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "172f0b5ec9",
+      "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+      "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+      "summary": "To the investors at Bill Gates's Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "020fc8cb0d",
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T12:23:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "69b662349c",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR),",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "d185f661c7",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (r",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T11:04:51+00:00",
+      "score": 6
+    },
+    {
+      "id": "7436dc147e",
+      "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+      "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "summary": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T11:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "25ea55a0ab",
+      "title": "Is a Home Security System Subscription Worth It? (2026)",
+      "url": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/",
+      "summary": "Just about every home security system has paid options, but with a little effort and a focus on local storage, you can build your own without the recurring costs.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T10:36:00+00:00",
+      "score": 4
+    },
     {
       "id": "4c1ab2f15d",
       "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "11 Sep 2026",
       "timestamp": "2026-09-11T10:33:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ebb4b1b0f1",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T10:00:00+00:00",
-      "score": 8
-    },
-    {
-      "id": "807e022c33",
-      "title": "Mastering autonomous truck technology in Europe",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe",
-      "summary": "The advent of autonomous trucks and buses is set to define new form factors and business models, but Europe risks falling behind.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "de1c1f4b00",
-      "title": "The speed problem: How frontier AI exposes weakness in enterprise cybersecurity",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-speed-problem-how-frontier-ai-exposes-weakness-in-enterprise-cybersecurity",
-      "summary": "Attackers now move at machine speed, but organizations make decisions at committee speed. To close the gap, businesses need a different operating model and committed executive leadership.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T00:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "1c148458b4",
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T23:28:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "fc18cc73f1",
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T22:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a7a028d73",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T20:59:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "999f113dc0",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T20:57:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "eba93220ba",
-      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T20:48:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "38b7650801",
-      "title": "Is AI Actually Going to Kill Us All?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T20:30:37+00:00",
       "score": 4
     }
   ]
