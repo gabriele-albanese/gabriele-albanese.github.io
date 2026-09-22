@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-22T15:48:37.237787+00:00",
+  "updated": "2026-09-22T18:01:17.007426+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d5bcb149d5",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T18:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ae7578b561",
+      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
+      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T17:30:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "d52a24ca50",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T16:30:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "91099fae6b",
+      "title": "Effort begins to fill the void left by terminated US climate report",
+      "url": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
+      "summary": "First paper added to community collection is a roadmap for research.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T16:26:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "33039c0a84",
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T16:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "8fdc384c01",
       "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
@@ -187,6 +242,17 @@
       "topic": "pm",
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T08:02:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "5a9917ede7",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "11 Sep 2026",
       "timestamp": "2026-09-11T19:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1b22bca4ba",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-      "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T18:58:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "4a3e6b73d8",
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T18:22:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "cb9faf0484",
-      "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
-      "url": "https://spectrum.ieee.org/ieee-to-reward-sections",
-      "summary": "For this year’s IEEE annual  election , the IEEE  Tellers Committee  will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the  IEEE Board of Directors .The in",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T18:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "3eb10fd44c",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T16:46:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "bb3fa770c5",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4a25545209",
-      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "summary": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T15:19:00+00:00",
       "score": 4
     }
   ]
