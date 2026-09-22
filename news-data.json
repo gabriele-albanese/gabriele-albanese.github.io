@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-22T06:01:11.805559+00:00",
+  "updated": "2026-09-22T10:01:12.474959+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b9cf85042c",
+      "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+      "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T09:30:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "954b1a848e",
+      "title": "How to Use AI With Your Privacy Intact",
+      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "68f81d178d",
+      "title": "Nobody Killed the Roadmap",
+      "url": "https://www.productcoalition.com/p/nobody-killed-the-roadmap",
+      "summary": "Twelve years of product writing buried a document its own authors had already stopped defending",
+      "source": "Product Coalition",
+      "topic": "pm",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T08:02:02+00:00",
+      "score": 4
+    },
     {
       "id": "c06d2cf008",
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "10 Sep 2026",
       "timestamp": "2026-09-10T19:50:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "00d16abf81",
-      "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
-      "summary": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T18:38:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "9abc7cfd05",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T17:54:44+00:00",
-      "score": 5
-    },
-    {
-      "id": "afc832aa3a",
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "10 Sep 2026",
-      "timestamp": "2026-09-10T16:00:00+00:00",
       "score": 4
     }
   ]
