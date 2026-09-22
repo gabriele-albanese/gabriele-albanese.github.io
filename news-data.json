@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-22T14:01:18.225518+00:00",
+  "updated": "2026-09-22T15:48:37.237787+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8fdc384c01",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "63278f8d0a",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7c8fe9cba5",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T14:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d047be013a",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T14:15:00+00:00",
+      "score": 5
+    },
     {
       "id": "d502923e56",
       "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "11 Sep 2026",
       "timestamp": "2026-09-11T15:19:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e4ed798161",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T13:02:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "f32bd2d1d6",
-      "title": "What happens when quantum mechanics and relativity meet?",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T11:20:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "19e1758cbe",
-      "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
-      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "summary": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T10:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dba28e05f8",
-      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
-      "url": "https://www.wired.com/gallery/best-mushroom-coffee/",
-      "summary": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T10:33:00+00:00",
       "score": 4
     }
   ]
