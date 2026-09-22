@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-22T18:01:17.007426+00:00",
+  "updated": "2026-09-22T20:32:13.734049+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "991bdfde2b",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T21:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c8f55a3c57",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T19:28:23+00:00",
+      "score": 5
+    },
+    {
+      "id": "1a982ad9b9",
+      "title": "I left Claude for months. Opus 5.5 is why I'm back",
+      "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+      "summary": "Watch now (25 mins) | &#127897;&#65039; I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T19:06:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "c4259d8daf",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T18:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "d5bcb149d5",
       "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "11 Sep 2026",
       "timestamp": "2026-09-11T22:58:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "d4514d2769",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T20:57:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "12de205131",
-      "title": "Roundtables: Will AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI e",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T20:05:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "9622d19706",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T19:34:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "d1716c9e5b",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "summary": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Sep 2026",
-      "timestamp": "2026-09-11T19:00:00+00:00",
       "score": 4
     }
   ]
