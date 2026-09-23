@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:01:13.117461+00:00",
+  "updated": "2026-09-23T20:45:01.064197+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,28 @@
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T12:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "f91f8ee209",
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T19:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f9f3e9ed49",
+      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+      "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
+      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T18:30:00+00:00",
+      "score": 4
     },
     {
       "id": "542b7322fe",
@@ -113,6 +135,28 @@
       "score": 4
     },
     {
+      "id": "32b5509ca9",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "01d0ed630f",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T12:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "ca7a2de7d1",
       "title": "Ema raises $77M as AI starts eating into enterprise software and services",
       "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
@@ -132,6 +176,28 @@
       "topic": "tech",
       "date": "23 Sep 2026",
       "timestamp": "2026-09-23T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "edaeeef0c7",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have a",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T09:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "91a41587c9",
+      "title": "Author Talks: The business of owning a sports team",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team",
+      "summary": "How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T15:34:31+00:00",
       "score": 5
-    },
-    {
-      "id": "2f20438628",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T15:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "d360e52aaf",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "summary": "Fathom said that it has over 400,000 monthly active users.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T14:45:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "844d349ff2",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "674385f747",
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T13:55:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4bd849d94b",
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T13:55:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ebe3fccd0a",
-      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "summary": "Watch now (42 mins) | &#127897;&#65039; Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T12:04:39+00:00",
-      "score": 4
     }
   ]
 }
