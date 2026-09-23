@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:45:01.064197+00:00",
+  "updated": "2026-09-23T22:01:13.345452+00:00",
   "count": 200,
   "articles": [
     {
@@ -135,6 +135,17 @@
       "score": 4
     },
     {
+      "id": "7c9a1180e3",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T12:00:00+00:00",
+      "score": 5
+    },
+    {
       "id": "32b5509ca9",
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
@@ -187,6 +198,28 @@
       "topic": "ai",
       "date": "23 Sep 2026",
       "timestamp": "2026-09-23T09:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "70fc10c11a",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T01:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "251d8cd3d0",
+      "title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon",
+      "summary": "As India’s economy continues to ramp up, insurers have an opportunity to capture value by improving productivity, modernizing operating models, and scaling technology and AI across the enterprise.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T00:00:00+00:00",
       "score": 5
     },
     {
@@ -2168,39 +2201,6 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T17:54:22+00:00",
       "score": 6
-    },
-    {
-      "id": "c2be321fde",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T16:27:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ca5a8ed38",
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researc",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "55478c46f5",
-      "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-      "summary": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T15:34:31+00:00",
-      "score": 5
     }
   ]
 }
