@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-22T22:01:11.203112+00:00",
+  "updated": "2026-09-23T01:57:56.323799+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ffe6012d6f",
+      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "summary": "Watch now (39 mins) | &#127897;&#65039; I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T23:12:49+00:00",
+      "score": 4
+    },
     {
       "id": "84a303211c",
       "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -12,6 +23,17 @@
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T21:56:43+00:00",
       "score": 4
+    },
+    {
+      "id": "2bd75cd105",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T21:25:18+00:00",
+      "score": 6
     },
     {
       "id": "991bdfde2b",
@@ -234,6 +256,17 @@
       "score": 5
     },
     {
+      "id": "81928ec12d",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T12:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "d185f661c7",
       "title": "Don’t be fooled by this summer of AI hype",
       "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
@@ -308,6 +341,17 @@
       "topic": "pm",
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T08:02:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "9c7add5f54",
+      "title": "The future of healthy living: A $16.4 trillion opportunity",
+      "url": "https://www.mckinsey.com/mhi/our-insights/the-future-of-healthy-living-a-16-4-trillion-opportunity",
+      "summary": "New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9 percent to the global economy by 2050.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "22 Sep 2026",
+      "timestamp": "2026-09-22T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2157,50 +2201,6 @@
       "date": "12 Sep 2026",
       "timestamp": "2026-09-12T20:19:16+00:00",
       "score": 5
-    },
-    {
-      "id": "5b418801f4",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "summary": "Tesla’s halo sports car was first announced in November 2017.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Sep 2026",
-      "timestamp": "2026-09-12T19:21:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "9300b1955f",
-      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
-      "summary": "Community Wisdom 298",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "12 Sep 2026",
-      "timestamp": "2026-09-12T17:45:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "82c98d9b6a",
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "What would it actually look like to \"pace the frontier\"?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Sep 2026",
-      "timestamp": "2026-09-12T15:52:11+00:00",
-      "score": 5
-    },
-    {
-      "id": "3847461820",
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Sep 2026",
-      "timestamp": "2026-09-12T10:30:00+00:00",
-      "score": 4
     }
   ]
 }
