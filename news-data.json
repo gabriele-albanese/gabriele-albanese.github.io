@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-23T15:37:50.683418+00:00",
+  "updated": "2026-09-23T18:01:13.117461+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c24a6e6fac",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T12:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "542b7322fe",
+      "title": "The old cybersecurity model is breaking",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T17:44:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "3ecdce7d83",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T17:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "cd65d3ae79",
       "title": "Two years of OpenAI Academy",
@@ -2168,39 +2201,6 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T12:04:39+00:00",
       "score": 4
-    },
-    {
-      "id": "2318750699",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T12:00:00+00:00",
-      "score": 7
-    },
-    {
-      "id": "be737aac2b",
-      "title": "How AI Creates a Capability Mirage",
-      "url": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
-      "summary": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In each case, they may look good on the surface, but it’s only an illusion. Wood afflicted with dry rot looks just fine until the tree it’s in topples down. Grigory Potemkin is ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T11:00:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "22453bdaae",
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T11:00:00+00:00",
-      "score": 5
     }
   ]
 }
