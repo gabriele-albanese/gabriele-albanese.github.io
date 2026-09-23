@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-23T14:01:17.970220+00:00",
+  "updated": "2026-09-23T15:37:50.683418+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cd65d3ae79",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b6623ede92",
+      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+      "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+      "summary": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T14:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a8a41c2faf",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T14:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0869f53f8a",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T14:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "52876ea665",
+      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
+      "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
+      "summary": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T14:21:41+00:00",
+      "score": 4
+    },
     {
       "id": "7d0f5cd575",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -44,6 +99,17 @@
       "topic": "tech",
       "date": "23 Sep 2026",
       "timestamp": "2026-09-23T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0c94b27c8c",
+      "title": "Rewiring procurement in resources: Making judgment an enduring asset",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-procurement-in-resources-making-judgment-an-enduring-asset",
+      "summary": "For procurement leaders in the resources sector, using AI to codify the function’s category expertise does not just capture more value—it turns hard-won judgment into a compounded, durable advantage.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T11:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "8e20d1dcda",
-      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a43769c0a",
-      "title": "Stacking the odds: A blueprint for successfully scaling agentic AI",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/stacking-the-odds-a-blueprint-for-successfully-scaling-agentic-ai",
-      "summary": "Many enterprises are scaling AI agents faster than they are redesigning the work underneath. A detailed blueprint supports the rollout and lays the groundwork for lasting value creation.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T00:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "ea5b193337",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3701474fa5",
-      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Sep 2026",
-      "timestamp": "2026-09-13T21:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "ddc287c6ed",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Sep 2026",
-      "timestamp": "2026-09-13T20:28:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "6b54256d4a",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Sep 2026",
-      "timestamp": "2026-09-13T16:30:00+00:00",
-      "score": 4
     }
   ]
 }
