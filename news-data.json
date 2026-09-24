@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:01:15.266584+00:00",
+  "updated": "2026-09-24T10:34:52.536908+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T12:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "148d643475",
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a l",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T10:00:00+00:00",
+      "score": 4
     },
     {
       "id": "aa315854d4",
@@ -2189,17 +2200,6 @@
       "topic": "business",
       "date": "15 Sep 2026",
       "timestamp": "2026-09-15T11:00:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "20fb13705e",
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T07:00:30+00:00",
       "score": 4
     }
   ]
