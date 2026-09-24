@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T22:01:13.345452+00:00",
+  "updated": "2026-09-24T01:46:58.031473+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,61 @@
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T12:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "a58dd3909c",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T01:13:32+00:00",
+      "score": 5
+    },
+    {
+      "id": "b3b054f1bb",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T00:46:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "62a053943f",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T23:47:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "97c3effef9",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T23:42:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "a9bbbe61b4",
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T22:17:39+00:00",
+      "score": 5
     },
     {
       "id": "f91f8ee209",
@@ -2146,61 +2201,6 @@
       "date": "14 Sep 2026",
       "timestamp": "2026-09-14T21:51:02+00:00",
       "score": 4
-    },
-    {
-      "id": "29ba46951f",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T21:04:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "4dd932ed2d",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T20:44:14+00:00",
-      "score": 4
-    },
-    {
-      "id": "8f91eecbb9",
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T19:45:13+00:00",
-      "score": 5
-    },
-    {
-      "id": "c884bb2181",
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T19:38:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "f4964ed02d",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T17:54:22+00:00",
-      "score": 6
     }
   ]
 }
