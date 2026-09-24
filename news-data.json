@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-24T18:01:14.971328+00:00",
+  "updated": "2026-09-24T20:50:24.111065+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a39715447b",
+      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T20:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c532f4af7f",
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T19:36:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "36fdde13c0",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T19:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "401fbf3dbc",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T19:00:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "8cf69f0bdc",
+      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T18:52:38+00:00",
+      "score": 5
+    },
     {
       "id": "7a8c15dbde",
       "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
@@ -58,6 +113,17 @@
       "score": 4
     },
     {
+      "id": "0250cb47c8",
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T16:16:34+00:00",
+      "score": 4
+    },
+    {
       "id": "ba83901647",
       "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
@@ -67,6 +133,17 @@
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T16:03:36+00:00",
       "score": 4
+    },
+    {
+      "id": "3196517d37",
+      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+      "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T16:01:16+00:00",
+      "score": 5
     },
     {
       "id": "409ba40c79",
@@ -2124,83 +2201,6 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T09:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "da2928c842",
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "url": "https://www.wired.com/story/factor-promo-code/",
-      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this September.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c8e966977f",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T20:12:53+00:00",
-      "score": 6
-    },
-    {
-      "id": "7eb39231f1",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T19:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "fd50e4e2fe",
-      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T18:00:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "8bfbb7f047",
-      "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
-      "url": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
-      "summary": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T17:50:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "1e9eb8a1b0",
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T17:42:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "116783ddbd",
-      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-      "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-      "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one com",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T17:02:04+00:00",
-      "score": 5
     }
   ]
 }
