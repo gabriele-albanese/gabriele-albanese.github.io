@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:01:10.825425+00:00",
+  "updated": "2026-09-24T06:01:08.969583+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T12:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "aa315854d4",
+      "title": "AirDoctor Coupon Codes: 40% Off | September 2026",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T05:00:00+00:00",
+      "score": 4
     },
     {
       "id": "a58dd3909c",
@@ -254,6 +265,17 @@
       "date": "23 Sep 2026",
       "timestamp": "2026-09-23T09:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "673e2fde14",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Sep 2026",
+      "timestamp": "2026-09-23T02:00:00+00:00",
+      "score": 4
     },
     {
       "id": "70fc10c11a",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "15 Sep 2026",
       "timestamp": "2026-09-15T07:00:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "7dec791c80",
-      "title": "Author Talks: Read the room before you lead it",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
-      "summary": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and make better decisions.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "71b2c4f295",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Sep 2026",
-      "timestamp": "2026-09-14T21:51:02+00:00",
       "score": 4
     }
   ]
