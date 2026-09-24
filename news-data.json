@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-24T14:01:15.588512+00:00",
+  "updated": "2026-09-24T15:58:39.163612+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a4124c4bd8",
+      "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "summary": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T14:43:25+00:00",
+      "score": 4
+    },
     {
       "id": "77b59c06fc",
       "title": "Australia to investigate if OpenAI hack of government health website broke the law",
@@ -99,6 +110,17 @@
       "topic": "tech",
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T00:46:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "aabe45b562",
+      "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
+      "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "15 Sep 2026",
       "timestamp": "2026-09-15T13:00:05+00:00",
       "score": 7
-    },
-    {
-      "id": "06261c41c4",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T13:00:00+00:00",
-      "score": 7
-    },
-    {
-      "id": "e72570e1a4",
-      "title": "New Italian unicorn Exein rides the physical AI wave",
-      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-      "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T12:19:38+00:00",
-      "score": 4
     }
   ]
 }
