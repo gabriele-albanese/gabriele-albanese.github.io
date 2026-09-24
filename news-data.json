@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-24T10:34:52.536908+00:00",
+  "updated": "2026-09-24T14:01:15.588512+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "77b59c06fc",
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T12:54:19+00:00",
+      "score": 4
+    },
     {
       "id": "c24a6e6fac",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -12,6 +23,39 @@
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T12:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "e2ef745183",
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T11:15:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "27435dd8ab",
+      "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T10:46:56+00:00",
+      "score": 5
+    },
+    {
+      "id": "9d4d8a0f8d",
+      "title": "The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why",
+      "url": "https://www.wired.com/story/ovary-activity-after-menopause/",
+      "summary": "A growing body of research is putting the ovary in a new light, not as an egg factory with an expiration date, but as an organ that shapes women’s health long after the fertile years have passed.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T10:30:00+00:00",
+      "score": 4
     },
     {
       "id": "148d643475",
@@ -55,6 +99,17 @@
       "topic": "tech",
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T00:46:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "3efe1d45d6",
+      "title": "Democratized superintelligence is coming: The world needs to get ready",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+      "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "15 Sep 2026",
       "timestamp": "2026-09-15T12:19:38+00:00",
-      "score": 4
-    },
-    {
-      "id": "4b8958bcf8",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f9a32ab8fe",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T12:00:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "f3c2d25299",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory fil",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T12:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "597f04dc96",
-      "title": "The North Star Metric Was Never the Business",
-      "url": "https://www.productcoalition.com/p/the-north-star-metric-was-never-the",
-      "summary": "From 2015 to today, the archive shows one number moving from KPI to rule to warning",
-      "source": "Product Coalition",
-      "topic": "pm",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T11:28:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "b5bdce9965",
-      "title": "How B2B Marketers Misunderstand Their Customers",
-      "url": "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/",
-      "summary": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B marketing practices have remained surprisingly static. Sure, the tactics have shifted to digital executions, and the use of data has made targeting B2B buyers more pr",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "15 Sep 2026",
-      "timestamp": "2026-09-15T11:00:37+00:00",
       "score": 4
     }
   ]
