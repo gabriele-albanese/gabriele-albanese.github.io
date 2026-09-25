@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-24T22:01:08.797721+00:00",
+  "updated": "2026-09-25T02:01:07.794879+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "06dbc1d0a5",
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Sep 2026",
+      "timestamp": "2026-09-24T23:24:33+00:00",
+      "score": 4
+    },
     {
       "id": "a39715447b",
       "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f800917629",
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T09:00:00+00:00",
       "score": 4
     }
   ]
