@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-25T18:01:16.394512+00:00",
+  "updated": "2026-09-25T20:47:42.839466+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4b9cd4f252",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T19:13:38+00:00",
+      "score": 4
+    },
     {
       "id": "0192a09d7c",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -45,6 +56,17 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T16:16:52+00:00",
       "score": 4
+    },
+    {
+      "id": "6c6baa7010",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T16:00:00+00:00",
+      "score": 6
     },
     {
       "id": "042f70b509",
@@ -2179,28 +2201,6 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T17:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "b4b0475ed0",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T16:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c0309e5358",
-      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
-      "url": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
-      "summary": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T16:05:14+00:00",
-      "score": 5
     }
   ]
 }
