@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-25T10:38:18.689693+00:00",
+  "updated": "2026-09-25T14:01:16.418534+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5d28eed03e",
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "cd91e4ae8c",
+      "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+      "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+      "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T13:24:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "b0fa98e8b2",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next fi",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T12:10:00+00:00",
+      "score": 4
+    },
     {
       "id": "b50925bd3c",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
@@ -2168,39 +2201,6 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T13:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "9c87c3f34d",
-      "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-      "url": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-      "summary": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c81fa26a50",
-      "title": "Building the materials foundation for AI",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, the",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T12:47:34+00:00",
-      "score": 5
-    },
-    {
-      "id": "49e7531bef",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T12:10:00+00:00",
-      "score": 4
     }
   ]
 }
