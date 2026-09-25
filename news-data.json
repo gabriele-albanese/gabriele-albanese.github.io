@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-25T06:01:14.833281+00:00",
+  "updated": "2026-09-25T10:01:15.555397+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b50925bd3c",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligenc",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T09:16:25+00:00",
+      "score": 6
+    },
     {
       "id": "e5bc4e5d81",
       "title": "Therabody Promo Codes: 15% Off September 2026",
@@ -2190,17 +2201,6 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T12:10:00+00:00",
       "score": 4
-    },
-    {
-      "id": "9fca081b9a",
-      "title": "Muse review: The personal AI agent that gets consumer UX right",
-      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
-      "summary": "Watch now (38 mins) | &#127897;&#65039; I gave Meta&#8217;s Muse my calendar, my email, and my kids&#8217; chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I&#8217;ve ever made with Claude or Codex",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T12:02:14+00:00",
-      "score": 5
     }
   ]
 }
