@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-26T18:01:09.600656+00:00",
+  "updated": "2026-09-26T20:14:59.496695+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cb948f29af",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Sep 2026",
+      "timestamp": "2026-09-26T17:44:00+00:00",
+      "score": 5
+    },
     {
       "id": "1b3d74789f",
       "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T21:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0f8828d5d9",
-      "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
-      "url": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
-      "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T19:45:41+00:00",
       "score": 4
     }
   ]
