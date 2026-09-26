@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T02:01:07.384128+00:00",
+  "updated": "2026-09-26T02:09:16.669595+00:00",
   "count": 200,
   "articles": [
     {
@@ -34,6 +34,17 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T22:20:47+00:00",
       "score": 5
+    },
+    {
+      "id": "725b5e9b15",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "25 Sep 2026",
+      "timestamp": "2026-09-25T21:36:20+00:00",
+      "score": 6
     },
     {
       "id": "4b9cd4f252",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T19:35:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "dd8dedb16a",
-      "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-      "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-      "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T19:02:49+00:00",
       "score": 4
     }
   ]
