@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-26T06:01:11.065043+00:00",
+  "updated": "2026-09-26T10:01:13.715890+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1b3d74789f",
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
+      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Sep 2026",
+      "timestamp": "2026-09-26T09:05:00+00:00",
+      "score": 4
+    },
     {
       "id": "4dc5a9b388",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T19:45:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "335020aa15",
-      "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T19:35:29+00:00",
       "score": 4
     }
   ]
