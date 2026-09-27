@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-27T10:53:41.677038+00:00",
+  "updated": "2026-09-27T14:01:17.415771+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2895aa03dc",
+      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+      "summary": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "27 Sep 2026",
+      "timestamp": "2026-09-27T12:32:18+00:00",
+      "score": 4
+    },
     {
       "id": "e4d19eb73c",
       "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T22:02:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "48df201daf",
-      "title": "Noise wants to help everyday people  become paid content creators",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T21:35:00+00:00",
       "score": 4
     }
   ]
