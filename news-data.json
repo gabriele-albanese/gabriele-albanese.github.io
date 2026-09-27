@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-27T15:52:01.583963+00:00",
+  "updated": "2026-09-27T18:01:08.109915+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "62faa8b88a",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Sep 2026",
+      "timestamp": "2026-09-27T16:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "2895aa03dc",
       "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
@@ -2190,17 +2201,6 @@
       "date": "16 Sep 2026",
       "timestamp": "2026-09-16T22:07:24+00:00",
       "score": 5
-    },
-    {
-      "id": "d7779c24a9",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "16 Sep 2026",
-      "timestamp": "2026-09-16T22:02:46+00:00",
-      "score": 4
     }
   ]
 }
