@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-27T20:30:16.748136+00:00",
+  "updated": "2026-09-27T22:01:11.372136+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9206767926",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Sep 2026",
+      "timestamp": "2026-09-27T20:34:28+00:00",
+      "score": 5
+    },
     {
       "id": "ee2957dde3",
       "title": "Can Muse overcome Meta’s trust issues?",
@@ -2185,17 +2196,6 @@
       "title": "Why transformations stall—and where only CEOs make the difference",
       "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
       "summary": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d2abdfd2bc",
-      "title": "Europe’s new AI edge? The emerging application layer opportunity",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
-      "summary": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application era.",
       "source": "McKinsey",
       "topic": "business",
       "date": "17 Sep 2026",
