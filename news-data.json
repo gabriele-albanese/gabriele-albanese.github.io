@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-28T10:01:12.499445+00:00",
+  "updated": "2026-09-28T12:06:18.052179+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2abd9839c6",
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T11:32:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "a2d3c2718c",
+      "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+      "url": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
+      "summary": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4cebc9d150",
+      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "83662ae2a9",
       "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
@@ -2168,39 +2201,6 @@
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T10:06:50+00:00",
       "score": 5
-    },
-    {
-      "id": "4f879da662",
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T05:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b7c7d891ca",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T03:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "a99e443ad7",
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
