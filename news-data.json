@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-28T18:01:15.332880+00:00",
+  "updated": "2026-09-28T22:01:16.157699+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b30ea06fa8",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T21:29:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "6004394fcd",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T20:39:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "99c674f70f",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T19:33:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "d578c7a807",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add in",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T18:31:23+00:00",
+      "score": 7
+    },
+    {
+      "id": "374cdb539b",
+      "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
+      "url": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
+      "summary": "IEEE TryEngineering  is dedicated to inspiring intellectual curiosity in children.  The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concep",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T18:00:03+00:00",
+      "score": 4
+    },
     {
       "id": "342eef48a6",
       "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
@@ -242,6 +297,17 @@
       "topic": "ai",
       "date": "28 Sep 2026",
       "timestamp": "2026-09-28T07:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d7db80e019",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "e3285a711c",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "summary": "The round values the data center giant at $30.9 billion.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T23:25:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "1f172f85d3",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T22:34:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "92a62c9de7",
-      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T22:31:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "3e9d439b35",
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T22:12:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "5e7cc4bf41",
-      "title": "The fix for rogue AI agents could be more AI",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T20:34:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "41da7ed56e",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T20:34:24+00:00",
-      "score": 6
     }
   ]
 }
