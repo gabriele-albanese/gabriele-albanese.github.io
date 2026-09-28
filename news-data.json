@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-28T06:01:13.740056+00:00",
+  "updated": "2026-09-28T10:01:12.499445+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "83662ae2a9",
+      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T09:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "9df3eed3c7",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, Open",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T08:06:22+00:00",
+      "score": 5
+    },
     {
       "id": "9206767926",
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -2176,28 +2198,6 @@
       "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "source": "OpenAI Blog",
       "topic": "ai",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6adf2c4460",
-      "title": "Here’s why some US industrial companies achieve higher multiples",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples",
-      "summary": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "efa73bc50c",
-      "title": "Why transformations stall—and where only CEOs make the difference",
-      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
-      "summary": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
-      "source": "McKinsey",
-      "topic": "business",
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T00:00:00+00:00",
       "score": 4
