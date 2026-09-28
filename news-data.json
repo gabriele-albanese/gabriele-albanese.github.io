@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:01:16.157699+00:00",
+  "updated": "2026-09-28T22:40:21.175408+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "date": "28 Sep 2026",
       "timestamp": "2026-09-28T21:29:18+00:00",
       "score": 4
+    },
+    {
+      "id": "d88a4f59d8",
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T20:49:39+00:00",
+      "score": 5
     },
     {
       "id": "6004394fcd",
@@ -2185,17 +2196,6 @@
       "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
       "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
       "summary": "AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8fad3a9975",
-      "title": "Author Talks: How to turn hope into action",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-turn-hope-into-action",
-      "summary": "What compels us to act when we see a problem? Draper Richards Kaplan Foundation CEO Jim Bildner reflects on social entrepreneurship, personal loss, and how hope can move us to act.",
       "source": "McKinsey",
       "topic": "business",
       "date": "18 Sep 2026",
