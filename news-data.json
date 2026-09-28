@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-28T12:06:18.052179+00:00",
+  "updated": "2026-09-28T14:01:16.004062+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6607767131",
+      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+      "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "743718b6f7",
+      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4c0a92efb1",
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T13:38:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "b62b63880c",
+      "title": "Maritime intelligenc startup Quartermaster raises another $140M",
+      "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+      "summary": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "fb9f2e8190",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T12:10:00+00:00",
+      "score": 5
+    },
     {
       "id": "2abd9839c6",
       "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
@@ -2146,61 +2201,6 @@
       "date": "17 Sep 2026",
       "timestamp": "2026-09-17T13:26:32+00:00",
       "score": 4
-    },
-    {
-      "id": "ad5ab379bb",
-      "title": "Creating Aha! Builder: Concept to Code, No Engineers Required",
-      "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
-      "summary": "Listen to this episode on:  Spotify  |  Apple Podcasts   What does it take to build an AI app builder specifically for product managers&#x2014;not engineers&#x2014;inside an already crowded market?  In this episode of Just Now Possible, Teresa Torres talks with Brian De Haaff (CE",
-      "source": "Product Talk",
-      "topic": "pm",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T13:00:52+00:00",
-      "score": 5
-    },
-    {
-      "id": "e268b158af",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3177aa668f",
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "summary": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ff885aa48e",
-      "title": "‘Fast & Furious’ Takes a Victory Lap With a Ferociously Fun Roller Coaster",
-      "url": "https://www.wired.com/story/fast-and-furious-roller-coaster/",
-      "summary": "Vin Diesel, the star of the series, didn’t make a planned appearance at the grand opening of its dynamite new theme park ride. But it didn’t stop his fans from having a good time.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "12d245c759",
-      "title": "The EU Wants to Break Up Kids and Their Chatbots",
-      "url": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
-      "summary": "ChatGPT, Character.ai, and Snapchat’s My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Sep 2026",
-      "timestamp": "2026-09-17T10:06:50+00:00",
-      "score": 5
     }
   ]
 }
