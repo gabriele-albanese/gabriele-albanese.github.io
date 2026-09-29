@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-29T17:05:34.887459+00:00",
+  "updated": "2026-09-29T18:01:16.899120+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3a556bd4fc",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:45:51+00:00",
+      "score": 5
+    },
+    {
+      "id": "e7ce24fdf0",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:20:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "855aad9db3",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:17:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "98ef78184d",
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:15:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "26c92756de",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "95026b243e",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:15:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "c3416222c8",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T17:15:00+00:00",
+      "score": 5
+    },
     {
       "id": "594dcc5078",
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "20 Sep 2026",
       "timestamp": "2026-09-20T18:32:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "8e19f4707d",
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Sep 2026",
-      "timestamp": "2026-09-20T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c09a44666c",
-      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
-      "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
-      "summary": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Sep 2026",
-      "timestamp": "2026-09-20T09:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c67b3655b3",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T17:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "021b211a92",
-      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
-      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0ac6fc9717",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9b54ffdd34",
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7d51a39589",
-      "title": "Mathematicians Hate AI. They Can’t Quit It",
-      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T10:00:00+00:00",
       "score": 4
     }
   ]
