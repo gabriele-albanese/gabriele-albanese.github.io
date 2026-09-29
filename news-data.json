@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-29T11:39:09.032075+00:00",
+  "updated": "2026-09-29T14:01:13.143429+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2acce7e829",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T13:53:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "cefc4301c0",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T13:47:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "a7b614b117",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T12:45:05+00:00",
+      "score": 5
+    },
+    {
+      "id": "d95cf6211d",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T12:30:00+00:00",
+      "score": 5
+    },
     {
       "id": "94fab00db3",
       "title": "How to Outcompete Your Client’s AI",
@@ -121,6 +165,17 @@
       "topic": "tech",
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "43519065df",
+      "title": "Make life better: Mikhail Lomtadze’s customer-first philosophy",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy",
+      "summary": "Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2146,61 +2201,6 @@
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T23:12:32+00:00",
       "score": 4
-    },
-    {
-      "id": "49776e1c52",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T21:44:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "c9073c10ba",
-      "title": "Automattic names interim CFO after exec departures",
-      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-      "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T20:25:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "c787e87aad",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T18:49:30+00:00",
-      "score": 5
-    },
-    {
-      "id": "b47664b68f",
-      "title": "Turning Tech Talent Into Leadership Legacy",
-      "url": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
-      "summary": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organizat",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T18:00:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "f5578060dc",
-      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T17:59:53+00:00",
-      "score": 6
     }
   ]
 }
