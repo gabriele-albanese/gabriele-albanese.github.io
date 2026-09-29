@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-29T14:01:13.143429+00:00",
+  "updated": "2026-09-29T17:05:34.887459+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "594dcc5078",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T16:55:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "c0fc128f88",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T15:12:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "b7d05a28e7",
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+      "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9804aff9a5",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "summary": "Similar performance, security tradeoffs also seen in current public models.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T14:22:31+00:00",
+      "score": 5
+    },
+    {
+      "id": "5dd9300a2d",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T14:10:00+00:00",
+      "score": 5
+    },
     {
       "id": "2acce7e829",
       "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "19 Sep 2026",
       "timestamp": "2026-09-19T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "097e376849",
-      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
-      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T09:39:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c0b279342f",
-      "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-      "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-      "summary": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Sep 2026",
-      "timestamp": "2026-09-19T06:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "43903881cd",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T23:25:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "dcced75f93",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T23:13:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "99bd6d4072",
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T23:12:32+00:00",
       "score": 4
     }
   ]
