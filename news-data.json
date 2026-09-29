@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-29T02:53:02.359609+00:00",
+  "updated": "2026-09-29T06:01:12.450000+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f5aa58f3c1",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T05:13:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "2836011e46",
+      "title": "Motorola Coupon Code for October 2026",
+      "url": "https://www.wired.com/story/motorola-coupon-code/",
+      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8a749b3484",
+      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
+      "url": "https://www.wired.com/story/nordvpn-coupon/",
+      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "cd1a2f13f0",
+      "title": "Home Depot Promo Codes: 30% Off in October 2026",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "81bd0bdd01",
+      "title": "50% Off Blue Apron Promo Codes | October 2026",
+      "url": "https://www.wired.com/story/blue-apron-coupon/",
+      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ae8878d786",
+      "title": "Target Promo Code: $50 Off | October 2026",
+      "url": "https://www.wired.com/story/target-promo-code/",
+      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T05:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "2c968f6bfd",
       "title": "How we will do better for Australia",
@@ -2135,72 +2201,6 @@
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T15:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "360095ea67",
-      "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-      "summary": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0d70097db2",
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T14:00:14+00:00",
-      "score": 6
-    },
-    {
-      "id": "2925d3fec1",
-      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T14:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "a22eab8526",
-      "title": "Researchers used Claude to hack OpenAI",
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T13:30:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "48d4db25a2",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T12:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "7ebbd7dd21",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T09:00:00+00:00",
-      "score": 6
     }
   ]
 }
