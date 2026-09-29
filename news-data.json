@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-29T18:01:16.899120+00:00",
+  "updated": "2026-09-29T21:33:48.813813+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6a33aca726",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T20:15:47+00:00",
+      "score": 6
+    },
+    {
+      "id": "f0d48337f0",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T19:52:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "c0b42c02cc",
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T19:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "267c040ff0",
+      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "summary": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your calendar.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T18:48:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "b7ee266b3a",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T18:35:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "8030f7b0be",
+      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+      "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+      "summary": "So is SpaceX just being selfish or what?",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T18:34:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2e16230e22",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T18:11:09+00:00",
+      "score": 4
+    },
+    {
+      "id": "b39d2cf9d3",
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T18:03:01+00:00",
+      "score": 4
+    },
     {
       "id": "3a556bd4fc",
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
@@ -212,6 +300,28 @@
       "score": 4
     },
     {
+      "id": "dd3f81de33",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "66cfd10529",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T10:00:00+00:00",
+      "score": 5
+    },
+    {
       "id": "f5aa58f3c1",
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -297,6 +407,50 @@
       "topic": "tech",
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f806dd97b3",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "db6991aa94",
+      "title": "Author Talks: Can you fulfill your ambition and compose a life?",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life",
+      "summary": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to ambition, resilience, and leadership.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a21c4c664c",
+      "title": "The next phase of government AI economics",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics",
+      "summary": "Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e3633e920b",
+      "title": "Leading when change feels threatening",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/leading-when-change-feels-threatening",
+      "summary": "Fear and change can go hand in hand. Executives who understand this can significantly improve their odds of transformation success, while the executives who don’t risk sabotaging their change programs.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2046,160 +2200,6 @@
       "topic": "tech",
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T13:49:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d3a57683ef",
-      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
-      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T13:00:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "662a92dfcc",
-      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "summary": "Watch now (47 mins) | &#127897;&#65039; Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T12:04:11+00:00",
-      "score": 5
-    },
-    {
-      "id": "7a457bd9c5",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "aba8f8622c",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T12:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "9d3041f3c2",
-      "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
-      "url": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
-      "summary": "The Bambu Lab P2S Combo makes useful, polished objects without requiring advanced technical skills.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "25363ac686",
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "73f43413de",
-      "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
-      "url": "https://www.wired.com/story/women-in-tech-survey/",
-      "summary": "Executives happily automating their days with AI. New hires confronting bro culture. Women in tech have a lot to say—and they told it all to WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "face31ce86",
-      "title": "Factor Delivery Meals Review (2026): Tender Salmon, Room to Grow",
-      "url": "https://www.wired.com/review/factor-perpared-meals-2026/",
-      "summary": "Factor home-delivery meals have mastered the art of a juicy, medium-rare steak. But inconsistency is still an issue.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T09:37:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cbe7141392",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2e3cd857bb",
-      "title": "Novartis’s Christian Diehl on scaling AI beyond the demo",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/novartiss-christian-diehl-on-scaling-ai-beyond-the-demo",
-      "summary": "Novartis’s chief data and digital officer for biomedical research explains how data platform investments are paying off in AI safety prediction, generative chemistry, and faster translation.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "07a9efb9a1",
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "ca042c4cfa",
-      "title": "WIRED: The AI playbook top companies use",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
-      "summary": "McKinsey’s Dan Swan explains why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses across technology, processes, people, and leadership.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "262fdb19d1",
-      "title": "Is the AI industry really ready to slow down?",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Sep 2026",
-      "timestamp": "2026-09-20T18:56:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "4c292615ef",
-      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Sep 2026",
-      "timestamp": "2026-09-20T18:32:52+00:00",
       "score": 4
     }
   ]
