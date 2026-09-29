@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-29T10:01:19.878603+00:00",
+  "updated": "2026-09-29T11:39:09.032075+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "94fab00db3",
+      "title": "How to Outcompete Your Client’s AI",
+      "url": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
+      "summary": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease work. Thanks to generative AI, it can now do that work internally, saving the firm hundreds of thousands of dollars in spendi",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T11:00:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "296d0137a7",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T10:36:22+00:00",
+      "score": 4
+    },
     {
       "id": "f07147abfa",
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
@@ -2179,28 +2201,6 @@
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T17:59:53+00:00",
       "score": 6
-    },
-    {
-      "id": "37655c8141",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T17:33:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "a7c7509da1",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T17:09:56+00:00",
-      "score": 5
     }
   ]
 }
