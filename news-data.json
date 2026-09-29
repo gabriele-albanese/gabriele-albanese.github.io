@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-28T22:40:21.175408+00:00",
+  "updated": "2026-09-29T02:01:07.310799+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2c968f6bfd",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T01:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "71c7b9385a",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "df051edc92",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T23:39:20+00:00",
+      "score": 5
+    },
     {
       "id": "b30ea06fa8",
       "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
@@ -2168,39 +2201,6 @@
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T09:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "024982788b",
-      "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "258ad608e4",
-      "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-      "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-      "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T00:02:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "459c0e918d",
-      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
-      "summary": "AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
