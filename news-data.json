@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-29T21:33:48.813813+00:00",
+  "updated": "2026-09-29T22:01:11.514142+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "67a81971db",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T21:14:49+00:00",
+      "score": 4
+    },
     {
       "id": "6a33aca726",
       "title": "OpenAI’s latest features take direct aim at the app store model",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T14:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "10defbfb15",
-      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-      "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T13:49:00+00:00",
       "score": 4
     }
   ]
