@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-29T06:01:12.450000+00:00",
+  "updated": "2026-09-29T10:01:19.878603+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f07147abfa",
+      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+      "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
+      "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.  Key Takeaways   Explore four critical technologies enabling silicon design autonomy  Understand how autono",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "29 Sep 2026",
+      "timestamp": "2026-09-29T10:00:06+00:00",
+      "score": 4
+    },
     {
       "id": "f5aa58f3c1",
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -100,6 +111,17 @@
       "date": "28 Sep 2026",
       "timestamp": "2026-09-28T23:39:20+00:00",
       "score": 5
+    },
+    {
+      "id": "301fda4763",
+      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.  In this  Robots Gu",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "28 Sep 2026",
+      "timestamp": "2026-09-28T21:48:56+00:00",
+      "score": 4
     },
     {
       "id": "b30ea06fa8",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "18 Sep 2026",
       "timestamp": "2026-09-18T17:09:56+00:00",
-      "score": 5
-    },
-    {
-      "id": "210af46fb8",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T15:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a3a7093793",
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "18 Sep 2026",
-      "timestamp": "2026-09-18T15:00:00+00:00",
       "score": 5
     }
   ]
