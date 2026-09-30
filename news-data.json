@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-30T10:01:11.864589+00:00",
+  "updated": "2026-09-30T11:26:28.369387+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "bee1a804af",
+      "title": "Turn Energy Efficiency Into Strategic Advantage",
+      "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
+      "summary": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online workshop with 36 executives responsible for enterprise data to learn how their companies were using digital technologies and data to addr",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T11:00:08+00:00",
+      "score": 5
+    },
+    {
+      "id": "249c91905a",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the sp",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T10:40:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "24a94f1275",
+      "title": "Black Twitter Is Thriving—on Threads",
+      "url": "https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/",
+      "summary": "From outrage over Nolan Wells’ death to analysis of HBO Max’s Lanterns, Threads has transformed into a vital artery of the Black social media ecosystem.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "1543f8005f",
       "title": "LG Promo Codes and Coupons for October 2026",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "21 Sep 2026",
       "timestamp": "2026-09-21T20:15:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "491414dc30",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T19:25:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "285c3f8892",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T19:19:21+00:00",
-      "score": 5
-    },
-    {
-      "id": "e608e843a8",
-      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-      "summary": "Future Google supplier Kairos Power inked a deal with Samsung C&#038;T to help build its first 50-megawatt nuclear power plant.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T18:23:05+00:00",
       "score": 4
     }
   ]
