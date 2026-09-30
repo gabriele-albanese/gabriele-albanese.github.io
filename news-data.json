@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-30T11:26:28.369387+00:00",
+  "updated": "2026-09-30T14:01:19.726125+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a65fe8c40c",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "cb944075e2",
+      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+      "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+      "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T12:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "bee1a804af",
       "title": "Turn Energy Efficiency Into Strategic Advantage",
@@ -2178,28 +2200,6 @@
       "topic": "business",
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a9917ede7",
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c06d2cf008",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Sep 2026",
-      "timestamp": "2026-09-21T20:15:58+00:00",
       "score": 4
     }
   ]
