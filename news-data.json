@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-30T18:01:13.761497+00:00",
+  "updated": "2026-09-30T21:34:10.789812+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1531fa6060",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T21:07:40+00:00",
+      "score": 5
+    },
+    {
+      "id": "72ff1d3952",
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T20:39:09+00:00",
+      "score": 5
+    },
+    {
+      "id": "b9907aea74",
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T20:20:02+00:00",
+      "score": 6
+    },
+    {
+      "id": "511151e2c1",
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "summary": "So much for Gemini 3.5 Pro.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T20:11:08+00:00",
+      "score": 5
+    },
+    {
+      "id": "1a6cc9319f",
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T19:30:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "b8d72f3674",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T19:00:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "ad5d5e6f18",
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T18:25:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "7b98304de6",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T18:23:57+00:00",
+      "score": 4
+    },
     {
       "id": "99cb2948a4",
       "title": "IEEE Celebrates Innovators Shaping the Future",
@@ -44,6 +132,17 @@
       "topic": "tech",
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T15:26:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "622a4e00ee",
+      "title": "Discord gives more advertisers more tools to target its users",
+      "url": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
+      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T15:01:40+00:00",
       "score": 4
     },
     {
@@ -199,6 +298,28 @@
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T05:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "d3a6f5fe5d",
+      "title": "Global Economics Intelligence executive summary, August 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "summary": "Public debt and search for growth exercise minds of economists and policymakers as US debt hits record high; inflation fueled by energy supply uncertainty limits room for maneuver on interest rates.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8fdfd2187f",
+      "title": "The CEO’s singular impact on the success—or failure—of AI in organizations",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-singular-impact-on-the-success-or-failure-of-ai-in-organizations",
+      "summary": "There are certain aspects of the AI opportunity that chief executives cannot hand off to others—raising the organization’s ambition, rearchitecting how it works, and resetting its culture.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "1c12b349a5",
@@ -2080,127 +2201,6 @@
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T18:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "ae7578b561",
-      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
-      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T17:30:07+00:00",
-      "score": 4
-    },
-    {
-      "id": "d52a24ca50",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T16:30:07+00:00",
-      "score": 4
-    },
-    {
-      "id": "91099fae6b",
-      "title": "Effort begins to fill the void left by terminated US climate report",
-      "url": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-      "summary": "First paper added to community collection is a roadmap for research.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T16:26:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "33039c0a84",
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T16:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "8fdc384c01",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "63278f8d0a",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7c8fe9cba5",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d047be013a",
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T14:15:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d502923e56",
-      "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-      "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-      "summary": "Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "008028ffb0",
-      "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-      "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-      "summary": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T13:20:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8521f111c0",
-      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T13:00:00+00:00",
-      "score": 4
     }
   ]
 }
