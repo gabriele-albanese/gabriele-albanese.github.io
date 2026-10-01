@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-01T18:01:16.166238+00:00",
+  "updated": "2026-10-01T22:01:14.986125+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0c5d26589f",
+      "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+      "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+      "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T21:57:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "07c30cc156",
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T21:55:22+00:00",
+      "score": 5
+    },
+    {
+      "id": "c3e3f87fd9",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T21:08:11+00:00",
+      "score": 5
+    },
+    {
+      "id": "d2f8122011",
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/",
+      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T20:53:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "f1e3c4693d",
+      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T19:58:31+00:00",
+      "score": 5
+    },
+    {
+      "id": "a4548c3830",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T19:21:53+00:00",
+      "score": 5
+    },
+    {
+      "id": "b56eb6fb25",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T18:14:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "c2e023928f",
+      "title": "Memory executives expect RAM shortage to continue through 2028",
+      "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+      "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T17:49:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "03573b2f20",
+      "title": "This startup wants to turn idle car inventory into rental revenue",
+      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+      "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T17:09:00+00:00",
+      "score": 5
+    },
     {
       "id": "54b796be06",
       "title": "This startup wants to turn idle user car inventory into rental revenue",
@@ -220,6 +319,17 @@
       "topic": "tech",
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b35ef3c457",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2090,116 +2200,6 @@
       "topic": "tech",
       "date": "23 Sep 2026",
       "timestamp": "2026-09-23T19:05:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f9f3e9ed49",
-      "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-      "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-      "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T18:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "542b7322fe",
-      "title": "The old cybersecurity model is breaking",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world.&#160;We’re&",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T17:44:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "3ecdce7d83",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cd65d3ae79",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b6623ede92",
-      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-      "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
-      "summary": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a8a41c2faf",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0869f53f8a",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "52876ea665",
-      "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-      "url": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-      "summary": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T14:21:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "7d0f5cd575",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c6abbd12c7",
-      "title": "PitPro’s first tire-changing robot goes live in Canada",
-      "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
-      "summary": "The startup says its automated system can change four tires in under 15 minutes.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T13:00:00+00:00",
       "score": 4
     }
   ]
