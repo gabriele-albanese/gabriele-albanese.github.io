@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-01T10:01:14.383570+00:00",
+  "updated": "2026-10-01T11:53:52.476399+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b6fc600618",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T10:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "b09e0afaa2",
       "title": "The Secrets of the US Spyware King",
@@ -2185,17 +2196,6 @@
       "title": "Author Talks: The business of owning a sports team",
       "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team",
       "summary": "How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0c94b27c8c",
-      "title": "Rewiring procurement in resources: Making judgment an enduring asset",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-procurement-in-resources-making-judgment-an-enduring-asset",
-      "summary": "For procurement leaders in the resources sector, using AI to codify the function’s category expertise does not just capture more value—it turns hard-won judgment into a compounded, durable advantage.",
       "source": "McKinsey",
       "topic": "business",
       "date": "23 Sep 2026",
