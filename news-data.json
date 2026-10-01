@@ -1,7 +1,18 @@
 {
-  "updated": "2026-09-30T22:01:14.223920+00:00",
+  "updated": "2026-10-01T02:01:07.627105+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b0e8a6f4f5",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Sep 2026",
+      "timestamp": "2026-09-30T23:43:07+00:00",
+      "score": 4
+    },
     {
       "id": "1531fa6060",
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -2190,17 +2201,6 @@
       "date": "22 Sep 2026",
       "timestamp": "2026-09-22T18:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "d5bcb149d5",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Sep 2026",
-      "timestamp": "2026-09-22T18:00:00+00:00",
-      "score": 5
     }
   ]
 }
