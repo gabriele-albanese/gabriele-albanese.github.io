@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-01T11:53:52.476399+00:00",
+  "updated": "2026-10-01T14:01:18.587172+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3f4ea9f16a",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T14:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "b2aa71ddee",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "55c5a462ef",
+      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "28a5cadf66",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Oct 2026",
+      "timestamp": "2026-10-01T12:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "b6fc600618",
       "title": "How smaller, distributed batteries could help the grid",
@@ -2157,50 +2201,6 @@
       "date": "23 Sep 2026",
       "timestamp": "2026-09-23T09:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "673e2fde14",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T02:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "70fc10c11a",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T01:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "251d8cd3d0",
-      "title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon",
-      "summary": "As India’s economy continues to ramp up, insurers have an opportunity to capture value by improving productivity, modernizing operating models, and scaling technology and AI across the enterprise.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "91a41587c9",
-      "title": "Author Talks: The business of owning a sports team",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team",
-      "summary": "How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "23 Sep 2026",
-      "timestamp": "2026-09-23T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
