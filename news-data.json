@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-02T16:52:52.396050+00:00",
+  "updated": "2026-10-02T18:01:12.992527+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "398e0e7a69",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;si",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T17:48:16+00:00",
+      "score": 7
+    },
     {
       "id": "d8bea22f65",
       "title": "A model guide for the GPT-6 family",
@@ -242,6 +253,39 @@
       "topic": "tech",
       "date": "02 Oct 2026",
       "timestamp": "2026-10-02T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f5331f1181",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ca7b89b772",
+      "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
+      "summary": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "fbf3af24cf",
+      "title": "Shareholder activism is changing. Are companies ready?",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready",
+      "summary": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T19:36:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "36fdde13c0",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Sep 2026",
-      "timestamp": "2026-09-24T19:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "401fbf3dbc",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Sep 2026",
-      "timestamp": "2026-09-24T19:00:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "8cf69f0bdc",
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Sep 2026",
-      "timestamp": "2026-09-24T18:52:38+00:00",
-      "score": 5
-    },
-    {
-      "id": "7a8c15dbde",
-      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opport",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "24 Sep 2026",
-      "timestamp": "2026-09-24T18:00:04+00:00",
       "score": 4
     }
   ]
