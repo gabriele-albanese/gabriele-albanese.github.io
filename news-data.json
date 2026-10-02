@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-02T18:01:12.992527+00:00",
+  "updated": "2026-10-02T21:28:47.292999+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4ed6d09f7e",
+      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T20:07:59+00:00",
+      "score": 4
+    },
+    {
+      "id": "6a225a11d9",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T18:11:27+00:00",
+      "score": 4
+    },
     {
       "id": "398e0e7a69",
       "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "24 Sep 2026",
       "timestamp": "2026-09-24T23:24:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "a39715447b",
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Sep 2026",
-      "timestamp": "2026-09-24T20:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c532f4af7f",
-      "title": "I Think I Found an AI Agent Worth the Risk",
-      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "24 Sep 2026",
-      "timestamp": "2026-09-24T19:36:35+00:00",
       "score": 4
     }
   ]
