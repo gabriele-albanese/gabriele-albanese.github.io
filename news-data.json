@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-03T18:01:05.051907+00:00",
+  "updated": "2026-10-03T20:15:32.079958+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f31587f812",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Oct 2026",
+      "timestamp": "2026-10-03T18:43:57+00:00",
+      "score": 4
+    },
     {
       "id": "37c5b57c68",
       "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
@@ -166,6 +177,17 @@
       "date": "02 Oct 2026",
       "timestamp": "2026-10-02T17:48:16+00:00",
       "score": 7
+    },
+    {
+      "id": "1d5fa71c3e",
+      "title": "This startup pays NYC residents to run air conditioners on free batteries",
+      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T17:20:21+00:00",
+      "score": 4
     },
     {
       "id": "d8bea22f65",
@@ -2179,28 +2201,6 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T19:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "656dc5dcef",
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T17:24:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "b681df8c10",
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T16:58:20+00:00",
-      "score": 4
     }
   ]
 }
