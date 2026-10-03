@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-03T20:15:32.079958+00:00",
+  "updated": "2026-10-03T22:01:14.104390+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9aecd38482",
+      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+      "summary": "\"...we were making history.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "03 Oct 2026",
+      "timestamp": "2026-10-03T19:45:17+00:00",
+      "score": 4
+    },
     {
       "id": "f31587f812",
       "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -2190,17 +2201,6 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T19:13:38+00:00",
       "score": 4
-    },
-    {
-      "id": "0192a09d7c",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T19:00:00+00:00",
-      "score": 5
     }
   ]
 }
