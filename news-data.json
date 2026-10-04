@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-04T11:23:18.089412+00:00",
+  "updated": "2026-10-04T14:01:07.447573+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ebc609f3c8",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI&#8217;s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "04 Oct 2026",
+      "timestamp": "2026-10-04T12:32:47+00:00",
+      "score": 5
+    },
     {
       "id": "1a5e07a4f2",
       "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
@@ -2190,17 +2201,6 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T22:20:47+00:00",
       "score": 5
-    },
-    {
-      "id": "725b5e9b15",
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T21:36:20+00:00",
-      "score": 6
     }
   ]
 }
