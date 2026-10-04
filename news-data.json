@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-04T06:01:09.690982+00:00",
+  "updated": "2026-10-04T10:01:05.188142+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1a5e07a4f2",
+      "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
+      "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+      "summary": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Oct 2026",
+      "timestamp": "2026-10-04T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "9aecd38482",
       "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
@@ -2190,17 +2201,6 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T21:36:20+00:00",
       "score": 6
-    },
-    {
-      "id": "4b9cd4f252",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T19:13:38+00:00",
-      "score": 4
     }
   ]
 }
