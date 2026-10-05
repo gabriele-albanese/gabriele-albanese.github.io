@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-05T12:46:54.289542+00:00",
+  "updated": "2026-10-05T14:01:12.464392+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "10d6f4f6fd",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The fronti",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T13:29:32+00:00",
+      "score": 4
+    },
     {
       "id": "a9f048f810",
       "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
@@ -2190,17 +2201,6 @@
       "date": "27 Sep 2026",
       "timestamp": "2026-09-27T12:32:18+00:00",
       "score": 4
-    },
-    {
-      "id": "e4d19eb73c",
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained ope",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Sep 2026",
-      "timestamp": "2026-09-27T01:40:30+00:00",
-      "score": 5
     }
   ]
 }
