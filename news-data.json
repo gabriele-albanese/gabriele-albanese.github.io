@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-05T06:01:13.861221+00:00",
+  "updated": "2026-10-05T10:01:11.477499+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b8c09102c2",
+      "title": "A Prediction Market About the Past? Sure, Why Not!",
+      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T09:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "cc4fbf2635",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a se",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T08:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "ebc609f3c8",
       "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
@@ -2179,28 +2201,6 @@
       "date": "25 Sep 2026",
       "timestamp": "2026-09-25T23:11:10+00:00",
       "score": 4
-    },
-    {
-      "id": "270ddc7309",
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T23:04:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "9550a58b2b",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T22:20:47+00:00",
-      "score": 5
     }
   ]
 }
