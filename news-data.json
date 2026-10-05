@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-05T14:01:12.464392+00:00",
+  "updated": "2026-10-05T18:01:11.284135+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9fe039a853",
+      "title": "6 Guidelines for Governing AI",
+      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+      "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T18:00:02+00:00",
+      "score": 6
+    },
+    {
+      "id": "d074f4fae7",
+      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+      "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T17:26:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "9b91fcda04",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T16:43:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "16ad415e0c",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T15:47:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "e36223c0de",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T15:14:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "3e425973a8",
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T15:03:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "f9545c4ec0",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "49cf74c5cf",
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+      "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T15:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "67ee422811",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T14:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "10d6f4f6fd",
       "title": "Bringing predictive analytics to the agentic AI era",
@@ -89,6 +188,17 @@
       "date": "05 Oct 2026",
       "timestamp": "2026-10-05T08:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "6efafaedee",
+      "title": "AI is changing work. Now it has to change the organization",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
+      "summary": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "ebc609f3c8",
@@ -2090,116 +2200,6 @@
       "topic": "tech",
       "date": "28 Sep 2026",
       "timestamp": "2026-09-28T11:32:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "a2d3c2718c",
-      "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
-      "url": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
-      "summary": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4cebc9d150",
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "83662ae2a9",
-      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-      "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "9df3eed3c7",
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, Open",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T08:06:22+00:00",
-      "score": 5
-    },
-    {
-      "id": "9888749a78",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d7db80e019",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9206767926",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Sep 2026",
-      "timestamp": "2026-09-27T20:34:28+00:00",
-      "score": 5
-    },
-    {
-      "id": "ee2957dde3",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Sep 2026",
-      "timestamp": "2026-09-27T19:57:30+00:00",
-      "score": 5
-    },
-    {
-      "id": "62faa8b88a",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Sep 2026",
-      "timestamp": "2026-09-27T16:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2895aa03dc",
-      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
-      "summary": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "27 Sep 2026",
-      "timestamp": "2026-09-27T12:32:18+00:00",
       "score": 4
     }
   ]
