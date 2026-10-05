@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-05T10:01:11.477499+00:00",
+  "updated": "2026-10-05T12:46:54.289542+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a9f048f810",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a s",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T12:10:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "6056deb3a1",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "summary": "Watch now (36 mins) | &#127897;&#65039; Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T12:04:54+00:00",
+      "score": 5
+    },
+    {
+      "id": "383c8fa57d",
+      "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
+      "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
+      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to its platform. In the ensuing 78 minutes, before a patch was deployed, IT systems worldwide crashed. Microsoft estimated th",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T11:00:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "b0c4983426",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T10:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "9a6f71e212",
+      "title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
+      "url": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
+      "summary": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy watch train running.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Oct 2026",
+      "timestamp": "2026-10-05T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "b8c09102c2",
       "title": "A Prediction Market About the Past? Sure, Why Not!",
@@ -2146,61 +2201,6 @@
       "date": "27 Sep 2026",
       "timestamp": "2026-09-27T01:40:30+00:00",
       "score": 5
-    },
-    {
-      "id": "7fbf00bb0a",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Sep 2026",
-      "timestamp": "2026-09-27T01:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "4406bcba8c",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Sep 2026",
-      "timestamp": "2026-09-26T20:24:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "cb948f29af",
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Sep 2026",
-      "timestamp": "2026-09-26T17:44:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1b3d74789f",
-      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
-      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
-      "summary": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Sep 2026",
-      "timestamp": "2026-09-26T09:05:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4dc5a9b388",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Sep 2026",
-      "timestamp": "2026-09-25T23:11:10+00:00",
-      "score": 4
     }
   ]
 }
