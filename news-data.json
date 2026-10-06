@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-06T14:01:16.781980+00:00",
+  "updated": "2026-10-06T18:01:26.536858+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3d35415370",
+      "title": "The 24 Best Prime Day Deals Under $100 (2026)",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/",
+      "summary": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T17:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "e39c25c133",
+      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T17:28:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "90c3743d35",
+      "title": "Save Over $600 on the Best October Prime Day Mattress and Bedding Deals (2026)",
+      "url": "https://www.wired.com/story/prime-day-mattress-deals-10-06-2026/",
+      "summary": "From Birch’s organic mattress to my favorite cooling sheets, these are the Amazon Prime Day discounts worth a look.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T16:43:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "23d4205c2c",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T16:35:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "4819b0c7c9",
+      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+      "summary": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Station, where investors and oper",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T16:18:45+00:00",
+      "score": 5
+    },
+    {
+      "id": "a444153ab1",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "e5ed95e929",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T16:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "75ff11f68c",
+      "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
+      "url": "https://www.wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
+      "summary": "Bridge Neurotech is planning to build a wearable brain-computer interface that uses ultrasound.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "36443b43aa",
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T14:37:31+00:00",
+      "score": 4
+    },
     {
       "id": "ee1dae2cfd",
       "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T10:36:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "f07147abfa",
-      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-      "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.  Key Takeaways   Explore four critical technologies enabling silicon design autonomy  Understand how autono",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T10:00:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "dd3f81de33",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "66cfd10529",
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T10:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "f5aa58f3c1",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T05:13:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "2836011e46",
-      "title": "Motorola Coupon Code for October 2026",
-      "url": "https://www.wired.com/story/motorola-coupon-code/",
-      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a749b3484",
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cd1a2f13f0",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "81bd0bdd01",
-      "title": "50% Off Blue Apron Promo Codes | October 2026",
-      "url": "https://www.wired.com/story/blue-apron-coupon/",
-      "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ae8878d786",
-      "title": "Target Promo Code: $50 Off | October 2026",
-      "url": "https://www.wired.com/story/target-promo-code/",
-      "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T05:00:00+00:00",
       "score": 4
     }
   ]
