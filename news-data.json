@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-06T18:01:26.536858+00:00",
+  "updated": "2026-10-06T21:55:58.432493+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0132f29ffa",
+      "title": "We’re Tracking October Prime Day Live (2026)",
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/",
+      "summary": "Our team is tracking Prime Day deals in real time. Here’s what’s worth buying today.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T20:47:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "c6c0f9e409",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T20:00:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "159ed2438b",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T19:56:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "59f3487ec2",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T18:45:39+00:00",
+      "score": 6
+    },
     {
       "id": "3d35415370",
       "title": "The 24 Best Prime Day Deals Under $100 (2026)",
@@ -56,6 +100,17 @@
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T16:18:45+00:00",
       "score": 5
+    },
+    {
+      "id": "ae8e337367",
+      "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
+      "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
+      "summary": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T16:00:02+00:00",
+      "score": 4
     },
     {
       "id": "a444153ab1",
@@ -188,6 +243,17 @@
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T10:35:00+00:00",
       "score": 4
+    },
+    {
+      "id": "93f348179a",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T10:00:00+00:00",
+      "score": 5
     },
     {
       "id": "a3ea809b9f",
@@ -2135,72 +2201,6 @@
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T14:10:00+00:00",
       "score": 5
-    },
-    {
-      "id": "2acce7e829",
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T13:53:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "cefc4301c0",
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T13:47:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "a7b614b117",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T12:45:05+00:00",
-      "score": 5
-    },
-    {
-      "id": "d95cf6211d",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T12:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "94fab00db3",
-      "title": "How to Outcompete Your Client’s AI",
-      "url": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
-      "summary": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside counsel for much of its lease work. Thanks to generative AI, it can now do that work internally, saving the firm hundreds of thousands of dollars in spendi",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T11:00:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "296d0137a7",
-      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T10:36:22+00:00",
-      "score": 4
     }
   ]
 }
