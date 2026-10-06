@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-06T10:01:11.677158+00:00",
+  "updated": "2026-10-06T12:17:07.655803+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "95b77812cd",
+      "title": "Form Energy and its iron batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T10:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8a11227773",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at produc",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T10:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "57fa429e1b",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.&#160; As the world races to meet growing electr",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T10:35:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4a21a05430",
+      "title": "Moment Energy and its shipping containers packed with old EV batteries",
+      "url": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
+      "summary": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flows largely through China, by domestically repurposing EV batteries into new grid-connected storage sy",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T10:35:00+00:00",
+      "score": 4
+    },
     {
       "id": "a3ea809b9f",
       "title": "The Best Prime Day Soundbars Deals (2026)",
@@ -2157,50 +2201,6 @@
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "a21c4c664c",
-      "title": "The next phase of government AI economics",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics",
-      "summary": "Subsidized AI pilots are expiring as usage explodes. Here’s how US public sector leaders can treat AI spend as a managed category before the bill arrives.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e3633e920b",
-      "title": "Leading when change feels threatening",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/leading-when-change-feels-threatening",
-      "summary": "Fear and change can go hand in hand. Executives who understand this can significantly improve their odds of transformation success, while the executives who don’t risk sabotaging their change programs.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "43519065df",
-      "title": "Make life better: Mikhail Lomtadze’s customer-first philosophy",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/make-life-better-mikhail-lomtadzes-customer-first-philosophy",
-      "summary": "Mikhail Lomtadze, cofounder and CEO of Kaspi, believes the only measure that matters is whether Kaspi makes customers’ lives better or not—and why that single conviction changes everything else.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "df051edc92",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Sep 2026",
-      "timestamp": "2026-09-28T23:39:20+00:00",
-      "score": 5
     }
   ]
 }
