@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-06T12:17:07.655803+00:00",
+  "updated": "2026-10-06T14:01:16.781980+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ee1dae2cfd",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "0b6e51c812",
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+      "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T13:57:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "2fa08f5f00",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T13:15:23+00:00",
+      "score": 5
+    },
+    {
+      "id": "35ef7f964c",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T12:21:53+00:00",
+      "score": 5
+    },
     {
       "id": "95b77812cd",
       "title": "Form Energy and its iron batteries",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2c968f6bfd",
-      "title": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T01:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "71c7b9385a",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T00:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f806dd97b3",
-      "title": "Introducing dots",
-      "url": "https://openai.com/index/introducing-dots",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "db6991aa94",
-      "title": "Author Talks: Can you fulfill your ambition and compose a life?",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-can-you-fulfill-your-ambition-and-compose-a-life",
-      "summary": "Mayfield’s former Chief Marketing Officer Kamini Ramani draws on Indian women leaders’ experiences in corporate America to bring a culturally rooted lens to ambition, resilience, and leadership.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T00:00:00+00:00",
       "score": 4
     }
   ]
