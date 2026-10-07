@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-07T12:08:11.002873+00:00",
+  "updated": "2026-10-07T14:01:14.197819+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f34b82d8ad",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "fd54839c3a",
       "title": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
@@ -2190,17 +2201,6 @@
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T17:45:51+00:00",
       "score": 5
-    },
-    {
-      "id": "e7ce24fdf0",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T17:20:00+00:00",
-      "score": 4
     }
   ]
 }
