@@ -1,7 +1,117 @@
 {
-  "updated": "2026-10-07T14:01:14.197819+00:00",
+  "updated": "2026-10-07T18:01:12.566467+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b81f72b7c1",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T18:00:19+00:00",
+      "score": 5
+    },
+    {
+      "id": "873c41a078",
+      "title": "IEEE Report Predicts Tech That Will Transform Lives",
+      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+      "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released  2030 Technology Megatrends Report  from IEEE.  “We are seeing a fundamental shift in how techno",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T18:00:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "dfd3923fff",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T16:53:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "35744ce2f4",
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T15:34:33+00:00",
+      "score": 6
+    },
+    {
+      "id": "fca05aa5ad",
+      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "60862e24b9",
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T14:36:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "3cadd0110a",
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T14:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "504b159a61",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T14:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ced6064b4f",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T14:12:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "49bf44826c",
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T14:00:08+00:00",
+      "score": 5
+    },
     {
       "id": "f34b82d8ad",
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
@@ -11,6 +121,28 @@
       "topic": "tech",
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "064e970030",
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T13:56:38+00:00",
+      "score": 5
+    },
+    {
+      "id": "2283ab4e5d",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T12:00:00+00:00",
       "score": 4
     },
     {
@@ -78,6 +210,17 @@
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T08:18:18+00:00",
       "score": 4
+    },
+    {
+      "id": "e0aa27ac24",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T07:00:00+00:00",
+      "score": 5
     },
     {
       "id": "3bd217aa84",
@@ -2058,149 +2201,6 @@
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T23:01:00+00:00",
       "score": 4
-    },
-    {
-      "id": "c91d4895c8",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T22:20:59+00:00",
-      "score": 6
-    },
-    {
-      "id": "2ace8317ac",
-      "title": "Protests against OpenAI get increasingly creative",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T21:52:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "67a81971db",
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T21:14:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a33aca726",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T20:15:47+00:00",
-      "score": 6
-    },
-    {
-      "id": "9a16357905",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T19:52:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "f0d48337f0",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T19:52:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "c0b42c02cc",
-      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-      "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T19:05:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "267c040ff0",
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-      "summary": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your calendar.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T18:48:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "b7ee266b3a",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T18:35:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "8030f7b0be",
-      "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
-      "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-      "summary": "So is SpaceX just being selfish or what?",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T18:34:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2e16230e22",
-      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T18:11:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "b39d2cf9d3",
-      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-      "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T18:03:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "3a556bd4fc",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T17:45:51+00:00",
-      "score": 5
     }
   ]
 }
