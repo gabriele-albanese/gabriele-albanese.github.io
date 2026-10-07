@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-06T22:01:07.307867+00:00",
+  "updated": "2026-10-07T02:01:11.056309+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3bd217aa84",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T22:34:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "8fb06fd494",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T20:50:32+00:00",
+      "score": 5
+    },
     {
       "id": "0132f29ffa",
       "title": "We’re Tracking October Prime Day Live (2026)",
@@ -199,6 +221,28 @@
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T12:21:53+00:00",
       "score": 5
+    },
+    {
+      "id": "b89eed70c4",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T12:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "8ab2e90407",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Oct 2026",
+      "timestamp": "2026-10-06T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "95b77812cd",
@@ -2157,50 +2201,6 @@
       "date": "29 Sep 2026",
       "timestamp": "2026-09-29T16:55:56+00:00",
       "score": 4
-    },
-    {
-      "id": "c0fc128f88",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T15:12:07+00:00",
-      "score": 4
-    },
-    {
-      "id": "b7d05a28e7",
-      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-      "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-      "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9804aff9a5",
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-      "summary": "Similar performance, security tradeoffs also seen in current public models.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T14:22:31+00:00",
-      "score": 5
-    },
-    {
-      "id": "5dd9300a2d",
-      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Sep 2026",
-      "timestamp": "2026-09-29T14:10:00+00:00",
-      "score": 5
     }
   ]
 }
