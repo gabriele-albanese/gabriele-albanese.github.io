@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-08T06:01:15.295451+00:00",
+  "updated": "2026-10-08T10:01:12.798736+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8b5b55adf1",
+      "title": "A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology",
+      "url": "https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/",
+      "summary": "“Detecting a neutrino is like looking for a needle in a haystack,” says Juan Carlos Díaz Vélez, who breaks down why researchers are looking for the cosmic particles under the Antarctic ice.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T09:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a80a806ab6",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that ope",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T08:17:32+00:00",
+      "score": 4
+    },
     {
       "id": "651a4bbf3d",
       "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "24a94f1275",
-      "title": "Black Twitter Is Thriving—on Threads",
-      "url": "https://www.wired.com/story/threads-is-black-twitters-unlikely-spiritual-successor/",
-      "summary": "From outrage over Nolan Wells’ death to analysis of HBO Max’s Lanterns, Threads has transformed into a vital artery of the Black social media ecosystem.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3cfffd6cc9",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T10:00:00+00:00",
       "score": 4
     }
   ]
