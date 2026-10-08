@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-08T14:01:17.352247+00:00",
+  "updated": "2026-10-08T18:01:14.428398+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "293e690197",
+      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+      "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community and even dates.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T16:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "dfc39b54c1",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "02f01addd6",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7db2500e12",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5a9c5073e7",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+      "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T15:42:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "2529b8c640",
+      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+      "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T15:06:17+00:00",
+      "score": 5
+    },
+    {
+      "id": "95e56e2424",
+      "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+      "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+      "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T15:01:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "ebcd79fc83",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a57050fc75",
+      "title": "Spotify is getting more serious about selling enterprise software",
+      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T14:34:33+00:00",
+      "score": 4
+    },
     {
       "id": "87922315e0",
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
@@ -23,6 +122,17 @@
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T14:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "183b507663",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T12:00:00+00:00",
+      "score": 5
     },
     {
       "id": "2015b36f36",
@@ -55,6 +165,17 @@
       "topic": "ai",
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T08:17:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "fee7fc1eb2",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2080,127 +2201,6 @@
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T18:00:02+00:00",
       "score": 4
-    },
-    {
-      "id": "ade19e8bdc",
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T16:24:23+00:00",
-      "score": 4
-    },
-    {
-      "id": "68dcdac188",
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T16:00:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "e9197eb43c",
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-      "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T15:26:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "622a4e00ee",
-      "title": "Discord gives more advertisers more tools to target its users",
-      "url": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T15:01:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "c4044e6f93",
-      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-      "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there s",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T14:50:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "f8da3ee51a",
-      "title": "OpenAI Dev Day 2026: The releases that actually matter",
-      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-      "summary": "Watch now (24 mins) | &#127897;&#65039; Claire tests OpenAI&#8217;s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what&#8217;s worth trying first",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T14:45:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "22f81ff4d3",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T14:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "34681645bc",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T14:27:11+00:00",
-      "score": 5
-    },
-    {
-      "id": "4a0e5455f7",
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T14:15:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "a65fe8c40c",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cb944075e2",
-      "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-      "url": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-      "summary": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T12:00:00+00:00",
-      "score": 5
     }
   ]
 }
