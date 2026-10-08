@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-07T22:19:52.362065+00:00",
+  "updated": "2026-10-08T02:01:16.300577+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "651a4bbf3d",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Oct 2026",
+      "timestamp": "2026-10-07T23:36:57+00:00",
+      "score": 4
+    },
     {
       "id": "1d6dcd635b",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1543f8005f",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T05:00:00+00:00",
       "score": 4
     }
   ]
