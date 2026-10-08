@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-08T12:18:40.768100+00:00",
+  "updated": "2026-10-08T14:01:17.352247+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "87922315e0",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "de7afd3751",
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "2015b36f36",
       "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
@@ -2179,28 +2201,6 @@
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T12:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "bee1a804af",
-      "title": "Turn Energy Efficiency Into Strategic Advantage",
-      "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
-      "summary": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online workshop with 36 executives responsible for enterprise data to learn how their companies were using digital technologies and data to addr",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T11:00:08+00:00",
-      "score": 5
-    },
-    {
-      "id": "249c91905a",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the sp",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T10:40:30+00:00",
-      "score": 4
     }
   ]
 }
