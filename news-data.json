@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-08T10:01:12.798736+00:00",
+  "updated": "2026-10-08T12:18:40.768100+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2015b36f36",
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Oct 2026",
+      "timestamp": "2026-10-08T12:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "8b5b55adf1",
       "title": "A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "30 Sep 2026",
       "timestamp": "2026-09-30T10:40:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "9c5854b8d8",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T10:30:00+00:00",
       "score": 4
     }
   ]
