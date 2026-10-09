@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-09T06:01:20.528308+00:00",
+  "updated": "2026-10-09T10:01:17.592182+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "44863a51be",
+      "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
+      "url": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
+      "summary": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T09:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "38f5a2b46e",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T07:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "39bf5d5617",
       "title": "TurboTax Full Service Coupons This October 2026",
@@ -78,6 +100,28 @@
       "date": "09 Oct 2026",
       "timestamp": "2026-10-09T00:08:24+00:00",
       "score": 6
+    },
+    {
+      "id": "8cc9a53921",
+      "title": "The six strategy roles a CEO must not delegate",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+      "summary": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0e3aa23e28",
+      "title": "As the world order turns, leading companies are keeping pace. Here’s how",
+      "url": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
+      "summary": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build competitive advantage.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "1b3998097b",
@@ -2157,50 +2201,6 @@
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "b09e0afaa2",
-      "title": "The Secrets of the US Spyware King",
-      "url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
-      "summary": "In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing its powerful espionage tool.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T09:30:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "fe4e625528",
-      "title": "Dell Coupon Codes: 20% Off for October 2026",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d7779a9738",
-      "title": "Mountain Hardwear Coupon Code 15% Off October",
-      "url": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
-      "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1d61a1102f",
-      "title": "Booking.com Promo Codes: 20% Off | October 2026",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T05:00:00+00:00",
-      "score": 4
     }
   ]
 }
