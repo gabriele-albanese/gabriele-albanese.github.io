@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-08T22:32:08.758000+00:00",
+  "updated": "2026-10-09T02:01:16.061610+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "080bc68c6b",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, bu",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T00:08:24+00:00",
+      "score": 6
+    },
     {
       "id": "1b3998097b",
       "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b0e8a6f4f5",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Sep 2026",
-      "timestamp": "2026-09-30T23:43:07+00:00",
       "score": 4
     }
   ]
