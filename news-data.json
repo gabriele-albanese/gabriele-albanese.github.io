@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-09T10:01:17.592182+00:00",
+  "updated": "2026-10-09T12:09:23.473326+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e321c429f1",
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "44863a51be",
       "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
@@ -2190,17 +2201,6 @@
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T12:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "b6fc600618",
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T10:00:00+00:00",
-      "score": 5
     }
   ]
 }
