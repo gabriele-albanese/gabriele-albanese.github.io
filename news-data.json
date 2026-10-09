@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-09T18:01:16.944501+00:00",
+  "updated": "2026-10-09T21:54:44.144791+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6609f1addb",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T21:41:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "1e1fb958b2",
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T19:28:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "1651ede454",
+      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T19:27:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "d8769d3f1d",
+      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T18:24:39+00:00",
+      "score": 4
+    },
     {
       "id": "3819199f86",
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -110,6 +154,17 @@
       "topic": "tech",
       "date": "09 Oct 2026",
       "timestamp": "2026-10-09T09:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "dc4e32e77a",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T07:00:00+00:00",
       "score": 4
     },
     {
@@ -2146,61 +2201,6 @@
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T19:21:53+00:00",
       "score": 5
-    },
-    {
-      "id": "b56eb6fb25",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T18:14:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "c2e023928f",
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-      "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T17:49:56+00:00",
-      "score": 4
-    },
-    {
-      "id": "03573b2f20",
-      "title": "This startup wants to turn idle car inventory into rental revenue",
-      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
-      "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T17:09:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "54b796be06",
-      "title": "This startup wants to turn idle user car inventory into rental revenue",
-      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
-      "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much for too little choice, so he built MyMonthlyCar, a platform",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T17:09:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "4aa9873d30",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T16:44:35+00:00",
-      "score": 4
     }
   ]
 }
