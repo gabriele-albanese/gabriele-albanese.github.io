@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-09T12:09:23.473326+00:00",
+  "updated": "2026-10-09T14:01:18.344990+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3c72aa28b5",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "badfa5cf90",
+      "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+      "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+      "summary": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T13:40:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "0334faf72e",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you as",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "71254948f3",
+      "title": "Volkswagen's replacement for the ID.4 crossover is here",
+      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T10:00:59+00:00",
+      "score": 4
+    },
     {
       "id": "e321c429f1",
       "title": "Even ‘Law & Order’ Is Terrified of AI",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T15:12:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3f4ea9f16a",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T14:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "b2aa71ddee",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "55c5a462ef",
-      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-      "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "28a5cadf66",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T12:00:00+00:00",
       "score": 4
     }
   ]
