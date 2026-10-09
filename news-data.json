@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-09T14:01:18.344990+00:00",
+  "updated": "2026-10-09T18:01:16.944501+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3819199f86",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hund",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T16:56:42+00:00",
+      "score": 4
+    },
+    {
+      "id": "712bc6fa01",
+      "title": "Automattic loses its interim CFO just weeks after boardroom shakeup",
+      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+      "summary": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T15:02:30+00:00",
+      "score": 5
+    },
+    {
+      "id": "fa3e7e9dc8",
+      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportun",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T14:42:34+00:00",
+      "score": 5
+    },
     {
       "id": "3c72aa28b5",
       "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
@@ -33,6 +66,17 @@
       "topic": "ai",
       "date": "09 Oct 2026",
       "timestamp": "2026-10-09T12:10:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "86609890c0",
+      "title": "We Need to Embed Ethics Into Our Engineering Courses",
+      "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+      "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While  some have questioned these researchers’ motivation  for  voicing concerns  about the rapid pace of development, the plea highlighted a key tension b",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "09 Oct 2026",
+      "timestamp": "2026-10-09T12:00:02+00:00",
       "score": 5
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "01 Oct 2026",
       "timestamp": "2026-10-01T16:44:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "6c08f4cc37",
-      "title": "With most information hidden, the game Stratego",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T16:28:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "0582363bf9",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T16:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "b5fecb883e",
-      "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
-      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-      "summary": "The CEO promised to get more specific about his vision. But the details are still absent.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T15:50:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "e0ffe3730f",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Oct 2026",
-      "timestamp": "2026-10-01T15:12:00+00:00",
       "score": 4
     }
   ]
