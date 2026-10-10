@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-10T06:01:14.848020+00:00",
+  "updated": "2026-10-10T10:01:19.325508+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "982db368be",
+      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
+      "url": "https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/",
+      "summary": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Oct 2026",
+      "timestamp": "2026-10-10T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "1543f8005f",
       "title": "LG Promo Codes and Coupons for October 2026",
@@ -2190,17 +2201,6 @@
       "date": "02 Oct 2026",
       "timestamp": "2026-10-02T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "217bf1d0a7",
-      "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
-      "summary": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond, considering their existing commitments.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T00:00:00+00:00",
-      "score": 5
     }
   ]
 }
