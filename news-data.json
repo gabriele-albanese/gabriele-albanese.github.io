@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-10T11:26:44.174566+00:00",
+  "updated": "2026-10-10T14:01:15.940028+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d8d2c1c3d5",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Oct 2026",
+      "timestamp": "2026-10-10T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "982db368be",
       "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
@@ -2190,17 +2201,6 @@
       "date": "02 Oct 2026",
       "timestamp": "2026-10-02T00:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "ca7b89b772",
-      "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
-      "summary": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
