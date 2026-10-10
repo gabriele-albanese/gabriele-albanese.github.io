@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:01:19.325508+00:00",
+  "updated": "2026-10-10T11:26:44.174566+00:00",
   "count": 200,
   "articles": [
     {
@@ -2170,6 +2170,17 @@
       "score": 4
     },
     {
+      "id": "217bf1d0a7",
+      "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
+      "summary": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer Venture Partners, and SAP discuss how insurers can respond, considering their existing commitments.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "02 Oct 2026",
+      "timestamp": "2026-10-02T00:00:00+00:00",
+      "score": 5
+    },
+    {
       "id": "f5331f1181",
       "title": "Chatham scales its capital markets expertise with OpenAI",
       "url": "https://openai.com/index/chatham-financial",
@@ -2185,17 +2196,6 @@
       "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
       "url": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
       "summary": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take to lead the next era of manufacturing?",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fbf3af24cf",
-      "title": "Shareholder activism is changing. Are companies ready?",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready",
-      "summary": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
       "source": "McKinsey",
       "topic": "business",
       "date": "02 Oct 2026",
