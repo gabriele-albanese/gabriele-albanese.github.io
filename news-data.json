@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-10T16:25:58.864260+00:00",
+  "updated": "2026-10-10T18:01:13.239341+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3e031e4aed",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Oct 2026",
+      "timestamp": "2026-10-10T17:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "f9e8c0b9db",
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
@@ -2185,17 +2196,6 @@
       "title": "Squarespace Promo Codes: 20% Off in October 2026",
       "url": "https://www.wired.com/story/squarespace-promo-code/",
       "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2c21d37ae5",
-      "title": "Design Within Reach Promo Codes: 30% Off | October 2026",
-      "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-      "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
       "source": "Wired",
       "topic": "tech",
       "date": "02 Oct 2026",
