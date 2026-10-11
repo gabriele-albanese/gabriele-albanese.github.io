@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-11T14:01:20.834595+00:00",
+  "updated": "2026-10-11T16:50:35.942828+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "dfe712fc20",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Oct 2026",
+      "timestamp": "2026-10-11T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "1b97ced39a",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
@@ -2185,17 +2196,6 @@
       "title": "Wayfair Coupons: Up to 80% Off October 2026",
       "url": "https://www.wired.com/story/wayfair-promo-code/",
       "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "58bf00bbac",
-      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
       "source": "Wired",
       "topic": "tech",
       "date": "02 Oct 2026",
