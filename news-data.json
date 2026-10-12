@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-12T14:01:24.359212+00:00",
+  "updated": "2026-10-12T18:01:28.935026+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ee84f6e9e0",
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "summary": "Musk, we find your lack of security disturbing.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T17:55:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "7b6bf13f38",
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T17:19:14+00:00",
+      "score": 4
+    },
+    {
+      "id": "b32e4e4429",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T15:27:59+00:00",
+      "score": 4
+    },
     {
       "id": "d9350c73bb",
       "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
@@ -11,6 +44,17 @@
       "topic": "tech",
       "date": "12 Oct 2026",
       "timestamp": "2026-10-12T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bfd927f770",
+      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+      "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+      "summary": "This article was originally published by    Canary Media  .    The geothermal startup     Fervo  Energy   is now selling power to the grid from its Cape Station project in Utah — marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T13:00:02+00:00",
       "score": 4
     },
     {
@@ -33,6 +77,17 @@
       "topic": "tech",
       "date": "12 Oct 2026",
       "timestamp": "2026-10-12T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7f1537088e",
+      "title": "Meesho: Making e-commerce everyone’s business",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business",
+      "summary": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled Meesho’s founders to succeed.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2146,61 +2201,6 @@
       "date": "02 Oct 2026",
       "timestamp": "2026-10-02T14:30:00+00:00",
       "score": 5
-    },
-    {
-      "id": "8e45888a0a",
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T14:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "45015fc510",
-      "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-      "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your comm",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "afc401940c",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed u",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "de33badfb7",
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T09:45:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "1049b58d38",
-      "title": "EP110 Agentic AI for Product Management: Building in an Autonomous Enterprise",
-      "url": "https://www.productcoalition.com/p/ep110-agentic-ai-for-product-management",
-      "summary": "Eshaan Jain gave me the example that made agentic AI stop sounding clever and start sounding expensive.",
-      "source": "Product Coalition",
-      "topic": "pm",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T08:01:32+00:00",
-      "score": 6
     }
   ]
 }
