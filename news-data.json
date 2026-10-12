@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-12T10:01:20.755049+00:00",
+  "updated": "2026-10-12T13:38:02.205969+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "83f755802a",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "summary": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T12:03:55+00:00",
+      "score": 5
+    },
+    {
+      "id": "7547a733d8",
+      "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+      "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
+      "summary": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Oct 2026",
+      "timestamp": "2026-10-12T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "c97aae4c0d",
       "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
@@ -2174,28 +2196,6 @@
       "title": "Uber Eats Promo Codes: $15 Off│October 2026",
       "url": "https://www.wired.com/story/uber-eats-promo-code/",
       "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a0d05f18a",
-      "title": "Peacock Promo Codes: 40% Off October 2026",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Oct 2026",
-      "timestamp": "2026-10-02T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e005aeac6f",
-      "title": "Columbia Promo Codes: 15% Off | October 2026",
-      "url": "https://www.wired.com/story/columbia-promo-code/",
-      "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
       "source": "Wired",
       "topic": "tech",
       "date": "02 Oct 2026",
