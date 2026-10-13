@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-13T06:01:23.852625+00:00",
+  "updated": "2026-10-13T10:01:21.053263+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4cdfa2663e",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code ba",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "aa8c6fb1de",
       "title": "Wayfair Coupons: Up to 80% Off October 2026",
@@ -2185,17 +2196,6 @@
       "title": "Chewy Promo Codes: $20 Off October 2026",
       "url": "https://www.wired.com/story/chewy-promo-code/",
       "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "03 Oct 2026",
-      "timestamp": "2026-10-03T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "759e38e976",
-      "title": "50% Off DoorDash Promo Code | October 2026",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
       "source": "Wired",
       "topic": "tech",
       "date": "03 Oct 2026",
