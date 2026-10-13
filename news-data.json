@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-13T18:01:21.624762+00:00",
+  "updated": "2026-10-13T22:00:13.286442+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "025ffa23c0",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T20:36:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "e12d6560f2",
+      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T20:13:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "b54ca03dad",
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T19:35:29+00:00",
+      "score": 5
+    },
+    {
+      "id": "31676c551a",
+      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T19:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "444dbc497f",
+      "title": "The 9 Best Movies to Stream This Month (October 2026)",
+      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "summary": "Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T18:49:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "e24f2aad99",
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T18:30:03+00:00",
+      "score": 4
+    },
     {
       "id": "a38414be4b",
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
@@ -157,6 +223,17 @@
       "score": 6
     },
     {
+      "id": "6412315144",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T12:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "91d7e2b817",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
@@ -309,6 +386,17 @@
       "date": "13 Oct 2026",
       "timestamp": "2026-10-13T05:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "3672b81d1a",
+      "title": "The AI operating system: A new way for CEOs to run the enterprise",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise",
+      "summary": "An AI operating system can become an enterprise’s “second brain,” but only if CEOs rethink how management itself evolves.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T00:00:00+00:00",
+      "score": 6
     },
     {
       "id": "c6cd45c3ef",
@@ -2112,94 +2200,6 @@
       "topic": "pm",
       "date": "05 Oct 2026",
       "timestamp": "2026-10-05T15:03:24+00:00",
-      "score": 5
-    },
-    {
-      "id": "f9545c4ec0",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "49cf74c5cf",
-      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-      "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T15:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "67ee422811",
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "10d6f4f6fd",
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The fronti",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T13:29:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "a9f048f810",
-      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a s",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T12:10:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "6056deb3a1",
-      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-      "summary": "Watch now (36 mins) | &#127897;&#65039; Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T12:04:54+00:00",
-      "score": 5
-    },
-    {
-      "id": "383c8fa57d",
-      "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
-      "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
-      "summary": "Carolyn Geason-Beissel/MIT SMR &#124; Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine but buggy software update to its platform. In the ensuing 78 minutes, before a patch was deployed, IT systems worldwide crashed. Microsoft estimated th",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T11:00:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "b0c4983426",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T10:00:00+00:00",
       "score": 5
     }
   ]
