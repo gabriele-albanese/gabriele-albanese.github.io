@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-13T14:01:24.110861+00:00",
+  "updated": "2026-10-13T18:01:21.624762+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a38414be4b",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T17:30:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "4d1328cfb2",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T17:18:25+00:00",
+      "score": 4
+    },
+    {
+      "id": "acb3d86a5a",
+      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4520f7ad22",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T16:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c8fb00551e",
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "summary": "Developers will get 50 percent discounted API rates through November.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T16:00:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "aff2c9dc3d",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "summary": "TBD",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "173640a145",
+      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+      "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T15:02:00+00:00",
+      "score": 4
+    },
     {
       "id": "0a377d4d8a",
       "title": "TechCrunch Disrupt 2026: Day 1",
@@ -2124,83 +2201,6 @@
       "date": "05 Oct 2026",
       "timestamp": "2026-10-05T10:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "9a6f71e212",
-      "title": "Omega Has New Bond Watches Even If There Isn’t a New James Bond",
-      "url": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
-      "summary": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy watch train running.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b8c09102c2",
-      "title": "A Prediction Market About the Past? Sure, Why Not!",
-      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
-      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cc4fbf2635",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a se",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T08:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "000a06e9c5",
-      "title": "Scaling AI inference",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
-      "summary": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "6efafaedee",
-      "title": "AI is changing work. Now it has to change the organization",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
-      "summary": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ebc609f3c8",
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
-      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI&#8217;s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "04 Oct 2026",
-      "timestamp": "2026-10-04T12:32:47+00:00",
-      "score": 5
-    },
-    {
-      "id": "1a5e07a4f2",
-      "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
-      "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
-      "summary": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Oct 2026",
-      "timestamp": "2026-10-04T09:00:00+00:00",
-      "score": 4
     }
   ]
 }
