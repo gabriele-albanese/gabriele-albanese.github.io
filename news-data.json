@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-14T10:41:43.477219+00:00",
+  "updated": "2026-10-14T14:01:25.322758+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "9e3c30a047",
+      "title": "NTangible bets it can predict how athletes will perform under pressure",
+      "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "7968b9678b",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T12:55:06+00:00",
+      "score": 5
+    },
+    {
+      "id": "08346ce644",
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "summary": "Watch now (24 mins) | &#127897;&#65039;Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T12:04:05+00:00",
+      "score": 5
+    },
+    {
+      "id": "40993dd751",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T11:00:30+00:00",
+      "score": 5
+    },
     {
       "id": "c3506bde4f",
       "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T08:09:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "b2de07ad35",
-      "title": "Nomad Goods Promo Codes: Get 25% Off in October 2026",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in October 2026.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3a9d020b78",
-      "title": "Priceline Promo Codes & Coupons: 10% Off October 2026",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ec7434774",
-      "title": "Sportsman's Warehouse Promo Code: Save in October 2026",
-      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in October 2026.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "647aa725a0",
-      "title": "Hostinger Promo Code: 79% Off for October 2026",
-      "url": "https://www.wired.com/story/hostinger-coupon-code/",
-      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T05:00:00+00:00",
       "score": 4
     }
   ]
