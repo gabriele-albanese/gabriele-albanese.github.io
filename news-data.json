@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-13T22:01:19.575599+00:00",
+  "updated": "2026-10-14T02:01:19.279665+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2fdbd66b82",
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T23:17:59+00:00",
+      "score": 6
+    },
+    {
+      "id": "b982fab38e",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T23:05:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "e76f8bdfed",
+      "title": "The 9 Best TV Shows to Stream This Month (October 2026)",
+      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "summary": "Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T23:00:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "757b6b0d2c",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T23:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ef5219e107",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T22:36:59+00:00",
+      "score": 4
+    },
     {
       "id": "025ffa23c0",
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -66,6 +121,17 @@
       "topic": "tech",
       "date": "13 Oct 2026",
       "timestamp": "2026-10-13T18:30:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "18cda7676c",
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Oct 2026",
+      "timestamp": "2026-10-13T18:23:33+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "05 Oct 2026",
       "timestamp": "2026-10-05T18:07:07+00:00",
       "score": 4
-    },
-    {
-      "id": "9fe039a853",
-      "title": "6 Guidelines for Governing AI",
-      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T18:00:02+00:00",
-      "score": 6
-    },
-    {
-      "id": "d074f4fae7",
-      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-      "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T17:26:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "9b91fcda04",
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T16:43:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "16ad415e0c",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T15:47:52+00:00",
-      "score": 5
-    },
-    {
-      "id": "e36223c0de",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T15:14:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "3e425973a8",
-      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
-      "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "05 Oct 2026",
-      "timestamp": "2026-10-05T15:03:24+00:00",
-      "score": 5
     }
   ]
 }
