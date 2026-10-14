@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-14T16:01:35.653967+00:00",
+  "updated": "2026-10-14T18:01:18.949618+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ea05e08108",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T18:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "ea060bd653",
       "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
@@ -56,6 +67,17 @@
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T12:04:05+00:00",
       "score": 5
+    },
+    {
+      "id": "11f7227010",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T12:00:00+00:00",
+      "score": 7
     },
     {
       "id": "40993dd751",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T09:47:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "80597230ec",
-      "title": "Happy IEEE Day!",
-      "url": "https://spectrum.ieee.org/ieee-day",
-      "summary": "Happy IEEE Day 2026!   IEEE Day  is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.  One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to colla",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T09:21:18+00:00",
-      "score": 5
-    },
-    {
-      "id": "0b26a838d9",
-      "title": "Amazon Prime Day Deals Under $50 in October 2026",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
-      "summary": "Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T09:17:08+00:00",
       "score": 4
     }
   ]
