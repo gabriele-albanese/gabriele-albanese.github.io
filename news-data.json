@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-14T14:01:25.322758+00:00",
+  "updated": "2026-10-14T16:01:35.653967+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ea060bd653",
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "summary": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T15:13:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "25b16452fb",
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "9e3c30a047",
       "title": "NTangible bets it can predict how athletes will perform under pressure",
@@ -56,6 +78,17 @@
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T09:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "ad206bf6c9",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T07:00:00+00:00",
+      "score": 4
     },
     {
       "id": "6a0d05f18a",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T09:17:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "f2dc843d6f",
-      "title": "The Best Prime Day Deals on Our Favorite Apple Products (October 2026)",
-      "url": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
-      "summary": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T09:04:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "fba0b2f6fc",
-      "title": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-      "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T08:37:23+00:00",
-      "score": 4
-    },
-    {
-      "id": "897c15ae00",
-      "title": "80 Best Prime Day Deals We’re Shopping This October (2026)",
-      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-      "summary": "Amazon Prime Big Deal Days are here and we’ve tracked down the best discounts on all the gear our team recommends.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T08:09:42+00:00",
       "score": 4
     }
   ]
