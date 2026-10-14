@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-14T06:01:18.714378+00:00",
+  "updated": "2026-10-14T10:01:22.800211+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c3506bde4f",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T09:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "6a0d05f18a",
       "title": "Peacock Promo Codes: 40% Off October 2026",
@@ -110,6 +121,17 @@
       "topic": "tech",
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1ea8ff42a7",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2174,28 +2196,6 @@
       "title": "Hostinger Promo Code: 79% Off for October 2026",
       "url": "https://www.wired.com/story/hostinger-coupon-code/",
       "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6d025d8823",
-      "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras October 2026",
-      "url": "https://www.wired.com/story/sony-promo-code/",
-      "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e07bf2c115",
-      "title": "25% Off Adidas Promo Code | October 2026",
-      "url": "https://www.wired.com/story/adidas-promo-code/",
-      "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
       "source": "Wired",
       "topic": "tech",
       "date": "06 Oct 2026",
