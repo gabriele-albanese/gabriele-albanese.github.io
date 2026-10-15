@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-14T22:01:19.742327+00:00",
+  "updated": "2026-10-15T01:59:10.974443+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7624c31011",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T01:01:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "55c2bfcceb",
+      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T00:49:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "51bb7d05c9",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1919b268be",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "66c757258c",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T23:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "8fcf6c6c5f",
       "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
@@ -188,6 +243,17 @@
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T09:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "f0e5b7f5be",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "14 Oct 2026",
+      "timestamp": "2026-10-14T07:00:00+00:00",
+      "score": 4
     },
     {
       "id": "ad206bf6c9",
@@ -2135,72 +2201,6 @@
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T15:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "36443b43aa",
-      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T14:37:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "ee1dae2cfd",
-      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T14:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "0b6e51c812",
-      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
-      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
-      "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T13:57:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "2fa08f5f00",
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T13:15:23+00:00",
-      "score": 5
-    },
-    {
-      "id": "35ef7f964c",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T12:21:53+00:00",
-      "score": 5
-    },
-    {
-      "id": "b89eed70c4",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T12:00:00+00:00",
-      "score": 6
     }
   ]
 }
