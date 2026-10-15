@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-15T15:49:42.632628+00:00",
+  "updated": "2026-10-15T18:01:22.812285+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f927c27e25",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit end on October 16. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T18:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "05146e6b83",
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T16:45:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "f50c5ed4ec",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T15:43:24+00:00",
+      "score": 5
+    },
     {
       "id": "534bc46e6b",
       "title": "AI agents are coming to Rivian’s cars",
@@ -2168,39 +2201,6 @@
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "cd5c1463ba",
-      "title": "Why AI’s easiest wins are misleading CEOs",
-      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
-      "summary": "",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3bd217aa84",
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T22:34:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "8fb06fd494",
-      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T20:50:32+00:00",
-      "score": 5
     }
   ]
 }
