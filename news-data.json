@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-15T10:25:27.730221+00:00",
+  "updated": "2026-10-15T14:01:24.165501+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c0f2af6162",
+      "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
+      "url": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
+      "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising academics and practitioners to help us understand how responsible artificial intelligence is being implemented across organiza",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T11:00:55+00:00",
+      "score": 5
+    },
+    {
+      "id": "2bbcd20fdc",
+      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
+      "url": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
+      "summary": "Low-quality AI-generated content currently dominates children’s media. Maka, a streaming platform run by child development experts, is offering an alternative.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "de5cf070d9",
       "title": "The Deal That Came With Its Own Roadmap",
@@ -2179,28 +2201,6 @@
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T20:00:30+00:00",
       "score": 4
-    },
-    {
-      "id": "159ed2438b",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T19:56:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "59f3487ec2",
-      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-      "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
-      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T18:45:39+00:00",
-      "score": 6
     }
   ]
 }
