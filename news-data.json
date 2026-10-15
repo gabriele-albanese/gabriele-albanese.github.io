@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-15T20:35:23.927329+00:00",
+  "updated": "2026-10-15T22:01:19.054467+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "94e50805aa",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T21:00:28+00:00",
+      "score": 5
+    },
     {
       "id": "b79cf62ab2",
       "title": "Meta launches an open-weight AI model that runs on Macs",
@@ -44,6 +55,17 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T19:00:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "0d2e925aac",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T19:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T12:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "fd54839c3a",
-      "title": "I Found the 25 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-07-2026/",
-      "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T11:11:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "02f49f55f0",
-      "title": "When Compliance Workarounds Backfire",
-      "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/",
-      "summary": "John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had passed the Rider Law, which introduced a presumption of employment when a digital platform organizes, directs, or controls couriers’ work,",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T11:00:04+00:00",
-      "score": 5
     }
   ]
 }
