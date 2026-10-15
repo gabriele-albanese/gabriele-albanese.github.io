@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-15T18:01:22.812285+00:00",
+  "updated": "2026-10-15T20:35:23.927329+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b79cf62ab2",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T20:04:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "d81db36328",
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T19:29:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "6b32532a16",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T19:14:26+00:00",
+      "score": 5
+    },
+    {
+      "id": "fcb2a84297",
+      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
+      "url": "https://www.wired.com/story/ecobee-fall-sale-2026/",
+      "summary": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T19:00:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "aa35977b34",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T18:56:46+00:00",
+      "score": 4
+    },
     {
       "id": "f927c27e25",
       "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16",
@@ -209,6 +264,17 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "fa6a498015",
+      "title": "Strengthening supply chains behind US semiconductors",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
+      "summary": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make the ecosystem more resilient.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T11:00:04+00:00",
       "score": 5
-    },
-    {
-      "id": "9d98c2e7a6",
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c4d02b02cf",
-      "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
-      "url": "https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/",
-      "summary": "Atoco’s new machines use specialized materials that can harvest water from some of the driest air on Earth without using electricity.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f653f3b5f9",
-      "title": "The 30 Best Prime Day Deals Under $100 (2026)",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/",
-      "summary": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T09:08:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "a25ac68d74",
-      "title": "117 Best Prime Day Deals We’re Shopping This October (2026)",
-      "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
-      "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T08:18:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "e0aa27ac24",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "3775ba35f5",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
