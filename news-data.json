@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-15T06:01:19.886633+00:00",
+  "updated": "2026-10-15T10:01:19.502654+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "de5cf070d9",
+      "title": "The Deal That Came With Its Own Roadmap",
+      "url": "https://www.productcoalition.com/p/the-deal-that-came-with-its-own-roadmap",
+      "summary": "Product & Profit #101",
+      "source": "Product Coalition",
+      "topic": "pm",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T08:01:10+00:00",
+      "score": 4
+    },
     {
       "id": "9732e44920",
       "title": "Lenovo Coupon Codes: 15% Off in October 2026",
@@ -2190,17 +2201,6 @@
       "date": "06 Oct 2026",
       "timestamp": "2026-10-06T18:45:39+00:00",
       "score": 6
-    },
-    {
-      "id": "3d35415370",
-      "title": "The 24 Best Prime Day Deals Under $100 (2026)",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/",
-      "summary": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Oct 2026",
-      "timestamp": "2026-10-06T17:45:00+00:00",
-      "score": 4
     }
   ]
 }
