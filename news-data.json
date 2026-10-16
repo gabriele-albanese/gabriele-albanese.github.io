@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-16T18:01:19.282340+00:00",
+  "updated": "2026-10-16T20:08:52.158629+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2f82648317",
+      "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+      "url": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
+      "summary": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and de",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T18:00:03+00:00",
+      "score": 6
+    },
+    {
+      "id": "57c4197294",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-genera",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T18:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "4466435dcf",
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -154,6 +176,17 @@
       "topic": "tech",
       "date": "16 Oct 2026",
       "timestamp": "2026-10-16T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0f8250f167",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T08:17:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "5d08670ec3",
-      "title": "Shapers and Founders: Understanding the owner mindset",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset",
-      "summary": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing their businesses.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "fee7fc1eb2",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "651a4bbf3d",
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T23:36:57+00:00",
       "score": 4
     }
   ]
