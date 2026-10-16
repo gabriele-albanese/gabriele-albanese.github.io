@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-15T22:01:19.054467+00:00",
+  "updated": "2026-10-16T01:49:10.752097+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5b3c6bdf8c",
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T23:33:45+00:00",
+      "score": 4
+    },
     {
       "id": "94e50805aa",
       "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
@@ -286,6 +297,17 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T00:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8ec6278a3e",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "15 Oct 2026",
+      "timestamp": "2026-10-15T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "064e970030",
-      "title": "AI/ML is becoming a performance factor in motorsport",
-      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T13:56:38+00:00",
-      "score": 5
-    },
-    {
-      "id": "2283ab4e5d",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T12:00:00+00:00",
       "score": 4
     }
   ]
