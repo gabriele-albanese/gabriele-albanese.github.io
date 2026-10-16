@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-16T06:01:40.133264+00:00",
+  "updated": "2026-10-16T10:01:20.614803+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "75b7073ca7",
+      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T07:56:32+00:00",
+      "score": 4
+    },
     {
       "id": "2f8b94167c",
       "title": "Surfshark Promo Codes: 87% Off | October 2026",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T14:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ced6064b4f",
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T14:12:37+00:00",
       "score": 4
     }
   ]
