@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-16T14:01:22.885457+00:00",
+  "updated": "2026-10-16T15:38:18.226968+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "805c6efc7d",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T15:33:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "e88b2d9bc8",
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "460fbf9a37",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T14:26:51+00:00",
+      "score": 4
+    },
     {
       "id": "6df2683729",
       "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
@@ -2168,39 +2201,6 @@
       "date": "07 Oct 2026",
       "timestamp": "2026-10-07T18:00:19+00:00",
       "score": 5
-    },
-    {
-      "id": "873c41a078",
-      "title": "IEEE Report Predicts Tech That Will Transform Lives",
-      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-      "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released  2030 Technology Megatrends Report  from IEEE.  “We are seeing a fundamental shift in how techno",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T18:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "dfd3923fff",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T16:53:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "35744ce2f4",
-      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Oct 2026",
-      "timestamp": "2026-10-07T15:34:33+00:00",
-      "score": 6
     }
   ]
 }
