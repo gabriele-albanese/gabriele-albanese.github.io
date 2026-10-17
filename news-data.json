@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:01:19.849230+00:00",
+  "updated": "2026-10-17T01:43:58.701123+00:00",
   "count": 200,
   "articles": [
     {
@@ -14,6 +14,17 @@
       "score": 6
     },
     {
+      "id": "3813289f4d",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T20:59:01+00:00",
+      "score": 5
+    },
+    {
       "id": "402db143dc",
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
@@ -23,6 +34,17 @@
       "date": "16 Oct 2026",
       "timestamp": "2026-10-16T20:05:08+00:00",
       "score": 4
+    },
+    {
+      "id": "a6c97cf718",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Oct 2026",
+      "timestamp": "2026-10-16T19:00:00+00:00",
+      "score": 6
     },
     {
       "id": "2f82648317",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "183b507663",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T12:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "2015b36f36",
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T12:00:00+00:00",
       "score": 4
     }
   ]
