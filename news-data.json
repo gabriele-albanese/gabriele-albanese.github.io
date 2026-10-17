@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-17T19:44:57.425046+00:00",
+  "updated": "2026-10-17T22:01:18.519676+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4fa3af6914",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17T20:55:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "c2a828c742",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17T20:21:19+00:00",
+      "score": 4
+    },
     {
       "id": "5329074f89",
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -2179,28 +2201,6 @@
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T16:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "5a9c5073e7",
-      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
-      "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-      "summary": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T15:42:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "2529b8c640",
-      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
-      "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T15:06:17+00:00",
-      "score": 5
     }
   ]
 }
