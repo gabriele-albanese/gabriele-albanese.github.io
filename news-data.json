@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-18T19:44:23.132002+00:00",
+  "updated": "2026-10-18T22:01:14.308752+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8768eef8ca",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Oct 2026",
+      "timestamp": "2026-10-18T20:37:40+00:00",
+      "score": 4
+    },
     {
       "id": "2f6c16309d",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
@@ -2190,17 +2201,6 @@
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T18:18:00+00:00",
       "score": 6
-    },
-    {
-      "id": "80297d65bd",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T18:16:24+00:00",
-      "score": 5
     }
   ]
 }
