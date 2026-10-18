@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-18T10:01:15.473075+00:00",
+  "updated": "2026-10-18T14:01:13.552663+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3de97cce9e",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "18 Oct 2026",
+      "timestamp": "2026-10-18T12:31:36+00:00",
+      "score": 5
+    },
+    {
+      "id": "d94e3e69d0",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Oct 2026",
+      "timestamp": "2026-10-18T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "53a245e994",
+      "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
+      "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
+      "summary": "The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Oct 2026",
+      "timestamp": "2026-10-18T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "4fa3af6914",
       "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T16:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dfc39b54c1",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "02f01addd6",
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7db2500e12",
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T16:00:00+00:00",
       "score": 4
     }
   ]
