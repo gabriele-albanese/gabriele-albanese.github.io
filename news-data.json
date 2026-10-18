@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-18T14:56:20.779542+00:00",
+  "updated": "2026-10-18T18:01:15.756847+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2f6c16309d",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that D",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Oct 2026",
+      "timestamp": "2026-10-18T16:30:00+00:00",
+      "score": 7
+    },
+    {
+      "id": "986d8b6ec1",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "18 Oct 2026",
+      "timestamp": "2026-10-18T16:25:19+00:00",
+      "score": 4
+    },
     {
       "id": "3de97cce9e",
       "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
@@ -2179,28 +2201,6 @@
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T18:16:24+00:00",
       "score": 5
-    },
-    {
-      "id": "81c67beded",
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T18:10:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "293e690197",
-      "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-      "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-      "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community and even dates.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T16:45:00+00:00",
-      "score": 4
     }
   ]
 }
