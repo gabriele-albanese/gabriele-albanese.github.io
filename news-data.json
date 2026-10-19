@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-19T11:21:00.258519+00:00",
+  "updated": "2026-10-19T14:01:17.610350+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d3cd0305ae",
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b71a58c097",
+      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "summary": "Watch now (37 mins) | &#127897;&#65039; Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T12:04:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "63b3ab8d67",
+      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
+      "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
+      "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T11:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d00e93d4dd",
+      "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
+      "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+      "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T11:05:49+00:00",
+      "score": 4
+    },
     {
       "id": "c37b83a830",
       "title": "Why Data Modeling Is Not Enough",
@@ -2157,50 +2201,6 @@
       "date": "09 Oct 2026",
       "timestamp": "2026-10-09T00:08:24+00:00",
       "score": 6
-    },
-    {
-      "id": "8cc9a53921",
-      "title": "The six strategy roles a CEO must not delegate",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
-      "summary": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0e3aa23e28",
-      "title": "As the world order turns, leading companies are keeping pace. Here’s how",
-      "url": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
-      "summary": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build competitive advantage.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1b3998097b",
-      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T20:15:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "a682e0b0de",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T20:04:26+00:00",
-      "score": 4
     }
   ]
 }
