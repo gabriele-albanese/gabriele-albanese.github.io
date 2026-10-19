@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-19T06:01:17.899916+00:00",
+  "updated": "2026-10-19T10:01:15.170702+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "372db7fd0c",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T09:08:05+00:00",
+      "score": 5
+    },
+    {
+      "id": "57bbb4551e",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T09:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "8768eef8ca",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -2179,28 +2201,6 @@
       "date": "08 Oct 2026",
       "timestamp": "2026-10-08T18:19:45+00:00",
       "score": 4
-    },
-    {
-      "id": "c48d796055",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T18:19:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "ceca2e2c1a",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Oct 2026",
-      "timestamp": "2026-10-08T18:18:00+00:00",
-      "score": 6
     }
   ]
 }
