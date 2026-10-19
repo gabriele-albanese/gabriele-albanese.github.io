@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-19T17:49:33.472442+00:00",
+  "updated": "2026-10-19T18:01:17.208000+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "96c03e4a44",
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T18:00:39+00:00",
+      "score": 4
+    },
     {
       "id": "b6616cde0a",
       "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
@@ -89,6 +100,17 @@
       "date": "19 Oct 2026",
       "timestamp": "2026-10-19T12:42:55+00:00",
       "score": 4
+    },
+    {
+      "id": "094a1cc1de",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T12:30:00+00:00",
+      "score": 6
     },
     {
       "id": "d3cd0305ae",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "09 Oct 2026",
       "timestamp": "2026-10-09T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "44863a51be",
-      "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
-      "url": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
-      "summary": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dc4e32e77a",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T07:00:00+00:00",
       "score": 4
     }
   ]
