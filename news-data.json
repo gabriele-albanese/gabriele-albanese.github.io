@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-19T14:01:17.610350+00:00",
+  "updated": "2026-10-19T17:49:33.472442+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b6616cde0a",
+      "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+      "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+      "summary": "His vision will culminate with the R4 vehicle.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T17:39:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "16e6aca337",
+      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T16:55:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "10e42c60f6",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T16:13:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "b2e8936cbb",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "938df27abb",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T15:37:09+00:00",
+      "score": 5
+    },
+    {
+      "id": "e82a8343f7",
+      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T15:03:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "4361e035e4",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T14:45:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "a092a505ce",
+      "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Oct 2026",
+      "timestamp": "2026-10-19T12:42:55+00:00",
+      "score": 4
+    },
     {
       "id": "d3cd0305ae",
       "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
@@ -2113,94 +2201,6 @@
       "date": "09 Oct 2026",
       "timestamp": "2026-10-09T07:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "38f5a2b46e",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "39bf5d5617",
-      "title": "TurboTax Full Service Coupons This October 2026",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f7e164c871",
-      "title": "Ulta Promo Codes: Up to 20% Off in October 2026",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "209f02defe",
-      "title": "Valvoline Coupons and Promo Codes for October 2026",
-      "url": "https://www.wired.com/story/valvoline-coupons/",
-      "summary": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f1530afc8b",
-      "title": "Instacart Promo Code: $15 Off | October 2026",
-      "url": "https://www.wired.com/story/instacart-promo/code/",
-      "summary": "Find the best Instacart promo code for massive savings in October 2026.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4f642d6600",
-      "title": "Herman Miller Promo Codes: 40% Off October 2026",
-      "url": "https://www.wired.com/story/herman-miller-promo-code/",
-      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in October 2026.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e34ffdd695",
-      "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
-      "url": "https://www.wired.com/story/vistaprint-coupon-code/",
-      "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "080bc68c6b",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, bu",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Oct 2026",
-      "timestamp": "2026-10-09T00:08:24+00:00",
-      "score": 6
     }
   ]
 }
