@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-20T14:01:27.552737+00:00",
+  "updated": "2026-10-20T15:53:19.240543+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "eb9c98f8c7",
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T15:20:25+00:00",
+      "score": 4
+    },
+    {
+      "id": "8b5a53d12b",
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T15:07:43+00:00",
+      "score": 4
+    },
+    {
+      "id": "798b1735fd",
+      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+      "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T15:03:41+00:00",
+      "score": 4
+    },
     {
       "id": "55a52765c3",
       "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "11 Oct 2026",
       "timestamp": "2026-10-11T20:51:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "dfe712fc20",
-      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Oct 2026",
-      "timestamp": "2026-10-11T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1b97ced39a",
-      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Oct 2026",
-      "timestamp": "2026-10-11T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9207c3cb98",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
-      "summary": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what&#8217;s possible changes every week",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "11 Oct 2026",
-      "timestamp": "2026-10-11T12:31:59+00:00",
       "score": 4
     }
   ]
