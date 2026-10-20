@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-20T10:29:35.254973+00:00",
+  "updated": "2026-10-20T14:01:27.552737+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "55a52765c3",
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T13:17:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "185426ba2a",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1064d47d80",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neura",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "254f1995dd",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools matu",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "id": "85e233d0b1",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it wil",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T11:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "357a1080d2",
+      "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
+      "url": "https://www.wired.com/story/final-fantasy-vii-revelation/",
+      "summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "2b145858a9",
       "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
@@ -121,6 +187,17 @@
       "topic": "tech",
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T05:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7c90bd56c8",
+      "title": "Three horizons of quantum: A business road map to the future computing economy",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
+      "summary": "In the next decade, quantum technology could create trillions in value and break encryption, delivering opportunity but also risk. Leading companies are acting now to secure a competitive advantage.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2123,83 +2200,6 @@
       "topic": "pm",
       "date": "11 Oct 2026",
       "timestamp": "2026-10-11T12:31:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "d2080ce5ed",
-      "title": "Inside the Muslim Manosphere Policing Women Online",
-      "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
-      "summary": "From Red Pill coaches to “Dawah Bros,” influencers are dressing up hypermasculinity and misogyny in religious language—and finding audiences across social platforms.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Oct 2026",
-      "timestamp": "2026-10-11T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a132e85074",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Oct 2026",
-      "timestamp": "2026-10-10T21:47:51+00:00",
-      "score": 5
-    },
-    {
-      "id": "719244ff48",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Oct 2026",
-      "timestamp": "2026-10-10T19:50:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3e031e4aed",
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Oct 2026",
-      "timestamp": "2026-10-10T17:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "f9e8c0b9db",
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Oct 2026",
-      "timestamp": "2026-10-10T16:25:42+00:00",
-      "score": 4
-    },
-    {
-      "id": "1a1dace668",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Oct 2026",
-      "timestamp": "2026-10-10T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d8d2c1c3d5",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Oct 2026",
-      "timestamp": "2026-10-10T14:00:00+00:00",
       "score": 4
     }
   ]
