@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-20T15:53:19.240543+00:00",
+  "updated": "2026-10-20T18:01:20.292791+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4ef62f095c",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T17:55:12+00:00",
+      "score": 5
+    },
+    {
+      "id": "bb85d96de3",
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T17:41:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "de4b0bf4f3",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T16:20:06+00:00",
+      "score": 4
+    },
+    {
+      "id": "494d9d2a63",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T16:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "eb9c98f8c7",
       "title": "The new economics of enterprise AI",
@@ -99,6 +143,17 @@
       "topic": "tech",
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "afe39255e3",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T10:00:00+00:00",
       "score": 4
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "12 Oct 2026",
       "timestamp": "2026-10-12T13:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "83f755802a",
-      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "summary": "Listen now | &#127897;&#65039;Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "12 Oct 2026",
-      "timestamp": "2026-10-12T12:03:55+00:00",
-      "score": 5
-    },
-    {
-      "id": "7547a733d8",
-      "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
-      "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
-      "summary": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Oct 2026",
-      "timestamp": "2026-10-12T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7f1537088e",
-      "title": "Meesho: Making e-commerce everyone’s business",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business",
-      "summary": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled Meesho’s founders to succeed.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "12 Oct 2026",
-      "timestamp": "2026-10-12T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "768aec74a2",
-      "title": "Asset management 2026: Plenty for the few?",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
-      "summary": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "12 Oct 2026",
-      "timestamp": "2026-10-12T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c97aae4c0d",
-      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-      "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Oct 2026",
-      "timestamp": "2026-10-11T20:51:47+00:00",
       "score": 4
     }
   ]
