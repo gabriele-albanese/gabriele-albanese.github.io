@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-20T20:56:22.093467+00:00",
+  "updated": "2026-10-20T22:01:19.471874+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b14d2c98d7",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T21:25:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "533cd45794",
+      "title": "Melt it, spin it, use it again",
+      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, whic",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T21:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d7b3b7815b",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes L",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T21:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f48cdf2768",
+      "title": "Taking a swing at a pickleball startup",
+      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I do",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T21:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "b275807812",
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -2152,50 +2196,6 @@
       "title": "Booking.com Promo Codes: 20% Off | October 2026",
       "url": "https://www.wired.com/story/booking-com-promo-code/",
       "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9d3aa6c77e",
-      "title": "B&H Photo Promo Codes and Deals This October 2026",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9e3fa95aff",
-      "title": "Newegg Promo Codes and Coupons for October 2026",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b204494f3f",
-      "title": "Squarespace Promo Codes: 20% Off in October 2026",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "497c39ce1d",
-      "title": "20% Off Samsung Promo Code | October 2026",
-      "url": "https://www.wired.com/story/samsung-promo-codes/",
-      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
       "source": "Wired",
       "topic": "tech",
       "date": "13 Oct 2026",
