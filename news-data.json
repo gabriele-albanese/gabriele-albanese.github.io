@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-21T20:56:39.677824+00:00",
+  "updated": "2026-10-21T22:01:20.927259+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "30e754caf9",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T21:16:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "4f7c455daf",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T20:57:40+00:00",
+      "score": 4
+    },
     {
       "id": "12af459ff8",
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
@@ -2174,28 +2196,6 @@
       "title": "Walgreens Photo Coupons: Up to 70% Off This October",
       "url": "https://www.wired.com/story/walgreens-photo-coupon/",
       "summary": "Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and health products this fall.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "37e298ea21",
-      "title": "Tuft & Needle Promo Codes: 30% Off | October 2026",
-      "url": "https://www.wired.com/story/tuft-and-needle-promo-code/",
-      "summary": "Save 30% on best-selling mattresses with our top Tuft & Needle coupon codes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "75f536a8f8",
-      "title": "Dyson Promo Codes: 25% Off in October 2026",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
       "source": "Wired",
       "topic": "tech",
       "date": "14 Oct 2026",
