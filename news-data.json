@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-20T22:01:19.471874+00:00",
+  "updated": "2026-10-21T02:01:16.628905+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d1819ab5c6",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T23:01:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "b01ac18b57",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T22:57:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "df88e4093e",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T22:24:02+00:00",
+      "score": 5
+    },
     {
       "id": "b14d2c98d7",
       "title": "Anthropic’s cloud partnerships are getting messy",
@@ -297,6 +330,17 @@
       "topic": "ai",
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7b80adca1c",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Oct 2026",
+      "timestamp": "2026-10-20T07:00:00+00:00",
       "score": 4
     },
     {
@@ -2152,50 +2196,6 @@
       "title": "Lego Promo Code | 20% Off October 2026",
       "url": "https://www.wired.com/story/lego-promo-code/",
       "summary": "Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a749b3484",
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "801bd23e8d",
-      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "58bf00bbac",
-      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1d61a1102f",
-      "title": "Booking.com Promo Codes: 20% Off | October 2026",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
       "source": "Wired",
       "topic": "tech",
       "date": "13 Oct 2026",
