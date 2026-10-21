@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-21T10:40:49.103976+00:00",
+  "updated": "2026-10-21T14:01:21.713973+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b905565494",
+      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "1a6c766c09",
+      "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+      "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T13:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5b6af909d7",
+      "title": "Roku Pro Series OLED TV Review (2026)",
+      "url": "https://www.wired.com/review/roku-pro-series-oled/",
+      "summary": "It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T13:21:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "6510cb8f0e",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7072348133",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T12:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "ed9dc3a66c",
       "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "13 Oct 2026",
       "timestamp": "2026-10-13T16:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "aff2c9dc3d",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "summary": "TBD",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "173640a145",
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T15:02:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a377d4d8a",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9e467a9eb6",
-      "title": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
-      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-      "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T13:38:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "0e2d78d0be",
-      "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
-      "url": "https://www.wired.com/story/new-york-comic-con-panel/",
-      "summary": "The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T13:30:00+00:00",
       "score": 4
     }
   ]
