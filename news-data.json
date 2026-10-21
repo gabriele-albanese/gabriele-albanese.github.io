@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-21T18:01:19.209415+00:00",
+  "updated": "2026-10-21T20:56:39.677824+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "12af459ff8",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T20:27:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "8578bfdc1f",
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "summary": "Watch now (16 mins) | &#127897;&#65039; I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T20:25:18+00:00",
+      "score": 5
+    },
+    {
+      "id": "f63499591b",
+      "title": "Automattic begins layoffs following board upheaval and executive departures",
+      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
+      "summary": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T20:15:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "e35d745e8e",
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T19:52:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "e6b6d4852f",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T19:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ee0d39a4d0",
+      "title": "The internet is having a very bad cybersecurity day",
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T19:03:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "e093521890",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T18:51:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "f70b954b2a",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T18:51:42+00:00",
+      "score": 6
+    },
+    {
+      "id": "c049dea03b",
+      "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
+      "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
+      "summary": "IEEE Life Fellow  Manfred “Fred” J. Schindler  has been elected as the 2027  IEEE president-elect . He will begin serving as president on 1 January 2028.  Schindler, who was nominated by the  IEEE Board of Directors , received 16,421 votes in the election. Senior Member  David Al",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T18:00:03+00:00",
+      "score": 4
+    },
     {
       "id": "c344635e54",
       "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
@@ -23,6 +122,17 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T17:18:27+00:00",
       "score": 4
+    },
+    {
+      "id": "9df6102253",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T17:00:00+00:00",
+      "score": 5
     },
     {
       "id": "c7c40cc444",
@@ -253,6 +363,17 @@
       "topic": "ai",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T04:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ce32759f67",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2079,127 +2200,6 @@
       "topic": "tech",
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1ea8ff42a7",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2fdbd66b82",
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T23:17:59+00:00",
-      "score": 6
-    },
-    {
-      "id": "b982fab38e",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T23:05:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "e76f8bdfed",
-      "title": "The 9 Best TV Shows to Stream This Month (October 2026)",
-      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "summary": "Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T23:00:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "757b6b0d2c",
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T23:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ef5219e107",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T22:36:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "025ffa23c0",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T20:36:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "e12d6560f2",
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T20:13:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "b54ca03dad",
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T19:35:29+00:00",
-      "score": 5
-    },
-    {
-      "id": "31676c551a",
-      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-      "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T19:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "444dbc497f",
-      "title": "The 9 Best Movies to Stream This Month (October 2026)",
-      "url": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-      "summary": "Barbarian, The Fly, and Altered States are among the films deserving of your eyeballs this month.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T18:49:55+00:00",
       "score": 4
     }
   ]
