@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-21T14:01:21.713973+00:00",
+  "updated": "2026-10-21T16:10:17.396061+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c7c40cc444",
+      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T16:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "b905565494",
       "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
@@ -34,6 +45,17 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T13:21:18+00:00",
       "score": 4
+    },
+    {
+      "id": "8f9e95c080",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T13:00:00+00:00",
+      "score": 5
     },
     {
       "id": "6510cb8f0e",
@@ -102,6 +124,17 @@
       "score": 4
     },
     {
+      "id": "3dac179b52",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T07:00:00+00:00",
+      "score": 6
+    },
+    {
       "id": "39bf5d5617",
       "title": "TurboTax Full Service Coupons This October 2026",
       "url": "https://www.wired.com/story/turbotax-coupon/",
@@ -166,6 +199,17 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T05:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "c29efc53a8",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T04:50:00+00:00",
+      "score": 5
     },
     {
       "id": "aec1886eb4",
@@ -2157,50 +2201,6 @@
       "date": "13 Oct 2026",
       "timestamp": "2026-10-13T17:30:00+00:00",
       "score": 5
-    },
-    {
-      "id": "4d1328cfb2",
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T17:18:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "acb3d86a5a",
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4520f7ad22",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T16:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c8fb00551e",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "summary": "Developers will get 50 percent discounted API rates through November.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Oct 2026",
-      "timestamp": "2026-10-13T16:00:02+00:00",
-      "score": 4
     }
   ]
 }
