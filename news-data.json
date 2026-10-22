@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-22T06:01:19.779540+00:00",
+  "updated": "2026-10-22T10:01:25.175067+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cb619168be",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data th",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T08:41:18+00:00",
+      "score": 5
+    },
     {
       "id": "ea390552df",
       "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
@@ -2190,17 +2201,6 @@
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T09:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "f0e5b7f5be",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T07:00:00+00:00",
-      "score": 4
     }
   ]
 }
