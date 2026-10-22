@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-21T22:01:20.927259+00:00",
+  "updated": "2026-10-22T02:01:16.938655+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "82f29ce2fd",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T22:45:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "9874f967fc",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T22:39:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "bc99a740a8",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T22:16:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "8c848f41f8",
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T21:48:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "ff7ed0e12d",
+      "title": "Tesla profits drop 43% in Q3",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T21:35:07+00:00",
+      "score": 4
+    },
     {
       "id": "30e754caf9",
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -11,6 +66,17 @@
       "topic": "tech",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T21:16:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "432aef26f7",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T21:00:00+00:00",
       "score": 4
     },
     {
@@ -385,6 +451,17 @@
       "topic": "ai",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T04:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "fa5b0957b5",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "21 Oct 2026",
+      "timestamp": "2026-10-21T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2119,83 +2196,6 @@
       "title": "Peacock Promo Codes: 40% Off October 2026",
       "url": "https://www.wired.com/story/peacock-promo-code/",
       "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fe4e625528",
-      "title": "Dell Coupon Codes: 20% Off for October 2026",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b6b0cc4073",
-      "title": "Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026",
-      "url": "https://www.wired.com/story/vimeo-promo-code/",
-      "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b69a3f2e64",
-      "title": "HBO Max Promo Code: 50% Off | October 2026",
-      "url": "https://www.wired.com/story/max-promo-code/",
-      "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7e1896db29",
-      "title": "Uber Eats Promo Codes: $15 Off│October 2026",
-      "url": "https://www.wired.com/story/uber-eats-promo-code/",
-      "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7e51602059",
-      "title": "Corsair Discount Code: Up to 50% Off for October 2026",
-      "url": "https://www.wired.com/story/corsair-coupon/",
-      "summary": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4bae9221d7",
-      "title": "Castlery Promo Codes: 15% Off for October 2026",
-      "url": "https://www.wired.com/story/castlery-promo-code/",
-      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c56fec7e91",
-      "title": "Walgreens Photo Coupons: Up to 70% Off This October",
-      "url": "https://www.wired.com/story/walgreens-photo-coupon/",
-      "summary": "Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and health products this fall.",
       "source": "Wired",
       "topic": "tech",
       "date": "14 Oct 2026",
