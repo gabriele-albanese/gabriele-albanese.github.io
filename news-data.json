@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-22T02:03:37.645483+00:00",
+  "updated": "2026-10-22T06:01:19.779540+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ea390552df",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T02:24:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "40bb37b446",
+      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
+      "url": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
+      "summary": "The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from improving their competitiveness. But actions from business and policymakers could reverse this trend.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "82f29ce2fd",
       "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ad206bf6c9",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a0d05f18a",
-      "title": "Peacock Promo Codes: 40% Off October 2026",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T05:00:00+00:00",
       "score": 4
     }
   ]
