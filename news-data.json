@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-22T18:01:20.731904+00:00",
+  "updated": "2026-10-22T20:53:41.638717+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6bc6b21cdf",
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T20:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "8513a8be37",
+      "title": "The Social Society Helping Women Join the AI Boom",
+      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T19:56:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "c1230fd401",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T19:07:09+00:00",
+      "score": 4
+    },
+    {
+      "id": "8e6cfc2220",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T19:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "870bab3628",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly reg",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T18:48:04+00:00",
+      "score": 4
+    },
+    {
+      "id": "bc91e34a23",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T18:43:53+00:00",
+      "score": 5
+    },
+    {
+      "id": "dfbd4bb3a8",
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T18:38:47+00:00",
+      "score": 5
+    },
     {
       "id": "5126e80c6d",
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
@@ -121,6 +198,17 @@
       "topic": "tech",
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T02:24:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "48038fd0bf",
+      "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
+      "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2112,94 +2200,6 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "66c757258c",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T23:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8fcf6c6c5f",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T22:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b212bc9f8e",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T21:30:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "171416c3b9",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and  Peter Diamandis has launched a new fund to back startups who use it.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T21:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b9dc0811c5",
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T20:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a7963786f2",
-      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-      "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T19:51:34+00:00",
-      "score": 5
-    },
-    {
-      "id": "5a63753fd6",
-      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as  involved in composition and vocals.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T18:23:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "ea05e08108",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T18:00:00+00:00",
       "score": 4
     }
   ]
