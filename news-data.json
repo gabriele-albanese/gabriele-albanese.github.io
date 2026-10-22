@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-22T14:01:24.138602+00:00",
+  "updated": "2026-10-22T16:08:24.769138+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "644bb47749",
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "73f5f9254a",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "abd23a1831",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T15:03:58+00:00",
+      "score": 5
+    },
+    {
+      "id": "a61ac404d9",
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T14:59:28+00:00",
+      "score": 5
+    },
+    {
+      "id": "c5784819fc",
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T14:03:00+00:00",
+      "score": 4
+    },
     {
       "id": "2627a349dc",
       "title": "Claude Duet app is Anthropic’s bet on agents",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "14 Oct 2026",
       "timestamp": "2026-10-14T15:13:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "25b16452fb",
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "9e3c30a047",
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T14:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "7968b9678b",
-      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T12:55:06+00:00",
-      "score": 5
-    },
-    {
-      "id": "08346ce644",
-      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
-      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-      "summary": "Watch now (24 mins) | &#127897;&#65039;Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T12:04:05+00:00",
-      "score": 5
-    },
-    {
-      "id": "5eaa767107",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "14 Oct 2026",
-      "timestamp": "2026-10-14T12:00:00+00:00",
       "score": 4
     }
   ]
