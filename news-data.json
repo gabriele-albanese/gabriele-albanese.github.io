@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-23T15:58:37.489302+00:00",
+  "updated": "2026-10-23T18:01:22.200409+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5a60bcdb05",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T17:00:00+00:00",
+      "score": 7
+    },
+    {
+      "id": "79e04d3298",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T16:26:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "dff58cc387",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T16:20:28+00:00",
+      "score": 5
+    },
+    {
+      "id": "e3e4a3ed77",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T16:02:43+00:00",
+      "score": 4
+    },
     {
       "id": "6b44e2f57e",
       "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "de5cf070d9",
-      "title": "The Deal That Came With Its Own Roadmap",
-      "url": "https://www.productcoalition.com/p/the-deal-that-came-with-its-own-roadmap",
-      "summary": "Product & Profit #101",
-      "source": "Product Coalition",
-      "topic": "pm",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T08:01:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "9732e44920",
-      "title": "Lenovo Coupon Codes: 15% Off in October 2026",
-      "url": "https://www.wired.com/story/lenovo-coupon-code/",
-      "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8442734340",
-      "title": "Walmart Promo Codes: 20% Off for October 2026",
-      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cb42033e05",
-      "title": "Hotels.com Coupon Codes for October 2026",
-      "url": "https://www.wired.com/story/hotels-com-coupon/",
-      "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T05:00:00+00:00",
       "score": 4
     }
   ]
