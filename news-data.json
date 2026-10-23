@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-22T22:01:19.799377+00:00",
+  "updated": "2026-10-23T02:01:18.200148+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "02cf9a7a48",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T00:45:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "8dc6f2707d",
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T23:50:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "7f57e957c8",
+      "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T23:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c4c762c6b7",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T22:08:24+00:00",
+      "score": 4
+    },
     {
       "id": "c4f2e7d523",
       "title": "Designing an AI serving harness built to last",
@@ -12,6 +56,17 @@
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T21:17:29+00:00",
       "score": 5
+    },
+    {
+      "id": "9ec0ac3b9a",
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "22 Oct 2026",
+      "timestamp": "2026-10-22T21:07:09+00:00",
+      "score": 4
     },
     {
       "id": "ff64b9462e",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "74a5b05214",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T04:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7624c31011",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T01:01:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "55c2bfcceb",
-      "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T00:49:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "51bb7d05c9",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T00:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8ec6278a3e",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T00:00:00+00:00",
       "score": 4
     }
   ]
