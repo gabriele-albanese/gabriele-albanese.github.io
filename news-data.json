@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-23T18:01:22.200409+00:00",
+  "updated": "2026-10-23T20:41:57.957788+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7d8cd9aab9",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T19:25:13+00:00",
+      "score": 5
+    },
+    {
+      "id": "97fa418027",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside trad",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T19:06:23+00:00",
+      "score": 6
+    },
     {
       "id": "5a60bcdb05",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -66,6 +88,17 @@
       "topic": "tech",
       "date": "23 Oct 2026",
       "timestamp": "2026-10-23T11:15:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "759fe46ed9",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T10:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T15:02:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "07840b4d49",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T14:29:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "c0f2af6162",
-      "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
-      "url": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
-      "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising academics and practitioners to help us understand how responsible artificial intelligence is being implemented across organiza",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T11:00:55+00:00",
-      "score": 5
-    },
-    {
-      "id": "2bbcd20fdc",
-      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
-      "url": "https://www.wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop/",
-      "summary": "Low-quality AI-generated content currently dominates children’s media. Maka, a streaming platform run by child development experts, is offering an alternative.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T11:00:00+00:00",
       "score": 4
     }
   ]
