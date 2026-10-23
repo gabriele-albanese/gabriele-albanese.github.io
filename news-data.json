@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-23T14:01:23.018574+00:00",
+  "updated": "2026-10-23T15:58:37.489302+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6b44e2f57e",
+      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+      "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+      "summary": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T13:43:21+00:00",
+      "score": 4
+    },
     {
       "id": "6dbac2a1d7",
       "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
@@ -2185,17 +2196,6 @@
       "title": "Hotels.com Coupon Codes for October 2026",
       "url": "https://www.wired.com/story/hotels-com-coupon/",
       "summary": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cbe9f1d031",
-      "title": "ABT Promo Codes & Discounts for October 2026",
-      "url": "https://www.wired.com/story/abt-promo-code/",
-      "summary": "Learn how to maximize your savings on major appliances, electronics, and mattresses using verified ABT discount codes, rebates, and special coupons, and save up to $1,200 in October 2026.",
       "source": "Wired",
       "topic": "tech",
       "date": "15 Oct 2026",
