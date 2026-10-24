@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-23T22:01:22.794896+00:00",
+  "updated": "2026-10-24T02:01:16.800216+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1e71a2438d",
+      "title": "Startups don’t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T23:07:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "7384891d7a",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T23:05:49+00:00",
+      "score": 5
+    },
+    {
+      "id": "847a90d686",
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T22:48:25+00:00",
+      "score": 4
+    },
     {
       "id": "67b40086dc",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -2168,39 +2201,6 @@
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T18:56:46+00:00",
       "score": 4
-    },
-    {
-      "id": "f927c27e25",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16",
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit end on October 16. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "05146e6b83",
-      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T16:45:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "f50c5ed4ec",
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T15:43:24+00:00",
-      "score": 5
     }
   ]
 }
