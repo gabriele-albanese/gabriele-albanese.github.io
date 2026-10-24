@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-24T18:01:19.389342+00:00",
+  "updated": "2026-10-24T19:53:10.113153+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "41208e7075",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Oct 2026",
+      "timestamp": "2026-10-24T19:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "b8554dad59",
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -2190,17 +2201,6 @@
       "date": "15 Oct 2026",
       "timestamp": "2026-10-15T19:14:26+00:00",
       "score": 5
-    },
-    {
-      "id": "fcb2a84297",
-      "title": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
-      "url": "https://www.wired.com/story/ecobee-fall-sale-2026/",
-      "summary": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T19:00:49+00:00",
-      "score": 4
     }
   ]
 }
