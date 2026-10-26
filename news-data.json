@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-26T07:01:20.699666+00:00",
+  "updated": "2026-10-26T11:01:18.275735+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5b40673f7a",
+      "title": "Is HR Tech Undermining Your Strategy?",
+      "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
+      "summary": "Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching the employee life cycle and capturing workforce data. At the October 2025 HR Technology Conference, more than 400 vendors showcased their wares, inc",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "26 Oct 2026",
+      "timestamp": "2026-10-26T11:00:29+00:00",
+      "score": 5
+    },
+    {
+      "id": "b2ecf3e775",
+      "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
+      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "summary": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Oct 2026",
+      "timestamp": "2026-10-26T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "695d07f705",
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Oct 2026",
+      "timestamp": "2026-10-26T09:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "409a67e0ba",
+      "title": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
+      "summary": "AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "26 Oct 2026",
+      "timestamp": "2026-10-26T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "71c43854f4",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "16 Oct 2026",
       "timestamp": "2026-10-16T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d7da55bbe7",
-      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
-      "url": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
-      "summary": "Cognition co-founder and President Russell Kaplan explains why the next frontier of AI in software engineering is about more than writing code faster and what it takes to turn autonomous agents into measurable business value.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "16 Oct 2026",
-      "timestamp": "2026-10-16T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "5b3c6bdf8c",
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T23:33:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "94e50805aa",
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T21:00:28+00:00",
-      "score": 5
-    },
-    {
-      "id": "b79cf62ab2",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Oct 2026",
-      "timestamp": "2026-10-15T20:04:53+00:00",
       "score": 4
     }
   ]
