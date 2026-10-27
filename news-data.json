@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-27T15:01:22.896182+00:00",
+  "updated": "2026-10-27T16:54:56.673602+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "091117b144",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T15:10:26+00:00",
+      "score": 5
+    },
     {
       "id": "afdc5264df",
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -88,6 +99,17 @@
       "topic": "tech",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T09:30:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "866a8680f7",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T07:00:00+00:00",
       "score": 6
     },
     {
@@ -617,6 +639,17 @@
       "date": "23 Oct 2026",
       "timestamp": "2026-10-23T00:45:37+00:00",
       "score": 4
+    },
+    {
+      "id": "27106abd31",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Oct 2026",
+      "timestamp": "2026-10-23T00:00:00+00:00",
+      "score": 6
     },
     {
       "id": "39c8c1e087",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "19 Oct 2026",
       "timestamp": "2026-10-19T10:00:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "372db7fd0c",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T09:08:05+00:00",
-      "score": 5
-    },
-    {
-      "id": "57bbb4551e",
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T09:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "8768eef8ca",
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "18 Oct 2026",
-      "timestamp": "2026-10-18T20:37:40+00:00",
       "score": 4
     }
   ]
