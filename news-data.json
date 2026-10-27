@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-27T16:54:56.673602+00:00",
+  "updated": "2026-10-27T19:01:28.264148+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fc5f9bdbfc",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T18:55:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "375f2803b3",
+      "title": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr",
+      "url": "https://www.wired.com/story/motorola-razr-deal-october-2026/",
+      "summary": "The Razr is our favorite budget foldable phone. While it isn’t on sale yet, Motorola is adding extras to sweeten this October deal.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T18:41:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "12beb23893",
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T18:20:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "636498a83a",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T17:08:08+00:00",
+      "score": 4
+    },
     {
       "id": "091117b144",
       "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
@@ -2157,50 +2201,6 @@
       "date": "19 Oct 2026",
       "timestamp": "2026-10-19T12:00:00+00:00",
       "score": 6
-    },
-    {
-      "id": "63b3ab8d67",
-      "title": "Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’",
-      "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
-      "summary": "The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T11:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d00e93d4dd",
-      "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-      "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-      "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T11:05:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "c37b83a830",
-      "title": "Why Data Modeling Is Not Enough",
-      "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
-      "summary": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data science. Your data science team has built sophisticated models that produce demand predictions for the company’s products with impressive accuracy. Yet, when th",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T11:00:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "54a5bb0b33",
-      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-      "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.   What you will learn about:     H",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T10:00:04+00:00",
-      "score": 4
     }
   ]
 }
