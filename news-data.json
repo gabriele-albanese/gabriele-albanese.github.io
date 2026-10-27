@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:01:19.901093+00:00",
+  "updated": "2026-10-27T11:07:58.262342+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "business",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T11:00:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "6852217555",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T11:00:00+00:00",
       "score": 4
     },
     {
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "18 Oct 2026",
       "timestamp": "2026-10-18T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4fa3af6914",
-      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Oct 2026",
-      "timestamp": "2026-10-17T20:55:52+00:00",
       "score": 4
     }
   ]
