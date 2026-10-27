@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-26T23:01:18.860483+00:00",
+  "updated": "2026-10-27T02:33:24.435780+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "cb685d5b4c",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T02:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "8cbd8d0960",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T01:12:21+00:00",
+      "score": 4
+    },
     {
       "id": "756bb61fb8",
       "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
@@ -2178,28 +2200,6 @@
       "topic": "pm",
       "date": "17 Oct 2026",
       "timestamp": "2026-10-17T13:53:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "d63e4fd817",
-      "title": "HTC Made Smart Glasses That Are Way More Private",
-      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
-      "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Oct 2026",
-      "timestamp": "2026-10-17T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7d9b2fa444",
-      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "17 Oct 2026",
-      "timestamp": "2026-10-17T09:00:00+00:00",
       "score": 4
     }
   ]
