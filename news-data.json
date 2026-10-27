@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-27T19:01:28.264148+00:00",
+  "updated": "2026-10-27T21:30:56.634641+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a254656adb",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T19:39:04+00:00",
+      "score": 4
+    },
     {
       "id": "fc5f9bdbfc",
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -176,6 +187,17 @@
       "topic": "tech",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T01:12:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "150f1b29ae",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "19 Oct 2026",
       "timestamp": "2026-10-19T12:10:00+00:00",
       "score": 4
-    },
-    {
-      "id": "b71a58c097",
-      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-      "summary": "Watch now (37 mins) | &#127897;&#65039; Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T12:04:52+00:00",
-      "score": 5
-    },
-    {
-      "id": "8dad8d5fd5",
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T12:00:00+00:00",
-      "score": 6
     }
   ]
 }
