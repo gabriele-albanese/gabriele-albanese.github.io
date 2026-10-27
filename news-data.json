@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-27T07:01:19.657021+00:00",
+  "updated": "2026-10-27T11:01:19.901093+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "af9ff7f388",
+      "title": "What Interruptions Say About Your Organizational Culture",
+      "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
+      "summary": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments that show how culture actually manifests. During meetings, who gets interrupted? Employees notice whose sentences are cut",
+      "source": "MIT Sloan Review",
+      "topic": "business",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T11:00:35+00:00",
+      "score": 4
+    },
+    {
+      "id": "867c05e1e1",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T11:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "5d90cade4a",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T09:30:00+00:00",
+      "score": 6
+    },
     {
       "id": "cb685d5b4c",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "17 Oct 2026",
       "timestamp": "2026-10-17T20:55:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "c2a828c742",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Oct 2026",
-      "timestamp": "2026-10-17T20:21:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "5329074f89",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "17 Oct 2026",
-      "timestamp": "2026-10-17T18:48:08+00:00",
-      "score": 8
-    },
-    {
-      "id": "f36794770a",
-      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
-      "summary": "Community Wisdom 302",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "17 Oct 2026",
-      "timestamp": "2026-10-17T13:53:57+00:00",
       "score": 4
     }
   ]
