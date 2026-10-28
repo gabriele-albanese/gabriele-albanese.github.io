@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-28T19:01:25.024871+00:00",
+  "updated": "2026-10-28T21:56:22.526379+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "65911ac3f4",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T21:34:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "52fa9eb7ca",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when s",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T20:32:02+00:00",
+      "score": 5
+    },
+    {
+      "id": "34dd884a9c",
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T20:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b2173123b9",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T19:19:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "4c18a8b504",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T19:05:46+00:00",
+      "score": 4
+    },
+    {
+      "id": "0ee110650c",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T18:47:27+00:00",
+      "score": 5
+    },
+    {
+      "id": "eed1b6ead3",
+      "title": "Systems Thinking Is Vital in the Age of AI",
+      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare t",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T18:00:02+00:00",
+      "score": 4
+    },
     {
       "id": "7fbbcf0aac",
       "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
@@ -56,6 +133,17 @@
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T14:26:36+00:00",
       "score": 4
+    },
+    {
+      "id": "fbd38a0373",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T13:15:00+00:00",
+      "score": 7
     },
     {
       "id": "5f2fe6f6cf",
@@ -2113,94 +2201,6 @@
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T12:00:00+00:00",
       "score": 9
-    },
-    {
-      "id": "85e233d0b1",
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it wil",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T11:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "357a1080d2",
-      "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
-      "url": "https://www.wired.com/story/final-fantasy-vii-revelation/",
-      "summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "afe39255e3",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2b145858a9",
-      "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
-      "url": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/",
-      "summary": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cec229fed3",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fab",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T09:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "0e3b0982f0",
-      "title": "These startups hope “blended” food will cut our appetite for red meat",
-      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara s",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7b80adca1c",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "53d04c2145",
-      "title": "eBay Coupons: 20% Off in October 2026",
-      "url": "https://www.wired.com/story/ebay-coupon-code/",
-      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T05:00:00+00:00",
-      "score": 4
     }
   ]
 }
