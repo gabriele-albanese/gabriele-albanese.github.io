@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-28T11:42:47.781384+00:00",
+  "updated": "2026-10-28T15:01:25.711070+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "797632f908",
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T14:26:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "5f2fe6f6cf",
+      "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+      "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+      "summary": "In the cockpit  of Beta Technologies’ Alia CX300, pilot  Chris Caputo  steers onto Runway 33 at  Patrick Leahy Burlington International Airport  in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward.    At the back of the aircraft, the five-blade",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T13:00:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "313f7a5d4f",
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "625cd70e87",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he did",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T12:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "51ee3009bc",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "summary": "Listen now | &#127897;&#65039; I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks&#8212;and the scores told me which agent runs my work and which runs my life",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T12:04:22+00:00",
+      "score": 4
+    },
     {
       "id": "37cc80bcd7",
       "title": "AI Is Thriving at Capital One",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e908a5b08e",
-      "title": "Home Chef Promo Codes for October 2026",
-      "url": "https://www.wired.com/story/home-chef-promo-code/",
-      "summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a4b7aa5bc",
-      "title": "AT&T Promo Codes: $50 Off This October 2026",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1ce5d96638",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8b648de348",
-      "title": "Securing software in the age of AI: Red Hat CTO Chris Wright",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright",
-      "summary": "Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning for software security, and how the industry can emerge stronger as a result.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7c90bd56c8",
-      "title": "Three horizons of quantum: A business road map to the future computing economy",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
-      "summary": "In the next decade, quantum technology could create trillions in value and break encryption, delivering opportunity but also risk. Leading companies are acting now to secure a competitive advantage.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T00:00:00+00:00",
       "score": 4
     }
   ]
