@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-27T23:01:19.704224+00:00",
+  "updated": "2026-10-28T02:42:27.099782+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c372745ec7",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T01:15:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "092cb86201",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "27 Oct 2026",
+      "timestamp": "2026-10-27T23:34:27+00:00",
+      "score": 6
+    },
     {
       "id": "87e2d1810a",
       "title": "Guidewire buys Hyperexponential for $1.7B in cash",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "19 Oct 2026",
       "timestamp": "2026-10-19T17:39:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "16e6aca337",
-      "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-      "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-      "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T16:55:56+00:00",
-      "score": 4
-    },
-    {
-      "id": "10e42c60f6",
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "19 Oct 2026",
-      "timestamp": "2026-10-19T16:13:22+00:00",
       "score": 4
     }
   ]
