@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-28T23:01:21.462315+00:00",
+  "updated": "2026-10-29T03:01:25.974436+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "edad344f44",
+      "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "28 Oct 2026",
+      "timestamp": "2026-10-28T23:15:00+00:00",
+      "score": 4
+    },
     {
       "id": "65911ac3f4",
       "title": "Microsoft recorded $10 billion in revenue from OpenAI",
@@ -2190,17 +2201,6 @@
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T12:10:00+00:00",
       "score": 4
-    },
-    {
-      "id": "254f1995dd",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools matu",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T12:00:00+00:00",
-      "score": 9
     }
   ]
 }
