@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-29T07:01:20.122080+00:00",
+  "updated": "2026-10-29T11:01:22.337984+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "45629b2d3a",
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T10:45:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "468ea3c00c",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed priva",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T10:11:12+00:00",
+      "score": 5
+    },
+    {
+      "id": "d3a6f5fe5d",
+      "title": "Global Economics Intelligence executive summary, September 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "summary": "Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "edad344f44",
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T15:03:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "55a52765c3",
-      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-      "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T13:17:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "185426ba2a",
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1064d47d80",
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neura",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T12:10:00+00:00",
       "score": 4
     }
   ]
