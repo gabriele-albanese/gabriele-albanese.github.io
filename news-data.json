@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-29T17:39:09.102826+00:00",
+  "updated": "2026-10-29T19:01:23.958940+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c5a8045151",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T18:39:43+00:00",
+      "score": 6
+    },
+    {
+      "id": "5b22ab9770",
+      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T18:29:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "aaf5e6791a",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T17:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "804bc5d490",
       "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
@@ -132,6 +165,17 @@
       "topic": "ai",
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb2bd3b12e",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T07:00:00+00:00",
       "score": 4
     },
     {
@@ -2157,50 +2201,6 @@
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T21:25:22+00:00",
       "score": 4
-    },
-    {
-      "id": "533cd45794",
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, whic",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T21:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d7b3b7815b",
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes L",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T21:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f48cdf2768",
-      "title": "Taking a swing at a pickleball startup",
-      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-      "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I do",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T21:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b275807812",
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T20:35:10+00:00",
-      "score": 6
     }
   ]
 }
