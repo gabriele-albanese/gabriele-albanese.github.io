@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-29T11:51:19.759331+00:00",
+  "updated": "2026-10-29T15:01:25.045709+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "36520d0f71",
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "summary": "A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T15:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "38ff379291",
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T15:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "cd84a165e5",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T14:35:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "0fc880ed75",
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "06df78f9a0",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T12:10:00+00:00",
+      "score": 4
+    },
     {
       "id": "45629b2d3a",
       "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
@@ -23,6 +78,28 @@
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T10:11:12+00:00",
       "score": 5
+    },
+    {
+      "id": "2b8a393273",
+      "title": "The algorithm isn’t the advantage–the team is",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is",
+      "summary": "FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "013b444c65",
+      "title": "Banking on AI: How a new operating model can transform distressed credit management",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management",
+      "summary": "Banks increasingly deploy AI in distressed credit management. But few have adjusted their operating models to deliver distinctive customer experiences and optimize financial outcomes and recovery costs.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "d3a6f5fe5d",
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T18:36:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ef62f095c",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T17:55:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "bb85d96de3",
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T17:41:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "de4b0bf4f3",
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T16:20:06+00:00",
-      "score": 4
-    },
-    {
-      "id": "494d9d2a63",
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T16:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "eb9c98f8c7",
-      "title": "The new economics of enterprise AI",
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T15:20:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "8b5a53d12b",
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T15:07:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "798b1735fd",
-      "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-      "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-      "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T15:03:41+00:00",
       "score": 4
     }
   ]
