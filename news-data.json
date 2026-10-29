@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-29T15:01:25.045709+00:00",
+  "updated": "2026-10-29T17:39:09.102826+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "804bc5d490",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T16:42:32+00:00",
+      "score": 5
+    },
+    {
+      "id": "b2c76de6c6",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T16:21:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2fd150d54c",
+      "title": "SuperMe raises $20M for its network of AI expert profiles",
+      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T16:19:43+00:00",
+      "score": 4
+    },
     {
       "id": "36520d0f71",
       "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
@@ -33,6 +66,17 @@
       "topic": "tech",
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T14:35:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "f4d2fa0b48",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T14:00:00+00:00",
       "score": 4
     },
     {
@@ -78,6 +122,17 @@
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T10:11:12+00:00",
       "score": 5
+    },
+    {
+      "id": "4745ac4816",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T09:00:00+00:00",
+      "score": 4
     },
     {
       "id": "2b8a393273",
@@ -2146,61 +2201,6 @@
       "date": "20 Oct 2026",
       "timestamp": "2026-10-20T20:35:10+00:00",
       "score": 6
-    },
-    {
-      "id": "49d51833c8",
-      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-      "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-      "summary": "A lifetime ad-free subscription is available.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T20:20:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "69a612b8ae",
-      "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
-      "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-      "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026. The 480-kilogram FLIP rover, short for “FLEX Lunar Inn",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T20:07:21+00:00",
-      "score": 6
-    },
-    {
-      "id": "5a9bfc2289",
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T20:00:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "b6df1373e7",
-      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T20:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dd509f4a2f",
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "20 Oct 2026",
-      "timestamp": "2026-10-20T18:36:53+00:00",
-      "score": 4
     }
   ]
 }
