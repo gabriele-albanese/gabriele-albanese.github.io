@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-30T07:01:17.777168+00:00",
+  "updated": "2026-10-30T11:01:25.343243+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d84b4ab725",
+      "title": "Male Insecurity Over Penis Size Is a Booming Business",
+      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "797990b6ed",
+      "title": "Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth",
+      "summary": "Industrial leaders can turn disruption into growth by sharpening their focus, scaling to meet surging data-center power demand, and putting AI and continuous improvement to work.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T00:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "8c87afc67f",
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
@@ -2179,28 +2201,6 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T05:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "f8c9c30a14",
-      "title": "20% Off Sephora Promo Code | October 2026",
-      "url": "https://www.wired.com/story/sephora-promo-code/",
-      "summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c29efc53a8",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T04:50:00+00:00",
-      "score": 5
     }
   ]
 }
