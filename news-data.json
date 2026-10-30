@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-30T21:43:27.263814+00:00",
+  "updated": "2026-10-30T23:01:18.287268+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d12607a6e4",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T21:52:03+00:00",
+      "score": 4
+    },
     {
       "id": "62efadaf1b",
       "title": "Last-minute Halloween costumes for tech nerds",
@@ -23,6 +34,17 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T21:19:26+00:00",
       "score": 7
+    },
+    {
+      "id": "0697c0d657",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T21:09:54+00:00",
+      "score": 4
     },
     {
       "id": "13947adb5f",
@@ -122,6 +144,17 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T09:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "a33227d4fa",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "35fdbb53c0",
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T17:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c7c40cc444",
-      "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "50a7bf7b3e",
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T15:14:07+00:00",
-      "score": 5
-    },
-    {
-      "id": "b905565494",
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T14:00:00+00:00",
       "score": 5
     }
   ]
