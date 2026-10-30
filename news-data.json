@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-30T11:44:02.681595+00:00",
+  "updated": "2026-10-30T15:01:21.786914+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "30b5f07a33",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T13:54:25+00:00",
+      "score": 4
+    },
+    {
+      "id": "12c5b28f85",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T13:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "d84b4ab725",
       "title": "Male Insecurity Over Penis Size Is a Booming Business",
@@ -12,6 +34,28 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T10:30:00+00:00",
       "score": 4
+    },
+    {
+      "id": "28a4f61cb2",
+      "title": "Overcoming the R&D bottleneck: Building a causal decision system",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
+      "summary": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected, causal decision systems to optimize speed, cost, and success rates.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "09ae4042d5",
+      "title": "Waniwani’s CEO on the agentic future of insurance distribution",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
+      "summary": "AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the opportunities, risks, and implications for insurers.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "797990b6ed",
@@ -2152,50 +2196,6 @@
       "title": "TurboTax Full Service Coupons This October 2026",
       "url": "https://www.wired.com/story/turbotax-coupon/",
       "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "cd1a2f13f0",
-      "title": "Home Depot Promo Codes: 30% Off in October 2026",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "e9ef78b684",
-      "title": "Udemy Coupon Codes: 20% Off October 2026",
-      "url": "https://www.wired.com/story/udemy-promo-code/",
-      "summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f7e164c871",
-      "title": "Ulta Promo Codes: Up to 20% Off in October 2026",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1543f8005f",
-      "title": "LG Promo Codes and Coupons for October 2026",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
       "source": "Wired",
       "topic": "tech",
       "date": "21 Oct 2026",
