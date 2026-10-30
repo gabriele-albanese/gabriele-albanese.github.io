@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-29T23:01:22.979797+00:00",
+  "updated": "2026-10-30T03:01:24.754176+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8c87afc67f",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T23:44:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "ee09513d3b",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T23:42:22+00:00",
+      "score": 5
+    },
     {
       "id": "ff9e38d384",
       "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
@@ -2179,28 +2201,6 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T04:50:00+00:00",
       "score": 5
-    },
-    {
-      "id": "aec1886eb4",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T04:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fa5b0957b5",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
