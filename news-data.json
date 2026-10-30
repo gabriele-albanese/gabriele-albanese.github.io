@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-30T15:01:21.786914+00:00",
+  "updated": "2026-10-30T17:17:27.317964+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "df25b5f166",
+      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "summary": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "30b5f07a33",
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
@@ -34,6 +45,28 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T10:30:00+00:00",
       "score": 4
+    },
+    {
+      "id": "de97c2c5f0",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T09:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "f8d86fc6e7",
+      "title": "Shapers and Founders: Scaling without losing soul",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
+      "summary": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial spirit.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "28a4f61cb2",
@@ -320,6 +353,17 @@
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T07:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "4c59753c4e",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "29 Oct 2026",
+      "timestamp": "2026-10-29T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "2b8a393273",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "f47c3d900c",
-      "title": "Nuclear-powered spaceships",
-      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8b3de4681a",
-      "title": "Solid-state batteries",
-      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3dac179b52",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T07:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "39bf5d5617",
-      "title": "TurboTax Full Service Coupons This October 2026",
-      "url": "https://www.wired.com/story/turbotax-coupon/",
-      "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T05:00:00+00:00",
       "score": 4
     }
   ]
