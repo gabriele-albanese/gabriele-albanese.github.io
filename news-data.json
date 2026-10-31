@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-30T23:01:18.287268+00:00",
+  "updated": "2026-10-31T02:52:46.348432+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0f484a6d13",
+      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "30 Oct 2026",
+      "timestamp": "2026-10-30T23:21:23+00:00",
+      "score": 5
+    },
     {
       "id": "d12607a6e4",
       "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
@@ -2190,17 +2201,6 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T17:18:27+00:00",
       "score": 4
-    },
-    {
-      "id": "9df6102253",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T17:00:00+00:00",
-      "score": 5
     }
   ]
 }
