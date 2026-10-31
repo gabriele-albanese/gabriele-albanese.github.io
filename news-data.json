@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-31T07:01:26.632259+00:00",
+  "updated": "2026-10-31T11:01:14.201079+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "10cf68686a",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "31 Oct 2026",
+      "timestamp": "2026-10-31T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "0071adadbf",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "31 Oct 2026",
+      "timestamp": "2026-10-31T10:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "0f484a6d13",
       "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T18:00:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "c344635e54",
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T17:59:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "f3f4777e99",
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T17:18:27+00:00",
       "score": 4
     }
   ]
