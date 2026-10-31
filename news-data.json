@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-31T20:43:01.747206+00:00",
+  "updated": "2026-10-31T23:01:17.260710+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8462b9fc71",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Oct 2026",
+      "timestamp": "2026-10-31T21:41:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ec476f3f21",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "31 Oct 2026",
+      "timestamp": "2026-10-31T21:36:07+00:00",
+      "score": 5
+    },
     {
       "id": "149be8f745",
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -2179,28 +2201,6 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T19:03:28+00:00",
       "score": 4
-    },
-    {
-      "id": "e093521890",
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T18:51:56+00:00",
-      "score": 4
-    },
-    {
-      "id": "f70b954b2a",
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T18:51:42+00:00",
-      "score": 6
     }
   ]
 }
