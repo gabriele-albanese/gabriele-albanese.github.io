@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-01T12:07:04.637430+00:00",
+  "updated": "2026-11-01T15:01:16.235401+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "308d14e49d",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "01 Nov 2026",
+      "timestamp": "2026-11-01T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4b515c911a",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "01 Nov 2026",
+      "timestamp": "2026-11-01T13:31:36+00:00",
+      "score": 4
+    },
     {
       "id": "ff1c3d3c39",
       "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
@@ -2179,28 +2201,6 @@
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T20:15:00+00:00",
       "score": 5
-    },
-    {
-      "id": "e35d745e8e",
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T19:52:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "e6b6d4852f",
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T19:30:00+00:00",
-      "score": 4
     }
   ]
 }
