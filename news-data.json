@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-01T07:01:21.046644+00:00",
+  "updated": "2026-11-01T11:01:20.580223+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ff1c3d3c39",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "01 Nov 2026",
+      "timestamp": "2026-11-01T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "8462b9fc71",
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T19:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ee0d39a4d0",
-      "title": "The internet is having a very bad cybersecurity day",
-      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T19:03:28+00:00",
       "score": 4
     }
   ]
