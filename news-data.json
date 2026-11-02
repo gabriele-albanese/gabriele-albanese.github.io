@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-02T07:01:18.632884+00:00",
+  "updated": "2026-11-02T11:01:25.055437+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a819b402ae",
+      "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
+      "summary": "The judgment of the CEO and top leaders is one of the most valuable sources of knowledge in the organization. AI can now codify that tacit wisdom and make it available to everyone, for the first time.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T00:00:00+00:00",
+      "score": 8
+    },
     {
       "id": "cf5e1b5d84",
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T20:57:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "12af459ff8",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T20:27:41+00:00",
       "score": 4
     }
   ]
