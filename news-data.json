@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-02T15:01:21.449159+00:00",
+  "updated": "2026-11-02T19:01:23.706484+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5d3ce50345",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T18:32:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "b26578c04a",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T18:05:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "ff01b8b9f0",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "summary": "Animated carousel of images from AI posts in October",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T17:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "adc599e6d5",
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T17:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "c155a34806",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T15:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "d2641740e5",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T15:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "12e1a9cd9c",
       "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
@@ -2134,72 +2200,6 @@
       "topic": "business",
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "48038fd0bf",
-      "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
-      "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6cec5c61df",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "40bb37b446",
-      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
-      "url": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
-      "summary": "The regional distribution of Britain’s economy traps operational leadership talent in London and the South East and prevents businesses across the country from improving their competitiveness. But actions from business and policymakers could reverse this trend.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "82f29ce2fd",
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T22:45:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "9874f967fc",
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T22:39:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "bc99a740a8",
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T22:16:05+00:00",
       "score": 4
     }
   ]
