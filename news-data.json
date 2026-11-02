@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-02T13:56:29.543083+00:00",
+  "updated": "2026-11-02T15:01:21.449159+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "12e1a9cd9c",
+      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
+      "url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
+      "summary": "These gorgeous, renter-friendly storage lockers are hardly ever discounted.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T14:15:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "e0d9533470",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T13:57:53+00:00",
+      "score": 5
+    },
     {
       "id": "6e7d4661da",
       "title": "Stop counting tokens, start counting what ships",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "21 Oct 2026",
       "timestamp": "2026-10-21T22:16:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "8c848f41f8",
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T21:48:52+00:00",
-      "score": 5
-    },
-    {
-      "id": "ff7ed0e12d",
-      "title": "Tesla profits drop 43% in Q3",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "21 Oct 2026",
-      "timestamp": "2026-10-21T21:35:07+00:00",
       "score": 4
     }
   ]
