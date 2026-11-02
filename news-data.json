@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-02T19:01:23.706484+00:00",
+  "updated": "2026-11-02T23:01:21.667844+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b86b88ec9c",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T22:14:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "a72f414af3",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T19:19:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "05dc7d6b03",
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T19:11:49+00:00",
+      "score": 4
+    },
     {
       "id": "5d3ce50345",
       "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
@@ -2168,39 +2201,6 @@
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T08:41:18+00:00",
       "score": 5
-    },
-    {
-      "id": "f4d7439583",
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "summary": "What forward deployed engineering means at OpenAI",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T06:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ea390552df",
-      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T02:24:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "61c7adec28",
-      "title": "What trends are influencing the food and beverage industry?",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/what-trends-are-influencing-the-food-and-beverage-industry",
-      "summary": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. To thrive, companies will need real product innovation and focused use of AI.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
