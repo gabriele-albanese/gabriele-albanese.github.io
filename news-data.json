@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-03T03:01:23.942595+00:00",
+  "updated": "2026-11-03T07:01:22.448159+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "72788a4d35",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T04:18:47+00:00",
+      "score": 5
+    },
     {
       "id": "245a9ef26d",
       "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
@@ -22,6 +33,17 @@
       "topic": "tech",
       "date": "03 Nov 2026",
       "timestamp": "2026-11-03T00:35:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "021a6c752a",
+      "title": "Advancing adaptation: Breaking barriers to a trillion-dollar opportunity",
+      "url": "https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity",
+      "summary": "Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to scaling adaptation and how could they be overcome?",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T00:00:00+00:00",
       "score": 4
     },
     {
@@ -99,6 +121,28 @@
       "topic": "tech",
       "date": "02 Nov 2026",
       "timestamp": "2026-11-02T18:05:31+00:00",
+      "score": 4
+    },
+    {
+      "id": "4524e83e3a",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T18:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8e75a62f19",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T18:00:00+00:00",
       "score": 4
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T18:43:53+00:00",
-      "score": 5
-    },
-    {
-      "id": "dfbd4bb3a8",
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T18:38:47+00:00",
-      "score": 5
-    },
-    {
-      "id": "5126e80c6d",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T16:47:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "644bb47749",
-      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-      "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "73f5f9254a",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T16:00:00+00:00",
       "score": 5
     }
   ]
