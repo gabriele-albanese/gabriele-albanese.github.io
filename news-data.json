@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-03T15:01:26.458067+00:00",
+  "updated": "2026-11-03T19:01:21.668817+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "50915edf25",
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T18:51:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "e9f4d5ac37",
+      "title": "Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026)",
+      "url": "https://www.wired.com/story/air-purifier-sale-october-3-2026/",
+      "summary": "Save on WIRED-tested picks from Blueair, Levoit, and Air Doctor, including compact models for your bedroom.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T18:04:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "72683f7474",
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T17:56:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "741c3465b3",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T17:07:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "75ac1a268b",
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T14:49:00+00:00",
+      "score": 4
+    },
     {
       "id": "0dc7935267",
       "title": "Here's Why You Shouldn't Use AI to Vote",
@@ -23,6 +78,17 @@
       "date": "03 Nov 2026",
       "timestamp": "2026-11-03T13:10:00+00:00",
       "score": 5
+    },
+    {
+      "id": "f98ffa6f91",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "5a465e187c",
@@ -2135,72 +2201,6 @@
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T23:50:41+00:00",
       "score": 4
-    },
-    {
-      "id": "7f57e957c8",
-      "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
-      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T23:15:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c4c762c6b7",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T22:08:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "c4f2e7d523",
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, lar",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T21:17:29+00:00",
-      "score": 5
-    },
-    {
-      "id": "9ec0ac3b9a",
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T21:07:09+00:00",
-      "score": 4
-    },
-    {
-      "id": "ff64b9462e",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T21:05:05+00:00",
-      "score": 4
-    },
-    {
-      "id": "6bc6b21cdf",
-      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T20:00:00+00:00",
-      "score": 5
     }
   ]
 }
