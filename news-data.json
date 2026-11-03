@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-03T07:01:22.448159+00:00",
+  "updated": "2026-11-03T11:01:25.396784+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e25f63209a",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T08:01:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "250b236eb5",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T08:00:00+00:00",
+      "score": 7
+    },
     {
       "id": "72788a4d35",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -2179,28 +2201,6 @@
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T19:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "870bab3628",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly reg",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T18:48:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "bc91e34a23",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T18:43:53+00:00",
-      "score": 5
     }
   ]
 }
