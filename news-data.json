@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-03T00:05:22.196724+00:00",
+  "updated": "2026-11-03T03:01:23.942595+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "245a9ef26d",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T01:12:55+00:00",
+      "score": 5
+    },
+    {
+      "id": "30470ccd04",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "03 Nov 2026",
+      "timestamp": "2026-11-03T00:35:52+00:00",
+      "score": 4
+    },
     {
       "id": "c368c304bd",
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -187,6 +209,17 @@
       "topic": "tech",
       "date": "02 Nov 2026",
       "timestamp": "2026-11-02T11:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d0861db8fc",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "02 Nov 2026",
+      "timestamp": "2026-11-02T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2168,39 +2201,6 @@
       "date": "22 Oct 2026",
       "timestamp": "2026-10-22T16:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "abd23a1831",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T15:03:58+00:00",
-      "score": 5
-    },
-    {
-      "id": "a61ac404d9",
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T14:59:28+00:00",
-      "score": 5
-    },
-    {
-      "id": "c5784819fc",
-      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "22 Oct 2026",
-      "timestamp": "2026-10-22T14:03:00+00:00",
-      "score": 4
     }
   ]
 }
