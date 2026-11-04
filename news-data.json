@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-04T19:01:27.168017+00:00",
+  "updated": "2026-11-04T22:56:22.076896+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d13217a5b4",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T21:56:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "b794bf9cbb",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T21:49:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "423e16ab48",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T21:25:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "421e2b40f3",
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T21:10:56+00:00",
+      "score": 5
+    },
+    {
+      "id": "24e560ad31",
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T20:55:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "2685c0ac97",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T19:30:04+00:00",
+      "score": 5
+    },
+    {
+      "id": "8c9ac273bc",
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T19:16:25+00:00",
+      "score": 4
+    },
     {
       "id": "9198ceda22",
       "title": "What’s next for US energy policy after the midterm elections?",
@@ -80,6 +157,17 @@
       "score": 5
     },
     {
+      "id": "30ad2e480e",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T08:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "b9febe6c65",
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
       "url": "https://openai.com/index/daybreak-red-aws-govcloud",
@@ -89,6 +177,17 @@
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T07:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "47bc864ef0",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "04 Nov 2026",
+      "timestamp": "2026-11-04T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "f16cf67ec9",
@@ -2101,105 +2200,6 @@
       "topic": "ai",
       "date": "26 Oct 2026",
       "timestamp": "2026-10-26T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "409a67e0ba",
-      "title": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
-      "summary": "AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "71c43854f4",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "25 Oct 2026",
-      "timestamp": "2026-10-25T16:57:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "ba59810413",
-      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
-      "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
-      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "25 Oct 2026",
-      "timestamp": "2026-10-25T12:31:34+00:00",
-      "score": 4
-    },
-    {
-      "id": "41208e7075",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Oct 2026",
-      "timestamp": "2026-10-24T19:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b8554dad59",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Oct 2026",
-      "timestamp": "2026-10-24T15:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "b2f0cf19fa",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "24 Oct 2026",
-      "timestamp": "2026-10-24T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1e71a2438d",
-      "title": "Startups don’t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Oct 2026",
-      "timestamp": "2026-10-23T23:07:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "7384891d7a",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "23 Oct 2026",
-      "timestamp": "2026-10-23T23:05:49+00:00",
-      "score": 5
-    },
-    {
-      "id": "847a90d686",
-      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "23 Oct 2026",
-      "timestamp": "2026-10-23T22:48:25+00:00",
       "score": 4
     }
   ]
