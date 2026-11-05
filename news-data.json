@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-05T19:01:24.069711+00:00",
+  "updated": "2026-11-05T22:57:15.417133+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "560f077b27",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T22:40:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "5144f037e0",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T21:40:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "6d2c88f3c1",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T21:39:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "0a1519b296",
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T21:37:18+00:00",
+      "score": 6
+    },
+    {
+      "id": "10a0718d70",
+      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
+      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
+      "summary": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T19:55:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "759260a140",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T19:48:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "2bf787a301",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T19:06:12+00:00",
+      "score": 4
+    },
     {
       "id": "3cbf932ea5",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
@@ -2123,83 +2200,6 @@
       "topic": "tech",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T01:12:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "150f1b29ae",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ce9a6d876a",
-      "title": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
-      "summary": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and building resilience amid uncertainty.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "756bb61fb8",
-      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T22:40:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "011555b696",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T22:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "906ba9a6c1",
-      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
-      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T22:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d4eeb80f2a",
-      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T21:27:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "2530538e5d",
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-      "summary": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T21:05:11+00:00",
       "score": 4
     }
   ]
