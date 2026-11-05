@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-05T11:01:21.007349+00:00",
+  "updated": "2026-11-05T13:33:43.676032+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "73870a1c3f",
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T13:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ddef7f7b40",
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3cfa8cf690",
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "40e2ac3f63",
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T11:45:00+00:00",
+      "score": 6
+    },
     {
       "id": "e1307179e4",
       "title": "Setting a new standard for responsible AI infrastructure",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "26 Oct 2026",
       "timestamp": "2026-10-26T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "695d07f705",
-      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1992a716e8",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But co",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T09:01:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "25e1b98740",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "915861e8a7",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "26 Oct 2026",
-      "timestamp": "2026-10-26T07:00:00+00:00",
       "score": 4
     }
   ]
