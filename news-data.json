@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-06T03:49:04.522347+00:00",
+  "updated": "2026-11-06T07:01:21.171931+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "aa3547203e",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T06:28:32+00:00",
+      "score": 5
+    },
     {
       "id": "1407b9b1f5",
       "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "af9ff7f388",
-      "title": "What Interruptions Say About Your Organizational Culture",
-      "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
-      "summary": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments that show how culture actually manifests. During meetings, who gets interrupted? Employees notice whose sentences are cut",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T11:00:35+00:00",
       "score": 4
     }
   ]
