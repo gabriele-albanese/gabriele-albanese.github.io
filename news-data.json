@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-05T23:01:21.340315+00:00",
+  "updated": "2026-11-06T03:01:24.064544+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1407b9b1f5",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T00:07:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "57697a60c0",
+      "title": "Assessing the growth trajectory of Finland’s largest companies",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
+      "summary": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time to accelerate, with bigger moves.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "560f077b27",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -121,6 +143,17 @@
       "topic": "tech",
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T17:11:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "3303d6ac09",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T17:00:00+00:00",
       "score": 4
     },
     {
@@ -267,6 +300,17 @@
       "score": 5
     },
     {
+      "id": "47af8b9f45",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T08:00:00+00:00",
+      "score": 6
+    },
+    {
       "id": "e1307179e4",
       "title": "Setting a new standard for responsible AI infrastructure",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
@@ -275,6 +319,28 @@
       "topic": "ai",
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T02:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "50fc98dbfb",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T00:45:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "d04a3ff6a4",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2134,72 +2200,6 @@
       "topic": "business",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T11:00:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "6852217555",
-      "title": "AI Agents Are Media’s New Favorite Audience",
-      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "867c05e1e1",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T11:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "5d90cade4a",
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T09:30:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "866a8680f7",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T07:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "cb685d5b4c",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T02:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "8cbd8d0960",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T01:12:21+00:00",
       "score": 4
     }
   ]
