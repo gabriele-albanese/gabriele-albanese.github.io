@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-06T13:17:59.542094+00:00",
+  "updated": "2026-11-06T15:01:24.904825+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "151b7323f8",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T14:13:32+00:00",
+      "score": 4
+    },
     {
       "id": "e9b4c783e4",
       "title": "Horny Grandmas Are Having a Moment",
@@ -44,6 +55,17 @@
       "topic": "tech",
       "date": "06 Nov 2026",
       "timestamp": "2026-11-06T00:07:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "095ff5e240",
+      "title": "How AI is transforming automotive quality operations",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
+      "summary": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T00:00:00+00:00",
       "score": 4
     },
     {
@@ -133,6 +155,17 @@
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T19:06:12+00:00",
       "score": 4
+    },
+    {
+      "id": "7b045c51af",
+      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
+      "url": "https://spectrum.ieee.org/ieee-preuniversity",
+      "summary": "Now in their third year, the  IEEE TryEngineering educator sessions  continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons.  This year’s sessions, held across the United States, have focuse",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "05 Nov 2026",
+      "timestamp": "2026-11-05T19:00:02+00:00",
+      "score": 5
     },
     {
       "id": "3cbf932ea5",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T15:10:26+00:00",
-      "score": 5
-    },
-    {
-      "id": "8c368ae026",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T15:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "afdc5264df",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T14:59:09+00:00",
-      "score": 5
-    },
-    {
-      "id": "508576766a",
-      "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "summary": "Science has a spam  problem. And the spam filter is getting clogged up.  According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated  57 percent of all published acade",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T13:00:03+00:00",
       "score": 5
     }
   ]
