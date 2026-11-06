@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-06T15:01:24.904825+00:00",
+  "updated": "2026-11-06T19:01:18.564699+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2b7f2f9875",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T18:43:43+00:00",
+      "score": 5
+    },
+    {
+      "id": "8f51c7b390",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T17:23:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "d14db64e1c",
+      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T16:50:01+00:00",
+      "score": 5
+    },
+    {
+      "id": "5aeb17f4b6",
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T16:19:12+00:00",
+      "score": 4
+    },
+    {
+      "id": "59495c775b",
+      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7b5a2965d8",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T15:54:47+00:00",
+      "score": 4
+    },
     {
       "id": "151b7323f8",
       "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
@@ -33,6 +99,17 @@
       "topic": "tech",
       "date": "06 Nov 2026",
       "timestamp": "2026-11-06T11:50:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "4650983e6e",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T08:00:00+00:00",
       "score": 4
     },
     {
@@ -2124,83 +2201,6 @@
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T21:38:28+00:00",
       "score": 4
-    },
-    {
-      "id": "089388ff10",
-      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T21:31:14+00:00",
-      "score": 5
-    },
-    {
-      "id": "a254656adb",
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T19:39:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "fc5f9bdbfc",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T18:55:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "375f2803b3",
-      "title": "Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr",
-      "url": "https://www.wired.com/story/motorola-razr-deal-october-2026/",
-      "summary": "The Razr is our favorite budget foldable phone. While it isn’t on sale yet, Motorola is adding extras to sweeten this October deal.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T18:41:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "12beb23893",
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "summary": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T18:20:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "636498a83a",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T17:08:08+00:00",
-      "score": 4
-    },
-    {
-      "id": "091117b144",
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T15:10:26+00:00",
-      "score": 5
     }
   ]
 }
