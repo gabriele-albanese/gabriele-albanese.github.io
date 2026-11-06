@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-06T11:01:23.859681+00:00",
+  "updated": "2026-11-06T13:17:59.542094+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e9b4c783e4",
+      "title": "Horny Grandmas Are Having a Moment",
+      "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
+      "summary": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bdd7659f92",
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+      "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T11:50:10+00:00",
+      "score": 4
+    },
     {
       "id": "aa3547203e",
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -2179,28 +2201,6 @@
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T13:00:03+00:00",
       "score": 5
-    },
-    {
-      "id": "2b97ba8c97",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "109acab682",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T12:10:00+00:00",
-      "score": 4
     }
   ]
 }
