@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-07T21:07:43.528747+00:00",
+  "updated": "2026-11-07T23:01:19.550983+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "be545ac37e",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Nov 2026",
+      "timestamp": "2026-11-07T22:07:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "f4f061dd3e",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "07 Nov 2026",
+      "timestamp": "2026-11-07T21:17:08+00:00",
+      "score": 5
+    },
     {
       "id": "6b3fd78bc0",
       "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "75f536a8f8",
-      "title": "Dyson Promo Codes: 25% Off in October 2026",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c372745ec7",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T01:15:28+00:00",
       "score": 4
     }
   ]
