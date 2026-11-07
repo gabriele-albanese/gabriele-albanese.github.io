@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-06T23:01:20.093692+00:00",
+  "updated": "2026-11-07T03:01:19.367551+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6977852e8d",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "06 Nov 2026",
+      "timestamp": "2026-11-06T23:09:45+00:00",
+      "score": 4
+    },
     {
       "id": "41cd6da548",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -2190,17 +2201,6 @@
       "date": "27 Oct 2026",
       "timestamp": "2026-10-27T23:34:27+00:00",
       "score": 6
-    },
-    {
-      "id": "87e2d1810a",
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T22:26:03+00:00",
-      "score": 4
     }
   ]
 }
