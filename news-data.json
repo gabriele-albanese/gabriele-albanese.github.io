@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-07T11:01:24.505323+00:00",
+  "updated": "2026-11-07T11:58:26.546519+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6b3fd78bc0",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "07 Nov 2026",
+      "timestamp": "2026-11-07T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "6977852e8d",
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
@@ -2190,17 +2201,6 @@
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T01:15:28+00:00",
       "score": 4
-    },
-    {
-      "id": "092cb86201",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "27 Oct 2026",
-      "timestamp": "2026-10-27T23:34:27+00:00",
-      "score": 6
     }
   ]
 }
