@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-08T19:01:16.947406+00:00",
+  "updated": "2026-11-08T21:24:09.584885+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d417e4f215",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "08 Nov 2026",
+      "timestamp": "2026-11-08T21:00:11+00:00",
+      "score": 4
+    },
     {
       "id": "2a23e2b754",
       "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
@@ -2185,17 +2196,6 @@
       "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
       "url": "https://www.wired.com/story/nordvpn-coupon/",
       "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ad2699cf68",
-      "title": "Disney Plus Discount Codes: 52% Off October 2026",
-      "url": "https://www.wired.com/story/disney-plus-discounts/",
-      "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
       "source": "Wired",
       "topic": "tech",
       "date": "28 Oct 2026",
