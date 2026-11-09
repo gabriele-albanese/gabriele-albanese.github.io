@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-09T11:01:25.415296+00:00",
+  "updated": "2026-11-09T14:28:11.010642+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0fe933f744",
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "08088be30a",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T13:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "8be9fd4aca",
       "title": "The climate case for AI has not been made",
@@ -2179,28 +2201,6 @@
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T09:30:00+00:00",
       "score": 6
-    },
-    {
-      "id": "f10f533780",
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T08:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "801bd23e8d",
-      "title": "Google Workspace Promo Codes: 14% Off for October 2026",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
     }
   ]
 }
