@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-09T19:01:22.234423+00:00",
+  "updated": "2026-11-09T23:01:21.674059+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "67a80703c5",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T22:46:09+00:00",
+      "score": 5
+    },
+    {
+      "id": "55fb9d832f",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T20:49:09+00:00",
+      "score": 5
+    },
+    {
+      "id": "325e2c658a",
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "summary": "Watch now (25 mins) | &#127897;&#65039; My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T20:37:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "cd02f18399",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T20:09:06+00:00",
+      "score": 5
+    },
+    {
+      "id": "9d2e28e73a",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T19:24:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "55a7f5024e",
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T19:21:46+00:00",
+      "score": 5
+    },
+    {
+      "id": "4f332da50a",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T19:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "d965126e90",
       "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -69,6 +146,17 @@
       "score": 4
     },
     {
+      "id": "179dae4d6c",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T13:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "08088be30a",
       "title": "Innovating with AI in the special chemicals industry",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -99,6 +187,28 @@
       "topic": "tech",
       "date": "09 Nov 2026",
       "timestamp": "2026-11-09T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "ebd6c1fb22",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T08:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "80bc4c6a8b",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T08:00:00+00:00",
       "score": 4
     },
     {
@@ -2090,116 +2200,6 @@
       "topic": "tech",
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T19:05:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "0ee110650c",
-      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T18:47:27+00:00",
-      "score": 5
-    },
-    {
-      "id": "eed1b6ead3",
-      "title": "Systems Thinking Is Vital in the Age of AI",
-      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
-      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare t",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T18:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "7fbbcf0aac",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T17:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "85b585a853",
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-      "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b01917f8b2",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T15:53:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "9f7133723e",
-      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T15:53:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "797632f908",
-      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-      "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T14:26:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "fbd38a0373",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T13:15:00+00:00",
-      "score": 7
-    },
-    {
-      "id": "5f2fe6f6cf",
-      "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
-      "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-      "summary": "In the cockpit  of Beta Technologies’ Alia CX300, pilot  Chris Caputo  steers onto Runway 33 at  Patrick Leahy Burlington International Airport  in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward.    At the back of the aircraft, the five-blade",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T13:00:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "313f7a5d4f",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T13:00:00+00:00",
       "score": 4
     }
   ]
