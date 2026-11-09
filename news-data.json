@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-09T03:10:23.431668+00:00",
+  "updated": "2026-11-09T07:01:19.891395+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "13f4eae921",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T05:26:29+00:00",
+      "score": 4
+    },
     {
       "id": "d417e4f215",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
@@ -2185,17 +2196,6 @@
       "title": "Peacock Promo Codes: 40% Off October 2026",
       "url": "https://www.wired.com/story/peacock-promo-code/",
       "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8a749b3484",
-      "title": "NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026",
-      "url": "https://www.wired.com/story/nordvpn-coupon/",
-      "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
       "source": "Wired",
       "topic": "tech",
       "date": "28 Oct 2026",
