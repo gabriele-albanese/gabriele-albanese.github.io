@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-09T15:01:29.435922+00:00",
+  "updated": "2026-11-09T19:01:22.234423+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d965126e90",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T17:24:26+00:00",
+      "score": 4
+    },
+    {
+      "id": "f3c522ff77",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T16:56:54+00:00",
+      "score": 4
+    },
+    {
+      "id": "33f15b62d0",
+      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+      "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+      "summary": "This article is brought to you by  Queen’s University Belfast .   Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information y",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T16:25:06+00:00",
+      "score": 5
+    },
+    {
+      "id": "a187c6f6a7",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T15:23:20+00:00",
+      "score": 4
+    },
     {
       "id": "4ab0715edb",
       "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
@@ -2157,50 +2201,6 @@
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T13:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "625cd70e87",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he did",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T12:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "51ee3009bc",
-      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-      "summary": "Listen now | &#127897;&#65039; I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks&#8212;and the scores told me which agent runs my work and which runs my life",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T12:04:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "37cc80bcd7",
-      "title": "AI Is Thriving at Capital One",
-      "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
-      "summary": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of data, analytics, and artificial intelligence in the 21st century, Capital One would probably be at or near the top. Spun out of the credit card business of Signet Bank in ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T11:00:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "43a392c7fc",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T09:30:00+00:00",
-      "score": 6
     }
   ]
 }
