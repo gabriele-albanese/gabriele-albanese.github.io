@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-09T07:01:19.891395+00:00",
+  "updated": "2026-11-09T11:01:25.415296+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8be9fd4aca",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways t",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "87bcd60cbe",
+      "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
+      "url": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
+      "summary": "The AI detector will now check your incoming emails for machine-generated text.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "13f4eae921",
       "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
@@ -2174,28 +2196,6 @@
       "title": "Google Workspace Promo Codes: 14% Off for October 2026",
       "url": "https://www.wired.com/story/google-workspace-promo-code/",
       "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "58bf00bbac",
-      "title": "Nike Promo Codes and Discounts: 30% for October 2026",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T05:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6a0d05f18a",
-      "title": "Peacock Promo Codes: 40% Off October 2026",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
       "source": "Wired",
       "topic": "tech",
       "date": "28 Oct 2026",
