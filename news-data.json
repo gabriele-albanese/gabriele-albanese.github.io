@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-09T23:01:21.674059+00:00",
+  "updated": "2026-11-10T00:54:01.817749+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a0a5adf4cc",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T00:18:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "a418baa266",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "09 Nov 2026",
+      "timestamp": "2026-11-09T23:28:37+00:00",
+      "score": 4
+    },
     {
       "id": "67a80703c5",
       "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T20:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b2173123b9",
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T19:19:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "4c18a8b504",
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities coul",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T19:05:46+00:00",
       "score": 4
     }
   ]
