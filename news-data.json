@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-10T19:01:17.402694+00:00",
+  "updated": "2026-11-10T22:35:41.177123+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "24b56e0e82",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T21:08:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "eb94be6281",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T20:52:13+00:00",
+      "score": 5
+    },
+    {
+      "id": "f6a56026a3",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T20:47:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "a5d03cba15",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "summary": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T20:43:55+00:00",
+      "score": 4
+    },
+    {
+      "id": "6fc8f319c6",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T19:57:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "d29090d0b7",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T19:23:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "a032a0b022",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T19:03:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "8477a8159d",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T19:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "4b68cc7db8",
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -220,6 +308,17 @@
       "topic": "tech",
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T00:18:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "8b93ab4478",
+      "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
+      "summary": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps moving forward, and why staying constructively discontented may be the secret to staying relevant.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T23:42:22+00:00",
-      "score": 5
-    },
-    {
-      "id": "ff9e38d384",
-      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-      "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T21:47:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a02832e79",
-      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "summary": "Inspector general rejected request from Democratic and Republican senators.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T20:08:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "db83db5c21",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T19:56:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "d8acb46780",
-      "title": "Consumer Appetite for Personal AI Goes Mainstream",
-      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-      "summary": "This article is brought to you by  Qualcomm Technologies .   For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the ",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T19:18:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "2c5cd1c495",
-      "title": "Trump declares robot imports a national security threat",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T19:07:53+00:00",
-      "score": 4
-    },
-    {
-      "id": "c5a8045151",
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T18:39:43+00:00",
-      "score": 6
-    },
-    {
-      "id": "5b22ab9770",
-      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T18:29:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "aaf5e6791a",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "804bc5d490",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T16:42:32+00:00",
       "score": 5
     }
   ]
