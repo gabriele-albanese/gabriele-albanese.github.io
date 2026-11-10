@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-10T00:54:01.817749+00:00",
+  "updated": "2026-11-10T03:01:22.882482+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "55ff5cbc62",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T01:27:12+00:00",
+      "score": 4
+    },
     {
       "id": "a0a5adf4cc",
       "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
@@ -2190,17 +2201,6 @@
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T20:32:02+00:00",
       "score": 5
-    },
-    {
-      "id": "34dd884a9c",
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "summary": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T20:00:00+00:00",
-      "score": 4
     }
   ]
 }
