@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-10T07:01:19.532139+00:00",
+  "updated": "2026-11-10T11:01:18.616599+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7f83c7f8ed",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T09:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "55ff5cbc62",
       "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -2190,17 +2201,6 @@
       "date": "28 Oct 2026",
       "timestamp": "2026-10-28T21:34:30+00:00",
       "score": 4
-    },
-    {
-      "id": "52fa9eb7ca",
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when s",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "28 Oct 2026",
-      "timestamp": "2026-10-28T20:32:02+00:00",
-      "score": 5
     }
   ]
 }
