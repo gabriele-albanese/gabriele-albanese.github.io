@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-10T15:01:42.957709+00:00",
+  "updated": "2026-11-10T19:01:17.402694+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4b68cc7db8",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T18:49:52+00:00",
+      "score": 5
+    },
+    {
+      "id": "994129552b",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T17:30:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "5d35c297f5",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T17:04:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "5ab46a1f96",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T15:29:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "d276c841d9",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T15:00:39+00:00",
+      "score": 4
+    },
     {
       "id": "2691bfd505",
       "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
@@ -113,6 +168,17 @@
       "score": 5
     },
     {
+      "id": "bde62bed0d",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T10:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "7f83c7f8ed",
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -121,6 +187,17 @@
       "topic": "ai",
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T09:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "db3d3bbb06",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T07:00:00+00:00",
       "score": 4
     },
     {
@@ -143,6 +220,17 @@
       "topic": "tech",
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T00:18:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "323b0f5ed8",
+      "title": "Reinventing business planning with agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
+      "summary": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce the manual work required to turn forecasts into action.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2113,94 +2201,6 @@
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T16:42:32+00:00",
       "score": 5
-    },
-    {
-      "id": "b2c76de6c6",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T16:21:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2fd150d54c",
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T16:19:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "36520d0f71",
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "summary": "A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "38ff379291",
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T15:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "cd84a165e5",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "summary": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T14:35:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "f4d2fa0b48",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0fc880ed75",
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "06df78f9a0",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T12:10:00+00:00",
-      "score": 4
     }
   ]
 }
