@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-10T13:50:27.858329+00:00",
+  "updated": "2026-11-10T15:01:42.957709+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2691bfd505",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T14:05:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "1a6a4c972e",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T14:01:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "0b514ad923",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b8b95dacb2",
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "9430d602e3",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T14:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "ca5bae48d2",
       "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
@@ -2146,61 +2201,6 @@
       "date": "29 Oct 2026",
       "timestamp": "2026-10-29T12:10:00+00:00",
       "score": 4
-    },
-    {
-      "id": "45629b2d3a",
-      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T10:45:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "468ea3c00c",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed priva",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T10:11:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "4745ac4816",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "eb2bd3b12e",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4c59753c4e",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T00:00:00+00:00",
-      "score": 5
     }
   ]
 }
