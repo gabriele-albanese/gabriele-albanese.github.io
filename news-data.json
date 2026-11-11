@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:01:16.588130+00:00",
+  "updated": "2026-11-11T13:01:24.508718+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,17 @@
       "topic": "ai",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7b0c837fc2",
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T11:00:00+00:00",
       "score": 4
     },
     {
@@ -2190,17 +2201,6 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "f8d86fc6e7",
-      "title": "Shapers and Founders: Scaling without losing soul",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
-      "summary": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial spirit.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T00:00:00+00:00",
-      "score": 5
     }
   ]
 }
