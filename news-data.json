@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:01:24.508774+00:00",
+  "updated": "2026-11-11T23:45:04.034635+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,28 @@
       "topic": "ai",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "bf9a8df53a",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T23:28:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "89b0cfc35b",
+      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T23:10:17+00:00",
       "score": 4
     },
     {
@@ -2179,28 +2201,6 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T23:21:23+00:00",
       "score": 5
-    },
-    {
-      "id": "d12607a6e4",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T21:52:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "62efadaf1b",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T21:26:59+00:00",
-      "score": 4
     }
   ]
 }
