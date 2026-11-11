@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:01:16.746024+00:00",
+  "updated": "2026-11-11T19:01:13.094502+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,61 @@
       "topic": "ai",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3586fd5cc3",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T18:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c96bf79b7e",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b577d6b06f",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T16:14:44+00:00",
+      "score": 4
+    },
+    {
+      "id": "d9084ce074",
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T15:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "70c564bfdb",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T15:02:47+00:00",
       "score": 4
     },
     {
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T19:30:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "c9dcfb62cc",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T17:47:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "df25b5f166",
-      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "summary": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "30b5f07a33",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "summary": "DoorDash said that it is open to working with third-party agent makers",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T13:54:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "12c5b28f85",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T13:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d84b4ab725",
-      "title": "Male Insecurity Over Penis Size Is a Booming Business",
-      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
-      "summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T10:30:00+00:00",
       "score": 4
     }
   ]
