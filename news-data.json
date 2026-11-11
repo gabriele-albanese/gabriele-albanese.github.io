@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:01:13.094502+00:00",
+  "updated": "2026-11-11T23:01:24.508774+00:00",
   "count": 200,
   "articles": [
     {
@@ -12,6 +12,50 @@
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
       "score": 4
+    },
+    {
+      "id": "5c1f8d564a",
+      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T20:04:28+00:00",
+      "score": 4
+    },
+    {
+      "id": "f1afb2a1cb",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T19:55:54+00:00",
+      "score": 5
+    },
+    {
+      "id": "d9ab5c088f",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T19:22:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "f104fa5b73",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T18:16:40+00:00",
+      "score": 5
     },
     {
       "id": "3586fd5cc3",
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T21:26:59+00:00",
-      "score": 4
-    },
-    {
-      "id": "ddc37ba70c",
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T21:19:26+00:00",
-      "score": 7
-    },
-    {
-      "id": "0697c0d657",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T21:09:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "13947adb5f",
-      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T20:38:46+00:00",
-      "score": 5
-    },
-    {
-      "id": "655f823878",
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T19:30:52+00:00",
       "score": 4
     }
   ]
