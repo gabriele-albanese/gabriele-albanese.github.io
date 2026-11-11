@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:01:24.508718+00:00",
+  "updated": "2026-11-11T15:01:16.746024+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,50 @@
       "topic": "ai",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a12c5f3d8f",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T15:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "c469d7bbc4",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "fcd657dff7",
+      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T13:36:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "ac014de22f",
+      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "summary": "Watch now (34 mins) | &#127897;&#65039; Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T13:04:09+00:00",
       "score": 4
     },
     {
@@ -2156,50 +2200,6 @@
       "topic": "tech",
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "14b39e2399",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T09:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "de97c2c5f0",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "a33227d4fa",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "35fdbb53c0",
-      "title": "Closing banking’s AI value gap: A CEO guide",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
-      "summary": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that turns investment into AI capital that can be deployed again and again.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T00:00:00+00:00",
       "score": 4
     }
   ]
