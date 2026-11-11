@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:18:26.643098+00:00",
+  "updated": "2026-11-11T07:01:14.702315+00:00",
   "count": 200,
   "articles": [
     {
@@ -11,6 +11,28 @@
       "topic": "ai",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "55a31f6446",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T08:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "da2928c842",
+      "title": "Factor Promo Code: 50% Off Off Meal Prep",
+      "url": "https://www.wired.com/story/factor-promo-code/",
+      "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this November 2026.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "11 Nov 2026",
+      "timestamp": "2026-11-11T06:00:00+00:00",
       "score": 4
     },
     {
@@ -289,6 +311,17 @@
       "score": 4
     },
     {
+      "id": "1989204106",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T08:00:00+00:00",
+      "score": 6
+    },
+    {
       "id": "db3d3bbb06",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -320,6 +353,17 @@
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T00:18:19+00:00",
       "score": 4
+    },
+    {
+      "id": "191d65fd7b",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "10 Nov 2026",
+      "timestamp": "2026-11-10T00:00:00+00:00",
+      "score": 7
     },
     {
       "id": "8b93ab4478",
@@ -2157,50 +2201,6 @@
       "date": "30 Oct 2026",
       "timestamp": "2026-10-30T00:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "28a4f61cb2",
-      "title": "Overcoming the R&D bottleneck: Building a causal decision system",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
-      "summary": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected, causal decision systems to optimize speed, cost, and success rates.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "09ae4042d5",
-      "title": "Waniwani’s CEO on the agentic future of insurance distribution",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
-      "summary": "AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the opportunities, risks, and implications for insurers.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "797990b6ed",
-      "title": "Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth",
-      "summary": "Industrial leaders can turn disruption into growth by sharpening their focus, scaling to meet surging data-center power demand, and putting AI and continuous improvement to work.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "30 Oct 2026",
-      "timestamp": "2026-10-30T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "8c87afc67f",
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "29 Oct 2026",
-      "timestamp": "2026-10-29T23:44:56+00:00",
-      "score": 4
     }
   ]
 }
