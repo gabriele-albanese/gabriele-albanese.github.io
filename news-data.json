@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-12T19:01:22.589871+00:00",
+  "updated": "2026-11-12T22:55:08.289071+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "461cf6c14d",
+      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+      "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T20:01:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "ab58a29e40",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T20:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ff1cec4cf3",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T19:27:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "4140b7449a",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T19:23:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "0a010acdd0",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T19:11:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3ef4a4c7b5",
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T18:59:58+00:00",
+      "score": 4
+    },
     {
       "id": "c9fc570fad",
       "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "02 Nov 2026",
       "timestamp": "2026-11-02T22:14:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "a72f414af3",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T19:19:17+00:00",
-      "score": 4
-    },
-    {
-      "id": "05dc7d6b03",
-      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T19:11:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "5d3ce50345",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T18:32:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "b26578c04a",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T18:05:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "4524e83e3a",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8e75a62f19",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T18:00:00+00:00",
       "score": 4
     }
   ]
