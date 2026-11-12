@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-12T11:01:16.414971+00:00",
+  "updated": "2026-11-12T14:03:24.240712+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7afddc3742",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T13:58:06+00:00",
+      "score": 5
+    },
+    {
+      "id": "31f20ed94f",
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T13:26:25+00:00",
+      "score": 5
+    },
     {
       "id": "410d5ce739",
       "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "01 Nov 2026",
       "timestamp": "2026-11-01T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4b515c911a",
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow&#8217;s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are &#8220;allergic to AI&#8221;",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "01 Nov 2026",
-      "timestamp": "2026-11-01T13:31:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "ff1c3d3c39",
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "01 Nov 2026",
-      "timestamp": "2026-11-01T10:30:00+00:00",
       "score": 4
     }
   ]
