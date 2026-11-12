@@ -1,7 +1,139 @@
 {
-  "updated": "2026-11-12T15:01:20.558044+00:00",
+  "updated": "2026-11-12T19:01:22.589871+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c9fc570fad",
+      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T18:57:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "d56c2fc89b",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T18:39:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "4ad088796b",
+      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T18:17:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "bf29e3b720",
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T18:05:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "3987a87277",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T18:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "cf0abceb6a",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T17:36:40+00:00",
+      "score": 4
+    },
+    {
+      "id": "0deb78fa34",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T17:17:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "d574a06fc6",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T16:36:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "4eeb3832c0",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T16:32:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "e9304c6be4",
+      "title": "Whoop just launched a social network",
+      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+      "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8aba090369",
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+      "summary": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T15:58:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "1466abfe66",
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T15:37:29+00:00",
+      "score": 4
+    },
     {
       "id": "b5e8f41e03",
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
@@ -2069,138 +2201,6 @@
       "date": "02 Nov 2026",
       "timestamp": "2026-11-02T18:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "ff01b8b9f0",
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "summary": "Animated carousel of images from AI posts in October",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T17:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "adc599e6d5",
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T17:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "64b539777c",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T15:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c155a34806",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d2641740e5",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "12e1a9cd9c",
-      "title": "Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers",
-      "url": "https://www.wired.com/story/mustard-made-sale-october-2026/",
-      "summary": "These gorgeous, renter-friendly storage lockers are hardly ever discounted.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T14:15:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "e0d9533470",
-      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T13:57:53+00:00",
-      "score": 5
-    },
-    {
-      "id": "6e7d4661da",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, t",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T13:10:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "fc2bd22da1",
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c6527c20db",
-      "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-      "url": "https://www.wired.com/story/comedians-making-fun-of-ai/",
-      "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T11:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d0861db8fc",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a819b402ae",
-      "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
-      "summary": "The judgment of the CEO and top leaders is one of the most valuable sources of knowledge in the organization. AI can now codify that tacit wisdom and make it available to everyone, for the first time.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T00:00:00+00:00",
-      "score": 8
     }
   ]
 }
