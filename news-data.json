@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-12T07:01:15.392703+00:00",
+  "updated": "2026-11-12T11:01:16.414971+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "410d5ce739",
+      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "55b25e42f5",
+      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
+      "url": "https://www.wired.com/review/rocco-super-smart-fridge/",
+      "summary": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T10:08:00+00:00",
+      "score": 4
+    },
     {
       "id": "aa315854d4",
       "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
@@ -33,6 +55,17 @@
       "topic": "tech",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T03:13:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "34c6d4acf5",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "01 Nov 2026",
       "timestamp": "2026-11-01T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8462b9fc71",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Oct 2026",
-      "timestamp": "2026-10-31T21:41:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ec476f3f21",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Oct 2026",
-      "timestamp": "2026-10-31T21:36:07+00:00",
-      "score": 5
-    },
-    {
-      "id": "149be8f745",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "31 Oct 2026",
-      "timestamp": "2026-10-31T16:12:55+00:00",
       "score": 4
     }
   ]
