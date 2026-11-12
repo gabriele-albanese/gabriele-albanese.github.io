@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-12T04:29:58.683414+00:00",
+  "updated": "2026-11-12T07:01:15.392703+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "aa315854d4",
+      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T06:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "58bf00bbac",
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "summary": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T06:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "ae4995f679",
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -2179,28 +2201,6 @@
       "date": "31 Oct 2026",
       "timestamp": "2026-10-31T16:12:55+00:00",
       "score": 4
-    },
-    {
-      "id": "10cf68686a",
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "31 Oct 2026",
-      "timestamp": "2026-10-31T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "0071adadbf",
-      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "31 Oct 2026",
-      "timestamp": "2026-10-31T10:00:00+00:00",
-      "score": 5
     }
   ]
 }
