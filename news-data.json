@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-12T14:03:24.240712+00:00",
+  "updated": "2026-11-12T15:01:20.558044+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b5e8f41e03",
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T14:50:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "2accf028a0",
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T14:14:33+00:00",
+      "score": 4
+    },
+    {
+      "id": "1915492bbb",
+      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T14:10:34+00:00",
+      "score": 5
+    },
     {
       "id": "7afddc3742",
       "title": "Jensen Huang Resigns as Nvidia CEO",
@@ -2168,39 +2201,6 @@
       "date": "02 Nov 2026",
       "timestamp": "2026-11-02T00:00:00+00:00",
       "score": 8
-    },
-    {
-      "id": "cf5e1b5d84",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Nov 2026",
-      "timestamp": "2026-11-01T21:55:23+00:00",
-      "score": 4
-    },
-    {
-      "id": "b3a6357c7f",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Nov 2026",
-      "timestamp": "2026-11-01T20:57:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "308d14e49d",
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "01 Nov 2026",
-      "timestamp": "2026-11-01T14:00:00+00:00",
-      "score": 4
     }
   ]
 }
