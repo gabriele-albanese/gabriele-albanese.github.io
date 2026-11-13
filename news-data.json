@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-13T07:01:17.289250+00:00",
+  "updated": "2026-11-13T11:01:23.906514+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "1699967798",
+      "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk",
+      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
+      "summary": "Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3d12bf3f82",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google f",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T10:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "bf89ad4348",
+      "title": "EP112 Why Adding Engineers Slows You Down: Escaping the Ticket Factory with Thanos Diacakis and Jay Stansell",
+      "url": "https://www.productcoalition.com/p/ep112-why-adding-engineers-slows",
+      "summary": "I wanted to understand why teams can add people and process, then ship less.",
+      "source": "Product Coalition",
+      "topic": "pm",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T09:01:21+00:00",
+      "score": 4
+    },
     {
       "id": "fa57f895be",
       "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
@@ -2168,39 +2201,6 @@
       "date": "03 Nov 2026",
       "timestamp": "2026-11-03T04:18:47+00:00",
       "score": 5
-    },
-    {
-      "id": "245a9ef26d",
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T01:12:55+00:00",
-      "score": 5
-    },
-    {
-      "id": "30470ccd04",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T00:35:52+00:00",
-      "score": 4
-    },
-    {
-      "id": "158693e545",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
