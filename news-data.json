@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-13T13:29:19.206275+00:00",
+  "updated": "2026-11-13T15:01:30.539356+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c6494705d3",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T14:44:48+00:00",
+      "score": 4
+    },
+    {
+      "id": "2f156a2657",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T13:10:00+00:00",
+      "score": 4
+    },
     {
       "id": "eac079c142",
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
@@ -22,6 +44,17 @@
       "topic": "tech",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T11:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8aeeaf6787",
+      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
+      "url": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/",
+      "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options.   What you will learn about:    How freezing rain, rime ice and wet snow add weight to cond",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T11:00:02+00:00",
       "score": 4
     },
     {
@@ -66,6 +99,17 @@
       "topic": "tech",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T01:17:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "d6a09acea2",
+      "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
+      "summary": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2157,50 +2201,6 @@
       "date": "03 Nov 2026",
       "timestamp": "2026-11-03T13:10:00+00:00",
       "score": 5
-    },
-    {
-      "id": "f98ffa6f91",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "5a465e187c",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T10:43:41+00:00",
-      "score": 5
-    },
-    {
-      "id": "e25f63209a",
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T08:01:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c350bb8798",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T08:00:00+00:00",
-      "score": 6
     }
   ]
 }
