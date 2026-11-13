@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-13T19:01:19.419158+00:00",
+  "updated": "2026-11-13T22:56:58.275772+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "8d23e88a0f",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T22:43:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "3f072eacd8",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T20:07:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "2d5346bf19",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T19:49:16+00:00",
+      "score": 4
+    },
+    {
+      "id": "26d265ce67",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T19:37:57+00:00",
+      "score": 7
+    },
+    {
+      "id": "92a5a5f676",
+      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
+      "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
+      "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level  AI ethics ,  governance , and auditing into daily operational workflows has become one of the indus",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T19:00:03+00:00",
+      "score": 4
+    },
     {
       "id": "3bcb8ca81c",
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
@@ -2145,61 +2200,6 @@
       "topic": "business",
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bf81805a5a",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T22:41:03+00:00",
-      "score": 5
-    },
-    {
-      "id": "0018ea6e46",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T19:34:43+00:00",
-      "score": 4
-    },
-    {
-      "id": "f16abbb9e8",
-      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
-      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
-      "summary": "To help engineers  keep up with emerging technologies  such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the  IEEE Computer Society ’s  Central Indiana Chapter  recently launched its Tech Talk Series.  The live webinar ser",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T19:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "50915edf25",
-      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
-      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T18:51:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "f289bb509f",
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T18:19:31+00:00",
       "score": 4
     }
   ]
