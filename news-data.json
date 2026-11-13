@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-12T23:01:20.010860+00:00",
+  "updated": "2026-11-13T03:01:20.257960+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fa57f895be",
+      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T01:17:49+00:00",
+      "score": 4
+    },
+    {
+      "id": "33758d5604",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T22:59:51+00:00",
+      "score": 4
+    },
     {
       "id": "461cf6c14d",
       "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
@@ -12,6 +34,17 @@
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T20:01:33+00:00",
       "score": 4
+    },
+    {
+      "id": "bff67df79e",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T20:00:00+00:00",
+      "score": 5
     },
     {
       "id": "ab58a29e40",
@@ -254,6 +287,17 @@
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T13:26:25+00:00",
       "score": 5
+    },
+    {
+      "id": "0e0766ec9c",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12T12:00:00+00:00",
+      "score": 4
     },
     {
       "id": "410d5ce739",
@@ -2156,50 +2200,6 @@
       "topic": "ai",
       "date": "03 Nov 2026",
       "timestamp": "2026-11-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "021a6c752a",
-      "title": "Advancing adaptation: Breaking barriers to a trillion-dollar opportunity",
-      "url": "https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity",
-      "summary": "Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to scaling adaptation and how could they be overcome?",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "03 Nov 2026",
-      "timestamp": "2026-11-03T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c368c304bd",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T23:13:53+00:00",
-      "score": 6
-    },
-    {
-      "id": "131b4bcb68",
-      "title": "Why large dogs age faster than small ones, and other October research highlights",
-      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T22:54:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "b86b88ec9c",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "02 Nov 2026",
-      "timestamp": "2026-11-02T22:14:50+00:00",
       "score": 4
     }
   ]
