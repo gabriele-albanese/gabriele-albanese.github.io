@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-14T11:01:15.771192+00:00",
+  "updated": "2026-11-14T12:34:47.301789+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "90ec5d94c1",
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "14 Nov 2026",
+      "timestamp": "2026-11-14T11:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "8d23e88a0f",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -2190,17 +2201,6 @@
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "47bc864ef0",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T00:00:00+00:00",
-      "score": 5
     }
   ]
 }
