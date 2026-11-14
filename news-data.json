@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T23:01:19.294186+00:00",
+  "updated": "2026-11-14T03:01:17.234978+00:00",
   "count": 200,
   "articles": [
     {
@@ -198,6 +198,17 @@
       "topic": "pm",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T09:01:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "db3076ba78",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13T08:00:00+00:00",
       "score": 4
     },
     {
@@ -2190,17 +2201,6 @@
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T00:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "f16cf67ec9",
-      "title": "The AI-enabled risk function of the future",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
-      "summary": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk operating model.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T00:00:00+00:00",
-      "score": 4
     }
   ]
 }
