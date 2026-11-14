@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-14T19:01:19.918775+00:00",
+  "updated": "2026-11-14T21:43:01.429233+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "56cbb2e72e",
+      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+      "summary": "Community Wisdom 305",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "14 Nov 2026",
+      "timestamp": "2026-11-14T21:15:46+00:00",
+      "score": 4
+    },
     {
       "id": "17dd6d1646",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -2190,17 +2201,6 @@
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T12:00:49+00:00",
       "score": 5
-    },
-    {
-      "id": "30ad2e480e",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T08:00:00+00:00",
-      "score": 4
     }
   ]
 }
