@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-15T22:09:13.243272+00:00",
+  "updated": "2026-11-15T23:01:16.307666+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "df3e44b994",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "15 Nov 2026",
+      "timestamp": "2026-11-15T22:00:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "e1f7551720",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "15 Nov 2026",
+      "timestamp": "2026-11-15T22:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "a63866f993",
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T14:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ac2ca1b28d",
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
-      "summary": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T14:15:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "966745d9c7",
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T13:10:00+00:00",
       "score": 4
     }
   ]
