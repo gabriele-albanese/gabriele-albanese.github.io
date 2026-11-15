@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-14T23:01:19.172115+00:00",
+  "updated": "2026-11-15T03:01:22.610153+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0cbac1debe",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Nov 2026",
+      "timestamp": "2026-11-15T00:08:07+00:00",
+      "score": 5
+    },
     {
       "id": "56cbb2e72e",
       "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
@@ -2189,17 +2200,6 @@
       "topic": "ai",
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T13:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "8d89b9a2a8",
-      "title": "When Cultures Collide in Crisis",
-      "url": "https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/",
-      "summary": "Sergio Ingravalle/Ikon Images High-stakes disruptions test businesses’ cultural agility as well as their operational resilience. As supply chains stretch across continents and leadership teams span time zones, cultural agility becomes a business essential. Many crises now unfold ",
-      "source": "MIT Sloan Review",
-      "topic": "business",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T12:00:49+00:00",
       "score": 5
     }
   ]
