@@ -1,7 +1,51 @@
 {
-  "updated": "2026-11-16T11:01:29.830281+00:00",
+  "updated": "2026-11-16T14:05:02.686220+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "394a8c5082",
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "da8f0a44e2",
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "564445943c",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "456c3cc4ba",
+      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+      "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device p",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T11:00:03+00:00",
+      "score": 4
+    },
     {
       "id": "b73c6d7b39",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -12,6 +56,28 @@
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T09:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "2b4f9d829b",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "2b1d2e558c",
+      "title": "The CEO’s role in leading on sustainability",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
+      "summary": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "e635838d27",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T21:56:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "b794bf9cbb",
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T21:49:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "423e16ab48",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T21:25:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "421e2b40f3",
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T21:10:56+00:00",
-      "score": 5
-    },
-    {
-      "id": "24e560ad31",
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T20:55:50+00:00",
-      "score": 4
-    },
-    {
-      "id": "2685c0ac97",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T19:30:04+00:00",
-      "score": 5
-    },
-    {
-      "id": "8c9ac273bc",
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T19:16:25+00:00",
       "score": 4
     }
   ]
