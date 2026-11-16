@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-16T19:01:20.532310+00:00",
+  "updated": "2026-11-16T23:01:21.732084+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "bf8f9d15a6",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T22:58:27+00:00",
+      "score": 5
+    },
+    {
+      "id": "6164faa655",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T22:03:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "fc5ac4f1ef",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T21:01:02+00:00",
+      "score": 5
+    },
+    {
+      "id": "df33ffd2c6",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T20:37:47+00:00",
+      "score": 4
+    },
+    {
+      "id": "6e394d6d04",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T20:07:13+00:00",
+      "score": 4
+    },
+    {
+      "id": "9a52b23aed",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T19:36:25+00:00",
+      "score": 4
+    },
+    {
+      "id": "761b56f193",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T19:12:02+00:00",
+      "score": 4
+    },
+    {
+      "id": "6352fbce7f",
+      "title": "The open-source movement wants Jensen Huang back",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T18:38:47+00:00",
+      "score": 4
+    },
     {
       "id": "66e57f5cf8",
       "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
@@ -2113,94 +2201,6 @@
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T18:02:27+00:00",
       "score": 5
-    },
-    {
-      "id": "ecdcd39295",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "91add19a8c",
-      "title": "Harbinger raises $240M after expanding into defense",
-      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T17:52:44+00:00",
-      "score": 5
-    },
-    {
-      "id": "6247b6836c",
-      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T17:11:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "3303d6ac09",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "4eabb5f277",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7dac5ce0cd",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T16:16:45+00:00",
-      "score": 5
-    },
-    {
-      "id": "5a2872a71f",
-      "title": "Bluesky hit peak usage for the year on election night",
-      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-      "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T15:44:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "1a9f8b441c",
-      "title": "Area Man Feels Joy Online for First Time in Years",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/",
-      "summary": "A day after the US midterm elections gave Democrats control of Congress, Onion CEO Ben Collins and comedian Patti Harrison spoke to WIRED about the salve of satire during politically fraught times.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T15:38:07+00:00",
-      "score": 4
     }
   ]
 }
