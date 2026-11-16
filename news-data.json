@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-16T14:05:02.686220+00:00",
+  "updated": "2026-11-16T15:01:23.744393+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0f553794f8",
+      "title": "Building AI that can work across the enterprise",
+      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T13:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "394a8c5082",
       "title": "After dodging death, battery startup Our Next Energy is now going public",
@@ -56,6 +67,17 @@
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T09:00:00+00:00",
       "score": 5
+    },
+    {
+      "id": "350189c720",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T06:00:00+00:00",
+      "score": 4
     },
     {
       "id": "2b4f9d829b",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T00:45:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "d04a3ff6a4",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "d13217a5b4",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T21:56:01+00:00",
       "score": 4
     }
   ]
