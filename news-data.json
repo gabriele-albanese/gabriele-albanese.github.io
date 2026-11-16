@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-15T23:01:16.307666+00:00",
+  "updated": "2026-11-16T03:01:30.821843+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "22756b5773",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "15 Nov 2026",
+      "timestamp": "2026-11-15T23:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "df3e44b994",
       "title": "A step toward defining the Standard Model on a lattice",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "04 Nov 2026",
       "timestamp": "2026-11-04T16:43:35+00:00",
-      "score": 4
-    },
-    {
-      "id": "8ccb12fff1",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "04 Nov 2026",
-      "timestamp": "2026-11-04T14:30:00+00:00",
       "score": 4
     }
   ]
