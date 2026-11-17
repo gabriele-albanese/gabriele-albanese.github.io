@@ -1,7 +1,128 @@
 {
-  "updated": "2026-11-17T15:01:27.283067+00:00",
+  "updated": "2026-11-17T19:01:20.718788+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "715304121f",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T18:48:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "70847261d6",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T18:13:34+00:00",
+      "score": 4
+    },
+    {
+      "id": "77b806b8d1",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water ",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T17:52:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "b02ac3a3fe",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T17:45:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5de697a208",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T17:32:25+00:00",
+      "score": 5
+    },
+    {
+      "id": "1abd3dc578",
+      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "summary": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T17:32:24+00:00",
+      "score": 5
+    },
+    {
+      "id": "1bfde3fe2b",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T17:20:41+00:00",
+      "score": 5
+    },
+    {
+      "id": "235a458842",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d5650375ff",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T16:50:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "5532323ed3",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T16:44:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "4f9052a37f",
+      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T16:32:55+00:00",
+      "score": 4
+    },
     {
       "id": "e3f0fdc7ea",
       "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
@@ -111,6 +232,17 @@
       "date": "17 Nov 2026",
       "timestamp": "2026-11-17T11:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "f2812a4ba9",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "fa0dad41f9",
@@ -2068,138 +2200,6 @@
       "topic": "tech",
       "date": "06 Nov 2026",
       "timestamp": "2026-11-06T22:53:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "9678fc2a3d",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T20:56:41+00:00",
-      "score": 4
-    },
-    {
-      "id": "2b7f2f9875",
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T18:43:43+00:00",
-      "score": 5
-    },
-    {
-      "id": "eec8440b18",
-      "title": "The folks behind John Wick are back with Karōshi trailer",
-      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-      "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T18:30:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "8f51c7b390",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T17:23:52+00:00",
-      "score": 5
-    },
-    {
-      "id": "d14db64e1c",
-      "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-      "summary": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T16:50:01+00:00",
-      "score": 5
-    },
-    {
-      "id": "5aeb17f4b6",
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T16:19:12+00:00",
-      "score": 4
-    },
-    {
-      "id": "59495c775b",
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7b5a2965d8",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T15:54:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "151b7323f8",
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T14:13:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "e9b4c783e4",
-      "title": "Horny Grandmas Are Having a Moment",
-      "url": "https://www.wired.com/story/horny-grandmas-are-having-a-moment/",
-      "summary": "Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bdd7659f92",
-      "title": "Tesla will stop making the Cybertruck in 2027",
-      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-      "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T11:50:10+00:00",
-      "score": 4
-    },
-    {
-      "id": "4650983e6e",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T08:00:00+00:00",
       "score": 4
     }
   ]
