@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:01:20.712779+00:00",
+  "updated": "2026-11-17T07:01:19.139730+00:00",
   "count": 200,
   "articles": [
     {
@@ -276,6 +276,17 @@
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T11:00:03+00:00",
       "score": 4
+    },
+    {
+      "id": "e5cbb67350",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T09:30:00+00:00",
+      "score": 5
     },
     {
       "id": "b73c6d7b39",
@@ -2190,17 +2201,6 @@
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T19:06:12+00:00",
       "score": 4
-    },
-    {
-      "id": "7b045c51af",
-      "title": "IEEE Program Schools Preuniversity Educators On Tech Topics",
-      "url": "https://spectrum.ieee.org/ieee-preuniversity",
-      "summary": "Now in their third year, the  IEEE TryEngineering educator sessions  continue to empower preuniversity teachers with specialized professional development programs on engineering topics and classroom-tested lessons.  This year’s sessions, held across the United States, have focuse",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T19:00:02+00:00",
-      "score": 5
     }
   ]
 }
