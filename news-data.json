@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-16T23:01:21.732084+00:00",
+  "updated": "2026-11-17T01:09:40.930496+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7517b8cd01",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16T23:32:32+00:00",
+      "score": 4
+    },
     {
       "id": "bf8f9d15a6",
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T19:00:02+00:00",
-      "score": 5
-    },
-    {
-      "id": "3cbf932ea5",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T18:02:27+00:00",
       "score": 5
     }
   ]
