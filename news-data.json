@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-17T11:01:32.615264+00:00",
+  "updated": "2026-11-17T14:58:30.748874+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d9a30601c5",
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T14:50:58+00:00",
+      "score": 4
+    },
+    {
+      "id": "7d6b1aee59",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T14:00:29+00:00",
+      "score": 4
+    },
+    {
+      "id": "3d9e910c86",
+      "title": "AI Is Giving Optical Computing Another Shot",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "summary": "The idea of computing  with light has been  around  for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now to",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T14:00:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "34711bc4c1",
+      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "c742d0db7f",
+      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T14:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "7e0475dea8",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,00",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T13:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "eb19641b15",
+      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
+      "summary": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T11:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7f30e09df8",
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T11:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "fa0dad41f9",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T00:00:00+00:00",
+      "score": 6
+    },
     {
       "id": "3dacc3cb13",
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "06 Nov 2026",
       "timestamp": "2026-11-06T00:07:18+00:00",
-      "score": 4
-    },
-    {
-      "id": "d1cb052980",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "095ff5e240",
-      "title": "How AI is transforming automotive quality operations",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
-      "summary": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early issue detection, accelerated investigations, and targeted countermeasures.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "57697a60c0",
-      "title": "Assessing the growth trajectory of Finland’s largest companies",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
-      "summary": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global peers, we find positive movement—now it’s time to accelerate, with bigger moves.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "560f077b27",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T22:40:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "5144f037e0",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T21:40:36+00:00",
-      "score": 4
-    },
-    {
-      "id": "6d2c88f3c1",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T21:39:40+00:00",
-      "score": 4
-    },
-    {
-      "id": "0a1519b296",
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T21:37:18+00:00",
-      "score": 6
-    },
-    {
-      "id": "10a0718d70",
-      "title": "The Blue Tsunami Swept Doctors and Scientists Into Office",
-      "url": "https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/",
-      "summary": "More than 80 percent of congressional candidates backed by the pro-science PAC 314 Action won, including Michigan senator-elect and epidemiologist Abdul El-Sayed.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T19:55:24+00:00",
-      "score": 4
-    },
-    {
-      "id": "759260a140",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T19:48:28+00:00",
       "score": 4
     }
   ]
