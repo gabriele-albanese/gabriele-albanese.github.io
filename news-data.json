@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-17T07:01:19.139730+00:00",
+  "updated": "2026-11-17T11:01:32.615264+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "3dacc3cb13",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "7517b8cd01",
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "05 Nov 2026",
       "timestamp": "2026-11-05T19:48:28+00:00",
-      "score": 4
-    },
-    {
-      "id": "2bf787a301",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "05 Nov 2026",
-      "timestamp": "2026-11-05T19:06:12+00:00",
       "score": 4
     }
   ]
