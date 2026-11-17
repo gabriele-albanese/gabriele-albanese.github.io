@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-17T19:01:20.718788+00:00",
+  "updated": "2026-11-17T23:01:34.931554+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fcd1652eaf",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T22:42:27+00:00",
+      "score": 4
+    },
+    {
+      "id": "fc1294d531",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T22:29:05+00:00",
+      "score": 4
+    },
+    {
+      "id": "6828f3afa8",
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T22:19:19+00:00",
+      "score": 5
+    },
+    {
+      "id": "50f33a0b80",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T21:48:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "4744f1cb7f",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T19:32:11+00:00",
+      "score": 4
+    },
+    {
+      "id": "8668252c7c",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T19:02:20+00:00",
+      "score": 4
+    },
+    {
+      "id": "1db1944c31",
+      "title": "IEEE Celebrates 10 Years of Incorporating Ethics Into AI Systems",
+      "url": "https://spectrum.ieee.org/ieee-ethics-ai-systems",
+      "summary": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents.  Those issues are relativ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T19:00:03+00:00",
+      "score": 4
+    },
     {
       "id": "715304121f",
       "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
@@ -232,6 +309,17 @@
       "date": "17 Nov 2026",
       "timestamp": "2026-11-17T11:00:00+00:00",
       "score": 6
+    },
+    {
+      "id": "1632816037",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "17 Nov 2026",
+      "timestamp": "2026-11-17T08:00:00+00:00",
+      "score": 4
     },
     {
       "id": "f2812a4ba9",
@@ -2112,94 +2200,6 @@
       "topic": "tech",
       "date": "08 Nov 2026",
       "timestamp": "2026-11-08T21:00:11+00:00",
-      "score": 4
-    },
-    {
-      "id": "2a23e2b754",
-      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "summary": "SNL seems to have its knives out for tech executives.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "08 Nov 2026",
-      "timestamp": "2026-11-08T18:00:04+00:00",
-      "score": 4
-    },
-    {
-      "id": "711cf4766e",
-      "title": "What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)",
-      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-      "summary": "Listen now (59 mins) | Tulsee Doshi on building Google&#8217;s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "08 Nov 2026",
-      "timestamp": "2026-11-08T13:31:32+00:00",
-      "score": 4
-    },
-    {
-      "id": "29afba60b3",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "08 Nov 2026",
-      "timestamp": "2026-11-08T12:15:31+00:00",
-      "score": 4
-    },
-    {
-      "id": "be545ac37e",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Nov 2026",
-      "timestamp": "2026-11-07T22:07:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "f4f061dd3e",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "07 Nov 2026",
-      "timestamp": "2026-11-07T21:17:08+00:00",
-      "score": 5
-    },
-    {
-      "id": "6b3fd78bc0",
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "07 Nov 2026",
-      "timestamp": "2026-11-07T11:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "6977852e8d",
-      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T23:09:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "41cd6da548",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "06 Nov 2026",
-      "timestamp": "2026-11-06T22:53:46+00:00",
       "score": 4
     }
   ]
