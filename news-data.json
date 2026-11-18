@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-18T00:04:21.124039+00:00",
+  "updated": "2026-11-18T03:01:20.807105+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0b08a5d2f5",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T01:44:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "6683ef2710",
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "summary": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:32:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "1bbe22dae0",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:16:50+00:00",
+      "score": 4
+    },
     {
       "id": "a91e4c81d5",
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "09 Nov 2026",
       "timestamp": "2026-11-09T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "87bcd60cbe",
-      "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
-      "url": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
-      "summary": "The AI detector will now check your incoming emails for machine-generated text.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ebd6c1fb22",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T08:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "80bc4c6a8b",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T08:00:00+00:00",
       "score": 4
     }
   ]
