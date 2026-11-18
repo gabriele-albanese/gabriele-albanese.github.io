@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-18T15:01:28.269067+00:00",
+  "updated": "2026-11-18T19:01:18.469446+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "54ceec4dd8",
+      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T17:33:07+00:00",
+      "score": 4
+    },
+    {
+      "id": "a402e5afc7",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T17:32:10+00:00",
+      "score": 4
+    },
+    {
+      "id": "d44535ff5d",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "d85f9b5e91",
+      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T16:35:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "7437586651",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T16:14:09+00:00",
+      "score": 5
+    },
     {
       "id": "d231a73e1d",
       "title": "Grab My Personal Annual Review Claude Code Plugin",
@@ -155,6 +210,28 @@
       "date": "18 Nov 2026",
       "timestamp": "2026-11-18T00:16:50+00:00",
       "score": 4
+    },
+    {
+      "id": "4739d25187",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6cc0bdc2d0",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:00:00+00:00",
+      "score": 6
     },
     {
       "id": "a2f695ac2f",
@@ -2124,83 +2201,6 @@
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T01:27:12+00:00",
       "score": 4
-    },
-    {
-      "id": "a0a5adf4cc",
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T00:18:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "191d65fd7b",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T00:00:00+00:00",
-      "score": 7
-    },
-    {
-      "id": "8b93ab4478",
-      "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
-      "summary": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps moving forward, and why staying constructively discontented may be the secret to staying relevant.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "323b0f5ed8",
-      "title": "Reinventing business planning with agentic AI",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
-      "summary": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce the manual work required to turn forecasts into action.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a418baa266",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T23:28:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "67a80703c5",
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T22:46:09+00:00",
-      "score": 5
-    },
-    {
-      "id": "55fb9d832f",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T20:49:09+00:00",
-      "score": 5
     }
   ]
 }
