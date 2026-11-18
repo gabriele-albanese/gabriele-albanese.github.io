@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-18T11:01:20.843986+00:00",
+  "updated": "2026-11-18T14:39:34.441140+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d231a73e1d",
+      "title": "Grab My Personal Annual Review Claude Code Plugin",
+      "url": "https://www.producttalk.org/personal-annual-review-claude-code-plugin/",
+      "summary": "",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T14:05:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "66447fcbe5",
+      "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
+      "url": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/",
+      "summary": "Whether the coffee nerd in your life is a budding brewer or an experienced extractor, these gifts will advance their technique.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "331afcf363",
+      "title": "My Personal Annual Review Process (Now a Claude Code Plugin)",
+      "url": "https://www.producttalk.org/personal-annual-review/",
+      "summary": "Every December, I reflect on my year and plan the next. I share 4 exercises in my personal annual review, plus a Claude Code plugin.",
+      "source": "Product Talk",
+      "topic": "pm",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T14:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "f0514b9d14",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Ear",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T13:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "5b7aff4067",
+      "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T13:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "10e24888b3",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T12:00:00+00:00",
+      "score": 6
+    },
+    {
+      "id": "11fb9fc05f",
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T11:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8af4009c54",
+      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
+      "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
+      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "51271fa6f7",
       "title": "China dominates battery graphite, but this startup could break the monopoly",
@@ -2112,94 +2200,6 @@
       "topic": "tech",
       "date": "09 Nov 2026",
       "timestamp": "2026-11-09T20:49:09+00:00",
-      "score": 5
-    },
-    {
-      "id": "325e2c658a",
-      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-      "summary": "Watch now (25 mins) | &#127897;&#65039; My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T20:37:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "cd02f18399",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T20:09:06+00:00",
-      "score": 5
-    },
-    {
-      "id": "9d2e28e73a",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T19:24:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "55a7f5024e",
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T19:21:46+00:00",
-      "score": 5
-    },
-    {
-      "id": "4f332da50a",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T19:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "d965126e90",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T17:24:26+00:00",
-      "score": 4
-    },
-    {
-      "id": "f3c522ff77",
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T16:56:54+00:00",
-      "score": 4
-    },
-    {
-      "id": "33f15b62d0",
-      "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
-      "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
-      "summary": "This article is brought to you by  Queen’s University Belfast .   Several teams around the globe are leveraging AI by creating a task force of agents managed by an orchestrator and creating applications to support risk assessment, client profiling, match making, and information y",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T16:25:06+00:00",
       "score": 5
     }
   ]
