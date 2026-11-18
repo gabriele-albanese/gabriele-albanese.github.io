@@ -1,7 +1,106 @@
 {
-  "updated": "2026-11-18T19:01:18.469446+00:00",
+  "updated": "2026-11-18T23:01:20.844956+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fac74cc951",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T22:58:11+00:00",
+      "score": 5
+    },
+    {
+      "id": "7406129dbe",
+      "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T22:16:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "dcfcb32bd4",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T22:11:15+00:00",
+      "score": 4
+    },
+    {
+      "id": "51afa3ed67",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T22:08:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "f914365764",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T21:31:21+00:00",
+      "score": 4
+    },
+    {
+      "id": "3d6c0b8d6a",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T21:29:24+00:00",
+      "score": 4
+    },
+    {
+      "id": "90ca97b010",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T19:56:39+00:00",
+      "score": 4
+    },
+    {
+      "id": "3f0b5b1dbc",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T19:29:41+00:00",
+      "score": 7
+    },
+    {
+      "id": "a502fd6c2e",
+      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+      "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+      "summary": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T19:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "54ceec4dd8",
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
@@ -176,6 +275,17 @@
       "topic": "tech",
       "date": "18 Nov 2026",
       "timestamp": "2026-11-18T10:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "62857bef72",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T06:00:00+00:00",
       "score": 4
     },
     {
@@ -2090,116 +2200,6 @@
       "topic": "tech",
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "ca5bae48d2",
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T13:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "da8db646ca",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "dfc52740f1",
-      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T13:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c0bcf16e8f",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T12:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "fcaf5fce48",
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T11:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "bde62bed0d",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T10:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "7f83c7f8ed",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T09:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "1989204106",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T08:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "db3d3bbb06",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "55ff5cbc62",
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T01:27:12+00:00",
       "score": 4
     }
   ]
