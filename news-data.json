@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-18T07:01:19.743650+00:00",
+  "updated": "2026-11-18T11:01:20.843986+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "51271fa6f7",
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T11:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "cea875c8cb",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T10:20:30+00:00",
+      "score": 4
+    },
+    {
+      "id": "3dcb436269",
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+      "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "0b08a5d2f5",
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
@@ -33,6 +66,39 @@
       "topic": "tech",
       "date": "18 Nov 2026",
       "timestamp": "2026-11-18T00:16:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "a2f695ac2f",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "bb50ae112f",
+      "title": "What is cloud computing? -test",
+      "url": "https://www.mckinsey.com/what-is-cloud-computing--test",
+      "summary": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1fc2c5e89f",
+      "title": "What is cloud computing? -test",
+      "url": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
+      "summary": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "18 Nov 2026",
+      "timestamp": "2026-11-18T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "09 Nov 2026",
       "timestamp": "2026-11-09T16:25:06+00:00",
       "score": 5
-    },
-    {
-      "id": "a187c6f6a7",
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T15:23:20+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ab0715edb",
-      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T14:30:56+00:00",
-      "score": 5
-    },
-    {
-      "id": "0fe933f744",
-      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "179dae4d6c",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T13:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "08088be30a",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T13:00:00+00:00",
-      "score": 6
-    },
-    {
-      "id": "8be9fd4aca",
-      "title": "The climate case for AI has not been made",
-      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways t",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "09 Nov 2026",
-      "timestamp": "2026-11-09T10:00:00+00:00",
-      "score": 4
     }
   ]
 }
