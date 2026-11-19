@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-19T07:01:26.990884+00:00",
+  "updated": "2026-11-19T11:01:24.459281+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "53bae4c613",
+      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
+      "summary": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "0f46293e36",
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T15:29:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "d276c841d9",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T15:00:39+00:00",
       "score": 4
     }
   ]
