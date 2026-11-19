@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-19T11:01:24.459281+00:00",
+  "updated": "2026-11-19T14:45:40.588356+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "144a3faf63",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T12:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "7889671f9c",
+      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
+      "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T12:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "53bae4c613",
       "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
@@ -23,6 +45,17 @@
       "date": "19 Nov 2026",
       "timestamp": "2026-11-19T00:42:56+00:00",
       "score": 5
+    },
+    {
+      "id": "ac1e97dc0e",
+      "title": "Stefan Latuski on transforming public sector services at scale",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale",
+      "summary": "The chief information officer of Germany’s Federal Employment Agency shares how his organization has reimagined customer communication by simplifying and standardizing processes—not just by replacing its technology.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T00:00:00+00:00",
+      "score": 4
     },
     {
       "id": "5d67ac67da",
@@ -2168,39 +2201,6 @@
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T18:49:52+00:00",
       "score": 5
-    },
-    {
-      "id": "994129552b",
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T17:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "5d35c297f5",
-      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T17:04:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "5ab46a1f96",
-      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T15:29:30+00:00",
-      "score": 4
     }
   ]
 }
