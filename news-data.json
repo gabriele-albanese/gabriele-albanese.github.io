@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-19T19:01:19.202718+00:00",
+  "updated": "2026-11-19T23:01:18.406218+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c6fb6462cd",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T22:16:37+00:00",
+      "score": 4
+    },
+    {
+      "id": "59959673c5",
+      "title": "What’s With All These Outages?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T21:57:01+00:00",
+      "score": 4
+    },
+    {
+      "id": "74e8068d10",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T21:42:31+00:00",
+      "score": 5
+    },
+    {
+      "id": "7b9e1ba910",
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T20:34:17+00:00",
+      "score": 4
+    },
+    {
+      "id": "38cbde1791",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T19:10:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "a54325cce3",
+      "title": "Community-Focused Academic Brings AI Tools to Colorado Farmers",
+      "url": "https://spectrum.ieee.org/ai-tools-for-rural-communities",
+      "summary": "Many farmers and ranchers in eastern Colorado are curious about artificial intelligence, but they don’t have a local tech-savvy person to show them how to use it.  Xue “Alice” Dong  has made that her job.  Dong, an IEEE senior member, is an extension regional specialist with the ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T19:00:02+00:00",
+      "score": 4
+    },
     {
       "id": "d99624c338",
       "title": "LLMs will provide accurate climate info, except when they won’t",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "11 Nov 2026",
       "timestamp": "2026-11-11T16:14:44+00:00",
-      "score": 4
-    },
-    {
-      "id": "d9084ce074",
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T15:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "70c564bfdb",
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T15:02:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "a12c5f3d8f",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T15:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "c469d7bbc4",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T14:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fcd657dff7",
-      "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
-      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
-      "summary": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T13:36:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "ac014de22f",
-      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-      "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-      "summary": "Watch now (34 mins) | &#127897;&#65039; Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T13:04:09+00:00",
       "score": 4
     }
   ]
