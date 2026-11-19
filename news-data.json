@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-19T14:45:40.588356+00:00",
+  "updated": "2026-11-19T15:01:31.998013+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "6dbad11404",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T14:54:39+00:00",
+      "score": 4
+    },
     {
       "id": "144a3faf63",
       "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
@@ -2190,17 +2201,6 @@
       "date": "10 Nov 2026",
       "timestamp": "2026-11-10T19:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "4b68cc7db8",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "10 Nov 2026",
-      "timestamp": "2026-11-10T18:49:52+00:00",
-      "score": 5
     }
   ]
 }
