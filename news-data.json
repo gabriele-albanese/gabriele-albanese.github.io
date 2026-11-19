@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-19T23:01:18.406218+00:00",
+  "updated": "2026-11-19T23:56:30.192268+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "762d204a9c",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "19 Nov 2026",
+      "timestamp": "2026-11-19T23:37:56+00:00",
+      "score": 5
+    },
     {
       "id": "c6fb6462cd",
       "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "11 Nov 2026",
       "timestamp": "2026-11-11T17:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "b577d6b06f",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T16:14:44+00:00",
       "score": 4
     }
   ]
