@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-20T11:01:23.941712+00:00",
+  "updated": "2026-11-20T14:26:59.657539+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "7bb38e463d",
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
+      "summary": "Pura fragrances are 20% off, and diffusers are 30% off through December 6. Here’s what I’d buy after having tested three generations of Pura devices.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T13:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6c7386711b",
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T13:25:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "df90abe9ff",
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T13:21:11+00:00",
+      "score": 4
+    },
     {
       "id": "9c652f409a",
       "title": "The U.S. national cyber director is stepping down",
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "49cf590dc3",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "bf9a8df53a",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T23:28:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "89b0cfc35b",
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T23:10:17+00:00",
       "score": 4
     }
   ]
