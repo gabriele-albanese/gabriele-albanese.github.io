@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-19T23:56:30.192268+00:00",
+  "updated": "2026-11-20T03:01:31.379541+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "15417601d2",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T00:56:01+00:00",
+      "score": 6
+    },
+    {
+      "id": "cc5563ff1b",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T00:43:50+00:00",
+      "score": 4
+    },
+    {
+      "id": "9758db2d9b",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T00:26:03+00:00",
+      "score": 4
+    },
     {
       "id": "762d204a9c",
       "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "11 Nov 2026",
       "timestamp": "2026-11-11T19:22:22+00:00",
-      "score": 4
-    },
-    {
-      "id": "f104fa5b73",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T18:16:40+00:00",
-      "score": 5
-    },
-    {
-      "id": "3586fd5cc3",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "source": "Google AI Blog",
-      "topic": "ai",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T18:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c96bf79b7e",
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "11 Nov 2026",
-      "timestamp": "2026-11-11T17:00:00+00:00",
       "score": 4
     }
   ]
