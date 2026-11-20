@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-20T19:01:19.908839+00:00",
+  "updated": "2026-11-20T23:01:21.107871+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "87906802fa",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T22:16:51+00:00",
+      "score": 4
+    },
+    {
+      "id": "cc0a4dad65",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T19:53:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "8ebf90d0cb",
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T19:52:21+00:00",
+      "score": 4
+    },
     {
       "id": "3f5a2dcba7",
       "title": "Super-hot rock geothermal could end data center energy woes",
@@ -69,6 +102,17 @@
       "score": 4
     },
     {
+      "id": "7121ba7c91",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T10:00:00+00:00",
+      "score": 4
+    },
+    {
       "id": "9c652f409a",
       "title": "The U.S. national cyber director is stepping down",
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
@@ -121,6 +165,28 @@
       "topic": "tech",
       "date": "20 Nov 2026",
       "timestamp": "2026-11-20T00:26:03+00:00",
+      "score": 4
+    },
+    {
+      "id": "c2d364619a",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T00:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "3c753634dc",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "20 Nov 2026",
+      "timestamp": "2026-11-20T00:00:00+00:00",
       "score": 4
     },
     {
@@ -2135,72 +2201,6 @@
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T14:10:34+00:00",
       "score": 5
-    },
-    {
-      "id": "7afddc3742",
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "summary": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T13:58:06+00:00",
-      "score": 5
-    },
-    {
-      "id": "31f20ed94f",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T13:26:25+00:00",
-      "score": 5
-    },
-    {
-      "id": "0e0766ec9c",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "410d5ce739",
-      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-      "summary": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "55b25e42f5",
-      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
-      "url": "https://www.wired.com/review/rocco-super-smart-fridge/",
-      "summary": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T10:08:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "aa315854d4",
-      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T06:00:00+00:00",
-      "score": 4
     }
   ]
 }
