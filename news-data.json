@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-21T15:01:23.485773+00:00",
+  "updated": "2026-11-21T19:01:20.775953+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "f9419135fc",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Nov 2026",
+      "timestamp": "2026-11-21T17:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "6b65b8b30d",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Nov 2026",
+      "timestamp": "2026-11-21T16:00:00+00:00",
+      "score": 5
+    },
     {
       "id": "e5bc4e5d81",
       "title": "Therabody Promo Codes: 15% Off November 2026",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T15:58:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "1466abfe66",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T15:37:29+00:00",
-      "score": 4
-    },
-    {
-      "id": "b5e8f41e03",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T14:50:17+00:00",
       "score": 4
     }
   ]
