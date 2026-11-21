@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-21T19:01:20.775953+00:00",
+  "updated": "2026-11-21T22:29:25.856512+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "eb4221432c",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "21 Nov 2026",
+      "timestamp": "2026-11-21T22:12:41+00:00",
+      "score": 4
+    },
+    {
+      "id": "6572e082b9",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Nov 2026",
+      "timestamp": "2026-11-21T21:07:42+00:00",
+      "score": 4
+    },
     {
       "id": "f9419135fc",
       "title": "Here are the top AI agents that can live in your text messages",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T16:32:33+00:00",
-      "score": 4
-    },
-    {
-      "id": "e9304c6be4",
-      "title": "Whoop just launched a social network",
-      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
-      "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8aba090369",
-      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-      "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
-      "summary": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T15:58:21+00:00",
       "score": 4
     }
   ]
