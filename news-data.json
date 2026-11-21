@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-21T03:01:22.342605+00:00",
+  "updated": "2026-11-21T04:25:12.872617+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "e262e9837e",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "21 Nov 2026",
+      "timestamp": "2026-11-21T04:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "87906802fa",
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
@@ -2190,17 +2201,6 @@
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T14:14:33+00:00",
       "score": 4
-    },
-    {
-      "id": "1915492bbb",
-      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T14:10:34+00:00",
-      "score": 5
     }
   ]
 }
