@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-22T11:01:19.507380+00:00",
+  "updated": "2026-11-22T13:39:58.686354+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "33c13f2054",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "22 Nov 2026",
+      "timestamp": "2026-11-22T13:31:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "9315ed20f1",
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "22 Nov 2026",
+      "timestamp": "2026-11-22T11:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "eb4221432c",
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -2178,28 +2200,6 @@
       "topic": "tech",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T17:17:58+00:00",
-      "score": 4
-    },
-    {
-      "id": "d574a06fc6",
-      "title": "Jensen Huang agrees to testify before Congress",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T16:36:37+00:00",
-      "score": 4
-    },
-    {
-      "id": "4eeb3832c0",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T16:32:33+00:00",
       "score": 4
     }
   ]
