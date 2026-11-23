@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-23T16:36:37.462319+00:00",
+  "updated": "2026-11-23T19:01:26.044039+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "4eec8977b6",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T18:12:22+00:00",
+      "score": 4
+    },
+    {
+      "id": "04558401fa",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T17:52:56+00:00",
+      "score": 4
+    },
+    {
+      "id": "e3357160a2",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. G",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T17:36:08+00:00",
+      "score": 5
+    },
+    {
+      "id": "c522f730f4",
+      "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T17:13:45+00:00",
+      "score": 4
+    },
+    {
+      "id": "236394fc67",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "summary": "It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI indu",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T16:57:40+00:00",
+      "score": 4
+    },
     {
       "id": "383d3562e2",
       "title": "CrowdStrike to acquire Zscaler for $44 billion",
@@ -2145,61 +2200,6 @@
       "topic": "tech",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T10:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "3d12bf3f82",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google f",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T10:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "bf89ad4348",
-      "title": "EP112 Why Adding Engineers Slows You Down: Escaping the Ticket Factory with Thanos Diacakis and Jay Stansell",
-      "url": "https://www.productcoalition.com/p/ep112-why-adding-engineers-slows",
-      "summary": "I wanted to understand why teams can add people and process, then ship less.",
-      "source": "Product Coalition",
-      "topic": "pm",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T09:01:21+00:00",
-      "score": 4
-    },
-    {
-      "id": "db3076ba78",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "fa57f895be",
-      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T01:17:49+00:00",
-      "score": 4
-    },
-    {
-      "id": "f3eb968e4b",
-      "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
-      "url": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
-      "summary": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data and coaching can change a patient’s health trajectory.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T00:00:00+00:00",
       "score": 4
     }
   ]
