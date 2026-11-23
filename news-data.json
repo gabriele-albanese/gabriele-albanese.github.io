@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-23T19:01:26.044039+00:00",
+  "updated": "2026-11-23T23:01:21.405138+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "fc410e023e",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T22:05:50+00:00",
+      "score": 7
+    },
+    {
+      "id": "a42ef673b6",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T22:02:05+00:00",
+      "score": 5
+    },
+    {
+      "id": "2d09e6351c",
+      "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+      "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+      "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T21:31:08+00:00",
+      "score": 4
+    },
+    {
+      "id": "4dc6c6490d",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T21:20:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "1f8997ce74",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T20:38:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "26cdaf273c",
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T19:31:41+00:00",
+      "score": 5
+    },
+    {
+      "id": "389c89635c",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T19:14:46+00:00",
+      "score": 5
+    },
     {
       "id": "4eec8977b6",
       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
@@ -176,6 +253,28 @@
       "topic": "tech",
       "date": "23 Nov 2026",
       "timestamp": "2026-11-23T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "4201990503",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T08:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "a082949f03",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T08:00:00+00:00",
       "score": 4
     },
     {
@@ -2101,105 +2200,6 @@
       "topic": "tech",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T17:25:45+00:00",
-      "score": 4
-    },
-    {
-      "id": "a89e405114",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T16:00:12+00:00",
-      "score": 5
-    },
-    {
-      "id": "5abb0788ed",
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T16:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "79d13e040f",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T15:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "c6494705d3",
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T14:44:48+00:00",
-      "score": 4
-    },
-    {
-      "id": "2f156a2657",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T13:10:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "eac079c142",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T12:52:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "5c89e9193d",
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T11:45:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8aeeaf6787",
-      "title": "Engineer Overhead Lines to Withstand Ice, Wind and FreezingRain",
-      "url": "https://content.knowledgehub.wiley.com/engineering-overhead-electric-lines-for-ice-wind-and-freezing-rain/",
-      "summary": "This White Paper explains how ice, wind and vegetation load overhead distribution lines at the same time. It shows engineers how to assess the complete line and compare resilience options.   What you will learn about:    How freezing rain, rime ice and wet snow add weight to cond",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T11:00:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "1699967798",
-      "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk",
-      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
-      "summary": "Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T10:30:00+00:00",
       "score": 4
     }
   ]
