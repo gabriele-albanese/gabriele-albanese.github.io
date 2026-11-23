@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-23T07:01:16.883229+00:00",
+  "updated": "2026-11-23T11:01:27.622510+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "b40c921e4d",
+      "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+      "url": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+      "summary": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T10:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "ca5d392ce7",
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T18:39:23+00:00",
-      "score": 4
-    },
-    {
-      "id": "4ad088796b",
-      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T18:17:19+00:00",
       "score": 4
     }
   ]
