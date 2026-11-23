@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-22T23:01:21.331244+00:00",
+  "updated": "2026-11-23T03:01:17.214549+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ca5d392ce7",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T01:25:53+00:00",
+      "score": 4
+    },
     {
       "id": "772a602107",
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "12 Nov 2026",
       "timestamp": "2026-11-12T18:17:19+00:00",
-      "score": 4
-    },
-    {
-      "id": "bf29e3b720",
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "12 Nov 2026",
-      "timestamp": "2026-11-12T18:05:41+00:00",
       "score": 4
     }
   ]
