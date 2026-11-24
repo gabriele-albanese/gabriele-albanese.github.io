@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-24T19:01:18.037581+00:00",
+  "updated": "2026-11-24T23:01:14.484963+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "84cfd1b9e3",
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T21:33:29+00:00",
+      "score": 5
+    },
+    {
+      "id": "bc914d95aa",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T21:32:38+00:00",
+      "score": 4
+    },
+    {
+      "id": "f282636833",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T21:19:52+00:00",
+      "score": 4
+    },
+    {
+      "id": "b97d381a59",
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T19:33:23+00:00",
+      "score": 4
+    },
+    {
+      "id": "2c34711a71",
+      "title": "Mitsubishi Electric Research Lab CEO on How He Reached the C-Suite",
+      "url": "https://spectrum.ieee.org/mitsubishi-electric-research-lab-ceo",
+      "summary": "The trajectory from researcher to top executive at a leading R&amp;D organization doesn’t happen overnight. It took  Anthony Vetro  nearly 30 years to climb the corporate ladder at  Mitsubishi Electric Research Laboratories , in Cambridge, Mass. He joined MERL in 1996, right out ",
+      "source": "IEEE Spectrum",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T19:00:01+00:00",
+      "score": 6
+    },
     {
       "id": "c4ada497d3",
       "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
@@ -122,6 +177,17 @@
       "date": "24 Nov 2026",
       "timestamp": "2026-11-24T15:15:16+00:00",
       "score": 6
+    },
+    {
+      "id": "2fb78c77dd",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T13:00:00+00:00",
+      "score": 4
     },
     {
       "id": "dad9742e3b",
@@ -2134,72 +2200,6 @@
       "topic": "tech",
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T11:00:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "e5cbb67350",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T09:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "b73c6d7b39",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T09:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "29025d7302",
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "350189c720",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T06:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2b4f9d829b",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T00:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "2b1d2e558c",
-      "title": "The CEO’s role in leading on sustainability",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
-      "summary": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands to actively creating strategic advantage.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T00:00:00+00:00",
       "score": 4
     }
   ]
