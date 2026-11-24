@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-24T07:01:17.553152+00:00",
+  "updated": "2026-11-24T11:01:21.899100+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "827f211efc",
+      "title": "Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling",
+      "url": "https://www.wired.com/story/election-deniers-despair-because-even-donald-trump-isnt-buying-what-theyre-selling/",
+      "summary": "In the wake of the overwhelming victory for Democrats in the midterm elections, Trump has broadly appeared to accept the results. His followers are devastated.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T10:30:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8d2fedfb5f",
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T10:15:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "dbae096701",
+      "title": "What is the agentic factory? An update to the machinery of transformation for financial-services businesses",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses",
+      "summary": "An agentic factory is a centralized model to accelerate the development of effective agentic systems.",
+      "source": "McKinsey",
+      "topic": "business",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T00:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "5d1c454ef7",
       "title": "Figma employee sues, alleging company forced her to confront harassers",
@@ -2167,39 +2200,6 @@
       "topic": "tech",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T19:49:16+00:00",
-      "score": 4
-    },
-    {
-      "id": "26d265ce67",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T19:37:57+00:00",
-      "score": 7
-    },
-    {
-      "id": "92a5a5f676",
-      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-      "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
-      "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level  AI ethics ,  governance , and auditing into daily operational workflows has become one of the indus",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T19:00:03+00:00",
-      "score": 4
-    },
-    {
-      "id": "3bcb8ca81c",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T18:40:30+00:00",
       "score": 4
     }
   ]
