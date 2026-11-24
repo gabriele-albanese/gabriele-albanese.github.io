@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-24T16:33:08.240614+00:00",
+  "updated": "2026-11-24T19:01:18.037581+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "c4ada497d3",
+      "title": "FAA opens probe after Amazon delivery drone clips cable, crashes into garage",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T18:47:57+00:00",
+      "score": 4
+    },
+    {
+      "id": "d52b76df83",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T18:30:42+00:00",
+      "score": 5
+    },
+    {
+      "id": "c82b0ddeec",
+      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+      "source": "Ars Technica",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T18:30:36+00:00",
+      "score": 4
+    },
+    {
+      "id": "a2a320b8b1",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T17:44:53+00:00",
+      "score": 4
+    },
+    {
+      "id": "513dfbf73e",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T17:29:09+00:00",
+      "score": 4
+    },
+    {
+      "id": "6e7150d9ca",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T17:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "a5613aba9d",
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
@@ -2135,72 +2201,6 @@
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T00:00:00+00:00",
       "score": 4
-    },
-    {
-      "id": "e635838d27",
-      "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
-      "summary": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.",
-      "source": "McKinsey",
-      "topic": "business",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T00:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "22756b5773",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Nov 2026",
-      "timestamp": "2026-11-15T23:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "df3e44b994",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "15 Nov 2026",
-      "timestamp": "2026-11-15T22:00:01+00:00",
-      "score": 4
-    },
-    {
-      "id": "e1f7551720",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "source": "OpenAI Blog",
-      "topic": "ai",
-      "date": "15 Nov 2026",
-      "timestamp": "2026-11-15T22:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "a63866f993",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Nov 2026",
-      "timestamp": "2026-11-15T20:20:57+00:00",
-      "score": 4
-    },
-    {
-      "id": "0cbac1debe",
-      "title": "Where was Nvidia’s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "15 Nov 2026",
-      "timestamp": "2026-11-15T00:08:07+00:00",
-      "score": 5
     }
   ]
 }
