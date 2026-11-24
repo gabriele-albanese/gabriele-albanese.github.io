@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-23T23:01:21.405138+00:00",
+  "updated": "2026-11-24T03:01:19.998046+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "5d1c454ef7",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "23 Nov 2026",
+      "timestamp": "2026-11-23T23:07:49+00:00",
+      "score": 4
+    },
     {
       "id": "fc410e023e",
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "13 Nov 2026",
       "timestamp": "2026-11-13T18:40:30+00:00",
-      "score": 4
-    },
-    {
-      "id": "337e29b8db",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T17:25:45+00:00",
       "score": 4
     }
   ]
