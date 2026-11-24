@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-24T15:01:18.569584+00:00",
+  "updated": "2026-11-24T16:33:08.240614+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a5613aba9d",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T16:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "b6d56875ce",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T16:02:37+00:00",
+      "score": 5
+    },
+    {
+      "id": "3cb7380077",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "source": "Google AI Blog",
+      "topic": "ai",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T16:00:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "8b362bcfc1",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T16:00:00+00:00",
+      "score": 5
+    },
+    {
+      "id": "ba625c17c5",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more ne",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T15:15:16+00:00",
+      "score": 6
+    },
     {
       "id": "dad9742e3b",
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -2146,61 +2201,6 @@
       "date": "15 Nov 2026",
       "timestamp": "2026-11-15T00:08:07+00:00",
       "score": 5
-    },
-    {
-      "id": "56cbb2e72e",
-      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-      "summary": "Community Wisdom 305",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "14 Nov 2026",
-      "timestamp": "2026-11-14T21:15:46+00:00",
-      "score": 4
-    },
-    {
-      "id": "17dd6d1646",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Nov 2026",
-      "timestamp": "2026-11-14T17:30:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "4392222fa3",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "14 Nov 2026",
-      "timestamp": "2026-11-14T16:34:15+00:00",
-      "score": 4
-    },
-    {
-      "id": "90ec5d94c1",
-      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
-      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "14 Nov 2026",
-      "timestamp": "2026-11-14T11:30:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "8d23e88a0f",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "13 Nov 2026",
-      "timestamp": "2026-11-13T22:43:00+00:00",
-      "score": 4
     }
   ]
 }
