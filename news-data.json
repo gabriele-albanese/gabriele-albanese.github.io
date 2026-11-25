@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-25T11:01:22.873863+00:00",
+  "updated": "2026-11-25T15:01:29.667705+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "0cb6067047",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T14:10:18+00:00",
+      "score": 4
+    },
+    {
+      "id": "4efa556b51",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few y",
+      "source": "MIT Technology Review",
+      "topic": "ai",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T13:10:00+00:00",
+      "score": 4
+    },
+    {
+      "id": "38c6ffe96a",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T13:08:19+00:00",
+      "score": 4
+    },
+    {
+      "id": "e99e7b15b8",
+      "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+      "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "summary": "Watch now (32 mins) | &#127897;&#65039; My late-2026 How I AI bench: GPT-6.2 disappointed me, Opus 5.5 is my least annoying daily driver, and Gemini 4 Neon is now my top pick",
+      "source": "Lenny's Newsletter",
+      "topic": "pm",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T13:04:21+00:00",
+      "score": 6
+    },
+    {
+      "id": "c5eb6e0ca7",
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T11:30:00+00:00",
+      "score": 4
+    },
     {
       "id": "8b6e4cf5e0",
       "title": "‘Rejection Will Have Consequences’: Inside Trump’s Demands to Another Chips CEO",
@@ -2146,61 +2201,6 @@
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T17:00:00+00:00",
       "score": 5
-    },
-    {
-      "id": "35c4348dc4",
-      "title": "Jensen Huang Is Gone. Now What?",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "source": "Wired",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T16:12:51+00:00",
-      "score": 4
-    },
-    {
-      "id": "78c3bdf8c9",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it h",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T16:04:28+00:00",
-      "score": 6
-    },
-    {
-      "id": "6a3272d428",
-      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "source": "Lenny's Newsletter",
-      "topic": "pm",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T16:02:55+00:00",
-      "score": 4
-    },
-    {
-      "id": "0f553794f8",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows ",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T13:00:00+00:00",
-      "score": 5
-    },
-    {
-      "id": "394a8c5082",
-      "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T13:00:00+00:00",
-      "score": 4
     }
   ]
 }
