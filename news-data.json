@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-24T23:01:14.484963+00:00",
+  "updated": "2026-11-25T01:39:58.080032+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "d7c3fae085",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the que",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T00:12:02+00:00",
+      "score": 5
+    },
     {
       "id": "84cfd1b9e3",
       "title": "Even the best AI agents struggle with everyday life",
@@ -221,6 +232,17 @@
       "date": "24 Nov 2026",
       "timestamp": "2026-11-24T10:15:00+00:00",
       "score": 4
+    },
+    {
+      "id": "57c260d39b",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "source": "OpenAI Blog",
+      "topic": "ai",
+      "date": "24 Nov 2026",
+      "timestamp": "2026-11-24T00:00:00+00:00",
+      "score": 5
     },
     {
       "id": "d3a6f5fe5d",
@@ -2178,28 +2200,6 @@
       "topic": "ai",
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "564445943c",
-      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
-      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
-      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T12:00:00+00:00",
-      "score": 4
-    },
-    {
-      "id": "456c3cc4ba",
-      "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-      "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-      "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device p",
-      "source": "IEEE Spectrum",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T11:00:03+00:00",
       "score": 4
     }
   ]
