@@ -1,7 +1,40 @@
 {
-  "updated": "2026-11-25T19:01:28.571729+00:00",
+  "updated": "2026-11-25T23:01:23.447641+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "68617ed988",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T20:03:27+00:00",
+      "score": 5
+    },
+    {
+      "id": "a897a1306a",
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T19:54:32+00:00",
+      "score": 4
+    },
+    {
+      "id": "bac2d3e3f4",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "25 Nov 2026",
+      "timestamp": "2026-11-25T19:44:24+00:00",
+      "score": 5
+    },
     {
       "id": "346cdde741",
       "title": "Backblaze explains why it's sharing customer information with advertisers",
@@ -2167,39 +2200,6 @@
       "topic": "ai",
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T18:38:47+00:00",
-      "score": 4
-    },
-    {
-      "id": "66e57f5cf8",
-      "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-      "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-      "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T18:21:14+00:00",
-      "score": 5
-    },
-    {
-      "id": "7dc80a7ed2",
-      "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T18:11:10+00:00",
-      "score": 5
-    },
-    {
-      "id": "80d1539b39",
-      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T17:10:00+00:00",
       "score": 4
     }
   ]
