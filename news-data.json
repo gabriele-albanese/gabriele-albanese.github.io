@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-26T15:52:59.974243+00:00",
+  "updated": "2026-11-26T19:01:19.036982+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "ed1460477a",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "TechCrunch",
+      "topic": "tech",
+      "date": "26 Nov 2026",
+      "timestamp": "2026-11-26T16:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "294694671f",
       "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T20:07:13+00:00",
-      "score": 4
-    },
-    {
-      "id": "9a52b23aed",
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "source": "Ars Technica",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T19:36:25+00:00",
       "score": 4
     }
   ]
