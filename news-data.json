@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-26T11:01:23.963135+00:00",
+  "updated": "2026-11-26T15:01:22.773642+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "294694671f",
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+      "summary": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Nov 2026",
+      "timestamp": "2026-11-26T12:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "a9159d8329",
       "title": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T19:36:25+00:00",
-      "score": 4
-    },
-    {
-      "id": "761b56f193",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T19:12:02+00:00",
       "score": 4
     }
   ]
