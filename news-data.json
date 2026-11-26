@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-26T07:01:23.780895+00:00",
+  "updated": "2026-11-26T11:01:23.963135+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "a9159d8329",
+      "title": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
+      "url": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
+      "summary": "This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "26 Nov 2026",
+      "timestamp": "2026-11-26T10:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "68617ed988",
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -2189,17 +2200,6 @@
       "topic": "tech",
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T19:12:02+00:00",
-      "score": 4
-    },
-    {
-      "id": "6352fbce7f",
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa",
-      "source": "MIT Technology Review",
-      "topic": "ai",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T18:38:47+00:00",
       "score": 4
     }
   ]
