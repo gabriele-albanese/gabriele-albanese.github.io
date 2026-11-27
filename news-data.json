@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-27T07:01:16.281711+00:00",
+  "updated": "2026-11-27T11:01:30.004120+00:00",
   "count": 200,
   "articles": [
+    {
+      "id": "2eb2d56553",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "source": "Wired",
+      "topic": "tech",
+      "date": "27 Nov 2026",
+      "timestamp": "2026-11-27T07:00:00+00:00",
+      "score": 4
+    },
     {
       "id": "17e6217a91",
       "title": "Is Alice Huang a spy or not?",
@@ -2190,17 +2201,6 @@
       "date": "16 Nov 2026",
       "timestamp": "2026-11-16T22:03:02+00:00",
       "score": 4
-    },
-    {
-      "id": "fc5ac4f1ef",
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "source": "TechCrunch",
-      "topic": "tech",
-      "date": "16 Nov 2026",
-      "timestamp": "2026-11-16T21:01:02+00:00",
-      "score": 5
     }
   ]
 }
